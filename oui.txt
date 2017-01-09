@@ -27518,6 +27518,24 @@ E8BBA8     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONGGUAN  GUANGDONG  523860
 				CN
 
+F8-94-C2   (hex)		Intel Corporate
+F894C2     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+7C-B9-60   (hex)		Shanghai X-Cheng telecom LTD
+7CB960     (base 16)		Shanghai X-Cheng telecom LTD
+				ROOM 401, Building 5, No.3000 LONG DONG Avenue, Pudong New District, Shanghai
+				Shanghai  Shanghai  201203
+				CN
+
+A8-D5-79   (hex)		Beijing Chushang Science and Technology Co.,Ltd
+A8D579     (base 16)		Beijing Chushang Science and Technology Co.,Ltd
+				3A285 room,3 layer,1 building,No 11 of yongwai song zhuang road,Fengtai district,Beijing
+				Beijing  Beijing  518000
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -55099,6 +55117,12 @@ B0AA36     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				201 E. Sandpointe Ave
 				Santa Ana  CA  92707
 				US
+
+B0-3D-96   (hex)		Vision Valley FZ LLC
+B03D96     (base 16)		Vision Valley FZ LLC
+				Dubai Internet City
+				Dubai  Dubai  500294
+				AE
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -109790,6 +109814,12 @@ B83765     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				Roseville  CA  95747
 				US
 
+FC-53-9E   (hex)		Shanghai Wind Technologies Co.,Ltd
+FC539E     (base 16)		Shanghai Wind Technologies Co.,Ltd
+				Floor 8,East Building,Guilin Technology Mansion,No.650,Caobao Road,XuHui District,Shanghai,P.R.China
+				Shanghai  Shanghai  200233
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -113362,12 +113392,6 @@ B843E4     (base 16)		Vlatacom
 				Milutina Milankovica 5
 				Belgrade  Serbia  11080
 				RS
-
-84-25-A4   (hex)		Tariox Limited
-8425A4     (base 16)		Tariox Limited
-				429 Mount Pleasant Road
-				Brantford  Ontario  N3T5L5
-				CA
 
 E0-7F-53   (hex)		TECHBOARD SRL
 E07F53     (base 16)		TECHBOARD SRL
@@ -137487,4 +137511,16 @@ D4-50-3F   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 D4503F     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
+				CN
+
+84-25-A4   (hex)		Tariox Limited
+8425A4     (base 16)		Tariox Limited
+				173 Highway 53
+				Cathcart  Ontario  N0E 1B0
+				CA
+
+D8-C8-E9   (hex)		Phicomm (Shanghai) Co., Ltd.
+D8C8E9     (base 16)		Phicomm (Shanghai) Co., Ltd.
+				3666 SiXian Rd.,Songjiang District
+				Shanghai  Shanghai  201616
 				CN
