@@ -46,7 +46,7 @@ TODO
 
 * add example client-implementations for popular languages
 * autogenerate 'mac2vendor.c' with internal clever compression, so everything should fit into a 250k binary
-** show uniq printable chars for organizations:
+  * show uniq printable chars for organizations:
 ```
 grep '(base 16)' oui.txt |
  while read L; do set -- $L; shift 3; echo $*; done |
