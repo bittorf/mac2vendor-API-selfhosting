@@ -44,5 +44,5 @@ cronjob on server:
 TODO
 ----
 
-autogenerate 'mac2vendor.c' with internal clever compression,  
-so everything should fit into a 250k binary.
+* autogenerate 'mac2vendor.c' with internal clever compression, so everything should fit into a 250k binary.
+* add example client-implementations for popular languages
