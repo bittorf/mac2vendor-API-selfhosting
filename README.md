@@ -31,6 +31,15 @@ For the lazy people there is also an up-to-date tar.xz:
 Ready.
 
 
+cronjob on server:
+------------------
+
+```
+# once: git config --global user.name 'bot'
+# once: git config --global user.email 'bot@yourdomain'
+```
+    # while :;do rm oui.txt; ./update.sh /var/www/oui; git push; sleep 86400; done
+
 TODO
 ----
 
