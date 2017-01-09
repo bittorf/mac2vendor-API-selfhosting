@@ -45,13 +45,14 @@ TODO
 ----
 
 * add example client-implementations for popular languages
-* autogenerate 'mac2vendor.c' with internal clever compression, so everything should fit into a 250k binary
+* autogenerate 'mac2vendor.c' with compression, so everything should fit into a 250k binary
   * show uniq printable chars for organizations:
 ```
-grep '(base 16)' oui.txt |
- while read L; do set -- $L; shift 3; echo $*; done |
-  sort -u |
-   tr -cd '\11\12\15\40-\176' |
-    sed 's/\(.\)/\1\n/g' |
-     sort -u
+# grep '(base 16)' oui.txt |
+   while read L; do set -- $L; shift 3; echo $*; done |
+    sort -u |
+     tr -cd '\11\12\15\40-\176' |
+      sed 's/\(.\)/\1\n/g' |
+       sort -u
+79
 ```
