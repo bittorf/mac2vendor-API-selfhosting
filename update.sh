@@ -49,6 +49,10 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 
 	if [ $NEW -gt 0 ]; then
 		logger -s "new entries: $NEW"
+		[ -d '.git' ] && {
+			git add 'oui.txt'
+			git commit -m "oui.txt: adding $NEW new entries"
+		}
 
 		tar -C "$WWWDIR" -cf 'oui.tar' --exclude='oui.tar.xz' .
 		xz -e 'oui.tar'
