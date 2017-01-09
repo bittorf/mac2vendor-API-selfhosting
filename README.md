@@ -18,7 +18,8 @@ find a sample shell-function mac2vendor() here:
 
 https://github.com/bittorf/kalua/blob/master/openwrt-addons/etc/kalua/net#L1306
 
-You can try it on this demo-server:
+This poor mens API make sense on embedded or IoT-devices  
+with a low amount of storage. You can try it on this demo-server:
 
     # curl http://intercity-vpn.de/oui/3c/d9/2b
 
