@@ -7,6 +7,7 @@ OPTION="$3"			# e.g. <empty> or 'build_shellscript' (experimental -> ~810k)
 OPTION_ARG="${4:-oui.sh}"
 NEW=0
 ALL=0
+CR="$( printf '\r' )"
 
 if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 	# 3C-D9-2B   (hex)                Hewlett Packard
@@ -23,7 +24,7 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 				echo '#!/bin/sh'
 				echo 'e(){ echo $*;}'
 				echo
-				echo 'case "$1" in'
+				echo "case \"\$1\" in"
 			} >"$OPTION_ARG" && chmod +x "$OPTION_ARG"
 		;;
 	esac
@@ -43,14 +44,13 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 				DIR3="$( echo "$mac" | cut -b 5,6 )"
 				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"	# e.g. 3CD92B -> oui/3c/d9/2b
 				shift 3 || logger -s "[ERR] shift: ALL: $ALL LINE: '$LINE'"
-				ORGANIZATION="$*"
+				ORGANIZATION="$( echo "$*" | sed "s/${CR}\$//" )"
 
 				case "$OPTION" in
 					'build_shellscript')
 						# TODO: try to group e.g. all 450 entries with 'Samsung Electronics'
 						SHELLSAFE="$( echo "$ORGANIZATION" | sed -e "s/'/'\\\''/g" \
-											 -e 's/[^a-zA-Z0-9\._~}{(), =+?@\\/:-\[\]]//g' \
-											 -e "s/$(printf '\r')\$//" )"
+											 -e 's/[^a-zA-Z0-9\._~}{(), =+?@\\/:-\[\]]//g' )"
 						echo >>"$OPTION_ARG" "${DIR1}${DIR2}${DIR3})e '$SHELLSAFE';;"
 					;;
 				esac
@@ -65,7 +65,7 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 				fi
 			;;
 			*[a-z0-9]*)
-				test "$ORGANIZATION" && echo >>"$OUTFILE" "$*"
+				test "$ORGANIZATION" && echo "$*" | sed "s/${CR}\$//" >>"$OUTFILE"
 			;;
 			*)
 				ORGANIZATION=		# abort parsing, wait for next entry
