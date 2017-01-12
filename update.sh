@@ -34,8 +34,8 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 		# shellcheck disable=SC2086
 		set -- $LINE
 
-		case "$1" in
-			[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F])
+		case "$1 $2 $3" in
+			[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' (base 16)')
 				ALL=$(( ALL + 1 ))
 				mac="$( echo "$1" | sed 'y/ABCDEF/abcdef/' )"	# lowercase
 
