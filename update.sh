@@ -6,6 +6,7 @@ FILE="${2:-oui.txt}"		# if file already exists, it is not downloaded
 OPTION="$3"			# e.g. <empty> or 'build_shellscript' (experimental -> ~810k)
 OPTION_ARG="${4:-oui.sh}"
 NEW=0
+ALL=0
 
 if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 	# 3C-D9-2B   (hex)                Hewlett Packard
@@ -34,6 +35,7 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 
 		case "$1" in
 			[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F])
+				ALL=$(( ALL + 1 ))
 				mac="$( echo "$1" | sed 'y/ABCDEF/abcdef/' )"	# lowercase
 
 				DIR1="$( echo "$mac" | cut -b 1,2 )"
@@ -74,17 +76,17 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 	[ "$OPTION" = 'build_shellscript' ] && echo >>"$OPTION_ARG" 'esac'
 
 	if [ $NEW -gt 0 ]; then
-		logger -s "new entries: $NEW"
+		logger -s "new entries: $NEW overall: $ALL"
 		[ -d '.git' ] && {
 			git add 'oui.txt'
-			git commit -m "oui.txt: adding $NEW new entries"
+			git commit -m "oui.txt: adding $NEW new entries, overall now: $ALL"
 		}
 
 		tar -C "$WWWDIR" -cf 'oui.tar' --exclude='oui.tar.xz' .
 		xz -e 'oui.tar'
 		mv 'oui.tar.xz' "$WWWDIR"	# ~ 800 Kbytes
 	else
-		logger -s "no new entries"
+		logger -s "no new entries - overall: $ALL"
 	fi
 else
 	rm "$FILE"
