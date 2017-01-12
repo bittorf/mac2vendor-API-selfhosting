@@ -42,7 +42,7 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 				DIR2="$( echo "$mac" | cut -b 3,4 )"
 				DIR3="$( echo "$mac" | cut -b 5,6 )"
 				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"	# e.g. 3CD92B -> oui/3c/d9/2b
-				shift 3
+				shift 3 || logger -s "[ERR] shift: ALL: $ALL LINE: '$LINE'"
 				ORGANIZATION="$*"
 
 				case "$OPTION" in
