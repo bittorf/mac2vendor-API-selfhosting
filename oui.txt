@@ -27542,6 +27542,24 @@ A8D579     (base 16)		Beijing Chushang Science and Technology Co.,Ltd
 				Kulim  Kedah  09000
 				MY
 
+60-08-37   (hex)		ivvi Scientific(Nanchang)Co.Ltd
+600837     (base 16)		ivvi Scientific(Nanchang)Co.Ltd
+				Coolpad Cyber Harbor,2nd Mengxi Road,Hi-TechIndustrial Park(North),NanShan District,ShenZhen,P.R.C.
+				shenzhen  Guangdong  518057
+				CN
+
+3C-95-09   (hex)		Liteon Technology Corporation
+3C9509     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
+D8-60-B3   (hex)		Guangdong Global Electronic Technology CO.，LTD
+D860B3     (base 16)		Guangdong Global Electronic Technology CO.，LTD
+				 Floor4 East side,build#6,Huangzhou industry Park, chebei Road, Tianhe District
+				GuangZhou  GuangDong  510660
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -82283,6 +82301,18 @@ DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				Turku    20540
 				FI
 
+64-35-1C   (hex)		e-CON SYSTEMS INDIA PVT LTD
+64351C     (base 16)		e-CON SYSTEMS INDIA PVT LTD
+				RR Tower 4, 7th Floor, TVK IND Estate, Guindy
+				Chennai  Other  600032
+				IN
+
+5C-6A-80   (hex)		ZyXEL Communications Corporation
+5C6A80     (base 16)		ZyXEL Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -109854,6 +109884,12 @@ FC539E     (base 16)		Shanghai Wind Technologies Co.,Ltd
 105887     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
+				CN
+
+9C-06-1B   (hex)		Hangzhou H3C Technologies Co., Limited
+9C061B     (base 16)		Hangzhou H3C Technologies Co., Limited
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang, P.R.China  310052
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
