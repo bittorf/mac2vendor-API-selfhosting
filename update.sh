@@ -79,7 +79,7 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 		logger -s "new entries: $NEW overall: $ALL"
 		[ -d '.git' ] && {
 			git add 'oui.txt'
-			git commit -m "oui.txt: adding $NEW new entries, overall now: $ALL"
+			git commit -m "oui.txt: adding $NEW entries, overall now: $ALL vendors"
 		}
 
 		tar -C "$WWWDIR" -cf 'oui.tar' --exclude='oui.tar.xz' .
