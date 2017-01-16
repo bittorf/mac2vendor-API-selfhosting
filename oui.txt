@@ -27548,17 +27548,29 @@ A8D579     (base 16)		Beijing Chushang Science and Technology Co.,Ltd
 				shenzhen  Guangdong  518057
 				CN
 
+D8-60-B3   (hex)		Guangdong Global Electronic Technology CO.，LTD
+D860B3     (base 16)		Guangdong Global Electronic Technology CO.，LTD
+				 Floor4 East side,build#6,Huangzhou industry Park, chebei Road, Tianhe District
+				GuangZhou  GuangDong  510660
+				CN
+
 3C-95-09   (hex)		Liteon Technology Corporation
 3C9509     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
 				New Taipei City  Taiwan  23585
 				TW
 
-D8-60-B3   (hex)		Guangdong Global Electronic Technology CO.，LTD
-D860B3     (base 16)		Guangdong Global Electronic Technology CO.，LTD
-				 Floor4 East side,build#6,Huangzhou industry Park, chebei Road, Tianhe District
-				GuangZhou  GuangDong  510660
-				CN
+44-B4-12   (hex)		SIUS AG
+44B412     (base 16)		SIUS AG
+				Im Langhag 1
+				Effretikon    8307
+				CH
+
+3C-A3-08   (hex)		Texas Instruments
+3CA308     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -55154,6 +55166,12 @@ B02628     (base 16)		Broadcom Limited
 				irvine  CA  92617
 				US
 
+24-79-2A   (hex)		Ruckus Wireless
+24792A     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -81902,28 +81920,16 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
-00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
-0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
-				555 RIVER OAKS PARKWAY
-				SAN JOSE  CA  95134
-				US
-
 50-40-61   (hex)		Nokia
 504061     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
 
-74-67-F7   (hex)		Extreme Networks
-7467F7     (base 16)		Extreme Networks
-				1 Zebra Plaza
-				Holtsville  NY  11742
-				US
-
-B4-C7-99   (hex)		Extreme Networks
-B4C799     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
+00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
+0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
+				555 RIVER OAKS PARKWAY
+				SAN JOSE  CA  95134
 				US
 
 54-E3-F6   (hex)		Alcatel-Lucent
@@ -81932,16 +81938,10 @@ B4C799     (base 16)		Extreme Networks
 				Mountain View  CA  94043
 				US
 
-5C-0E-8B   (hex)		Extreme Networks
-5C0E8B     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
-00-E0-2B   (hex)		Extreme Networks
-00E02B     (base 16)		Extreme Networks
-				10460 BANDLEY DRIVE
-				CUPERINT0  CA  95014
+74-67-F7   (hex)		Extreme Networks
+7467F7     (base 16)		Extreme Networks
+				1 Zebra Plaza
+				Holtsville  NY  11742
 				US
 
 B0-C2-05   (hex)		BIONIME
@@ -81956,11 +81956,23 @@ B0C205     (base 16)		BIONIME
 				Dallas  TX  75243
 				US
 
-7C-26-64   (hex)		Sagemcom Broadband SAS
-7C2664     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+B4-C7-99   (hex)		Extreme Networks
+B4C799     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+5C-0E-8B   (hex)		Extreme Networks
+5C0E8B     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+00-E0-2B   (hex)		Extreme Networks
+00E02B     (base 16)		Extreme Networks
+				10460 BANDLEY DRIVE
+				CUPERINT0  CA  95014
+				US
 
 28-39-5E   (hex)		Samsung Electronics Co.,Ltd
 28395E     (base 16)		Samsung Electronics Co.,Ltd
@@ -81968,11 +81980,11 @@ B0C205     (base 16)		BIONIME
 				Suwon  Gyeonggi-Do  443742
 				KR
 
-E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
-E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
-				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
-				Shanghai  Shanghai  201203
-				CN
+7C-26-64   (hex)		Sagemcom Broadband SAS
+7C2664     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 A0-02-DC   (hex)		Amazon Technologies Inc.
 A002DC     (base 16)		Amazon Technologies Inc.
@@ -81985,6 +81997,12 @@ A002DC     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
+
+E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
+E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
+				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
+				Shanghai  Shanghai  201203
+				CN
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
@@ -82151,6 +82169,12 @@ F8FF0B     (base 16)		Electronic Technology Inc.
 				Piscataway  NJ  08554
 				US
 
+C8-F8-6D   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
+C8F86D     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
+				No. 389, Ningqiao Road, Pudong Jinqiao
+				Shanghai    201206
+				CN
+
 B8-D5-0B   (hex)		Sunitec Enterprise Co.,Ltd
 B8D50B     (base 16)		Sunitec Enterprise Co.,Ltd
 				3F.,No.98-1,Mincyuan Rd.Sindian City
@@ -82161,12 +82185,6 @@ B8D50B     (base 16)		Sunitec Enterprise Co.,Ltd
 28A6DB     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
-				CN
-
-C8-F8-6D   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
-C8F86D     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
-				No. 389, Ningqiao Road, Pudong Jinqiao
-				Shanghai    201206
 				CN
 
 D4-5F-25   (hex)		Shenzhen YOUHUA Technology Co., Ltd
@@ -82229,6 +82247,18 @@ BC8AE8     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
 				Qingdao    266000
 				CN
 
+A8-1B-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+A81B5A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,WUSHA,CHANG'AN,DONGGUAN,GUANGDONG,CHINA
+				DONGGUAN  GUANGDONG  523860
+				CN
+
+DC-6D-CD   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
 44-04-44   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 440444     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
@@ -82259,16 +82289,10 @@ CC2D83     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-A8-1B-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-A81B5A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,WUSHA,CHANG'AN,DONGGUAN,GUANGDONG,CHINA
-				DONGGUAN  GUANGDONG  523860
-				CN
-
-DC-6D-CD   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
+18-52-07   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
+185207     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
+				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
 				CN
 
 70-D3-79   (hex)		Cisco Systems, Inc
@@ -82282,12 +82306,6 @@ DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				SKn TechnoPark 1207
 				SeongNam-Si  Gyenggi-do  13207
 				KR
-
-18-52-07   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
-185207     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
-				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
-				CN
 
 98-74-DA   (hex)		Infinix mobility limited
 9874DA     (base 16)		Infinix mobility limited
@@ -82312,6 +82330,24 @@ DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				No. 6 Innovation Road II, Science Park
 				Hsichu  Taiwan  300
 				TW
+
+A8-B8-6E   (hex)		LG Electronics (Mobile Communications)
+A8B86E     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul  Seoul  153-801
+				KR
+
+0C-B9-12   (hex)		JM-DATA GmbH
+0CB912     (base 16)		JM-DATA GmbH
+				Hackl-Str. 1
+				Traun  Upper Austria  4050
+				AT
+
+18-93-D7   (hex)		Texas Instruments
+1893D7     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -109891,6 +109927,12 @@ FC539E     (base 16)		Shanghai Wind Technologies Co.,Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang, P.R.China  310052
 				CN
+
+90-70-65   (hex)		Texas Instruments
+907065     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -137613,4 +137655,10 @@ CC90E8     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 605317     (base 16)		Sandstone Technologies
 				1920 lyell ave
 				Rochester  NY  14606
+				US
+
+50-33-8B   (hex)		Texas Instruments
+50338B     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
