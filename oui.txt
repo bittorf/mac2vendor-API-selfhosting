@@ -55166,12 +55166,6 @@ B02628     (base 16)		Broadcom Limited
 				Sunnyvale  CA  94089
 				US
 
-00-80-E7   (hex)		Leonardo Tactical Systems.
-0080E7     (base 16)		Leonardo Tactical Systems.
-				Silvertree, Coxbridge Business Park
-				Alton Road,   Farnham  GU10 5EH
-				GB
-
 E8-13-63   (hex)		Comstock RD, Inc.
 E81363     (base 16)		Comstock RD, Inc.
 				4415 Mason St
@@ -55183,6 +55177,12 @@ E81363     (base 16)		Comstock RD, Inc.
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
+
+00-80-E7   (hex)		Leonardo Tactical Systems.
+0080E7     (base 16)		Leonardo Tactical Systems.
+				Silvertree, Coxbridge Business Park
+				Alton Road,   Farnham  GU10 5EH
+				GB
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -82359,6 +82359,12 @@ A8B86E     (base 16)		LG Electronics (Mobile Communications)
 1893D7     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+EC-36-3F   (hex)		Markov Corporation
+EC363F     (base 16)		Markov Corporation
+				650 Vaqueros Avenue, Suite A
+				Sunnyvale  CA  94085
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -109945,6 +109951,12 @@ FC539E     (base 16)		Shanghai Wind Technologies Co.,Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang, P.R.China  310052
 				CN
+
+A0-8E-78   (hex)		Sagemcom Broadband SAS
+A08E78     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -137680,3 +137692,21 @@ D8C8E9     (base 16)		Phicomm (Shanghai) Co., Ltd.
 				2rd floor,8 building Middle,Zhongxing Software Park,Changdong Avenue,Nanchang High Tech Zone,Nanchang city,Jiangxi province
 				Nan Chang City  Jiang Xi Province  330000
 				CN
+
+F4-FC-B1   (hex)		JJ Corp
+F4FCB1     (base 16)		JJ Corp
+				88 Soha-ro
+				Gwangmyeong-si    14316
+				KR
+
+54-3B-30   (hex)		duagon AG
+543B30     (base 16)		duagon AG
+				Riedstrasse 12
+				Zürich  Dietikon  8953
+				CH
+
+60-BA-18   (hex)		nextLAP GmbH
+60BA18     (base 16)		nextLAP GmbH
+				Hofmannstr. 61
+				München    81379
+				DE
