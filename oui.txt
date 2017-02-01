@@ -27644,6 +27644,12 @@ D4258B     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
+00-E1-8C   (hex)		Intel Corporate
+00E18C     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -82475,6 +82481,12 @@ B877C3     (base 16)		METER Group
 				Pullman  WA  99163
 				US
 
+F0-74-85   (hex)		NGD Systems, Inc.
+F07485     (base 16)		NGD Systems, Inc.
+				355 Goddard, Suite 200
+				Irvine  CA  92618
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -110107,6 +110119,12 @@ D47AE2     (base 16)		Samsung Electronics Co.,Ltd
 				Einsteinstrasse 6
 				Herzogenaurach    91074
 				DE
+
+A0-C9-A0   (hex)		Murata Manufacturing Co., Ltd.
+A0C9A0     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
