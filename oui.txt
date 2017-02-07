@@ -55316,6 +55316,12 @@ A0094C     (base 16)		CenturyLink
 				San Jose  CA  94568
 				US
 
+DC-C8-F5   (hex)		Shanghai UMEinfo CO.,LTD.
+DCC8F5     (base 16)		Shanghai UMEinfo CO.,LTD.
+				16/F,Building B ,NO.15 Changyi Road ,Baoshan District,
+				Shanghai    200441
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -110156,6 +110162,12 @@ E8ED05     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
+84-C0-EF   (hex)		Samsung Electronics Co.,Ltd
+84C0EF     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
 44-7F-77   (hex)		Connected Home
 447F77     (base 16)		Connected Home
 				19-22, Rathbone Place
@@ -110167,12 +110179,6 @@ E8ED05     (base 16)		ARRIS Group, Inc.
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-84-C0-EF   (hex)		Samsung Electronics Co.,Ltd
-84C0EF     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  16677
-				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -137963,12 +137969,6 @@ E48399     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-8C-39-5C   (hex)		Bit4id Srl
-8C395C     (base 16)		Bit4id Srl
-				Via Diocleziano, 107
-				Naples    80125
-				IT
-
 04-71-4B   (hex)		IEEE Registration Authority
 04714B     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -137980,3 +137980,9 @@ E48399     (base 16)		ARRIS Group, Inc.
 				No.69, Lide St.,
 				New Taipei City  Taiwan  235
 				TW
+
+8C-39-5C   (hex)		Bit4id Srl
+8C395C     (base 16)		Bit4id Srl
+				Via Diocleziano, 107
+				Naples    80125
+				IT
