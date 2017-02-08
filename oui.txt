@@ -27668,6 +27668,30 @@ F87B7A     (base 16)		ARRIS Group, Inc.
 				New York  NY  10007
 				US
 
+88-BD-78   (hex)		Flaircomm Microelectronics,Inc.
+88BD78     (base 16)		Flaircomm Microelectronics,Inc.
+				7F, Guomai Building, Guomai Science and Technology Park,  116 East JiangBin Road,
+				Fuzhou  Fujian  350015
+				CN
+
+50-92-B9   (hex)		Samsung Electronics Co.,Ltd
+5092B9     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+B4-BF-F6   (hex)		Samsung Electronics Co.,Ltd
+B4BFF6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+C8-D7-B0   (hex)		Samsung Electronics Co.,Ltd
+C8D7B0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -55322,6 +55346,30 @@ DCC8F5     (base 16)		Shanghai UMEinfo CO.,LTD.
 				Shanghai    200441
 				CN
 
+64-DF-E9   (hex)		ATEME
+64DFE9     (base 16)		ATEME
+				6 rue Dewoitine
+				Vélizy-Villacoublay    78140
+				FR
+
+90-97-F3   (hex)		Samsung Electronics Co.,Ltd
+9097F3     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+58-C5-CB   (hex)		Samsung Electronics Co.,Ltd
+58C5CB     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+AC-AF-B9   (hex)		Samsung Electronics Co.,Ltd
+ACAFB9     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -82522,6 +82570,24 @@ E83EFC     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+2C-3A-E8   (hex)		Espressif Inc.
+2C3AE8     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+DC-74-A8   (hex)		Samsung Electronics Co.,Ltd
+DC74A8     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+C0-87-EB   (hex)		Samsung Electronics Co.,Ltd
+C087EB     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -110179,6 +110245,12 @@ E8ED05     (base 16)		ARRIS Group, Inc.
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+7C-1C-68   (hex)		Samsung Electronics Co.,Ltd
+7C1C68     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -137986,3 +138058,9 @@ E48399     (base 16)		ARRIS Group, Inc.
 				Via Diocleziano, 107
 				Naples    80125
 				IT
+
+94-7B-E7   (hex)		Samsung Electronics Co.,Ltd
+947BE7     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
