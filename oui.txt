@@ -55400,6 +55400,18 @@ C0A5DD     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Shenzhen  Guangdong  518057
 				CN
 
+18-35-D1   (hex)		ARRIS Group, Inc.
+1835D1     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+4C-38-D8   (hex)		ARRIS Group, Inc.
+4C38D8     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -82630,6 +82642,12 @@ E8B6C2     (base 16)		Juniper Networks
 				No. 23, Xinghua Rd., Taoyuan City
 				Taoyuan County  Taiwan  330
 				TW
+
+B0-DA-F9   (hex)		ARRIS Group, Inc.
+B0DAF9     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -110299,6 +110317,12 @@ CC65AD     (base 16)		ARRIS Group, Inc.
 				Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District,Shenzhen,P.R.China
 				Shenzhen  Guangdong  518057
 				CN
+
+F4-0E-83   (hex)		ARRIS Group, Inc.
+F40E83     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -138124,3 +138148,9 @@ ACEC80     (base 16)		ARRIS Group, Inc.
 				In der Rehbach 22
 				Walluf  Select ...  65396
 				DE
+
+98-F7-D7   (hex)		ARRIS Group, Inc.
+98F7D7     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
