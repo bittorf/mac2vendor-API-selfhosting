@@ -27710,6 +27710,12 @@ F4A997     (base 16)		CANON INC.
 				TEL-AVIV    96719
 				IL
 
+B0-4E-26   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+B04E26     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -55430,6 +55436,12 @@ DCBE7A     (base 16)		Zhejiang Nurotron Biotechnology Co.
 				Hangzhou  zhejiang  310011
 				CN
 
+20-6B-E7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+206BE7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -82678,6 +82690,24 @@ B0DAF9     (base 16)		ARRIS Group, Inc.
 				5/F,Building 8, 2388 ChenHang Road, MinHang District
 				shanghai    201114
 				CN
+
+48-7D-2E   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+487D2E     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+B0-89-C2   (hex)		Zyptonite
+B089C2     (base 16)		Zyptonite
+				1460 Broadway, 12 fl.
+				New York  NY  10036
+				US
+
+F0-D4-F6   (hex)		Lars Thrane A/S
+F0D4F6     (base 16)		Lars Thrane A/S
+				Stubbeled 2
+				Vedbæk    2950
+				DK
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -110354,6 +110384,18 @@ F40E83     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
+7C-8B-CA   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+7C8BCA     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+F0-23-B9   (hex)		IEEE Registration Authority
+F023B9     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -115582,12 +115624,6 @@ E0F5CA     (base 16)		CHENG UEI PRECISION INDUSTRY CO.,LTD.
 				Building A,SIM Technology Building,No.633,Jinzhong Road,
 				  Shanghai  200335
 				CN
-
-C8-DE-51   (hex)		Integra Networks, Inc.
-C8DE51     (base 16)		Integra Networks, Inc.
-				745 Albany Shaker Rd
-				Latham   NY   12110
-				US
 
 90-1E-DD   (hex)		GREAT COMPUTER CORPORATION
 901EDD     (base 16)		GREAT COMPUTER CORPORATION
@@ -138190,3 +138226,15 @@ E48399     (base 16)		ARRIS Group, Inc.
 				The Mountain
 				Framingham  MA  01701-9168
 				US
+
+C8-DE-51   (hex)		 IntegraOptics
+C8DE51     (base 16)		 IntegraOptics
+				745 Albany Shaker Rd
+				Latham   NY  12110
+				US
+
+18-2C-B4   (hex)		Nectarsoft Co., Ltd.
+182CB4     (base 16)		Nectarsoft Co., Ltd.
+				330, Seongam-ro, Mapo-gu
+				Seoul  Seoul  03920
+				KR
