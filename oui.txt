@@ -27716,6 +27716,12 @@ B04E26     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Shenzhen  Guangdong  518057
 				CN
 
+FC-06-ED   (hex)		M2Motive Technology Inc.
+FC06ED     (base 16)		M2Motive Technology Inc.
+				Room 148, Lane 999, new two road, Baoshan District
+				Shanghai  Shanghai  200439
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -30457,12 +30463,6 @@ CCF538     (base 16)		3isysnetworks
 				Trafoweg 4
 				Halle / Saale  Saxony-Anhalt  06112
 				DE
-
-48-57-DD   (hex)		Facebook
-4857DD     (base 16)		Facebook
-				1 Hacker Way
-				Menlo Park  California  94025
-				US
 
 84-93-0C   (hex)		InCoax Networks Europe AB
 84930C     (base 16)		InCoax Networks Europe AB
@@ -55441,6 +55441,12 @@ DCBE7A     (base 16)		Zhejiang Nurotron Biotechnology Co.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
 				Shenzhen  Guangdong  518057
 				CN
+
+48-57-DD   (hex)		Facebook Inc
+4857DD     (base 16)		Facebook Inc
+				1 Hacker Way
+				Menlo Park  California  94025
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -82708,6 +82714,30 @@ F0D4F6     (base 16)		Lars Thrane A/S
 				Stubbeled 2
 				Vedbæk    2950
 				DK
+
+04-03-D6   (hex)		Nintendo Co.,Ltd
+0403D6     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+A0-AF-BD   (hex)		Intel Corporate
+A0AFBD     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+34-D9-54   (hex)		WiBotic Inc.
+34D954     (base 16)		WiBotic Inc.
+				4000 15th Ave NE Lab 225, Fluke Hall, Box 352141
+				Seattle  WA  98195
+				US
+
+A4-78-86   (hex)		Avaya Inc
+A47886     (base 16)		Avaya Inc
+				360 Mt. Kemble Ave.
+				Morristown  NJ  07960
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -110389,6 +110419,12 @@ F40E83     (base 16)		ARRIS Group, Inc.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
 				Shenzhen  Guangdong  518057
 				CN
+
+D8-F1-F0   (hex)		Pepxim International Limited
+D8F1F0     (base 16)		Pepxim International Limited
+				A5, 5/F, HK Spinners Industrial Buliding, Phase 6, 481 Castle Peak Road, Cheung Sha Wan
+				Hong Kong    0
+				HK
 
 F0-23-B9   (hex)		IEEE Registration Authority
 F023B9     (base 16)		IEEE Registration Authority
@@ -138209,12 +138245,6 @@ E48399     (base 16)		ARRIS Group, Inc.
 				Menlo Park  CA  94025
 				US
 
-14-78-0B   (hex)		PerkinElmer Technologies GmbH & Co. KG
-14780B     (base 16)		PerkinElmer Technologies GmbH & Co. KG
-				In der Rehbach 22
-				Walluf  Select ...  65396
-				DE
-
 98-F7-D7   (hex)		ARRIS Group, Inc.
 98F7D7     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -138238,3 +138268,15 @@ C8DE51     (base 16)		 IntegraOptics
 				330, Seongam-ro, Mapo-gu
 				Seoul  Seoul  03920
 				KR
+
+14-78-0B   (hex)		PerkinElmer Technologies GmbH & Co. KG
+14780B     (base 16)		PerkinElmer Technologies GmbH & Co. KG
+				In der Rehbach 22
+				Walluf    65396
+				DE
+
+74-DA-DA   (hex)		D-Link International
+74DADA     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
