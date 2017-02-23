@@ -27752,6 +27752,18 @@ B01F29     (base 16)		Helvetia INC.
 				Piscataway  NJ  08554
 				US
 
+CC-06-77   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+CC0677     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+28-07-0D   (hex)		GUANGZHOU WINSOUND INFORMATION TECHNOLOGY CO.,LTD.
+28070D     (base 16)		GUANGZHOU WINSOUND INFORMATION TECHNOLOGY CO.,LTD.
+				Building1 NO.13 DABU ROAD HUADU DISTRICT
+				GUANGZHOU  GUANGDONG  510800
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -82835,6 +82847,12 @@ FCA667     (base 16)		Amazon Technologies Inc.
 				Beaverton  OR  97008
 				US
 
+A0-34-1B   (hex)		TrackR, Inc
+A0341B     (base 16)		TrackR, Inc
+				19 W. Carrillo St.
+				Santa Barbara  CA  93101
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -94540,12 +94558,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Via Safforze 8
 				BELLUNO  BL  I-32100
 				IT
-
-00-19-F0   (hex)		UNIONMAN TECHNOLOGY CO.,LTD
-0019F0     (base 16)		UNIONMAN TECHNOLOGY CO.,LTD
-				18F, HUAYANG TOWER,YANDAYI ROAD
-				HUIZHOU  GUANGDONG  516007
-				CN
 
 00-19-F5   (hex)		Imagination Technologies Ltd
 0019F5     (base 16)		Imagination Technologies Ltd
@@ -110516,12 +110528,6 @@ F40E83     (base 16)		ARRIS Group, Inc.
 				Shenzhen  Guangdong  518057
 				CN
 
-D8-F1-F0   (hex)		Pepxim International Limited
-D8F1F0     (base 16)		Pepxim International Limited
-				A5, 5/F, HK Spinners Industrial Buliding, Phase 6, 481 Castle Peak Road, Cheung Sha Wan
-				Hong Kong    0
-				HK
-
 F0-23-B9   (hex)		IEEE Registration Authority
 F023B9     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -110534,11 +110540,29 @@ F023B9     (base 16)		IEEE Registration Authority
 				Kulim  Kedah  09000
 				MY
 
+D8-F1-F0   (hex)		Pepxim International Limited
+D8F1F0     (base 16)		Pepxim International Limited
+				A5, 5/F, HK Spinners Industrial Building, Phase 6
+				Cheung Sha Wan  Hong Kong  0
+				HK
+
+00-19-F0   (hex)		UNIONMAN TECHNOLOGY CO.,LTD
+0019F0     (base 16)		UNIONMAN TECHNOLOGY CO.,LTD
+				18F, HUAYANG TOWER,YANDAYI ROAD
+				HUIZHOU  GUANGDONG  516007
+				CN
+
 54-D7-51   (hex)		Proximus
 54D751     (base 16)		Proximus
 				Bld du Roi Albert II 27
 				Brussels    1030
 				BE
+
+CC-03-D9   (hex)		Cisco Meraki
+CC03D9     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -138399,4 +138423,16 @@ BC-D7-13   (hex)		Owl Labs
 BCD713     (base 16)		Owl Labs
 				33-1/2 Union Square
 				Somerville  MA  02143
+				US
+
+E8-E1-E1   (hex)		Gemtek Technology Co., Ltd.
+E8E1E1     (base 16)		Gemtek Technology Co., Ltd.
+				No.15-1 Zhonghua Road
+				Hukou  Hsinchu  30352
+				TW
+
+98-F2-B3   (hex)		Hewlett Packard Enterprise
+98F2B3     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
 				US
