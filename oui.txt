@@ -1001,54 +1001,6 @@ F4CFE2     (base 16)		Cisco Systems, Inc
 				SHENZHEN  GUANGDONG  518077
 				CN
 
-B0-AD-AA   (hex)		Avaya Inc
-B0ADAA     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-10-CD-AE   (hex)		Avaya Inc
-10CDAE     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-50-CD-22   (hex)		Avaya Inc
-50CD22     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-FC-A8-41   (hex)		Avaya Inc
-FCA841     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-3C-B1-5B   (hex)		Avaya Inc
-3CB15B     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-C8-F4-06   (hex)		Avaya Inc
-C8F406     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-2C-F4-C5   (hex)		Avaya Inc
-2CF4C5     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-70-38-EE   (hex)		Avaya Inc
-7038EE     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
 88-F0-31   (hex)		Cisco Systems, Inc
 88F031     (base 16)		Cisco Systems, Inc
 				170 West Tasman Drive
@@ -25103,12 +25055,6 @@ C88D83     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Hefei  Anhui Province  230088
 				CN
 
-00-54-9F   (hex)		Avaya Inc
-00549F     (base 16)		Avaya Inc
-				211 Mount Airy Road 
-				Basking Ridge  NJ  07920
-				US
-
 00-56-2B   (hex)		Cisco Systems, Inc
 00562B     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -26726,12 +26672,6 @@ A49B13     (base 16)		Digital Check
 				Manaus  Amazonas  69075-000
 				BR
 
-60-49-C1   (hex)		Avaya Inc
-6049C1     (base 16)		Avaya Inc
-				211 Mount Airy Road 
-				Basking Ridge  NJ  07920
-				US
-
 A0-A3-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 A0A33B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -27764,6 +27704,66 @@ CC0677     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				GUANGZHOU  GUANGDONG  510800
 				CN
 
+70-38-EE   (hex)		Avaya Inc
+7038EE     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+2C-F4-C5   (hex)		Avaya Inc
+2CF4C5     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+C8-F4-06   (hex)		Avaya Inc
+C8F406     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+3C-B1-5B   (hex)		Avaya Inc
+3CB15B     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+FC-A8-41   (hex)		Avaya Inc
+FCA841     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+50-CD-22   (hex)		Avaya Inc
+50CD22     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+10-CD-AE   (hex)		Avaya Inc
+10CDAE     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+B0-AD-AA   (hex)		Avaya Inc
+B0ADAA     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+00-54-9F   (hex)		Avaya Inc
+00549F     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+60-49-C1   (hex)		Avaya Inc
+6049C1     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -28286,36 +28286,6 @@ C87B5B     (base 16)		zte corporation
 				Shenzhen    518057
 				US
 
-A0-51-C6   (hex)		Avaya Inc
-A051C6     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-24-D9-21   (hex)		Avaya Inc
-24D921     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-84-83-71   (hex)		Avaya Inc
-848371     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-70-52-C5   (hex)		Avaya Inc
-7052C5     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-00-1B-4F   (hex)		Avaya Inc
-001B4F     (base 16)		Avaya Inc
-				Room 1A 309
-				Lincroft  NJ  07738
-				US
-
 F0-EB-D0   (hex)		Shanghai Feixun Communication Co.,Ltd.
 F0EBD0     (base 16)		Shanghai Feixun Communication Co.,Ltd.
 				Building 90,No,4855,Guangfulin Road
@@ -28585,24 +28555,6 @@ B0487A     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				F1-20,Section F,Huawei Base,Bantian, Longgang District
 				ShenZhen  GuangDong  518129
 				CN
-
-D4-EA-0E   (hex)		Avaya Inc
-D4EA0E     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-B4-47-5E   (hex)		Avaya Inc
-B4475E     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-90-FB-5B   (hex)		Avaya Inc
-90FB5B     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
 
 00-90-6F   (hex)		Cisco Systems, Inc
 00906F     (base 16)		Cisco Systems, Inc
@@ -33019,12 +32971,6 @@ BC811F     (base 16)		Ingate Systems
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
-
-80-1D-AA   (hex)		Avaya Inc
-801DAA     (base 16)		Avaya Inc
-				211 Mount Airy Road 
-				Basking Ridge  NJ  07920
-				US
 
 6C-40-C6   (hex)		Nimbus Data Systems, Inc.
 6C40C6     (base 16)		Nimbus Data Systems, Inc.
@@ -52193,12 +52139,6 @@ B456B9     (base 16)		Teraspek Technologies Co.,Ltd
 				Beijing    100081
 				CN
 
-A0-09-ED   (hex)		Avaya Inc
-A009ED     (base 16)		Avaya Inc
-				211 Mount Airy Road 
-				Basking Ridge  NJ  07920
-				US
-
 68-B3-5E   (hex)		Shenzhen Neostra Technology Co.Ltd
 68B35E     (base 16)		Shenzhen Neostra Technology Co.Ltd
 				7th Building,Huaide Cuihai Industrial Park,Fuyong,Shenzhen China
@@ -55514,6 +55454,72 @@ AC203E     (base 16)		Wuhan Tianyu Information Industry Co., Ltd.
 				San Jose  CA  94568
 				US
 
+80-1D-AA   (hex)		Avaya Inc
+801DAA     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+00-1B-4F   (hex)		Avaya Inc
+001B4F     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+70-52-C5   (hex)		Avaya Inc
+7052C5     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+84-83-71   (hex)		Avaya Inc
+848371     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+24-D9-21   (hex)		Avaya Inc
+24D921     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+A0-51-C6   (hex)		Avaya Inc
+A051C6     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+90-EC-50   (hex)		C.O.B.O. SPA
+90EC50     (base 16)		C.O.B.O. SPA
+				via Tito Speri, 10
+				Leno  Brescia  25024
+				IT
+
+90-FB-5B   (hex)		Avaya Inc
+90FB5B     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+B4-47-5E   (hex)		Avaya Inc
+B4475E     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+D4-EA-0E   (hex)		Avaya Inc
+D4EA0E     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+A0-09-ED   (hex)		Avaya Inc
+A009ED     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -56156,30 +56162,6 @@ F02765     (base 16)		Murata Manufacturing Co., Ltd.
 				San Jose  CA  94568
 				US
 
-04-8A-15   (hex)		Avaya Inc
-048A15     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-44-32-2A   (hex)		Avaya Inc
-44322A     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-FC-83-99   (hex)		Avaya Inc
-FC8399     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-00-04-0D   (hex)		Avaya Inc
-00040D     (base 16)		Avaya Inc
-				Office 1A325
-				Lincroft  NJ  07738-1526
-				US
-
 D8-42-AC   (hex)		Shanghai Feixun Communication Co.,Ltd.
 D842AC     (base 16)		Shanghai Feixun Communication Co.,Ltd.
 				Building 90, No. 4855, Guangfulin Road, Songjiang District
@@ -56389,42 +56371,6 @@ F83DFF     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,
 				Shenzhen  Guangdong  518108
 				CN
-
-D4-78-56   (hex)		Avaya Inc
-D47856     (base 16)		Avaya Inc
-				211 Mount Airy Road 
-				Basking Ridge  NJ  07920
-				US
-
-C0-57-BC   (hex)		Avaya Inc
-C057BC     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-38-BB-3C   (hex)		Avaya Inc
-38BB3C     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-E4-5D-52   (hex)		Avaya Inc
-E45D52     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-A4-25-1B   (hex)		Avaya Inc
-A4251B     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-6C-A8-49   (hex)		Avaya Inc
-6CA849     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
 
 30-D1-7E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 30D17E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -81284,12 +81230,6 @@ B83A9D     (base 16)		Alarm.com
 				San Jose  CA  94568
 				US
 
-14-61-2F   (hex)		Avaya Inc
-14612F     (base 16)		Avaya Inc
-				211 Mount Airy Road 
-				Basking Ridge  NJ  07920
-				US
-
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -81529,12 +81469,6 @@ AC83F3     (base 16)		AMPAK Technology, Inc.
 				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
 				Hsinchu  Taiwan ROC.  30352 
 				TW
-
-70-7C-69   (hex)		Avaya Inc
-707C69     (base 16)		Avaya Inc
-				211 Mount Airy Road 
-				Basking Ridge  NJ  07920
-				US
 
 18-DB-F2   (hex)		Dell Inc.
 18DBF2     (base 16)		Dell Inc.
@@ -82799,12 +82733,6 @@ A0AFBD     (base 16)		Intel Corporate
 				Seattle  WA  98195
 				US
 
-A4-78-86   (hex)		Avaya Inc
-A47886     (base 16)		Avaya Inc
-				360 Mt. Kemble Ave.
-				Morristown  NJ  07960
-				US
-
 6C-60-EB   (hex)		ZHI YUAN ELECTRONICS CO., LIMITED
 6C60EB     (base 16)		ZHI YUAN ELECTRONICS CO., LIMITED
 				UNIT 2508A 25/F BANK OF AMERICA TOWER， 12 HARCOURT RD CENTRAL 
@@ -82851,6 +82779,96 @@ A0-34-1B   (hex)		TrackR, Inc
 A0341B     (base 16)		TrackR, Inc
 				19 W. Carrillo St.
 				Santa Barbara  CA  93101
+				US
+
+98-6F-60   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+986F60     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+4C-18-9A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+4C189A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+00-04-0D   (hex)		Avaya Inc
+00040D     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+FC-83-99   (hex)		Avaya Inc
+FC8399     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+44-32-2A   (hex)		Avaya Inc
+44322A     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+04-8A-15   (hex)		Avaya Inc
+048A15     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+6C-A8-49   (hex)		Avaya Inc
+6CA849     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+A4-25-1B   (hex)		Avaya Inc
+A4251B     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+E4-5D-52   (hex)		Avaya Inc
+E45D52     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+38-BB-3C   (hex)		Avaya Inc
+38BB3C     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+C0-57-BC   (hex)		Avaya Inc
+C057BC     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+D4-78-56   (hex)		Avaya Inc
+D47856     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+14-61-2F   (hex)		Avaya Inc
+14612F     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+70-7C-69   (hex)		Avaya Inc
+707C69     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+A4-78-86   (hex)		Avaya Inc
+A47886     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -83581,42 +83599,6 @@ F4C714     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				HUAWEI Industrial Base Bantian,Longgang
 				Shenzhen  guangdong  518129
 				CN
-
-A0-12-90   (hex)		Avaya Inc
-A01290     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-F8-15-47   (hex)		Avaya Inc
-F81547     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-50-61-84   (hex)		Avaya Inc
-506184     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-BC-AD-AB   (hex)		Avaya Inc
-BCADAB     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-B4-A9-5A   (hex)		Avaya Inc
-B4A95A     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-3C-3A-73   (hex)		Avaya Inc
-3C3A73     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
 
 04-F9-38   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 04F938     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -110558,10 +110540,64 @@ D8F1F0     (base 16)		Pepxim International Limited
 				Brussels    1030
 				BE
 
+50-6E-92   (hex)		Innocent Technology Co., Ltd.
+506E92     (base 16)		Innocent Technology Co., Ltd.
+				PROSIT AZUMA 3 #201, 1973, NIPPA-CHO, KOHOKU-KU, 
+				YOKOHAMA-SHI  KANAGAWA  2230057
+				JP
+
+CC-4B-73   (hex)		AMPAK Technology, Inc.
+CC4B73     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
+
+90-0A-1A   (hex)		Taicang T&W Electronics
+900A1A     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
+				CN
+
 CC-03-D9   (hex)		Cisco Meraki
 CC03D9     (base 16)		Cisco Meraki
 				500 Terry A. Francois Blvd
 				San Francisco    94158
+				US
+
+3C-3A-73   (hex)		Avaya Inc
+3C3A73     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+B4-A9-5A   (hex)		Avaya Inc
+B4A95A     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+BC-AD-AB   (hex)		Avaya Inc
+BCADAB     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+50-61-84   (hex)		Avaya Inc
+506184     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+F8-15-47   (hex)		Avaya Inc
+F81547     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+A0-12-90   (hex)		Avaya Inc
+A01290     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -111218,18 +111254,6 @@ B075D5     (base 16)		zte corporation
 				Shenzhen  GUANGDONG  518057
 				CN
 
-CC-F9-54   (hex)		Avaya Inc
-CCF954     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-70-30-18   (hex)		Avaya Inc
-703018     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
 B0-A3-7E   (hex)		Qingdao Haier Telecom Co.，Ltd
 B0A37E     (base 16)		Qingdao Haier Telecom Co.，Ltd
 				No.1,Haier Road,Qingdao 266101 P.R.China
@@ -111355,54 +111379,6 @@ A49947     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,
 				Shenzhen  Guangdong  518108
 				CN
-
-34-75-C7   (hex)		Avaya Inc
-3475C7     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-6C-FA-58   (hex)		Avaya Inc
-6CFA58     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-64-A7-DD   (hex)		Avaya Inc
-64A7DD     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-64-6A-52   (hex)		Avaya Inc
-646A52     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-F8-73-A2   (hex)		Avaya Inc
-F873A2     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-64-C3-54   (hex)		Avaya Inc
-64C354     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920-2311
-				US
-
-B4-B0-17   (hex)		Avaya Inc
-B4B017     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
-
-58-16-26   (hex)		Avaya Inc
-581626     (base 16)		Avaya Inc
-				211 Mount Airy Road
-				Basking Ridge  NJ  07920
-				US
 
 74-1B-B2   (hex)		Apple, Inc.
 741BB2     (base 16)		Apple, Inc.
@@ -134612,12 +134588,6 @@ DC4D23     (base 16)		MRV Comunications
 				San Jose  CA  94568
 				US
 
-C4-BE-D4   (hex)		Avaya Inc
-C4BED4     (base 16)		Avaya Inc
-				211 Mount Airy Road 
-				Basking Ridge  NJ  07920
-				US
-
 98-E7-F5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 98E7F5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -138435,4 +138405,82 @@ E8E1E1     (base 16)		Gemtek Technology Co., Ltd.
 98F2B3     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
+				US
+
+30-FE-31   (hex)		Nokia
+30FE31     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+BC-1C-81   (hex)		Sichuan iLink Technology Co., Ltd.
+BC1C81     (base 16)		Sichuan iLink Technology Co., Ltd.
+				Anzhou,Industrial park,Mianyang,Sichuan
+				Mianyang    622651
+				CN
+
+70-30-18   (hex)		Avaya Inc
+703018     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+CC-F9-54   (hex)		Avaya Inc
+CCF954     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+58-16-26   (hex)		Avaya Inc
+581626     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+B4-B0-17   (hex)		Avaya Inc
+B4B017     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+64-C3-54   (hex)		Avaya Inc
+64C354     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+F8-73-A2   (hex)		Avaya Inc
+F873A2     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+64-6A-52   (hex)		Avaya Inc
+646A52     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+64-A7-DD   (hex)		Avaya Inc
+64A7DD     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+6C-FA-58   (hex)		Avaya Inc
+6CFA58     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+34-75-C7   (hex)		Avaya Inc
+3475C7     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
+C4-BE-D4   (hex)		Avaya Inc
+C4BED4     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
 				US
