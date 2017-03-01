@@ -11987,12 +11987,6 @@ A8CE90     (base 16)		CVC
 				  Madrid  28100
 				ES
 
-00-18-7D   (hex)		Armorlink shanghai Co. Ltd
-00187D     (base 16)		Armorlink shanghai Co. Ltd
-				NO 515, Shengfu road
-				Shanghai    201108
-				CN
-
 00-18-7F   (hex)		ZODIANET
 00187F     (base 16)		ZODIANET
 				23, rue des Fraisettes
@@ -27775,6 +27769,12 @@ E0D848     (base 16)		Dell Inc.
 				Marienstraße 14
 				Berlin    10117
 				DE
+
+00-18-7D   (hex)		Armorlink Co .Ltd
+00187D     (base 16)		Armorlink Co .Ltd
+				No. 515 of Xinzhuang Industry Park Shenfu Road
+				Shanghai Province  Shanghai  201108
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -55532,6 +55532,18 @@ A009ED     (base 16)		Avaya Inc
 				Morristown  NJ  07960
 				US
 
+3C-0C-DB   (hex)		UNIONMAN TECHNOLOGY CO.,LTD
+3C0CDB     (base 16)		UNIONMAN TECHNOLOGY CO.,LTD
+				18F, HUAYANG TOWER,YANDAYI ROAD
+				Huizhou  Guangdong  516007
+				CN
+
+C8-1F-EA   (hex)		Avaya Inc
+C81FEA     (base 16)		Avaya Inc
+				360 Mt Kemble Ave
+				Morristown  NJ  07960
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -65824,12 +65836,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Mednarodni mejni prehod 6
 				Vrtojba  Nova Gorica  5290
 				SI
-
-00-1C-FA   (hex)		Alarm.com
-001CFA     (base 16)		Alarm.com
-				8150 Leesburg Pike
-				Vienna  VA  22182
-				US
 
 00-1C-EE   (hex)		SHARP Corporation
 001CEE     (base 16)		SHARP Corporation
@@ -82882,6 +82888,18 @@ A47886     (base 16)		Avaya Inc
 				360 Mt Kemble Ave
 				Morristown  NJ  07960
 				US
+
+00-1C-FA   (hex)		Alarm.com
+001CFA     (base 16)		Alarm.com
+				8150 Leesburg Pike
+				Vienna  VA  22182
+				US
+
+60-31-3B   (hex)		Sunnovo International Limited
+60313B     (base 16)		Sunnovo International Limited
+				1717 Haitai Building
+				Beijing  Beijing  100083
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -110611,6 +110629,12 @@ BCADAB     (base 16)		Avaya Inc
 				360 Mt Kemble Ave
 				Morristown  NJ  07960
 				US
+
+6C-B2-27   (hex)		Sony Video & Sound Products Inc.
+6CB227     (base 16)		Sony Video & Sound Products Inc.
+				Sony City Osaki, 2-10-1 Osaki
+				Shinagawa-ku  Tokyo  141-8610
+				JP
 
 60-27-1C   (hex)		VIDEOR E. Hartig GmbH
 60271C     (base 16)		VIDEOR E. Hartig GmbH
