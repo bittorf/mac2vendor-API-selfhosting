@@ -27782,17 +27782,23 @@ A40E2B     (base 16)		Facebook Inc
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+F4-B7-B3   (hex)		vivo Mobile Communication Co., Ltd.
+F4B7B3     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
 A0-C5-F2   (hex)		IEEE Registration Authority
 A0C5F2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
 
-F4-B7-B3   (hex)		vivo Mobile Communication Co., Ltd.
-F4B7B3     (base 16)		vivo Mobile Communication Co., Ltd.
-				#283,BBK Road
-				Wusha,Chang'An  DongGuan City,Guangdong,  523860
-				CN
+1C-4D-70   (hex)		Intel Corporate
+1C4D70     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -82930,6 +82936,12 @@ F470AB     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
+
+50-18-4C   (hex)		Platina Systems Inc.
+50184C     (base 16)		Platina Systems Inc.
+				3180 De La Cruz Blvd. Ste# 110
+				Santa Clara  CA  95054
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
