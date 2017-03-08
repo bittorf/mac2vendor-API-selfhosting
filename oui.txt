@@ -55574,6 +55574,18 @@ DC1AC5     (base 16)		vivo Mobile Communication Co., Ltd.
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+88-6A-E3   (hex)		Alpha Networks Inc.
+886AE3     (base 16)		Alpha Networks Inc.
+				No.8 Li-shing 7th Rd., Science-based Industrial Park, Hsinchu, Taiwan, R.O.C
+				Hsinchu  Taiwan  300
+				TW
+
+90-61-AE   (hex)		Intel Corporate
+9061AE     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -110696,6 +110708,12 @@ C8DB26     (base 16)		Logitech
 				Newark  CA  94560
 				US
 
+70-F3-5A   (hex)		Cisco Systems, Inc
+70F35A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -138598,3 +138616,15 @@ A86B7C     (base 16)		SHENZHEN FENGLIAN TECHNOLOGY CO., LTD.
 				#283,BBK Road
 				Wusha,Chang'an  DongGuan City,Guangdong  523860
 				CN
+
+F4-30-B9   (hex)		Hewlett Packard
+F430B9     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
+				US
+
+C4-57-1F   (hex)		Junelife
+C4571F     (base 16)		Junelife
+				649 Front St
+				San Francisco  CA  94111
+				US
