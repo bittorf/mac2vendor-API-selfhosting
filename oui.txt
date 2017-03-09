@@ -27800,6 +27800,12 @@ A0C5F2     (base 16)		IEEE Registration Authority
 				Kulim  Kedah  09000
 				MY
 
+E4-3A-6E   (hex)		Shenzhen Zeroone Technology CO.,LTD
+E43A6E     (base 16)		Shenzhen Zeroone Technology CO.,LTD
+				9/F.,Building B Tianan Cyber Park ,North Huangge Road,Longgang District
+				Shenzhen  Guangdong  518000
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -55585,6 +55591,18 @@ DC1AC5     (base 16)		vivo Mobile Communication Co., Ltd.
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+A4-F3-E7   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+A4F3E7     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+A0-23-9F   (hex)		Cisco Systems, Inc
+A0239F     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -138627,4 +138645,22 @@ C4-57-1F   (hex)		Junelife
 C4571F     (base 16)		Junelife
 				649 Front St
 				San Francisco  CA  94111
+				US
+
+2C-9E-EC   (hex)		Jabil Circuit Penang
+2C9EEC     (base 16)		Jabil Circuit Penang
+				Plot 56 , Hilir Sungai Keluang 1, Bayan Lepas Industrial Park, Phase 4
+				George Town  Penang  11900
+				MY
+
+94-3F-C2   (hex)		Hewlett Packard Enterprise
+943FC2     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
+A0-6A-44   (hex)		Vizio, Inc
+A06A44     (base 16)		Vizio, Inc
+				39 Tesla
+				Irvine  CA  92618
 				US
