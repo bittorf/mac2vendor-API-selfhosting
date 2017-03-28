@@ -18113,12 +18113,6 @@ A8CE90     (base 16)		CVC
 				Risskov    DK-8240
 				DK
 
-00-01-6D   (hex)		CarrierComm Inc.
-00016D     (base 16)		CarrierComm Inc.
-				539 Encintas Blvd.
-				Encintas  CA  92024
-				US
-
 00-01-5F   (hex)		DIGITAL DESIGN GmbH
 00015F     (base 16)		DIGITAL DESIGN GmbH
 				Rauchstr. 21
@@ -27871,6 +27865,18 @@ E86D65     (base 16)		AUDIO MOBIL Elektronik GmbH
 				Audio-Mobil-Straße 5 - 7
 				Braunau am Inn - Ranshofen    5282
 				AT
+
+E8-6F-F2   (hex)		Actiontec Electronics, Inc
+E86FF2     (base 16)		Actiontec Electronics, Inc
+				760 North Mary Ave
+				Sunnyvale  CA  94085
+				US
+
+00-01-6D   (hex)		CarrierComm Inc.
+00016D     (base 16)		CarrierComm Inc.
+				2231 Rutherford, Suite 110
+				Carlsbad  CA  92008
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -55723,6 +55729,12 @@ A40450     (base 16)		nFore Technology Inc.
 				Room 1607 Dominion Centre, 43 Queen’s Road East
 				Wanchai  Hong Kong  302
 				TW
+
+4C-B0-08   (hex)		Shenzhen Gwelltimes Technology Co.,Ltd
+4CB008     (base 16)		Shenzhen Gwelltimes Technology Co.,Ltd
+				A4 building 15floor Zhongying Jewelry Industrial Park Bulan Road No.31 Nanwan Street Longgang District Shenzhen City China
+				Shenzhen    518112
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -139000,3 +139012,9 @@ ACED5C     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+54-BD-79   (hex)		Samsung Electronics Co.,Ltd
+54BD79     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
