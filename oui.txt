@@ -2615,12 +2615,6 @@ F8E903     (base 16)		D-Link International
 				Singapore  Singapore  609917
 				SG
 
-F0-B0-52   (hex)		Ruckus Wireless
-F0B052     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
-
 68-28-F6   (hex)		Vubiq Networks, Inc.
 6828F6     (base 16)		Vubiq Networks, Inc.
 				9231 Irvine Blvd.
@@ -2885,12 +2879,6 @@ A4A4D3     (base 16)		Bluebank Communication Technology Co.Ltd
 				Shenzhen  Guangdong  518129
 				CN
 
-84-18-3A   (hex)		Ruckus Wireless
-84183A     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
-
 30-B5-F1   (hex)		Aitexin Technology Co., Ltd
 30B5F1     (base 16)		Aitexin Technology Co., Ltd
 				1210 PDAY research center streer 2
@@ -3064,12 +3052,6 @@ FC4AE9     (base 16)		Castlenet Technology Inc.
 				1F, A20, L790, SEC.5,
 				TAIPEI  TAIWAN  11082
 				TW
-
-6C-AA-B3   (hex)		Ruckus Wireless
-6CAAB3     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
 
 A4-81-EE   (hex)		Nokia Corporation
 A481EE     (base 16)		Nokia Corporation
@@ -4037,12 +4019,6 @@ E438F2     (base 16)		Advantage Controls
 				Muskogee  OK  74403
 				US
 
-24-C9-A1   (hex)		Ruckus Wireless
-24C9A1     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
 C8-F3-86   (hex)		Shenzhen Xiaoniao Technology Co.,Ltd
 C8F386     (base 16)		Shenzhen Xiaoniao Technology Co.,Ltd
 				Floor 13 C-D Yunsong Buliding
@@ -4802,12 +4778,6 @@ C4393A     (base 16)		SMC Networks Inc
 				Irvine  CA  92618
 				US
 
-C4-01-7C   (hex)		Ruckus Wireless
-C4017C     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
-
 D4-5C-70   (hex)		Wi-Fi Alliance
 D45C70     (base 16)		Wi-Fi Alliance
 				10900-B Stonelake Boulevard
@@ -5242,12 +5212,6 @@ E47185     (base 16)		Securifi Ltd
 				1, rue Robert & Sonia DELAUNAY
 				Paris    75011
 				FR
-
-C0-8A-DE   (hex)		Ruckus Wireless
-C08ADE     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
 
 90-F7-2F   (hex)		Phillips Machine & Welding Co., Inc. 
 90F72F     (base 16)		Phillips Machine & Welding Co., Inc. 
@@ -6310,12 +6274,6 @@ E0ED1A     (base 16)		vastriver Technology Co., Ltd
 				Unit 1, 4 Beaumont Road
 				Mount Kuring-Gai  New South Wales  2080
 				AU
-
-50-A7-33   (hex)		Ruckus Wireless
-50A733     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
 
 60-3F-C5   (hex)		COX CO., LTD
 603FC5     (base 16)		COX CO., LTD
@@ -9976,12 +9934,6 @@ A8CE90     (base 16)		CVC
 				80 Abercrombie Street
 				Chippendale  NSW  2008
 				AU
-
-00-1F-41   (hex)		Ruckus Wireless
-001F41     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
 
 00-1F-39   (hex)		Construcciones y Auxiliar de Ferrocarriles, S.A.
 001F39     (base 16)		Construcciones y Auxiliar de Ferrocarriles, S.A.
@@ -27878,6 +27830,60 @@ E86FF2     (base 16)		Actiontec Electronics, Inc
 				Carlsbad  CA  92008
 				US
 
+70-DE-F9   (hex)		FAI WAH INTERNATIONAL (HONG KONG) LIMITED
+70DEF9     (base 16)		FAI WAH INTERNATIONAL (HONG KONG) LIMITED
+				Room 19, 8F.,Corporation Park, 11 On Lai Street,Shatin,Shek Mun,N.T.Hong Kong
+				Hong Kong    999077
+				HK
+
+24-C9-A1   (hex)		Ruckus Wireless
+24C9A1     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+F0-B0-52   (hex)		Ruckus Wireless
+F0B052     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+84-18-3A   (hex)		Ruckus Wireless
+84183A     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+6C-AA-B3   (hex)		Ruckus Wireless
+6CAAB3     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+00-1F-41   (hex)		Ruckus Wireless
+001F41     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+C0-8A-DE   (hex)		Ruckus Wireless
+C08ADE     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+50-A7-33   (hex)		Ruckus Wireless
+50A733     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+C4-01-7C   (hex)		Ruckus Wireless
+C4017C     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -29738,12 +29744,6 @@ B88687     (base 16)		Liteon Technology Corporation
 				MADRID  MADRID  28010
 				ES
 
-58-B6-33   (hex)		Ruckus Wireless
-58B633     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
-
 F4-E9-26   (hex)		Tianjin Zanpu Technology Inc.
 F4E926     (base 16)		Tianjin Zanpu Technology Inc.
 				3F Haiyi International Center, Huayuan Industrial Park, Tianjin
@@ -30138,12 +30138,6 @@ C43ABE     (base 16)		Sony Mobile Communications AB
 18B169     (base 16)		Sonicwall
 				2001 Logic Drive
 				San Jose  CA  95124-3452
-				US
-
-D4-68-4D   (hex)		Ruckus Wireless
-D4684D     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
 				US
 
 1C-C7-2D   (hex)		Shenzhen Huapu Digital CO.,Ltd
@@ -31844,12 +31838,6 @@ F42012     (base 16)		Cuciniale GmbH
 				  Espoo  FI-02600
 				FI
 
-2C-E6-CC   (hex)		Ruckus Wireless
-2CE6CC     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
-
 E0-FA-EC   (hex)		Platan sp. z o.o. sp. k.
 E0FAEC     (base 16)		Platan sp. z o.o. sp. k.
 				ul.Platanowa 2
@@ -32665,12 +32653,6 @@ FCA9B0     (base 16)		MIARTECH (SHANGHAI),INC.
 				701 Suwon Venture Center
 				Suwon  Gyeonggi-do  442-833
 				KR
-
-8C-0C-90   (hex)		Ruckus Wireless
-8C0C90     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
 
 08-E5-DA   (hex)		NANJING FUJITSU COMPUTER PRODUCTS CO.,LTD. 
 08E5DA     (base 16)		NANJING FUJITSU COMPUTER PRODUCTS CO.,LTD. 
@@ -33817,12 +33799,6 @@ DCF858     (base 16)		Lorent Networks, Inc.
 				Third Floor, Technology Complex, HAO Science Park
 				Foshan  Guangdong Province  528200
 				CN
-
-58-93-96   (hex)		Ruckus Wireless
-589396     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
 
 A0-5E-6B   (hex)		MELPER Co., Ltd.
 A05E6B     (base 16)		MELPER Co., Ltd.
@@ -35360,12 +35336,6 @@ C4F464     (base 16)		Spica international
 				Ljubljana    1000
 				SI
 
-74-91-1A   (hex)		Ruckus Wireless
-74911A     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
-
 54-4A-05   (hex)		wenglor sensoric gmbh
 544A05     (base 16)		wenglor sensoric gmbh
 				wenglor Str. 3
@@ -36899,12 +36869,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Budapest    1223
 				HU
 
-00-24-82   (hex)		Ruckus Wireless
-002482     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
-
 00-24-76   (hex)		TAP.tv
 002476     (base 16)		TAP.tv
 				16w361 South Frontage Road
@@ -37309,12 +37273,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				DESAY 3rd Zone,Chenjiang,
 				Huizhou  Guangdong  516229
 				CN
-
-00-22-7F   (hex)		Ruckus Wireless
-00227F     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
 
 00-22-77   (hex)		NEC Australia Pty Ltd
 002277     (base 16)		NEC Australia Pty Ltd
@@ -51656,12 +51614,6 @@ DC9C9F     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Chaoyang District  Beijing  100015
 				CN
 
-F0-3E-90   (hex)		Ruckus Wireless
-F03E90     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
 D8-D7-23   (hex)		IDS, Inc
 D8D723     (base 16)		IDS, Inc
 				6801 15 Mile Rd.
@@ -52698,12 +52650,6 @@ C0-D3-91   (hex)		IEEE Registration Authority
 C0D391     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
-				US
-
-EC-8C-A2   (hex)		Ruckus Wireless
-EC8CA2     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
 				US
 
 C4-11-E0   (hex)		Bull Group Co., Ltd
@@ -54041,12 +53987,6 @@ C83DD4     (base 16)		CyberTAN Technology Inc.
 				Dongguan    523808
 				CN
 
-30-87-D9   (hex)		Ruckus Wireless
-3087D9     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
 A8-E7-05   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 A8E705     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
@@ -55004,12 +54944,6 @@ B02628     (base 16)		Broadcom Limited
 				irvine  CA  92617
 				US
 
-24-79-2A   (hex)		Ruckus Wireless
-24792A     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
 E8-13-63   (hex)		Comstock RD, Inc.
 E81363     (base 16)		Comstock RD, Inc.
 				4415 Mason St
@@ -55734,6 +55668,84 @@ A40450     (base 16)		nFore Technology Inc.
 4CB008     (base 16)		Shenzhen Gwelltimes Technology Co.,Ltd
 				A4 building 15floor Zhongying Jewelry Industrial Park Bulan Road No.31 Nanwan Street Longgang District Shenzhen City China
 				Shenzhen    518112
+				CN
+
+F0-3E-90   (hex)		Ruckus Wireless
+F03E90     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+EC-8C-A2   (hex)		Ruckus Wireless
+EC8CA2     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+30-87-D9   (hex)		Ruckus Wireless
+3087D9     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+24-79-2A   (hex)		Ruckus Wireless
+24792A     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+58-93-96   (hex)		Ruckus Wireless
+589396     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+74-91-1A   (hex)		Ruckus Wireless
+74911A     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+00-22-7F   (hex)		Ruckus Wireless
+00227F     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+00-24-82   (hex)		Ruckus Wireless
+002482     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+58-B6-33   (hex)		Ruckus Wireless
+58B633     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+D4-68-4D   (hex)		Ruckus Wireless
+D4684D     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+2C-E6-CC   (hex)		Ruckus Wireless
+2CE6CC     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+8C-0C-90   (hex)		Ruckus Wireless
+8C0C90     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+84-20-96   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+842096     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,
+				Shenzhen  Guangdong  518000
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -57792,12 +57804,6 @@ B8-99-B0   (hex)		Cohere Technologies
 B899B0     (base 16)		Cohere Technologies
 				404 Saratoga Avenue
 				Santa Clara  CA  95050
-				US
-
-2C-C5-D3   (hex)		Ruckus Wireless
-2CC5D3     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
 				US
 
 80-C5-E6   (hex)		Microsoft Corporation
@@ -62617,12 +62623,6 @@ EC836C     (base 16)		RM Tech Co., Ltd.
 				C-801, Bupyeong Woolim Lions Valley
 				Incheon City    403-911
 				KR
-
-C0-C5-20   (hex)		Ruckus Wireless
-C0C520     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
 
 60-83-B2   (hex)		GkWare e.K.
 6083B2     (base 16)		GkWare e.K.
@@ -77384,12 +77384,6 @@ AA0001     (base 16)		DIGITAL EQUIPMENT CORPORATION
 				SAN JOSE  CA  95134
 				US
 
-F8-E7-1E   (hex)		Ruckus Wireless
-F8E71E     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
 00-19-4B   (hex)		Sagemcom Broadband SAS
 00194B     (base 16)		Sagemcom Broadband SAS
 				Le Ponnant de Paris
@@ -79555,12 +79549,6 @@ F0FDA0     (base 16)		Acurix Networks Pty Ltd
 				Unit 5, 348 Victoria Road,
 				Malaga, Perth  Western Austraila  6090
 				NZ
-
-1C-B9-C4   (hex)		Ruckus Wireless
-1CB9C4     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
 
 38-76-D1   (hex)		Euronda SpA
 3876D1     (base 16)		Euronda SpA
@@ -83183,6 +83171,30 @@ FC2F6B     (base 16)		Everspin Technologies, Inc.
 				Chandler  AZ  85224
 				US
 
+2C-C5-D3   (hex)		Ruckus Wireless
+2CC5D3     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+F8-E7-1E   (hex)		Ruckus Wireless
+F8E71E     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+1C-B9-C4   (hex)		Ruckus Wireless
+1CB9C4     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+C0-C5-20   (hex)		Ruckus Wireless
+C0C520     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -85034,12 +85046,6 @@ E435C8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-38-FF-36   (hex)		Ruckus Wireless
-38FF36     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
-
 D4-72-08   (hex)		Bragi GmbH
 D47208     (base 16)		Bragi GmbH
 				Herzog-Heinrich-Strasse 20
@@ -86744,12 +86750,6 @@ E0E631     (base 16)		SNB TECHNOLOGIES LIMITED
 				Vimercate  MB  20871
 				IT
 
-2C-5D-93   (hex)		Ruckus Wireless
-2C5D93     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
-
 1C-C1-1A   (hex)		Wavetronix
 1CC11A     (base 16)		Wavetronix
 				78 East 1700 South
@@ -87693,12 +87693,6 @@ D0CDE1     (base 16)		Scientech Electronics
 94756E     (base 16)		QinetiQ North America
 				137 Delta Drive
 				Pittsburgh  PA  15238
-				US
-
-54-3D-37   (hex)		Ruckus Wireless
-543D37     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
 				US
 
 0C-55-21   (hex)		Axiros GmbH
@@ -89924,12 +89918,6 @@ B4B88D     (base 16)		Thuh Company
 				Vancouver  WA  98683
 				US
 
-C4-10-8A   (hex)		Ruckus Wireless
-C4108A     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
-
 4C-73-A5   (hex)		KOVE
 4C73A5     (base 16)		KOVE
 				14 N. Peoria Street
@@ -90932,12 +90920,6 @@ D84606     (base 16)		Silicon Valley Global Marketing
 				Sunnyvale  Ca  94085
 				US
 
-68-92-34   (hex)		Ruckus Wireless
-689234     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
-
 D0-E3-47   (hex)		Yoga
 D0E347     (base 16)		Yoga
 				Tammsaare tee 47
@@ -91583,12 +91565,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				Anyang-si  Kyeonggi-do  431-767
 				KR
 
-04-4F-AA   (hex)		Ruckus Wireless
-044FAA     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
-
 44-56-8D   (hex)		PNC Technologies  Co., Ltd.
 44568D     (base 16)		PNC Technologies  Co., Ltd.
 				Development Center
@@ -91918,12 +91894,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Reiner Kartengeräte GmbH & Co. KG.
 				Furtwangen    78120
 				DE
-
-00-25-C4   (hex)		Ruckus Wireless
-0025C4     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
 
 00-25-BF   (hex)		Wireless Cables Inc.
 0025BF     (base 16)		Wireless Cables Inc.
@@ -94180,12 +94150,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				PO Box 636
 				MORLEY  Western Australia  6943
 				AU
-
-00-1D-2E   (hex)		Ruckus Wireless
-001D2E     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
-				US
 
 00-1D-21   (hex)		Alcad SL
 001D21     (base 16)		Alcad SL
@@ -110942,12 +110906,6 @@ EC42B4     (base 16)		ADC Corporation
 				Palo Alto  CA  94306
 				US
 
-34-8F-27   (hex)		Ruckus Wireless
-348F27     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
 08-30-6B   (hex)		Palo Alto Networks
 08306B     (base 16)		Palo Alto Networks
 				4401 Great America Parkway
@@ -111013,6 +110971,60 @@ B090D4     (base 16)		Shenzhen Hoin Internet Technology Co., Ltd
 				Xusheng Building, No. 4004, Bao’an, Room 1616 Bao’an District
 				Shenzhen  Guangdong  518000
 				CN
+
+34-8F-27   (hex)		Ruckus Wireless
+348F27     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+00-1D-2E   (hex)		Ruckus Wireless
+001D2E     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+68-92-34   (hex)		Ruckus Wireless
+689234     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+04-4F-AA   (hex)		Ruckus Wireless
+044FAA     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+00-25-C4   (hex)		Ruckus Wireless
+0025C4     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+38-FF-36   (hex)		Ruckus Wireless
+38FF36     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+2C-5D-93   (hex)		Ruckus Wireless
+2C5D93     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+54-3D-37   (hex)		Ruckus Wireless
+543D37     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+C4-10-8A   (hex)		Ruckus Wireless
+C4108A     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -113288,12 +113300,6 @@ D0C0BF     (base 16)		Actions Microelectronics Co., Ltd
 				Shenzhen  Gangdong  518057
 				CN
 
-94-F6-65   (hex)		Ruckus Wireless
-94F665     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
-
 E0-4B-45   (hex)		Hi-P Electronics Pte Ltd
 E04B45     (base 16)		Hi-P Electronics Pte Ltd
 				12 Ang Mo Kio Street 64
@@ -113770,12 +113776,6 @@ D855A3     (base 16)		zte corporation
 				Room N514,North Torch Building,5 Torch Road
 				Xiamen  Fujian  361005
 				CN
-
-E0-10-7F   (hex)		Ruckus Wireless
-E0107F     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
 
 08-11-5E   (hex)		Bitel Co., Ltd.
 08115E     (base 16)		Bitel Co., Ltd.
@@ -119082,12 +119082,6 @@ B4-58-61   (hex)		CRemote, LLC
 B45861     (base 16)		CRemote, LLC
 				1195 Noel Drive
 				MENLO PARK  CA  94025
-				US
-
-AC-67-06   (hex)		Ruckus Wireless
-AC6706     (base 16)		Ruckus Wireless
-				880 West Maude Ave.
-				Sunnyvale  CA  94085
 				US
 
 B8-65-3B   (hex)		Bolymin, Inc.
@@ -124663,12 +124657,6 @@ DC3350     (base 16)		TechSAT GmbH
 				23-9 Mita-biru 2F, Chiyoda 3-chome
 				Aichi  Non  460-0012
 				JP
-
-00-13-92   (hex)		Ruckus Wireless
-001392     (base 16)		Ruckus Wireless
-				350 W. Java Drive
-				Sunnyvale  California  94089
-				US
 
 00-13-8C   (hex)		Kumyoung.Co.Ltd
 00138C     (base 16)		Kumyoung.Co.Ltd
@@ -134876,12 +134864,6 @@ BC44B0     (base 16)		Elastifile
 				shanghai  shanghai  20233
 				CN
 
-74-3E-2B   (hex)		Ruckus Wireless
-743E2B     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
 C0-CC-F8   (hex)		Apple, Inc.
 C0CCF8     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -136790,12 +136772,6 @@ D8197A     (base 16)		Nuheara Ltd
 				Fujisawa  Kanagawa  252-0816
 				JP
 
-D8-38-FC   (hex)		Ruckus Wireless
-D838FC     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
 00-24-8D   (hex)		Sony Interactive Entertainment Inc.
 00248D     (base 16)		Sony Interactive Entertainment Inc.
 				1-7-1 Konan
@@ -137895,12 +137871,6 @@ F8-BB-BF   (hex)		eero inc.
 F8BBBF     (base 16)		eero inc.
 				500 Howard St Suite 900
 				San Francisco  CA  94105
-				US
-
-0C-F4-D5   (hex)		Ruckus Wireless
-0CF4D5     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
 				US
 
 00-01-30   (hex)		Extreme Networks
@@ -139018,3 +138988,45 @@ ACED5C     (base 16)		Intel Corporate
 				129, Samsung-ro, Youngtongl-Gu
 				Suwon  Gyeonggi-Do  16677
 				KR
+
+94-F6-65   (hex)		Ruckus Wireless
+94F665     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+E0-10-7F   (hex)		Ruckus Wireless
+E0107F     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+00-13-92   (hex)		Ruckus Wireless
+001392     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+D8-38-FC   (hex)		Ruckus Wireless
+D838FC     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+0C-F4-D5   (hex)		Ruckus Wireless
+0CF4D5     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+74-3E-2B   (hex)		Ruckus Wireless
+743E2B     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+AC-67-06   (hex)		Ruckus Wireless
+AC6706     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
