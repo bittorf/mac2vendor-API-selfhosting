@@ -2369,12 +2369,6 @@ E4F939     (base 16)		Minxon Hotel Technology INC.
 				    201613
 				CN
 
-1C-A5-32   (hex)		Shenzhen Gongjin Electronics Co.,Ltd
-1CA532     (base 16)		Shenzhen Gongjin Electronics Co.,Ltd
-				1#SongGang RD, Bao'an Dist., Shenzhen, Guangdong,China
-				Shenzhen  Guangdong  518109
-				CN
-
 48-6E-FB   (hex)		Davit System Technology Co., Ltd.
 486EFB     (base 16)		Davit System Technology Co., Ltd.
 				#304 Hanlim Human Tower, LS-Ro 172
@@ -3742,12 +3736,6 @@ F42896     (base 16)		SPECTO PAINEIS ELETRONICOS LTDA
 				Nya Vattentornet
 				Lund  SE  22128
 				SE
-
-BC-96-80   (hex)		Shenzhen Gongjin Electronics Co.,Ltd
-BC9680     (base 16)		Shenzhen Gongjin Electronics Co.,Ltd
-				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
-				Shenzhen  Guangdong  518067
-				CN
 
 9C-28-40   (hex)		Discovery Technology,LTD..
 9C2840     (base 16)		Discovery Technology,LTD..
@@ -6592,12 +6580,6 @@ BC8199     (base 16)		BASIC Co.,Ltd.
 				Keiefu-Building 9F
 				Minato-ku  Tokyo  108-0014
 				JP
-
-00-07-26   (hex)		Shenzhen Gongjin Electronics Co., Ltd.
-000726     (base 16)		Shenzhen Gongjin Electronics Co., Ltd.
-				A211-A213 & B201-B210, 2F, Baiying Building, 1019#, Nanhai RD, Shekou Party, Nanshan District, 
-				Shenzhen  Guangdong  518067
-				CN
 
 24-47-0E   (hex)		PentronicAB
 24470E     (base 16)		PentronicAB
@@ -22064,12 +22046,6 @@ A8CE90     (base 16)		CVC
 				  KOREA  135-714
 				KR
 
-00-00-FE   (hex)		ANNAPOLIS MICRO SYSTEMS
-0000FE     (base 16)		ANNAPOLIS MICRO SYSTEMS
-				190 ADMIRAL COCHRANE DRIVE
-				ANNAPOLIS  MD  21401
-				US
-
 08-00-13   (hex)		Exxon
 080013     (base 16)		Exxon
 				
@@ -27884,6 +27860,48 @@ C4017C     (base 16)		Ruckus Wireless
 				Sunnyvale  CA  94089
 				US
 
+24-58-80   (hex)		VIZEO
+245880     (base 16)		VIZEO
+				13 rue Emile Decorps
+				Villeurbanne    69100
+				FR
+
+7C-BA-CC   (hex)		IEEE Registration Authority
+7CBACC     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+00-07-26   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+000726     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				A211-A213 & B201-B210, 2F, Baiying Building, 1019#, Nanhai RD, Shekou Party, Nanshan District, 
+				Shenzhen  Guangdong  518067
+				CN
+
+BC-96-80   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+BC9680     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
+				Shenzhen  Guangdong  518067
+				CN
+
+1C-A5-32   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+1CA532     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				1#SongGang RD, Bao'an Dist., Shenzhen, Guangdong,China
+				Shenzhen  Guangdong  518109
+				CN
+
+90-A3-65   (hex)		HMD Global Oy
+90A365     (base 16)		HMD Global Oy
+				Karaportti 2
+				Espoo    02610
+				FI
+
+00-00-FE   (hex)		Annapolis Micro Systems, Inc.
+0000FE     (base 16)		Annapolis Micro Systems, Inc.
+				190 ADMIRAL COCHRANE DRIVE
+				ANNAPOLIS  MD  21401
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -32821,12 +32839,6 @@ C04A00     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Ap.103, 17 Rudnevka str.,111674
 				  Moscow  
 				RU
-
-38-E5-95   (hex)		Shenzhen Gongjin Electronics Co.,Ltd
-38E595     (base 16)		Shenzhen Gongjin Electronics Co.,Ltd
-				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
-				Shenzhen  Guangdong  518067
-				CN
 
 B8-60-91   (hex)		Onnet Technologies and Innovations LLC
 B86091     (base 16)		Onnet Technologies and Innovations LLC
@@ -55670,29 +55682,23 @@ A40450     (base 16)		nFore Technology Inc.
 				Shenzhen    518112
 				CN
 
-F0-3E-90   (hex)		Ruckus Wireless
-F03E90     (base 16)		Ruckus Wireless
+2C-E6-CC   (hex)		Ruckus Wireless
+2CE6CC     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-EC-8C-A2   (hex)		Ruckus Wireless
-EC8CA2     (base 16)		Ruckus Wireless
+8C-0C-90   (hex)		Ruckus Wireless
+8C0C90     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-30-87-D9   (hex)		Ruckus Wireless
-3087D9     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
-24-79-2A   (hex)		Ruckus Wireless
-24792A     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
+84-20-96   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+842096     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,
+				Shenzhen  Guangdong  518000
+				CN
 
 58-93-96   (hex)		Ruckus Wireless
 589396     (base 16)		Ruckus Wireless
@@ -55730,22 +55736,64 @@ D4684D     (base 16)		Ruckus Wireless
 				Sunnyvale  CA  94089
 				US
 
-2C-E6-CC   (hex)		Ruckus Wireless
-2CE6CC     (base 16)		Ruckus Wireless
+F0-3E-90   (hex)		Ruckus Wireless
+F03E90     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-8C-0C-90   (hex)		Ruckus Wireless
-8C0C90     (base 16)		Ruckus Wireless
+EC-8C-A2   (hex)		Ruckus Wireless
+EC8CA2     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-84-20-96   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
-842096     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
-				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,
-				Shenzhen  Guangdong  518000
+30-87-D9   (hex)		Ruckus Wireless
+3087D9     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+24-79-2A   (hex)		Ruckus Wireless
+24792A     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+30-F7-7F   (hex)		S Mobile Devices Limited
+30F77F     (base 16)		S Mobile Devices Limited
+				Unit B-303, 3rd Floor, Tower-B, Plot No-7,Advant IT Park Ltd , Sector-142
+				NOIDA  Uttar Pradesh  201301
+				IN
+
+5C-51-81   (hex)		Samsung Electronics Co.,Ltd
+5C5181     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+38-9A-F6   (hex)		Samsung Electronics Co.,Ltd
+389AF6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+E0-AA-96   (hex)		Samsung Electronics Co.,Ltd
+E0AA96     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+50-77-05   (hex)		Samsung Electronics Co.,Ltd
+507705     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+38-E5-95   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+38E595     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
+				Shenzhen  Guangdong  518067
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -59107,12 +59155,6 @@ A43A69     (base 16)		Vers Inc
 				Parchevich 42
 				  Sofia  1000
 				BG
-
-94-FB-B2   (hex)		Shenzhen Gongjin Electronics Co.,Ltd
-94FBB2     (base 16)		Shenzhen Gongjin Electronics Co.,Ltd
-				No.1, Songgang Avenue, Songgang Street, Bao’an District
-				Shenzhen  Guangdong  518105
-				CN
 
 4C-E1-BB   (hex)		Zhuhai HiFocus Technology Co., Ltd.
 4CE1BB     (base 16)		Zhuhai HiFocus Technology Co., Ltd.
@@ -67012,12 +67054,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				3/F B1 Building, Fuwan Ind. Zone Sun Wen East Road
 				Zhongshan  Guangdong  528403
 				CN
-
-00-18-85   (hex)		Avigilon Corporation
-001885     (base 16)		Avigilon Corporation
-				Box 378, 101 - 1001 West Broadway
-				Vancouver  BC  V6H 4E4
-				CA
 
 00-18-8C   (hex)		Mobile Action Technology Inc.
 00188C     (base 16)		Mobile Action Technology Inc.
@@ -83171,6 +83207,18 @@ FC2F6B     (base 16)		Everspin Technologies, Inc.
 				Chandler  AZ  85224
 				US
 
+B4-C1-70   (hex)		Yi chip Microelectronics (Hangzhou) Co., Ltd
+B4C170     (base 16)		Yi chip Microelectronics (Hangzhou) Co., Ltd
+				Suite 401, Building #13, No. 498 Guoshoujing Rd., Pudong
+				Shanghai    201210
+				CN
+
+54-02-37   (hex)		Teltronic AG
+540237     (base 16)		Teltronic AG
+				Gewerbestrasse 9
+				Biberist    4562
+				CH
+
 2C-C5-D3   (hex)		Ruckus Wireless
 2CC5D3     (base 16)		Ruckus Wireless
 				350 West Java Drive
@@ -83194,6 +83242,66 @@ C0C520     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
+
+A8-96-75   (hex)		Motorola Mobility LLC, a Lenovo Company
+A89675     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+94-F1-28   (hex)		Hewlett Packard Enterprise
+94F128     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville    95747
+				US
+
+94-FB-B2   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+94FBB2     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				No.1, Songgang Avenue, Songgang Street, Bao’an District
+				Shenzhen  Guangdong  518105
+				CN
+
+A4-7B-9D   (hex)		Espressif Inc.
+A47B9D     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+60-8E-08   (hex)		Samsung Electronics Co.,Ltd
+608E08     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+7C-2E-DD   (hex)		Samsung Electronics Co.,Ltd
+7C2EDD     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+3C-F7-A4   (hex)		Samsung Electronics Co.,Ltd
+3CF7A4     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+34-2D-0D   (hex)		Samsung Electronics Co.,Ltd
+342D0D     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+EC-3D-FD   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+EC3DFD     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
+				shenzhen  guangdong  518000
+				CN
+
+00-18-85   (hex)		Avigilon Corporation
+001885     (base 16)		Avigilon Corporation
+				Box 378, 101 - 1001 West Broadway
+				Vancouver  BC  V6H 4E4
+				CA
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -87587,12 +87695,6 @@ FCDB96     (base 16)		ENERVALLEY CO., LTD
 				SUWON SI  GYEONGGI DO  443 734
 				KR
 
-FC-8B-97   (hex)		Shenzhen Gongjin Electronics Co.,Ltd
-FC8B97     (base 16)		Shenzhen Gongjin Electronics Co.,Ltd
-				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
-				Shenzhen  Guangdong  518067
-				CN
-
 88-2E-5A   (hex)		storONE
 882E5A     (base 16)		storONE
 				POB 2660
@@ -88384,18 +88486,6 @@ B85810     (base 16)		NUMERA, INC.
 				1511 3RD AVE
 				SEATTLE  WA  98101
 				US
-
-2C-AB-25   (hex)		Shenzhen Gongjin Electronics Co.,Ltd
-2CAB25     (base 16)		Shenzhen Gongjin Electronics Co.,Ltd
-				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
-				Shenzhen  Guangdong  518067
-				CN
-
-AC-6E-1A   (hex)		Shenzhen Gongjin Electronics Co.,Ltd
-AC6E1A     (base 16)		Shenzhen Gongjin Electronics Co.,Ltd
-				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
-				Shenzhen  Guangdong  518067
-				CN
 
 98-86-B1   (hex)		Flyaudio corporation (China)
 9886B1     (base 16)		Flyaudio corporation (China)
@@ -93795,12 +93885,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 001F9E     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
-				US
-
-00-1F-92   (hex)		VideoIQ, Inc.
-001F92     (base 16)		VideoIQ, Inc.
-				213 Burlington Road
-				Bedford  MA  01730
 				US
 
 00-1F-97   (hex)		BERTANA srl
@@ -103763,12 +103847,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				FOSTER CITY  CA  94404-1138
 				US
 
-00-A0-50   (hex)		CYPRESS SEMICONDUCTOR
-00A050     (base 16)		CYPRESS SEMICONDUCTOR
-				3901 NORTH FIRST STREET
-				SAN JOSE  CA  95134
-				US
-
 00-A0-98   (hex)		NetApp
 00A098     (base 16)		NetApp
 				495 East Java Drive
@@ -111026,6 +111104,78 @@ C4108A     (base 16)		Ruckus Wireless
 				Sunnyvale  CA  94089
 				US
 
+D4-63-C6   (hex)		Motorola Mobility LLC, a Lenovo Company
+D463C6     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+00-A0-50   (hex)		CYPRESS SEMICONDUCTOR
+00A050     (base 16)		CYPRESS SEMICONDUCTOR
+				198 Champion Ct
+				SAN JOSE  CA  95134
+				US
+
+A4-4C-C8   (hex)		Dell Inc.
+A44CC8     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+54-66-6C   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+54666C     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+10-30-34   (hex)		Cara Systems
+103034     (base 16)		Cara Systems
+				Ruzgarlibahce Mah. Kavak Sok. No: 31/1 Smart Plaza B Blok Kat: 4
+				Istanbul  Kavacik Beykoz  23805
+				TR
+
+08-40-F3   (hex)		Tenda Technology Co.,Ltd.Dongguan branch
+0840F3     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
+				Room 79,Yuanyi Road,Dalang Town,Dongguan Guangdong 523770
+				Dongguan  Guangdong  523770
+				CN
+
+FC-8B-97   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+FC8B97     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
+				Shenzhen  Guangdong  518067
+				CN
+
+2C-AB-25   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+2CAB25     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
+				Shenzhen  Guangdong  518067
+				CN
+
+AC-6E-1A   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+AC6E1A     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				B116,B118,A211-A213,B201-B213,A311-A313,B411-413,BF08-09 Nanshan Medical Instrument Industry Park,
+				Shenzhen  Guangdong  518067
+				CN
+
+24-A5-34   (hex)		SynTrust Tech International Ltd. 
+24A534     (base 16)		SynTrust Tech International Ltd. 
+				10F-1, No. 125, Songde Road,
+				Taipei  Taiwan  110
+				TW
+
+F8-44-E3   (hex)		Taicang T&W Electronics
+F844E3     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
+				CN
+
+00-1F-92   (hex)		Avigilon Corporation
+001F92     (base 16)		Avigilon Corporation
+				Box 378, 101 - 1001 West Broadway
+				Vancouver  BC  V6H 4E4
+				CA
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -111528,12 +111678,6 @@ B0F1A3     (base 16)		Fengfan (BeiJing) Technology Co., Ltd.
 1C7839     (base 16)		Shenzhen Tencent Computer System Co., Ltd.
 				36/F, Tencent Building, Kejizhongyi Avenue, Hi-Tech Park
 				Shenzhen  Guangdong  518057
-				CN
-
-D8-37-BE   (hex)		Shanghai Gongjing Telecom Technology Co,LTD
-D837BE     (base 16)		Shanghai Gongjing Telecom Technology Co,LTD
-				#1905 Mei Hong Road
-				Shanghai  Shanghai  200000
 				CN
 
 A4-51-6F   (hex)		Microsoft Mobile Oy
@@ -126218,12 +126362,6 @@ DC3350     (base 16)		TechSAT GmbH
 				Tokwawan  Kowloon  150
 				HK
 
-00-0C-03   (hex)		HDMI Licensing, LLC
-000C03     (base 16)		HDMI Licensing, LLC
-				1060 East Arques Ave.
-				Sunnyvale  CA  94085
-				US
-
 00-0C-A4   (hex)		Prompttec Product Management GmbH
 000CA4     (base 16)		Prompttec Product Management GmbH
 				Mariatrosterstr. 41
@@ -139029,4 +139167,46 @@ AC-67-06   (hex)		Ruckus Wireless
 AC6706     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
+				US
+
+78-11-DC   (hex)		XIAOMI Electronics,CO.,LTD
+7811DC     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
+				Beijing  Beijing  100085
+				CN
+
+D8-6C-63   (hex)		Google, Inc.
+D86C63     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+D8-37-BE   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+D837BE     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				#1905 Mei Hong Road
+				Shanghai  Shanghai  200000
+				CN
+
+DC-44-B6   (hex)		Samsung Electronics Co.,Ltd
+DC44B6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+10-07-B6   (hex)		Samsung Electronics Co.,Ltd
+1007B6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+F4-93-9F   (hex)		Hon Hai Precision Ind. Co., Ltd.
+F4939F     (base 16)		Hon Hai Precision Ind. Co., Ltd.
+				GuangDongShenZhen
+				ShenZhen  GuangDong  518109
+				CN
+
+00-0C-03   (hex)		HDMI Licensing, LLC
+000C03     (base 16)		HDMI Licensing, LLC
+				1060 East Arques Ave.
+				Sunnyvale  CA  94085
 				US
