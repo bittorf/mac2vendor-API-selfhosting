@@ -27920,6 +27920,24 @@ F83441     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
+5C-03-39   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5C0339     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+04-4F-4C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+044F4C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+1C-15-1F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1C151F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -55820,6 +55838,24 @@ C4CB6B     (base 16)		Airista Flow, Inc.
 				Sparks  MD  21152
 				US
 
+2C-40-53   (hex)		Samsung Electronics Co.,Ltd
+2C4053     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+B0-55-08   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B05508     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+00-8B-FC   (hex)		mixi,Inc.
+008BFC     (base 16)		mixi,Inc.
+				Sumitomo Shibuya First Tower 7F, 1-2-20 Higashi
+				Shibuya-ku  Tokyo  150-0011
+				JP
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -83344,6 +83380,30 @@ EC3DFD     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				97 Jungbudaero448beongil, Yeongtonggu
 				Suwonsi  Gyeonggido  16521
 				KR
+
+94-D0-29   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+94D029     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+30-84-54   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+308454     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+FC-7F-56   (hex)		CoSyst Control Systems GmbH
+FC7F56     (base 16)		CoSyst Control Systems GmbH
+				Martin-Albert-Str. 1
+				Nürnberg  Bayern  90491
+				DE
+
+8C-25-05   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8C2505     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -111223,6 +111283,60 @@ F844E3     (base 16)		Taicang T&W Electronics
 				Asahikawa2-2-32
 				Yokote-shi  Akita-ken  013-0033
 				JP
+
+88-7A-31   (hex)		Velankani Electronics Pvt. Ltd.
+887A31     (base 16)		Velankani Electronics Pvt. Ltd.
+				43, Electronics City, Phase 1, Hosur road
+				Bangalore  Karnataka  560100
+				IN
+
+8C-0F-6F   (hex)		PEGATRON CORPORATION
+8C0F6F     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+28-35-45   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+283545     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
+				SHENZHEN  GUANGDONG  518057
+				CN
+
+0C-8F-FF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C8FFF     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+54-B1-21   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+54B121     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+78-62-56   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+786256     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A8-0C-63   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A80C63     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+5C-C3-07   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5CC307     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+08-A8-A1   (hex)		Cyclotronics Power Concepts, Inc
+08A8A1     (base 16)		Cyclotronics Power Concepts, Inc
+				PO Box 37449
+				Houston  TX  77237-7449
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -139269,4 +139383,10 @@ F8-28-19   (hex)		Liteon Technology Corporation
 F82819     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
 				New Taipei City  Taiwan  23585
+				TW
+
+F4-B5-20   (hex)		Biostar Microtech international corp.
+F4B520     (base 16)		Biostar Microtech international corp.
+				3F. No. 108-2 Min Chuan Road, Hsin Tien District 
+				New Taipei City  Taiwan  231
 				TW
