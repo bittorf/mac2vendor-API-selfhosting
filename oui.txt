@@ -28064,17 +28064,41 @@ EC0441     (base 16)		ShenZhen TIGO Semiconductor Co., Ltd.
 				shenzhen  China / Guangdong  518048
 				CN
 
+BC-88-C3   (hex)		Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
+BC88C3     (base 16)		Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
+				No.168 Shengguang road Luotuo street Zhenhai district
+				Ningbo  Zhejiang  315202
+				CN
+
 A4-11-15   (hex)		Robert Bosch Engineering and Business Solutions pvt. Ltd.
 A41115     (base 16)		Robert Bosch Engineering and Business Solutions pvt. Ltd.
 				123, Industrial Layout, Hosur Road, Koramangala,
 				Bangalore  Karnataka  560095
 				IN
 
-BC-88-C3   (hex)		Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
-BC88C3     (base 16)		Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
-				No.168 Shengguang road Luotuo street Zhenhai district
-				Ningbo  Zhejiang  315202
-				CN
+6C-96-CF   (hex)		Apple, Inc.
+6C96CF     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+30-35-AD   (hex)		Apple, Inc.
+3035AD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A8-BE-27   (hex)		Apple, Inc.
+A8BE27     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B8-63-4D   (hex)		Apple, Inc.
+B8634D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -56132,6 +56156,30 @@ B009DA     (base 16)		Ring Solutions
 				Malvern  PA  19355
 				US
 
+44-4A-B0   (hex)		Zhejiang Moorgen Intelligence Technology Co., Ltd
+444AB0     (base 16)		Zhejiang Moorgen Intelligence Technology Co., Ltd
+				No.181 Changluo road Luotuo street Zhenhai district
+				Ningbo  Zhejiang  315202
+				CN
+
+84-41-67   (hex)		Apple, Inc.
+844167     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B4-F6-1C   (hex)		Apple, Inc.
+B4F61C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+EC-FA-03   (hex)		FCA
+ECFA03     (base 16)		FCA
+				800 Chrylser Dr
+				Auburn Hills  MI  48326
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -83799,6 +83847,54 @@ CC7EE7     (base 16)		Panasonic Corporation AVC Networks Company
 40017A     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+A4-E9-75   (hex)		Apple, Inc.
+A4E975     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C0-A5-3E   (hex)		Apple, Inc.
+C0A53E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-00-C6   (hex)		Apple, Inc.
+9800C6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+78-7B-8A   (hex)		Apple, Inc.
+787B8A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+38-66-F0   (hex)		Apple, Inc.
+3866F0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+20-EE-28   (hex)		Apple, Inc.
+20EE28     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+08-F4-AB   (hex)		Apple, Inc.
+08F4AB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+8C-85-90   (hex)		Apple, Inc.
+8C8590     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -111862,6 +111958,30 @@ E048D3     (base 16)		MOBIWIRE MOBILES (NINGBO) CO.,LTD
 				No.999,Dacheng East Road,
 				Fenghua  Zhejiang  315500
 				CN
+
+B8-EE-0E   (hex)		Sagemcom Broadband SAS
+B8EE0E     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+78-88-6D   (hex)		Apple, Inc.
+78886D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A8-5C-2C   (hex)		Apple, Inc.
+A85C2C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-DB-70   (hex)		Apple, Inc.
+00DB70     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -140065,3 +140185,21 @@ E470B8     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+B0-19-C6   (hex)		Apple, Inc.
+B019C6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+58-E2-8F   (hex)		Apple, Inc.
+58E28F     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+AC-1F-74   (hex)		Apple, Inc.
+AC1F74     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
