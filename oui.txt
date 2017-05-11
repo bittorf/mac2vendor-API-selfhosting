@@ -28124,6 +28124,18 @@ B8634D     (base 16)		Apple, Inc.
 				Bochum  NRW  44807
 				DE
 
+EC-D0-9F   (hex)		Xiaomi Communications Co Ltd
+ECD09F     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+5C-EA-1D   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+5CEA1D     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -56204,6 +56216,18 @@ ECFA03     (base 16)		FCA
 				Auburn Hills  MI  48326
 				US
 
+78-E1-03   (hex)		Amazon Technologies Inc.
+78E103     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+90-32-4B   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+90324B     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
 78-A6-E1   (hex)		Brocade Communications Systems, Inc.
 78A6E1     (base 16)		Brocade Communications Systems, Inc.
 				130 Holger Way
@@ -56214,6 +56238,12 @@ F4-D7-B2   (hex)		LGS Innovations, LLC
 F4D7B2     (base 16)		LGS Innovations, LLC
 				13665 Dulles Technology Drive
 				Herndon  VA  20171
+				US
+
+34-29-8F   (hex)		IEEE Registration Authority
+34298F     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -83932,6 +83962,12 @@ C0A53E     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+FC-01-7C   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+FC017C     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -112030,6 +112066,12 @@ E4EC10     (base 16)		Nokia Corporation
 				Elektroniikkatie 10
 				Oulu  Ou  90590
 				FI
+
+D8-61-62   (hex)		Wistron Neweb Corporation
+D86162     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -140251,3 +140293,9 @@ FCE557     (base 16)		Nokia Corporation
 				Elektroniikkatie 10
 				Oulu  Ou  90590
 				FI
+
+9C-30-5B   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+9C305B     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
