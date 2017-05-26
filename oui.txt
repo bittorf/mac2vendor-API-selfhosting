@@ -28193,6 +28193,12 @@ D8A01D     (base 16)		Espressif Inc.
 00-25-DF   (hex)		Private
 0025DF     (base 16)		Private
 
+74-EA-C8   (hex)		New H3C Technologies Co., Ltd
+74EAC8     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -140573,14 +140579,14 @@ CC9891     (base 16)		Cisco Systems, Inc
 				Hangzhou  Zhejiang  310052
 				CN
 
-F8-9D-BB   (hex)		Tintri
-F89DBB     (base 16)		Tintri
-				303 Ravendale Dr
-				Mountain View  CA  94070
-				US
-
 B4-D6-4E   (hex)		Caldero Limited
 B4D64E     (base 16)		Caldero Limited
 				Concordia Works, 30 Sovereign Street
 				Leeds  West Yorkshire  LS1 4BA
 				GB
+
+F8-9D-BB   (hex)		Tintri
+F89DBB     (base 16)		Tintri
+				303 Ravendale Dr
+				Mountain View  CA  94070
+				US
