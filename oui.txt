@@ -84134,6 +84134,12 @@ BC2E48     (base 16)		ARRIS Group, Inc.
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
 
+90-4E-91   (hex)		IEEE Registration Authority
+904E91     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
