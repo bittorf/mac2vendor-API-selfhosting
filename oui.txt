@@ -28232,6 +28232,12 @@ A0D86F     (base 16)		Private
 				San Jose  CA  95134
 				US
 
+4C-13-65   (hex)		Emplus Technologies
+4C1365     (base 16)		Emplus Technologies
+				Bld B, 10F, No.209, Sec.1, Nangang Rd
+				Taipei    115
+				TW
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -56426,6 +56432,12 @@ A8E824     (base 16)		INIM ELECTRONICS S.R.L.
 				MONTEPRANDONE  ASCOLI PICENO  63076
 				IT
 
+A0-FE-61   (hex)		Vivint Wireless Inc. 
+A0FE61     (base 16)		Vivint Wireless Inc. 
+				4931 N 300 W
+				Provo  UT  84604
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -59023,12 +59035,6 @@ DCC622     (base 16)		BUHEUNG SYSTEM
 				302, 45, Jeonpa-ro, 24 Beongil
 				Anyang-si  Gyeonggi-do  430-857
 				KR
-
-5C-2B-F5   (hex)		Vivint
-5C2BF5     (base 16)		Vivint
-				4931 N 300 W
-				Provo  UT  84604
-				US
 
 D0-62-A0   (hex)		China Essence Technology (Zhumadian) Co., Ltd.
 D062A0     (base 16)		China Essence Technology (Zhumadian) Co., Ltd.
@@ -84191,10 +84197,16 @@ DC0C2D     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				Piscataway  NJ  08554
 				US
 
-00-17-3A   (hex)		Cloudastructure Inc
-00173A     (base 16)		Cloudastructure Inc
-				585 Broadway
-				Redwood City  CA  94063
+18-52-82   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+185282     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+2C-27-9E   (hex)		IEEE Registration Authority
+2C279E     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 38-D6-20   (hex)		Limidea Concept Pte. Ltd.
@@ -84203,10 +84215,16 @@ DC0C2D     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				Singapore  Singapore  069533
 				SG
 
-2C-27-9E   (hex)		IEEE Registration Authority
-2C279E     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
+00-17-3A   (hex)		Cloudastructure Inc
+00173A     (base 16)		Cloudastructure Inc
+				585 Broadway
+				Redwood City  CA  94063
+				US
+
+5C-2B-F5   (hex)		Vivint Wireless Inc. 
+5C2BF5     (base 16)		Vivint Wireless Inc. 
+				4931 N 300 W
+				Provo  UT  84604
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
