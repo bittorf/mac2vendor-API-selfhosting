@@ -56474,6 +56474,18 @@ A0FE61     (base 16)		Vivint Wireless Inc.
 				Provo  UT  84604
 				US
 
+08-15-2F   (hex)		Samsung Electronics Co., Ltd. ARTIK
+08152F     (base 16)		Samsung Electronics Co., Ltd. ARTIK
+				1-1, Samsungjeonja-ro
+				Hwaseong-si  Gyeonggi-do  18448
+				KR
+
+60-18-03   (hex)		Daikin Air-conditioning (Shanghai) Co., Ltd.
+601803     (base 16)		Daikin Air-conditioning (Shanghai) Co., Ltd.
+				318 Shen Fu Road, Xin Zhuang Industry Zone, Shanghai, 201108, China
+				Shanghai    201108
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -112469,11 +112481,41 @@ CCF957     (base 16)		u-blox AG
 				Thalwil    8800
 				CH
 
+74-37-3B   (hex)		UNINET Co.,Ltd.
+74373B     (base 16)		UNINET Co.,Ltd.
+				#1803, Daerung Techno Town15, 401, Simin-daero, Dongan-gu
+				Anyang-si  Gyunggi-do  14057
+				KR
+
+7C-64-56   (hex)		Samsung Electronics Co.,Ltd
+7C6456     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+44-8F-17   (hex)		Samsung Electronics Co., Ltd. ARTIK
+448F17     (base 16)		Samsung Electronics Co., Ltd. ARTIK
+				1-1, Samsungjeonja-ro
+				Hwaseong-si  Gyeonggi-do  18448
+				KR
+
 00-76-B1   (hex)		Somfy-Protect By Myfox SAS
 0076B1     (base 16)		Somfy-Protect By Myfox SAS
 				Regent Park II, Bât I, 2460 l'Occitane
 				Labège    31670
 				FR
+
+B8-D9-4D   (hex)		Sagemcom Broadband SAS
+B8D94D     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+D0-66-6D   (hex)		Shenzhen Bus-Lan Technology Co., Ltd.
+D0666D     (base 16)		Shenzhen Bus-Lan Technology Co., Ltd.
+				928-931 Chuangke Building, 72-1 South Huanguan Rd, Guan Lan Jie Dao, Longhua District
+				Shenzhen  Guangdong  518100 
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
