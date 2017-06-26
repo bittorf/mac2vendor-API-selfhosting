@@ -28283,12 +28283,6 @@ B0E2E5     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan City  Hubei Province  430074
 				CN
 
-B4-30-C0   (hex)		York Instruments Ltd
-B430C0     (base 16)		York Instruments Ltd
-				The Biocentre, York Science Park
-				York  North Yorkshire  YO10 5NY
-				GB
-
 F0-AB-54   (hex)		MITSUMI ELECTRIC CO.,LTD.
 F0AB54     (base 16)		MITSUMI ELECTRIC CO.,LTD.
 				2-11-2, Tsurumaki
@@ -28300,6 +28294,18 @@ C449BB     (base 16)		MITSUMI ELECTRIC CO.,LTD.
 				2-11-2, Tsurumaki
 				Tama-shi  Tokyo  206-8567
 				JP
+
+B4-30-C0   (hex)		York Instruments Ltd
+B430C0     (base 16)		York Instruments Ltd
+				The Biocentre, York Science Park
+				York  North Yorkshire  YO10 5NY
+				GB
+
+F0-BD-2E   (hex)		H+S Polatis Ltd
+F0BD2E     (base 16)		H+S Polatis Ltd
+				332/2 Cambridge Science Park
+				Cambridge    CB4 0WN
+				GB
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -112670,17 +112676,23 @@ D00492     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan City  Hubei Province  430074
 				CN
 
+04-84-8A   (hex)		7INOVA TECHNOLOGY LIMITED
+04848A     (base 16)		7INOVA TECHNOLOGY LIMITED
+				3F, A Building, QuanYuanFa Industrial Park, No. 72, GuanLan Rd
+				LongHua District  Shenzhen  518000
+				CN
+
 E8-1D-A8   (hex)		Ruckus Wireless
 E81DA8     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-04-84-8A   (hex)		7INOVA TECHNOLOGY LIMITED
-04848A     (base 16)		7INOVA TECHNOLOGY LIMITED
-				3F, A Building, QuanYuanFa Industrial Park, No. 72, GuanLan Rd
-				LongHua District  Shenzhen  518000
-				CN
+74-6E-E4   (hex)		Asia Vital Components Co.,Ltd.
+746EE4     (base 16)		Asia Vital Components Co.,Ltd.
+				Rm. 3, 7F., No.24, Wuquan 2nd Rd., Xinzhuang Dist., 
+				 New Taipei   Taiwan  24892
+				TW
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -141112,3 +141124,15 @@ D8ED1C     (base 16)		Magna Technology SL
 				2-11-2, Tsurumaki
 				Tama-shi  Tokyo  206-8567
 				JP
+
+B0-93-5B   (hex)		ARRIS Group, Inc.
+B0935B     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+20-F1-9E   (hex)		ARRIS Group, Inc.
+20F19E     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
