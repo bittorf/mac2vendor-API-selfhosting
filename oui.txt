@@ -84530,24 +84530,6 @@ C8E7F0     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-24-F5-A2   (hex)		Belkin International Inc.
-24F5A2     (base 16)		Belkin International Inc.
-				12045 East Waterfront Drive
-				Playa Vista    90094
-				US
-
-78-2D-7E   (hex)		TRENDnet, Inc.
-782D7E     (base 16)		TRENDnet, Inc.
-				20675 Manhattan Place
-				Torrance  CA  90501
-				US
-
-74-1A-E0   (hex)		IEEE Registration Authority
-741AE0     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 08-78-08   (hex)		Samsung Electronics Co.,Ltd
 087808     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -84565,6 +84547,24 @@ BC5451     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+74-1A-E0   (hex)		IEEE Registration Authority
+741AE0     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+24-F5-A2   (hex)		Belkin International Inc.
+24F5A2     (base 16)		Belkin International Inc.
+				12045 East Waterfront Drive
+				Playa Vista    90094
+				US
+
+78-2D-7E   (hex)		TRENDnet, Inc.
+782D7E     (base 16)		TRENDnet, Inc.
+				20675 Manhattan Place
+				Torrance  CA  90501
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -141328,3 +141328,9 @@ A407B6     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+BC-90-3A   (hex)		Robert Bosch GmbH
+BC903A     (base 16)		Robert Bosch GmbH
+				Postfach 1661
+				Leonberg    71226
+				DE
