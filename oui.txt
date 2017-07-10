@@ -28361,6 +28361,12 @@ D80831     (base 16)		Samsung Electronics Co.,Ltd
 				New York  NY  10001
 				US
 
+A8-82-00   (hex)		Hisense Electric Co.,Ltd
+A88200     (base 16)		Hisense Electric Co.,Ltd
+				Qianwangang Roard 218
+				Qingdao  Shandong  266510
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -56687,6 +56693,12 @@ DC68EB     (base 16)		Nintendo Co.,Ltd
 				Warrington  Cheshire  WA33JD
 				GB
 
+E8-D8-19   (hex)		AzureWave Technology Inc.
+E8D819     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -84637,6 +84649,12 @@ FC65DE     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
+
+28-AD-3E   (hex)		Shenzhen TONG BO WEI Technology CO.,LTD
+28AD3E     (base 16)		Shenzhen TONG BO WEI Technology CO.,LTD
+				Longhua District, Dalang street Langkou community Huarong Road Peng Tengda Industrial Park 4 5 floor
+				SHENZHEN  guangdong  518109
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -141442,3 +141460,21 @@ BC903A     (base 16)		Robert Bosch GmbH
 				101 West 103rd St.
 				Indianapolis  IN  46290
 				US
+
+38-20-A8   (hex)		ColorTokens, Inc.
+3820A8     (base 16)		ColorTokens, Inc.
+				2101 Tasman Dr. Suite 200A
+				Santa Clara  CA  95054
+				US
+
+70-58-96   (hex)		InShow Technology
+705896     (base 16)		InShow Technology
+				Jinqi Zhigu Building, Chongwen Garden, Liuxian Avenue, Nanshan District
+				shenzhen  Guangdong  518055
+				CN
+
+78-87-0D   (hex)		Unifiedgateways India Private Limited
+78870D     (base 16)		Unifiedgateways India Private Limited
+				25 1st Floor 4th Cross KR Road Jayanagar 7th Block West
+				Bangalore  Karnataka  560082
+				IN
