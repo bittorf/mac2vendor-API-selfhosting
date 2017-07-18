@@ -56777,6 +56777,18 @@ D00401     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				Tulsa  OK  74146
 				US
 
+70-7D-B9   (hex)		Cisco Systems, Inc
+707DB9     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+08-BE-AC   (hex)		Edimax Technology Co. Ltd.
+08BEAC     (base 16)		Edimax Technology Co. Ltd.
+				No. 278, Xinhu 1st Road, Neihu Dict.,
+				Taipei City  Taiwan  11494
+				TW
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -84745,6 +84757,12 @@ F092B4     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 				6205 Kestrel Road
 				Mississauga  Ontario  L5T 2A1
 				CA
+
+8C-0F-83   (hex)		Angie Hospitality LLC
+8C0F83     (base 16)		Angie Hospitality LLC
+				12465 S Fort St, Ste 300
+				Draper  UT  84020-9021
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -141635,14 +141653,14 @@ B4A382     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 00-CB-00   (hex)		Private
 00CB00     (base 16)		Private
 
-1C-0F-AF   (hex)		Lucid Vision Labs
-1C0FAF     (base 16)		Lucid Vision Labs
-				Unit 130 - 13200 Delf Place
-				Richmond  BC  V6V2A2
-				CA
-
 60-9B-C8   (hex)		Hipad Intelligent Technology Co., Ltd.
 609BC8     (base 16)		Hipad Intelligent Technology Co., Ltd.
 				No. 688, East of Huangtang Street, LinkongEconomy District
 				Nanchang  Jiangxi  330000
 				CN
+
+1C-0F-AF   (hex)		Lucid Vision Labs
+1C0FAF     (base 16)		Lucid Vision Labs
+				Unit 130 - 13200 Delf Place
+				Richmond  BC  V6V2A2
+				CA
