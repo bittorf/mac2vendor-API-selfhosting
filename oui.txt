@@ -2138,12 +2138,6 @@ B0411D     (base 16)		ITTIM Technologies
 				San Martín  Buenos Aires  1650
 				AR
 
-7C-C9-5A   (hex)		EMC
-7CC95A     (base 16)		EMC
-				176 South Street
-				Hopkinton  MA  01748
-				US
-
 EC-EE-D8   (hex)		ZTLX Network Technology Co.,Ltd
 ECEED8     (base 16)		ZTLX Network Technology Co.,Ltd
 				Unit 703,No 77,CuShaHuan
@@ -19604,12 +19598,6 @@ A8CE90     (base 16)		CVC
 				SUNNYVALE  CA  94086-4602
 				US
 
-00-60-48   (hex)		EMC CORPORATION
-006048     (base 16)		EMC CORPORATION
-				171 SOUTH ST.,
-				HOPKINTON  MA  01748
-				US
-
 00-60-E5   (hex)		FUJI AUTOMATION CO., LTD.
 0060E5     (base 16)		FUJI AUTOMATION CO., LTD.
 				3-23-10, NEGISHI
@@ -28450,6 +28438,24 @@ ECB5FA     (base 16)		Philips Lighting BV
 				High Tech Campus 45
 				Eindhoven  Noord Brabant  5656 AE
 				NL
+
+AC-A6-67   (hex)		Electronic Systems Protection, Inc.
+ACA667     (base 16)		Electronic Systems Protection, Inc.
+				8001 Knightdale Blvd.
+				Knightdale  NC  27545
+				US
+
+00-60-48   (hex)		Dell EMC
+006048     (base 16)		Dell EMC
+				171 SOUTH ST.,
+				HOPKINTON  MA  01748
+				US
+
+7C-C9-5A   (hex)		Dell EMC
+7CC95A     (base 16)		Dell EMC
+				176 South Street
+				Hopkinton  MA  01748
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -49922,12 +49928,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				SAN JOSE  CA  95131
 				US
 
-00-00-97   (hex)		EMC Corporation
-000097     (base 16)		EMC Corporation
-				176 South Street
-				Hopkinton  MA  01748
-				US
-
 00-00-D4   (hex)		PURE DATA LTD.
 0000D4     (base 16)		PURE DATA LTD.
 				200 WEST BEAVER CREEK ROAD
@@ -56895,6 +56895,12 @@ B8C111     (base 16)		Apple, Inc.
 34D0B8     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+00-00-97   (hex)		Dell EMC
+000097     (base 16)		Dell EMC
+				176 South Street
+				Hopkinton  MA  01748
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -69461,12 +69467,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Hsin-Chu    300
 				US
 
-00-12-48   (hex)		EMC Corporation (Kashya)
-001248     (base 16)		EMC Corporation (Kashya)
-				176 South Street
-				Hopkinton  MA  01748
-				US
-
 00-12-42   (hex)		Millennial Net
 001242     (base 16)		Millennial Net
 				 285 Billerica Road
@@ -74347,12 +74347,6 @@ A06A00     (base 16)		Verilink Corporation
 				4F, No.9 Lane 130, Min-Chyuan Rd.
 				  231  TAIWAN
 				TW
-
-00-01-44   (hex)		EMC Corporation
-000144     (base 16)		EMC Corporation
-				228 South St.
-				Hopkinton  MA  01748
-				US
 
 00-30-38   (hex)		XCP, INC.
 003038     (base 16)		XCP, INC.
@@ -84888,6 +84882,18 @@ B0-CA-68   (hex)		Apple, Inc.
 B0CA68     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
+				US
+
+00-12-48   (hex)		Dell EMC
+001248     (base 16)		Dell EMC
+				176 South Street
+				Hopkinton  MA  01748
+				US
+
+00-01-44   (hex)		Dell EMC
+000144     (base 16)		Dell EMC
+				228 South St.
+				Hopkinton  MA  01748
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -97883,12 +97889,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Anyang City  Kyoungki-do  430-010
 				US
 
-00-15-30   (hex)		EMC Corporation
-001530     (base 16)		EMC Corporation
-				176 South Street
-				Hopkinton  MA  01748
-				US
-
 00-15-29   (hex)		N3 Corporation
 001529     (base 16)		N3 Corporation
 				#402 GwangMyeong Techno Town
@@ -106793,12 +106793,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				CHELMSFORD  MA  01824
 				US
 
-08-00-1B   (hex)		EMC Corporation
-08001B     (base 16)		EMC Corporation
-				176 South Street
-				Hopkinton  MA  01748
-				US
-
 00-DD-0D   (hex)		UNGERMANN-BASS INC.
 00DD0D     (base 16)		UNGERMANN-BASS INC.
 				3900 FREEDOM CIRCLE
@@ -113274,6 +113268,24 @@ F04F7C     (base 16)		Private
 7C010A     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+00-15-30   (hex)		Dell EMC
+001530     (base 16)		Dell EMC
+				176 South Street
+				Hopkinton  MA  01748
+				US
+
+08-00-1B   (hex)		Dell EMC
+08001B     (base 16)		Dell EMC
+				176 South Street
+				Hopkinton  MA  01748
+				US
+
+8C-CF-09   (hex)		Dell EMC
+8CCF09     (base 16)		Dell EMC
+				228 South St
+				Hopkinton  MA  01748
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -141881,12 +141893,6 @@ F8F21E     (base 16)		Intel Corporate
 				Taipei City  Neihu Dist  248
 				TW
 
-70-99-1C   (hex)		Shenzhen HongChengda Electronics Co.,Ltd.
-70991C     (base 16)		Shenzhen HongChengda Electronics Co.,Ltd.
-				5/F,Zone B,Chitat Industrial Park,West Longping Road,Longgang District,Shenzhen City
-				Shenzhen  Guangdong  518172
-				CN
-
 D0-D2-B0   (hex)		Apple, Inc.
 D0D2B0     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -141933,4 +141939,28 @@ D88F76     (base 16)		Apple, Inc.
 587A62     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+8C-83-9D   (hex)		SHENZHEN XINYUPENG ELECTRONIC TECHNOLOGY CO., LTD
+8C839D     (base 16)		SHENZHEN XINYUPENG ELECTRONIC TECHNOLOGY CO., LTD
+				ROOM 1505,BIT INNOVATION BUILDING,SCIENCE AND TECHNOLOGY PARK,NANSHAN DISTRICT
+				Shenzhen    518057
+				CN
+
+EC-FA-F4   (hex)		SenRa Tech Pvt. Ltd
+ECFAF4     (base 16)		SenRa Tech Pvt. Ltd
+				133, First Floor, Lane No. 1, Westend Marg, Saidulajab
+				New Delhi    110030
+				IN
+
+70-99-1C   (hex)		Shenzhen Honesty Electronics Co.,Ltd
+70991C     (base 16)		Shenzhen Honesty Electronics Co.,Ltd
+				5/F,Zone B,Chitat Industrial Park,West Longping Road
+				Shenzhen City  Longgang District, Guangdong  518172
+				CN
+
+D0-67-26   (hex)		Hewlett Packard Enterprise
+D06726     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
 				US
