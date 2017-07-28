@@ -28439,6 +28439,12 @@ ECB5FA     (base 16)		Philips Lighting BV
 				Reggio Emilia    42124
 				IT
 
+64-9A-08   (hex)		Shenzhen SuperElectron Technology Co.,LTD
+649A08     (base 16)		Shenzhen SuperElectron Technology Co.,LTD
+				Layer 13,Haosheng Business Center,Dongbin Road,Nanshan District
+				Shenzhen  guangdong  518052
+				CN
+
 AC-A6-67   (hex)		Electronic Systems Protection, Inc.
 ACA667     (base 16)		Electronic Systems Protection, Inc.
 				8001 Knightdale Blvd.
@@ -28457,10 +28463,16 @@ ACA667     (base 16)		Electronic Systems Protection, Inc.
 				Hopkinton  MA  01748
 				US
 
-64-9A-08   (hex)		Shenzhen SuperElectron Technology Co.,LTD
-649A08     (base 16)		Shenzhen SuperElectron Technology Co.,LTD
-				Layer 13,Haosheng Business Center,Dongbin Road,Nanshan District
-				Shenzhen  guangdong  518052
+CC-2D-E0   (hex)		Routerboard.com
+CC2DE0     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga  Riga  LV1009
+				LV
+
+EC-FA-BC   (hex)		Espressif Inc.
+ECFABC     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -56921,6 +56933,24 @@ B0C19E     (base 16)		zte corporation
 				Hopkinton  MA  01748
 				US
 
+38-D7-CA   (hex)		7HUGS LABS
+38D7CA     (base 16)		7HUGS LABS
+				29 bd Romain Rolland 
+				Montrouge     92120
+				FR
+
+A8-9F-EC   (hex)		ARRIS Group, Inc.
+A89FEC     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+EC-C0-6A   (hex)		PowerChord Group Limited
+ECC06A     (base 16)		PowerChord Group Limited
+				1 Blythe Road
+				London    W14 0HG
+				GB
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -84937,6 +84967,12 @@ E4BD4B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
+
+94-49-96   (hex)		WiSilica Inc
+944996     (base 16)		WiSilica Inc
+				23282 Mill Creek Dr #340
+				Laguna Hills  CA  92653
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -113329,6 +113365,18 @@ A04EA7     (base 16)		Apple, Inc.
 				228 South St
 				Hopkinton  MA  01748
 				US
+
+E8-82-5B   (hex)		ARRIS Group, Inc.
+E8825B     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+10-A4-BE   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+10A4BE     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
+				shenzhen  guangdong  518000
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -142013,8 +142061,26 @@ D06726     (base 16)		Hewlett Packard Enterprise
 				Helsinki  Uusimaa  00520
 				FI
 
+44-CD-0E   (hex)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+44CD0E     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+				Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC
+				Zhuhai  Guangdong  519180
+				CN
+
 08-84-66   (hex)		Novartis Pharma AG
 088466     (base 16)		Novartis Pharma AG
 				Lichtstrasse 35
 				Basel    4056
 				CH
+
+8C-5B-F0   (hex)		ARRIS Group, Inc.
+8C5BF0     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+94-7B-BE   (hex)		Ubicquia
+947BBE     (base 16)		Ubicquia
+				3281 Fairlane Farms Rd
+				Wellington   FL  33449
+				US
