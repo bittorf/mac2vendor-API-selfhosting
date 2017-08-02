@@ -4880,12 +4880,6 @@ E85BF0     (base 16)		Imaging Diagnostics
 				Taipei  Taiwan  10680
 				TW
 
-78-46-C4   (hex)		DAEHAP HYPER-TECH
-7846C4     (base 16)		DAEHAP HYPER-TECH
-				#A-805, Woolim Lions Vally 5-cha, #144-3 Sangdaewon-dong, Jungwon-Gu
-				Seongnam  Gyeonggi-Do  462-726
-				US
-
 0C-D9-C1   (hex)		Visteon Corporation
 0CD9C1     (base 16)		Visteon Corporation
 				One Village Center Drive
@@ -28475,6 +28469,12 @@ ECFABC     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
+78-46-C4   (hex)		DAEHAP HYPER-TECH
+7846C4     (base 16)		DAEHAP HYPER-TECH
+				#A-805, Woolim Lions Vally 5-cha, #144-3 Sangdaewon-dong, Jungwon-Gu
+				Seongnam  Gyeonggi-Do  462-726
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -39220,12 +39220,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				3F, Daiichi-maeda Bldg.
 				Yamato-shi    242-0017
 				JP
-
-00-1D-F4   (hex)		Magellan Technology Pty Limited
-001DF4     (base 16)		Magellan Technology Pty Limited
-				65 Johnston Street
-				Annandale  NSW  2000
-				AU
 
 00-1D-EF   (hex)		TRIMM, INC.
 001DEF     (base 16)		TRIMM, INC.
@@ -56951,6 +56945,18 @@ A89FEC     (base 16)		ARRIS Group, Inc.
 				Montrouge     92120
 				FR
 
+6C-05-D5   (hex)		Ethertronics Inc
+6C05D5     (base 16)		Ethertronics Inc
+				5501 Oberlin Drive, Suite 100
+				SAN DIEGO  CA  92121
+				US
+
+00-1D-F4   (hex)		Magellan Technology Pty Limited
+001DF4     (base 16)		Magellan Technology Pty Limited
+				65 Johnston Street
+				Annandale  NSW  2000
+				AU
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -64770,12 +64776,6 @@ B40832     (base 16)		TC Communications
 0026B1     (base 16)		Navis Auto Motive Systems, Inc.
 				Busan, Centumjungang-ro 78, Centum Greentower 8th floor
 				BUSAN    612-822
-				KR
-
-00-26-A8   (hex)		DAEHAP HYPER-TECH
-0026A8     (base 16)		DAEHAP HYPER-TECH
-				Mega center #1108, SK Techno-Park, #190-1, Sangdaewon-Dong, Jungwon-Gu
-				Seongnam  Gyeonggi-Do  462-807
 				KR
 
 00-26-A7   (hex)		CONNECT SRL
@@ -84986,10 +84986,40 @@ E4BD4B     (base 16)		zte corporation
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+F4-EA-B5   (hex)		Aerohive Networks Inc.
+F4EAB5     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+F8-20-55   (hex)		Green Information System
+F82055     (base 16)		Green Information System
+				#202(Shopping center), Woldong-ro 28, Buk-gu
+				Gwangju    61153
+				KR
+
+78-5C-28   (hex)		Prime Motion Inc.
+785C28     (base 16)		Prime Motion Inc.
+				Akaho 1134-12
+				Komagane  Nagano  399-4117
+				JP
+
 94-49-96   (hex)		WiSilica Inc
 944996     (base 16)		WiSilica Inc
 				23282 Mill Creek Dr #340
 				Laguna Hills  CA  92653
+				US
+
+00-26-A8   (hex)		DAEHAP HYPER-TECH
+0026A8     (base 16)		DAEHAP HYPER-TECH
+				Mega center #1108, SK Techno-Park, #190-1, Sangdaewon-Dong, Jungwon-Gu
+				Seongnam  Gyeonggi-Do  462-807
+				KR
+
+F8-7B-20   (hex)		Cisco Systems, Inc
+F87B20     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -113414,6 +113444,18 @@ E8825B     (base 16)		ARRIS Group, Inc.
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+34-85-84   (hex)		Aerohive Networks Inc.
+348584     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+F8-B7-E2   (hex)		Cisco Systems, Inc
+F8B7E2     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 EC-9F-0D   (hex)		IEEE Registration Authority
 EC9F0D     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -129848,12 +129890,6 @@ DC3350     (base 16)		TechSAT GmbH
 				Washington  DC  20006
 				US
 
-00-09-66   (hex)		Thales Navigation
-000966     (base 16)		Thales Navigation
-				471 El Camino Real
-				Santa Clara  CA  95050
-				US
-
 00-09-6D   (hex)		Powernet Technologies Corp.
 00096D     (base 16)		Powernet Technologies Corp.
 				371-51, Gasan-Dong Kumchon-Gu,
@@ -130255,12 +130291,6 @@ DC3350     (base 16)		TechSAT GmbH
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-00-05-A7   (hex)		Hyperchip, Inc.
-0005A7     (base 16)		Hyperchip, Inc.
-				180 Peel Street - Ste. #333
-				    H3C 2G7
-				CA
 
 00-05-B5   (hex)		Broadcom Technologies
 0005B5     (base 16)		Broadcom Technologies
@@ -142132,3 +142162,15 @@ E82A44     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
 				New Taipei City  Taiwan  23585
 				TW
+
+00-05-A7   (hex)		HYPERCHIP Inc.
+0005A7     (base 16)		HYPERCHIP Inc.
+				180 Peel Street - Ste. #333
+				    H3C 2G7
+				CA
+
+00-09-66   (hex)		TRIMBLE EUROPE BV
+000966     (base 16)		TRIMBLE EUROPE BV
+				Meerheide 45
+				Eersel  DZ  5521
+				NL
