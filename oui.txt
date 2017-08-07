@@ -28469,17 +28469,29 @@ ECFABC     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
+B0-FC-36   (hex)		CyberTAN Technology Inc.
+B0FC36     (base 16)		CyberTAN Technology Inc.
+				99 Park Ave III, Hsinchu Science Park
+				Hsinchu    308
+				TW
+
 78-46-C4   (hex)		DAEHAP HYPER-TECH
 7846C4     (base 16)		DAEHAP HYPER-TECH
 				#A-805, Woolim Lions Vally 5-cha, #144-3 Sangdaewon-dong, Jungwon-Gu
 				Seongnam  Gyeonggi-Do  462-726
 				US
 
-B0-FC-36   (hex)		CyberTAN Technology Inc.
-B0FC36     (base 16)		CyberTAN Technology Inc.
-				99 Park Ave III, Hsinchu Science Park
-				Hsinchu    308
+58-C9-35   (hex)		Chiun Mai Communication Systems, Inc
+58C935     (base 16)		Chiun Mai Communication Systems, Inc
+				No.4, Minsheng St., Tucheng District
+				New Taipei City    23678
 				TW
+
+28-C1-3C   (hex)		Hon Hai Precision Ind. Co., Ltd.
+28C13C     (base 16)		Hon Hai Precision Ind. Co., Ltd.
+				GuangDongShenZhen
+				ShenZhen  GuangDong  518109
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -36868,9 +36880,6 @@ C4FCE4     (base 16)		DishTV NZ Ltd
 				Max Schmidheiny-Strasse 201
 				Heerbrugg  SG  9435
 				CH
-
-C0-22-50   (hex)		Private
-C02250     (base 16)		Private
 
 64-BC-11   (hex)		CombiQ AB
 64BC11     (base 16)		CombiQ AB
@@ -56962,6 +56971,15 @@ A89FEC     (base 16)		ARRIS Group, Inc.
 				65 Johnston Street
 				Annandale  NSW  2000
 				AU
+
+C0-22-50   (hex)		Private
+C02250     (base 16)		Private
+
+00-94-A1   (hex)		F5 Networks, Inc.
+0094A1     (base 16)		F5 Networks, Inc.
+				401 Elliott Ave. W.
+				Seattle  WA  98119
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -85026,6 +85044,24 @@ F8-7B-20   (hex)		Cisco Systems, Inc
 F87B20     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+30-FB-94   (hex)		Shanghai Fangzhiwei Information Technology CO.,Ltd.
+30FB94     (base 16)		Shanghai Fangzhiwei Information Technology CO.,Ltd.
+				The 17th  Building A Unit,No. 1688 Lianhang Road,Minhang District,Shanghai City
+				Shanghai    201100
+				CN
+
+F8-1D-0F   (hex)		Hitron Technologies. Inc
+F81D0F     (base 16)		Hitron Technologies. Inc
+				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu  Taiwan  300
+				TW
+
+08-BA-22   (hex)		Swaive Corporation
+08BA22     (base 16)		Swaive Corporation
+				3565 Kettmann Road
+				San Jose  CA  95121
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -113473,6 +113509,18 @@ A4B52E     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
 				MY
+
+E0-AA-DB   (hex)		Nanjing PANENG Technology Development Co.,Ltd
+E0AADB     (base 16)		Nanjing PANENG Technology Development Co.,Ltd
+				NO.6 Paneng Road,Nanjing High-tech Zone,Jiang Su,China
+				Nanjing     210061
+				CN
+
+C4-CD-82   (hex)		Hangzhou Lowan Information Technology Co., Ltd.
+C4CD82     (base 16)		Hangzhou Lowan Information Technology Co., Ltd.
+				502 Building B, United Mansion, No.2 Zijinghua Road
+				Hangzhou  Zhejiang  310023
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -142181,14 +142229,32 @@ E82A44     (base 16)		Liteon Technology Corporation
 				    H3C 2G7
 				CA
 
+78-DD-D9   (hex)		Guangzhou Shiyuan Electronics Co., Ltd. 
+78DDD9     (base 16)		Guangzhou Shiyuan Electronics Co., Ltd. 
+				No.6, 4th Yunpu Road, Yunpu Industry District
+				Guangzhou  Guangdong  510530
+				CN
+
 00-09-66   (hex)		TRIMBLE EUROPE BV
 000966     (base 16)		TRIMBLE EUROPE BV
 				Meerheide 45
 				Eersel  DZ  5521
 				NL
 
-78-DD-D9   (hex)		Guangzhou Shiyuan Electronics Co., Ltd. 
-78DDD9     (base 16)		Guangzhou Shiyuan Electronics Co., Ltd. 
-				No.6, 4th Yunpu Road, Yunpu Industry District
-				Guangzhou  Guangdong  510530
-				CN
+EC-B0-E1   (hex)		Ciena Corporation
+ECB0E1     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+58-C1-7A   (hex)		Cambium Networks Limited
+58C17A     (base 16)		Cambium Networks Limited
+				Unit B2, Linhay Business Park,
+				Ashburton  Devon  TQ13 7UP
+				GB
+
+2C-54-91   (hex)		Microsoft Corporation
+2C5491     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
