@@ -28529,17 +28529,23 @@ AC0D1B     (base 16)		LG Electronics (Mobile Communications)
 				Taipei  Xinyi District  11074
 				TW
 
+F4-17-B8   (hex)		AirTies Wireless Networks
+F417B8     (base 16)		AirTies Wireless Networks
+				Mithat Uluünlü Sokak No:23, Esentepe / Sisli
+				Istanbul  Marmara  34394
+				TR
+
+5C-AD-76   (hex)		Shenzhen TCL New Technology Co., Ltd
+5CAD76     (base 16)		Shenzhen TCL New Technology Co., Ltd
+				B area,10 Floor, TCL Multimedia Building, TCL International E city, #1001 Zhongshan Park Road, Nanshan District
+				Shenzhen  Guangdong  518052
+				CN
+
 4C-52-62   (hex)		Fujitsu Technology Solutions GmbH
 4C5262     (base 16)		Fujitsu Technology Solutions GmbH
 				Buergermeister-Ulrich-Strasse 100
 				Augsburg  Bayern  86199
 				DE
-
-38-73-EA   (hex)		IEEE Registration Authority
-3873EA     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
 
 EC-70-97   (hex)		ARRIS Group, Inc.
 EC7097     (base 16)		ARRIS Group, Inc.
@@ -28553,22 +28559,16 @@ C0A00D     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-F4-17-B8   (hex)		AirTies Wireless Networks
-F417B8     (base 16)		AirTies Wireless Networks
-				Mithat Uluünlü Sokak No:23, Esentepe / Sisli
-				Istanbul  Marmara  34394
-				TR
-
-5C-AD-76   (hex)		Shenzhen TCL New Technology Co., Ltd
-5CAD76     (base 16)		Shenzhen TCL New Technology Co., Ltd
-				B area,10 Floor, TCL Multimedia Building, TCL International E city, #1001 Zhongshan Park Road, Nanshan District
-				Shenzhen  Guangdong  518052
-				CN
-
 EC-83-50   (hex)		Microsoft Corporation
 EC8350     (base 16)		Microsoft Corporation
 				One Microsoft Way
 				REDMOND  WA  98052
+				US
+
+38-73-EA   (hex)		IEEE Registration Authority
+3873EA     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -57098,12 +57098,6 @@ F86CE1     (base 16)		Taicang T&W Electronics
 				Hui Zhou  Guang Dong  516006
 				CN
 
-38-F7-3D   (hex)		Amazon Technologies Inc.
-38F73D     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 EC-1D-8B   (hex)		Cisco Systems, Inc
 EC1D8B     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -57115,6 +57109,24 @@ EC1D8B     (base 16)		Cisco Systems, Inc
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+38-F7-3D   (hex)		Amazon Technologies Inc.
+38F73D     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+30-B4-B8   (hex)		LG Electronics
+30B4B8     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
+
+2C-FD-AB   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+2CFDAB     (base 16)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+				No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan
+				Wuhan  Hubei  430000
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -85259,17 +85271,35 @@ C8DEC9     (base 16)		Coriant
 				Naperville  IL  60563
 				US
 
+38-0E-4D   (hex)		Cisco Systems, Inc
+380E4D     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 58-19-F8   (hex)		ARRIS Group, Inc.
 5819F8     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-38-0E-4D   (hex)		Cisco Systems, Inc
-380E4D     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+FC-9D-D8   (hex)		Beijing TongTongYiLian Science and Technology Ltd.
+FC9DD8     (base 16)		Beijing TongTongYiLian Science and Technology Ltd.
+				 Room 301,Zone 3,Building 9,No.8 Dongbeiwang West Road,Haidian District,Beijing
+				BEIJING  BEIJING  100193
+				CN
+
+04-B1-67   (hex)		Xiaomi Communications Co Ltd
+04B167     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+38-AD-BE   (hex)		New H3C Technologies Co., Ltd
+38ADBE     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -113776,6 +113806,18 @@ C863F1     (base 16)		Sony Interactive Entertainment Inc.
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
+
+DC-28-34   (hex)		HAKKO Corporation
+DC2834     (base 16)		HAKKO Corporation
+				4-5, Shiokusa 2-chome, Naniwaku
+				Osaka  Osaka  556-0024
+				JP
+
+D8-E0-04   (hex)		Vodia Networks Inc
+D8E004     (base 16)		Vodia Networks Inc
+				33 Broad St
+				Boston  MA  02109
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
