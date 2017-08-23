@@ -28571,6 +28571,12 @@ EC8350     (base 16)		Microsoft Corporation
 				Piscataway  NJ  08554
 				US
 
+0C-CE-F6   (hex)		Guizhou Fortuneship Technology Co., Ltd
+0CCEF6     (base 16)		Guizhou Fortuneship Technology Co., Ltd
+				2nd Floor, Factory Building 4, Hi-Tech Industrial Park, Xinpu Economic Development Zone, Xinpu New District
+				Zunyi City  Guizhou Province  56300
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -57128,6 +57134,18 @@ EC1D8B     (base 16)		Cisco Systems, Inc
 				Wuhan  Hubei  430000
 				CN
 
+F4-1E-5E   (hex)		RtBrick Inc.
+F41E5E     (base 16)		RtBrick Inc.
+				26 Kingston Terrace
+				Princeton  NJ  08540
+				US
+
+18-06-FF   (hex)		Acer Computer(Shanghai) Limited.
+1806FF     (base 16)		Acer Computer(Shanghai) Limited.
+				Room1806-20, No.769, Jiujiang Road, Huangpu District
+				Shanghai    200000
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -85277,12 +85295,6 @@ C8DEC9     (base 16)		Coriant
 				San Jose  CA  94568
 				US
 
-58-19-F8   (hex)		ARRIS Group, Inc.
-5819F8     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
 FC-9D-D8   (hex)		Beijing TongTongYiLian Science and Technology Ltd.
 FC9DD8     (base 16)		Beijing TongTongYiLian Science and Technology Ltd.
 				 Room 301,Zone 3,Building 9,No.8 Dongbeiwang West Road,Haidian District,Beijing
@@ -85300,6 +85312,18 @@ FC9DD8     (base 16)		Beijing TongTongYiLian Science and Technology Ltd.
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+58-19-F8   (hex)		ARRIS Group, Inc.
+5819F8     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+20-78-52   (hex)		Nokia
+207852     (base 16)		Nokia
+				Karaportti 3
+				Espoo  Finland  02610
+				FI
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -142591,3 +142615,9 @@ F8A9D0     (base 16)		LG Electronics (Mobile Communications)
 				1730 Technology Drive, Suite 202
 				San Jose  CA  95110
 				US
+
+44-AD-19   (hex)		XINGFEI （H.K）LIMITED 
+44AD19     (base 16)		XINGFEI （H.K）LIMITED 
+				6/F North Tower Wandelai Building  No.29 Kejinan 6th Road, Nanshan District,Shenzhen,China
+				Shenzhen     518057
+				CN
