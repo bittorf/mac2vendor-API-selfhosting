@@ -1,10 +1,15 @@
 #!/bin/sh
 
-URL='http://standards.ieee.org/develop/regauth/oui/oui.txt'
+# cron-mode:
+# while :; do rm oui.txt; ./update.sh; git push; date; sleep 86400; done
+
 WWWDIR="${1:-/var/www/oui}"	# for testing use e.g. /dev/shm/oui
 FILE="${2:-oui.txt}"		# if file already exists, it is not downloaded
+#
 OPTION="$3"			# e.g. <empty> or 'build_shellscript' (experimental -> ~810k)
-OPTION_ARG="${4:-oui.sh}"
+OPTION_ARG="${4:-oui.sh}"	# in shellscript-mode: scriptname
+
+URL='http://standards.ieee.org/develop/regauth/oui/oui.txt'
 NEW=0
 ALL=0
 CR="$( printf '\r' )"
