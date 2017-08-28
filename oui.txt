@@ -85343,6 +85343,12 @@ CC5D4E     (base 16)		Zyxel Communications Corporation
 				Hsichu  Taiwan  300
 				TW
 
+A8-EE-C6   (hex)		Muuselabs NV/SA
+A8EEC6     (base 16)		Muuselabs NV/SA
+				Rue du Tocsin 12
+				Brussels    1000
+				BE
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -141227,12 +141233,6 @@ C8DE51     (base 16)		 IntegraOptics
 				Singapore  Singapore  609917
 				SG
 
-4C-91-0C   (hex)		Corporativo Lanix S.A. de C.V.
-4C910C     (base 16)		Corporativo Lanix S.A. de C.V.
-				Carretera Nogales Km8.5
-				Hermosillo  Sonora  83160
-				MX
-
 BC-D7-13   (hex)		Owl Labs
 BCD713     (base 16)		Owl Labs
 				33-1/2 Union Square
@@ -142663,3 +142663,15 @@ B0B2DC     (base 16)		Zyxel Communications Corporation
 				No. 6 Innovation Road II, Science Park
 				Hsichu  Taiwan  300
 				TW
+
+4C-AE-1C   (hex)		SaiNXT Technologies LLP
+4CAE1C     (base 16)		SaiNXT Technologies LLP
+				Shop No. 7, Sonawala Building, 1st Floor, Proctor Road, Grant Road (E)
+				Mumbai  Maharashtra  400007
+				IN
+
+4C-91-0C   (hex)		 Lanix Internacional, S.A. de C.V.
+4C910C     (base 16)		 Lanix Internacional, S.A. de C.V.
+				Carretera Nogales Km8.5
+				Hermosillo  Sonora  83160
+				MX
