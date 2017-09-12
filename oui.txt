@@ -57308,6 +57308,18 @@ F065C2     (base 16)		Yanfeng Visteon Electronics Technology (Shanghai) Co.,Ltd.
 				Dallas  TX  75243
 				US
 
+F8-B5-68   (hex)		IEEE Registration Authority
+F8B568     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+14-44-4A   (hex)		Apollo Seiko Ltd.
+14444A     (base 16)		Apollo Seiko Ltd.
+				2271-7 Jinba
+				Gotenba  Shizuoka  412-0047
+				JP
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -113882,6 +113894,18 @@ E8825B     (base 16)		ARRIS Group, Inc.
 				Santa Clara  CA  95054
 				US
 
+80-5E-0C   (hex)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+805E0C     (base 16)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+				309, 3th Floor, No.16, Yun Ding North Road, Huli District
+				xiamen  Fujian  361015
+				CN
+
+3C-2C-99   (hex)		Edgecore Networks Corporation
+3C2C99     (base 16)		Edgecore Networks Corporation
+				1 Creation RD 3.
+				Hsinchu    30077
+				TW
+
 00-BE-9E   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 00BE9E     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
@@ -114143,16 +114167,16 @@ BC91B5     (base 16)		Infinix mobility limited
 				Anyang-si  Gyeonggi-do  14119
 				KR
 
-3C-2C-99   (hex)		Edgecore Networks Corporation
-3C2C99     (base 16)		Edgecore Networks Corporation
-				1 Creation RD 3.
-				Hsinchu    30077
-				TW
+34-BA-38   (hex)		PAL MOHAN ELECTRONICS PVT LTD
+34BA38     (base 16)		PAL MOHAN ELECTRONICS PVT LTD
+				40 DLF, INDUSTRIAL AREA, KIRTI NAGAR
+				NEW DELHI  DELHI  110015
+				IN
 
-80-5E-0C   (hex)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
-805E0C     (base 16)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
-				309, 3th Floor, No.16, Yun Ding North Road, Huli District
-				xiamen  Fujian  361015
+98-29-A6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+9829A6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU  215300
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -143017,3 +143041,9 @@ D8C8E9     (base 16)		Phicomm (Shanghai) Co., Ltd.
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+E4-8F-34   (hex)		Vodafone Italia S.p.A.
+E48F34     (base 16)		Vodafone Italia S.p.A.
+				Via Lorenteggio nr. 240
+				Milan  Italy  20147
+				IT
