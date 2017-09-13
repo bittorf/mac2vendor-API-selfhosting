@@ -2417,12 +2417,6 @@ EC3C5A     (base 16)		SHEN ZHEN HENG SHENG HUI DIGITAL TECHNOLOGY CO.,LTD
 				Zurich  Zurich  8005
 				CH
 
-D8-84-66   (hex)		Extreme Networks
-D88466     (base 16)		Extreme Networks
-				145 Rio Robles
-				San Jose  CA  95134
-				US
-
 E8-87-A3   (hex)		Loxley Public Company Limited
 E887A3     (base 16)		Loxley Public Company Limited
 				102 Na Ranong Road, Klongtoey,
@@ -28648,6 +28642,18 @@ F045DA     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+D8-84-66   (hex)		Extreme Networks, Inc.
+D88466     (base 16)		Extreme Networks, Inc.
+				145 Rio Robles
+				San Jose  CA  95134
+				US
+
+A4-3E-51   (hex)		ANOV FRANCE
+A43E51     (base 16)		ANOV FRANCE
+				100 CHEMIN DE BAILLOT
+				MONTAUBAN    82000
+				FR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -55016,18 +55022,6 @@ E05163     (base 16)		Arcadyan Corporation
 				Pleasanton  CA  94588
 				US
 
-B8-50-01   (hex)		Extreme Networks
-B85001     (base 16)		Extreme Networks
-				ONE ZEBRA PLAZA
-				HOLTSVILLE  NY  11742
-				US
-
-00-04-96   (hex)		Extreme Networks
-000496     (base 16)		Extreme Networks
-				3585 Monroe Street
-				Santa Clara  CA  95051
-				US
-
 7C-38-66   (hex)		Texas Instruments
 7C3866     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -57290,12 +57284,6 @@ F065C2     (base 16)		Yanfeng Visteon Electronics Technology (Shanghai) Co.,Ltd.
 				Artarmon  NSW  2064
 				AU
 
-5C-0C-0E   (hex)		Guizhou Huaxintong Semiconductor Technology Co. Lt
-5C0C0E     (base 16)		Guizhou Huaxintong Semiconductor Technology Co. Lt
-				Sitelin Park
-				Intersection between Jin ma Ave and Qianzhong Ave  Gui An New Area, Guizhou Prov  550003
-				CN
-
 80-8D-B7   (hex)		Hewlett Packard Enterprise
 808DB7     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
@@ -57319,6 +57307,54 @@ F8B568     (base 16)		IEEE Registration Authority
 				2271-7 Jinba
 				Gotenba  Shizuoka  412-0047
 				JP
+
+00-04-96   (hex)		Extreme Networks, Inc.
+000496     (base 16)		Extreme Networks, Inc.
+				3585 Monroe Street
+				Santa Clara  CA  95051
+				US
+
+B8-50-01   (hex)		Extreme Networks, Inc.
+B85001     (base 16)		Extreme Networks, Inc.
+				ONE ZEBRA PLAZA
+				HOLTSVILLE  NY  11742
+				US
+
+5C-0C-0E   (hex)		Guizhou Huaxintong Semiconductor Technology Co Ltd
+5C0C0E     (base 16)		Guizhou Huaxintong Semiconductor Technology Co Ltd
+				Sitelin Park
+				Intersection between Jin ma Ave and Qianzhong Ave  Gui An New Area, Guizhou Prov  550003
+				CN
+
+2C-FD-A1   (hex)		ASUSTek COMPUTER INC.
+2CFDA1     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
+38-07-D4   (hex)		Zeppelin Systems GmbH
+3807D4     (base 16)		Zeppelin Systems GmbH
+				Messenhäuser Str. 37-45
+				Rödermark  Hessen  63322
+				DE
+
+64-20-9F   (hex)		Tilgin AB
+64209F     (base 16)		Tilgin AB
+				Finlandsgatan 40
+				Kista    16474
+				SE
+
+04-E0-B0   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+04E0B0     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+0C-98-38   (hex)		Xiaomi Communications Co Ltd
+0C9838     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -83189,34 +83225,10 @@ BC3F8F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Kanata  Ontario  K2K 2E6
 				CA
 
-74-67-F7   (hex)		Extreme Networks
-7467F7     (base 16)		Extreme Networks
-				1 Zebra Plaza
-				Holtsville  NY  11742
-				US
-
-B4-C7-99   (hex)		Extreme Networks
-B4C799     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
 54-E3-F6   (hex)		Alcatel-Lucent
 54E3F6     (base 16)		Alcatel-Lucent
 				777 East Middlefield Road
 				Mountain View  CA  94043
-				US
-
-5C-0E-8B   (hex)		Extreme Networks
-5C0E8B     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
-00-E0-2B   (hex)		Extreme Networks
-00E02B     (base 16)		Extreme Networks
-				10460 BANDLEY DRIVE
-				CUPERINT0  CA  95014
 				US
 
 B0-C2-05   (hex)		BIONIME
@@ -85570,6 +85582,48 @@ C8DF84     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+B4-C7-99   (hex)		Extreme Networks, Inc.
+B4C799     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+74-67-F7   (hex)		Extreme Networks, Inc.
+7467F7     (base 16)		Extreme Networks, Inc.
+				1 Zebra Plaza
+				Holtsville  NY  11742
+				US
+
+98-00-74   (hex)		Raisecom Technology CO., LTD
+980074     (base 16)		Raisecom Technology CO., LTD
+				No. 11, East Area, No. 10 Block, East Xibeiwang Road
+				Beijing    100094
+				CN
+
+18-C1-9D   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+18C19D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+00-E0-2B   (hex)		Extreme Networks, Inc.
+00E02B     (base 16)		Extreme Networks, Inc.
+				10460 BANDLEY DRIVE
+				CUPERINT0  CA  95014
+				US
+
+5C-0E-8B   (hex)		Extreme Networks, Inc.
+5C0E8B     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+DC-48-B2   (hex)		Baraja Pty. Ltd.
+DC48B2     (base 16)		Baraja Pty. Ltd.
+				36 Bradfield Road
+				West Lindfield  NSW  2070
+				AU
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -111872,12 +111926,6 @@ CCCE1E     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 				Houston  TX  77070
 				US
 
-FC-0A-81   (hex)		Extreme Networks
-FC0A81     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
 C8-B5-AD   (hex)		Hewlett Packard Enterprise
 C8B5AD     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
@@ -114178,6 +114226,24 @@ BC91B5     (base 16)		Infinix mobility limited
 				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
 				KUNSHAN  SUZHOU  215300
 				CN
+
+FC-0A-81   (hex)		Extreme Networks, Inc.
+FC0A81     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+20-E0-9C   (hex)		Nokia
+20E09C     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+04-19-7F   (hex)		Grasphere Japan
+04197F     (base 16)		Grasphere Japan
+				3-1-11 NNT build. 
+				Tokyo    1030013
+				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -140675,12 +140741,6 @@ F8BBBF     (base 16)		eero inc.
 				San Francisco  CA  94105
 				US
 
-00-01-30   (hex)		Extreme Networks
-000130     (base 16)		Extreme Networks
-				3585 Monroe Street
-				Santa Clara  CA  95051
-				US
-
 70-6D-EC   (hex)		Wifi-soft LLC
 706DEC     (base 16)		Wifi-soft LLC
 				616, West Monroe
@@ -143047,3 +143107,15 @@ E48F34     (base 16)		Vodafone Italia S.p.A.
 				Via Lorenteggio nr. 240
 				Milan  Italy  20147
 				IT
+
+00-01-30   (hex)		Extreme Networks, Inc.
+000130     (base 16)		Extreme Networks, Inc.
+				3585 Monroe Street
+				Santa Clara  CA  95051
+				US
+
+78-80-38   (hex)		FUNAI ELECTRIC CO., LTD.
+788038     (base 16)		FUNAI ELECTRIC CO., LTD.
+				7-1, NAKAGAITO 7-CHOME
+				DAITO  OSAKA  5740013
+				JP
