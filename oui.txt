@@ -28643,17 +28643,29 @@ F045DA     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+A4-3E-51   (hex)		ANOV FRANCE
+A43E51     (base 16)		ANOV FRANCE
+				100 CHEMIN DE BAILLOT
+				MONTAUBAN    82000
+				FR
+
 D8-84-66   (hex)		Extreme Networks, Inc.
 D88466     (base 16)		Extreme Networks, Inc.
 				145 Rio Robles
 				San Jose  CA  95134
 				US
 
-A4-3E-51   (hex)		ANOV FRANCE
-A43E51     (base 16)		ANOV FRANCE
-				100 CHEMIN DE BAILLOT
-				MONTAUBAN    82000
-				FR
+58-8D-64   (hex)		Xi'an Clevbee Technology Co.,Ltd
+588D64     (base 16)		Xi'an Clevbee Technology Co.,Ltd
+				FLOOR 7, TOWER B, POSCO CENTER, NO. 13 ZONE FOUR WANGJING EAST PARK, CHAOYANG DISTRICT, BEIJING
+				Beijing    100012
+				CN
+
+34-41-5D   (hex)		Intel Corporate
+34415D     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -57308,18 +57320,6 @@ F8B568     (base 16)		IEEE Registration Authority
 				Gotenba  Shizuoka  412-0047
 				JP
 
-00-04-96   (hex)		Extreme Networks, Inc.
-000496     (base 16)		Extreme Networks, Inc.
-				3585 Monroe Street
-				Santa Clara  CA  95051
-				US
-
-B8-50-01   (hex)		Extreme Networks, Inc.
-B85001     (base 16)		Extreme Networks, Inc.
-				ONE ZEBRA PLAZA
-				HOLTSVILLE  NY  11742
-				US
-
 5C-0C-0E   (hex)		Guizhou Huaxintong Semiconductor Technology Co Ltd
 5C0C0E     (base 16)		Guizhou Huaxintong Semiconductor Technology Co Ltd
 				Sitelin Park
@@ -57355,6 +57355,18 @@ B85001     (base 16)		Extreme Networks, Inc.
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+00-04-96   (hex)		Extreme Networks, Inc.
+000496     (base 16)		Extreme Networks, Inc.
+				3585 Monroe Street
+				Santa Clara  CA  95051
+				US
+
+B8-50-01   (hex)		Extreme Networks, Inc.
+B85001     (base 16)		Extreme Networks, Inc.
+				ONE ZEBRA PLAZA
+				HOLTSVILLE  NY  11742
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -75041,12 +75053,6 @@ A06A00     (base 16)		Verilink Corporation
 				Minneapolis  MN  55413
 				US
 
-00-01-23   (hex)		DIGITAL ELECTRONICS CORP.
-000123     (base 16)		DIGITAL ELECTRONICS CORP.
-				8-2-52 Nanko Higashi, Suminoe-ku
-				Osaka, 559-0031    
-				JP
-
 00-01-1F   (hex)		RC Networks, Inc.
 00011F     (base 16)		RC Networks, Inc.
 				6727 Flanders Drive - Ste. #212
@@ -85624,6 +85630,18 @@ DC48B2     (base 16)		Baraja Pty. Ltd.
 				36 Bradfield Road
 				West Lindfield  NSW  2070
 				AU
+
+00-01-23   (hex)		Schneider Electric Japan Holdings Ltd.
+000123     (base 16)		Schneider Electric Japan Holdings Ltd.
+				Schneider Electric Osaka Building
+				4-4-9 Kitahama  Chuo-ku, Osaka  541-0041
+				JP
+
+7C-76-35   (hex)		Intel Corporate
+7C7635     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -114215,18 +114233,6 @@ BC91B5     (base 16)		Infinix mobility limited
 				Anyang-si  Gyeonggi-do  14119
 				KR
 
-34-BA-38   (hex)		PAL MOHAN ELECTRONICS PVT LTD
-34BA38     (base 16)		PAL MOHAN ELECTRONICS PVT LTD
-				40 DLF, INDUSTRIAL AREA, KIRTI NAGAR
-				NEW DELHI  DELHI  110015
-				IN
-
-98-29-A6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-9829A6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
-				KUNSHAN  SUZHOU  215300
-				CN
-
 FC-0A-81   (hex)		Extreme Networks, Inc.
 FC0A81     (base 16)		Extreme Networks, Inc.
 				475 Half Day Road
@@ -114238,6 +114244,18 @@ FC0A81     (base 16)		Extreme Networks, Inc.
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+34-BA-38   (hex)		PAL MOHAN ELECTRONICS PVT LTD
+34BA38     (base 16)		PAL MOHAN ELECTRONICS PVT LTD
+				40 DLF, INDUSTRIAL AREA, KIRTI NAGAR
+				NEW DELHI  DELHI  110015
+				IN
+
+98-29-A6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+9829A6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU  215300
+				CN
 
 04-19-7F   (hex)		Grasphere Japan
 04197F     (base 16)		Grasphere Japan
