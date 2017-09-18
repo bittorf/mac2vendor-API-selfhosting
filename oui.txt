@@ -57326,12 +57326,6 @@ F8B568     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-14-44-4A   (hex)		Apollo Seiko Ltd.
-14444A     (base 16)		Apollo Seiko Ltd.
-				2271-7 Jinba
-				Gotenba  Shizuoka  412-0047
-				JP
-
 5C-0C-0E   (hex)		Guizhou Huaxintong Semiconductor Technology Co Ltd
 5C0C0E     (base 16)		Guizhou Huaxintong Semiconductor Technology Co Ltd
 				Sitelin Park
@@ -57379,6 +57373,12 @@ B85001     (base 16)		Extreme Networks, Inc.
 				ONE ZEBRA PLAZA
 				HOLTSVILLE  NY  11742
 				US
+
+14-44-4A   (hex)		Apollo Seiko Ltd.
+14444A     (base 16)		Apollo Seiko Ltd.
+				2271-7 Jinba
+				Gotenba  Shizuoka  412-0047
+				JP
 
 7C-76-30   (hex)		Shenzhen YOUHUA Technology Co., Ltd
 7C7630     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
@@ -85631,12 +85631,6 @@ C8DF84     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-5C-0E-8B   (hex)		Extreme Networks, Inc.
-5C0E8B     (base 16)		Extreme Networks, Inc.
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
 B4-C7-99   (hex)		Extreme Networks, Inc.
 B4C799     (base 16)		Extreme Networks, Inc.
 				475 Half Day Road
@@ -85665,6 +85659,12 @@ B4C799     (base 16)		Extreme Networks, Inc.
 00E02B     (base 16)		Extreme Networks, Inc.
 				10460 BANDLEY DRIVE
 				CUPERINT0  CA  95014
+				US
+
+5C-0E-8B   (hex)		Extreme Networks, Inc.
+5C0E8B     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
 				US
 
 A4-86-AE   (hex)		Quectel Wireless Solutions
@@ -85708,6 +85708,18 @@ DC48B2     (base 16)		Baraja Pty. Ltd.
 				ingdao high-tech park haier road 1
 				Qingdao  Shandong  266101
 				CN
+
+D8-63-75   (hex)		Xiaomi Communications Co Ltd
+D86375     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+DC-BF-E9   (hex)		Motorola Mobility LLC, a Lenovo Company
+DCBFE9     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -114026,17 +114038,29 @@ E8825B     (base 16)		ARRIS Group, Inc.
 				Santa Clara  CA  95054
 				US
 
+3C-2C-99   (hex)		Edgecore Networks Corporation
+3C2C99     (base 16)		Edgecore Networks Corporation
+				1 Creation RD 3.
+				Hsinchu    30077
+				TW
+
 80-5E-0C   (hex)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 805E0C     (base 16)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 				309, 3th Floor, No.16, Yun Ding North Road, Huli District
 				xiamen  Fujian  361015
 				CN
 
-3C-2C-99   (hex)		Edgecore Networks Corporation
-3C2C99     (base 16)		Edgecore Networks Corporation
-				1 Creation RD 3.
-				Hsinchu    30077
-				TW
+20-E0-9C   (hex)		Nokia
+20E09C     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+04-19-7F   (hex)		Grasphere Japan
+04197F     (base 16)		Grasphere Japan
+				3-1-11 NNT build. 
+				Tokyo    1030013
+				JP
 
 00-BE-9E   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 00BE9E     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -114299,17 +114323,11 @@ BC91B5     (base 16)		Infinix mobility limited
 				Anyang-si  Gyeonggi-do  14119
 				KR
 
-FC-0A-81   (hex)		Extreme Networks, Inc.
-FC0A81     (base 16)		Extreme Networks, Inc.
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
-20-E0-9C   (hex)		Nokia
-20E09C     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
+98-29-A6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+9829A6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU  215300
+				CN
 
 34-BA-38   (hex)		PAL MOHAN ELECTRONICS PVT LTD
 34BA38     (base 16)		PAL MOHAN ELECTRONICS PVT LTD
@@ -114317,17 +114335,11 @@ FC0A81     (base 16)		Extreme Networks, Inc.
 				NEW DELHI  DELHI  110015
 				IN
 
-98-29-A6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-9829A6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
-				KUNSHAN  SUZHOU  215300
-				CN
-
-04-19-7F   (hex)		Grasphere Japan
-04197F     (base 16)		Grasphere Japan
-				3-1-11 NNT build. 
-				Tokyo    1030013
-				JP
+FC-0A-81   (hex)		Extreme Networks, Inc.
+FC0A81     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
 
 CC-40-D0   (hex)		NETGEAR
 CC40D0     (base 16)		NETGEAR
@@ -114339,6 +114351,12 @@ B4-2D-56   (hex)		Extreme Networks, Inc.
 B42D56     (base 16)		Extreme Networks, Inc.
 				6480 Via Del Oro
 				San Jose  CA  95119
+				US
+
+BC-FF-EB   (hex)		Motorola Mobility LLC, a Lenovo Company
+BCFFEB     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -143180,23 +143198,17 @@ D8C8E9     (base 16)		Phicomm (Shanghai) Co., Ltd.
 				Chongqing  Chongqing  401336
 				CN
 
-68-DB-54   (hex)		Phicomm (Shanghai) Co., Ltd.
-68DB54     (base 16)		Phicomm (Shanghai) Co., Ltd.
-				3666 SiXian Rd.,Songjiang District
-				Shanghai  Shanghai  201616
-				CN
-
 6C-49-C1   (hex)		o2ones Co., Ltd.
 6C49C1     (base 16)		o2ones Co., Ltd.
 				503 Glory Tower, 3-10, Gumi-ro 9beon-gil, Bundang-gu
 				Seongnam-si  Gyeonggi-do  13637
 				KR
 
-2C-6B-7D   (hex)		Texas Instruments
-2C6B7D     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
+68-DB-54   (hex)		Phicomm (Shanghai) Co., Ltd.
+68DB54     (base 16)		Phicomm (Shanghai) Co., Ltd.
+				3666 SiXian Rd.,Songjiang District
+				Shanghai  Shanghai  201616
+				CN
 
 E4-8F-34   (hex)		Vodafone Italia S.p.A.
 E48F34     (base 16)		Vodafone Italia S.p.A.
@@ -143204,10 +143216,10 @@ E48F34     (base 16)		Vodafone Italia S.p.A.
 				Milan  Italy  20147
 				IT
 
-00-01-30   (hex)		Extreme Networks, Inc.
-000130     (base 16)		Extreme Networks, Inc.
-				3585 Monroe Street
-				Santa Clara  CA  95051
+2C-6B-7D   (hex)		Texas Instruments
+2C6B7D     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 78-80-38   (hex)		FUNAI ELECTRIC CO., LTD.
@@ -143215,6 +143227,12 @@ E48F34     (base 16)		Vodafone Italia S.p.A.
 				7-1, NAKAGAITO 7-CHOME
 				DAITO  OSAKA  5740013
 				JP
+
+00-01-30   (hex)		Extreme Networks, Inc.
+000130     (base 16)		Extreme Networks, Inc.
+				3585 Monroe Street
+				Santa Clara  CA  95051
+				US
 
 CC-6E-A4   (hex)		Samsung Electronics Co.,Ltd
 CC6EA4     (base 16)		Samsung Electronics Co.,Ltd
@@ -143227,3 +143245,9 @@ C477AF     (base 16)		Advanced Digital Broadcast SA
 				Route de Crassier 21, B2
 				Eysins    CH-1262
 				CH
+
+20-DF-B9   (hex)		Google, Inc.
+20DFB9     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
