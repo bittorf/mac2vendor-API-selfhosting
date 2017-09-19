@@ -28679,6 +28679,18 @@ D88466     (base 16)		Extreme Networks, Inc.
 				Indianapolis  IN  46290
 				US
 
+6C-2A-CB   (hex)		Paxton Access Ltd
+6C2ACB     (base 16)		Paxton Access Ltd
+				Paxton House
+				Brighton  East Sussex  BN1 9HU
+				GB
+
+00-27-90   (hex)		Cisco Systems, Inc
+002790     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -57326,6 +57338,12 @@ F8B568     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+14-44-4A   (hex)		Apollo Seiko Ltd.
+14444A     (base 16)		Apollo Seiko Ltd.
+				2271-7 Jinba
+				Gotenba  Shizuoka  412-0047
+				JP
+
 5C-0C-0E   (hex)		Guizhou Huaxintong Semiconductor Technology Co Ltd
 5C0C0E     (base 16)		Guizhou Huaxintong Semiconductor Technology Co Ltd
 				Sitelin Park
@@ -57374,12 +57392,6 @@ B85001     (base 16)		Extreme Networks, Inc.
 				HOLTSVILLE  NY  11742
 				US
 
-14-44-4A   (hex)		Apollo Seiko Ltd.
-14444A     (base 16)		Apollo Seiko Ltd.
-				2271-7 Jinba
-				Gotenba  Shizuoka  412-0047
-				JP
-
 7C-76-30   (hex)		Shenzhen YOUHUA Technology Co., Ltd
 7C7630     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
@@ -57409,6 +57421,12 @@ A0BDCD     (base 16)		BSkyB Ltd
 				1025 Lenox Park Blvd
 				Atlanta  GA  30319
 				US
+
+60-6D-3C   (hex)		Luxshare Precision Industry Company Limited
+606D3C     (base 16)		Luxshare Precision Industry Company Limited
+				Floor 2, Block A, Sanyo New Industrial Area
+				West Haoyi Community, Shajing Subdistrict Office  Bao'an District, Shenzhen, Guangdong  523000
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -85703,6 +85721,12 @@ DC48B2     (base 16)		Baraja Pty. Ltd.
 				4-4-9 Kitahama  Chuo-ku, Osaka  541-0041
 				JP
 
+DC-BF-E9   (hex)		Motorola Mobility LLC, a Lenovo Company
+DCBFE9     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
 2C-37-C5   (hex)		Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd
 2C37C5     (base 16)		Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd
 				ingdao high-tech park haier road 1
@@ -85715,11 +85739,11 @@ D86375     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-DC-BF-E9   (hex)		Motorola Mobility LLC, a Lenovo Company
-DCBFE9     (base 16)		Motorola Mobility LLC, a Lenovo Company
-				222 West Merchandise Mart Plaza
-				Chicago  IL  60654
-				US
+74-95-EC   (hex)		ALPS ELECTRIC CO.,LTD.
+7495EC     (base 16)		ALPS ELECTRIC CO.,LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -114038,29 +114062,17 @@ E8825B     (base 16)		ARRIS Group, Inc.
 				Santa Clara  CA  95054
 				US
 
-3C-2C-99   (hex)		Edgecore Networks Corporation
-3C2C99     (base 16)		Edgecore Networks Corporation
-				1 Creation RD 3.
-				Hsinchu    30077
-				TW
-
 80-5E-0C   (hex)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 805E0C     (base 16)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 				309, 3th Floor, No.16, Yun Ding North Road, Huli District
 				xiamen  Fujian  361015
 				CN
 
-20-E0-9C   (hex)		Nokia
-20E09C     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-04-19-7F   (hex)		Grasphere Japan
-04197F     (base 16)		Grasphere Japan
-				3-1-11 NNT build. 
-				Tokyo    1030013
-				JP
+3C-2C-99   (hex)		Edgecore Networks Corporation
+3C2C99     (base 16)		Edgecore Networks Corporation
+				1 Creation RD 3.
+				Hsinchu    30077
+				TW
 
 00-BE-9E   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 00BE9E     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -114323,11 +114335,17 @@ BC91B5     (base 16)		Infinix mobility limited
 				Anyang-si  Gyeonggi-do  14119
 				KR
 
-98-29-A6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-9829A6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
-				KUNSHAN  SUZHOU  215300
-				CN
+FC-0A-81   (hex)		Extreme Networks, Inc.
+FC0A81     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+20-E0-9C   (hex)		Nokia
+20E09C     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 34-BA-38   (hex)		PAL MOHAN ELECTRONICS PVT LTD
 34BA38     (base 16)		PAL MOHAN ELECTRONICS PVT LTD
@@ -114335,10 +114353,22 @@ BC91B5     (base 16)		Infinix mobility limited
 				NEW DELHI  DELHI  110015
 				IN
 
-FC-0A-81   (hex)		Extreme Networks, Inc.
-FC0A81     (base 16)		Extreme Networks, Inc.
-				475 Half Day Road
-				Lincolnshire  IL  60069
+98-29-A6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+9829A6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU  215300
+				CN
+
+04-19-7F   (hex)		Grasphere Japan
+04197F     (base 16)		Grasphere Japan
+				3-1-11 NNT build. 
+				Tokyo    1030013
+				JP
+
+BC-FF-EB   (hex)		Motorola Mobility LLC, a Lenovo Company
+BCFFEB     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
 				US
 
 CC-40-D0   (hex)		NETGEAR
@@ -114353,10 +114383,10 @@ B42D56     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  95119
 				US
 
-BC-FF-EB   (hex)		Motorola Mobility LLC, a Lenovo Company
-BCFFEB     (base 16)		Motorola Mobility LLC, a Lenovo Company
-				222 West Merchandise Mart Plaza
-				Chicago  IL  60654
+00-5D-73   (hex)		Cisco Systems, Inc
+005D73     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -143198,23 +143228,17 @@ D8C8E9     (base 16)		Phicomm (Shanghai) Co., Ltd.
 				Chongqing  Chongqing  401336
 				CN
 
-6C-49-C1   (hex)		o2ones Co., Ltd.
-6C49C1     (base 16)		o2ones Co., Ltd.
-				503 Glory Tower, 3-10, Gumi-ro 9beon-gil, Bundang-gu
-				Seongnam-si  Gyeonggi-do  13637
-				KR
-
 68-DB-54   (hex)		Phicomm (Shanghai) Co., Ltd.
 68DB54     (base 16)		Phicomm (Shanghai) Co., Ltd.
 				3666 SiXian Rd.,Songjiang District
 				Shanghai  Shanghai  201616
 				CN
 
-E4-8F-34   (hex)		Vodafone Italia S.p.A.
-E48F34     (base 16)		Vodafone Italia S.p.A.
-				Via Lorenteggio nr. 240
-				Milan  Italy  20147
-				IT
+6C-49-C1   (hex)		o2ones Co., Ltd.
+6C49C1     (base 16)		o2ones Co., Ltd.
+				503 Glory Tower, 3-10, Gumi-ro 9beon-gil, Bundang-gu
+				Seongnam-si  Gyeonggi-do  13637
+				KR
 
 2C-6B-7D   (hex)		Texas Instruments
 2C6B7D     (base 16)		Texas Instruments
@@ -143222,17 +143246,23 @@ E48F34     (base 16)		Vodafone Italia S.p.A.
 				Dallas  TX  75243
 				US
 
-78-80-38   (hex)		FUNAI ELECTRIC CO., LTD.
-788038     (base 16)		FUNAI ELECTRIC CO., LTD.
-				7-1, NAKAGAITO 7-CHOME
-				DAITO  OSAKA  5740013
-				JP
+E4-8F-34   (hex)		Vodafone Italia S.p.A.
+E48F34     (base 16)		Vodafone Italia S.p.A.
+				Via Lorenteggio nr. 240
+				Milan  Italy  20147
+				IT
 
 00-01-30   (hex)		Extreme Networks, Inc.
 000130     (base 16)		Extreme Networks, Inc.
 				3585 Monroe Street
 				Santa Clara  CA  95051
 				US
+
+78-80-38   (hex)		FUNAI ELECTRIC CO., LTD.
+788038     (base 16)		FUNAI ELECTRIC CO., LTD.
+				7-1, NAKAGAITO 7-CHOME
+				DAITO  OSAKA  5740013
+				JP
 
 CC-6E-A4   (hex)		Samsung Electronics Co.,Ltd
 CC6EA4     (base 16)		Samsung Electronics Co.,Ltd
@@ -143251,3 +143281,9 @@ C477AF     (base 16)		Advanced Digital Broadcast SA
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
 				US
+
+44-F0-34   (hex)		Kaonmedia CO., LTD.
+44F034     (base 16)		Kaonmedia CO., LTD.
+				884-3, Seongnam-daero, Bundang-gu
+				Seongnam-si  Gyeonggi-do  13517
+				KR
