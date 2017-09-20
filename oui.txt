@@ -28691,6 +28691,12 @@ D88466     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  94568
 				US
 
+FC-A1-83   (hex)		Amazon Technologies Inc.
+FCA183     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno    89507
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -85649,6 +85655,12 @@ C8DF84     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+5C-0E-8B   (hex)		Extreme Networks, Inc.
+5C0E8B     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
 B4-C7-99   (hex)		Extreme Networks, Inc.
 B4C799     (base 16)		Extreme Networks, Inc.
 				475 Half Day Road
@@ -85677,12 +85689,6 @@ B4C799     (base 16)		Extreme Networks, Inc.
 00E02B     (base 16)		Extreme Networks, Inc.
 				10460 BANDLEY DRIVE
 				CUPERINT0  CA  95014
-				US
-
-5C-0E-8B   (hex)		Extreme Networks, Inc.
-5C0E8B     (base 16)		Extreme Networks, Inc.
-				475 Half Day Road
-				Lincolnshire  IL  60069
 				US
 
 A4-86-AE   (hex)		Quectel Wireless Solutions
@@ -85721,6 +85727,12 @@ DC48B2     (base 16)		Baraja Pty. Ltd.
 				4-4-9 Kitahama  Chuo-ku, Osaka  541-0041
 				JP
 
+D8-63-75   (hex)		Xiaomi Communications Co Ltd
+D86375     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
 DC-BF-E9   (hex)		Motorola Mobility LLC, a Lenovo Company
 DCBFE9     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
@@ -85731,12 +85743,6 @@ DCBFE9     (base 16)		Motorola Mobility LLC, a Lenovo Company
 2C37C5     (base 16)		Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd
 				ingdao high-tech park haier road 1
 				Qingdao  Shandong  266101
-				CN
-
-D8-63-75   (hex)		Xiaomi Communications Co Ltd
-D86375     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 74-95-EC   (hex)		ALPS ELECTRIC CO.,LTD.
@@ -141701,12 +141707,6 @@ C8DE51     (base 16)		 IntegraOptics
 				Seoul  Seoul  03920
 				KR
 
-14-78-0B   (hex)		PerkinElmer Technologies GmbH & Co. KG
-14780B     (base 16)		PerkinElmer Technologies GmbH & Co. KG
-				In der Rehbach 22
-				Walluf    65396
-				DE
-
 74-DA-DA   (hex)		D-Link International
 74DADA     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
@@ -143287,3 +143287,9 @@ C477AF     (base 16)		Advanced Digital Broadcast SA
 				884-3, Seongnam-daero, Bundang-gu
 				Seongnam-si  Gyeonggi-do  13517
 				KR
+
+14-78-0B   (hex)		Varex Imaging Deutschland AG
+14780B     (base 16)		Varex Imaging Deutschland AG
+				Zweigniederlassung/Branch Walluf
+				In der Rehbach 22  Walluf  65396
+				DE
