@@ -42,11 +42,11 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 		case "$1 $2 $3" in
 			[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' (base 16)')
 				ALL=$(( ALL + 1 ))
-				mac="$( echo "$1" | sed 'y/ABCDEF/abcdef/' )"	# lowercase
+				MAC="$( echo "$1" | sed 'y/ABCDEF/abcdef/' )"	# lowercase
 
-				DIR1="$( echo "$mac" | cut -b 1,2 )"
-				DIR2="$( echo "$mac" | cut -b 3,4 )"
-				DIR3="$( echo "$mac" | cut -b 5,6 )"
+				DIR1="$( echo "$MAC" | cut -b 1,2 )"
+				DIR2="$( echo "$MAC" | cut -b 3,4 )"
+				DIR3="$( echo "$MAC" | cut -b 5,6 )"
 				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. 3CD92B -> oui/3c/d9/2b
 				shift 3 || logger -s "[ERR] shift: ALL: $ALL LINE: '$LINE'"
 				ORGANIZATION="$( echo "$*" | sed "s/${CR}\$//" )"
@@ -71,10 +71,13 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 					{
 						echo '{'
 						echo "  \"vendor_OUI\": \"$DIR1-$DIR2-$DIR3\","
-						echo "  \"vendor_name\": \"...\","
-						echo "  \"vendor_street\": \"...\","
-						echo "  \"vendor_city\": \"...\","
-						echo "  \"vendor_country\": \"...\""
+						echo "  \"vendor_OUI_byte1\": \"$DIR1\","
+						echo "  \"vendor_OUI_byte2\": \"$DIR2\","
+						echo "  \"vendor_OUI_byte3\": \"$DIR3\","
+						echo "  \"vendor_name\": \"$(    sed -n '1p' "$OUTFILE" )\","
+						echo "  \"vendor_street\": \"$(  sed -n '2p' "$OUTFILE" )\","
+						echo "  \"vendor_city\": \"$(    sed -n '3p' "$OUTFILE" )\","
+						echo "  \"vendor_country\": \"$( sed -n '4p' "$OUTFILE" )\""
 						echo '}'
 					} >"$OUTFILE.json"
 				fi

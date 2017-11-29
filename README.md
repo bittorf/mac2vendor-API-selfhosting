@@ -16,12 +16,13 @@ on your server execute this (needs ~6 min / 11 mbytes disk)
 this repository is updated once a day. You can  
 find a sample shell-function mac2vendor() here:
 
-https://github.com/bittorf/kalua/blob/master/openwrt-addons/etc/kalua/net#L1306
+https://github.com/bittorf/kalua/blob/master/openwrt-addons/etc/kalua/net#L1340
 
 This poor mens API make sense on embedded or IoT-devices  
 with a low amount of storage. You can try it on this demo-server:
 
     # curl http://intercity-vpn.de/oui/3c/d9/2b
+    # curl http://intercity-vpn.de/oui/3c/d9/2b.json
 
 For the lazy people there is also an up-to-date tar.xz:
 
