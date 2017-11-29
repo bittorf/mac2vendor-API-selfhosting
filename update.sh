@@ -5,14 +5,14 @@
 
 WWWDIR="${1:-/var/www/oui}"	# for testing use e.g. /dev/shm/oui
 FILE="${2:-oui.txt}"		# if file already exists, it is not downloaded
-#
+
 OPTION="$3"			# e.g. <empty> or 'build_shellscript' (experimental -> ~810k)
 OPTION_ARG="${4:-oui.sh}"	# in shellscript-mode: scriptname
 
 URL='http://standards.ieee.org/develop/regauth/oui/oui.txt'
 NEW=0
 ALL=0
-CR="$( printf '\r' )"
+CARRIAGE_RETURN="$( printf '\r' )"
 
 if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 	# 3C-D9-2B   (hex)                Hewlett Packard
@@ -49,7 +49,7 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 				DIR3="$( echo "$MAC" | cut -b 5,6 )"
 				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. 3CD92B -> oui/3c/d9/2b
 				shift 3 || logger -s "[ERR] shift: ALL: $ALL LINE: '$LINE'"
-				ORGANIZATION="$( echo "$*" | sed "s/${CR}\$//" )"
+				ORGANIZATION="$( echo "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
 
 				case "$OPTION" in
 					'build_shellscript')
@@ -69,21 +69,22 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 					echo >"$OUTFILE" "$ORGANIZATION"
 
 					{
+						# https://stackoverflow.com/questions/5543490/json-naming-convention
 						echo '{'
-						echo "  \"vendor_OUI\": \"$DIR1-$DIR2-$DIR3\","
-						echo "  \"vendor_OUI_byte1\": \"$DIR1\","
-						echo "  \"vendor_OUI_byte2\": \"$DIR2\","
-						echo "  \"vendor_OUI_byte3\": \"$DIR3\","
-						echo "  \"vendor_name\": \"$(    sed -n '1p' "$OUTFILE" )\","
-						echo "  \"vendor_street\": \"$(  sed -n '2p' "$OUTFILE" )\","
-						echo "  \"vendor_city\": \"$(    sed -n '3p' "$OUTFILE" )\","
-						echo "  \"vendor_country\": \"$( sed -n '4p' "$OUTFILE" )\""
+						echo "  \"vendorOUI\": \"$DIR1-$DIR2-$DIR3\","
+						echo "  \"vendorOUIbyte1\": \"$DIR1\","
+						echo "  \"vendorOUIbyte2\": \"$DIR2\","
+						echo "  \"vendorOUIbyte3\": \"$DIR3\","
+						echo "  \"vendorName\": \"$(    sed '1q;d' "$OUTFILE" )\","
+						echo "  \"vendorStreet\": \"$(  sed '2q;d' "$OUTFILE" )\","
+						echo "  \"vendorCity\": \"$(    sed '3q;d' "$OUTFILE" )\","
+						echo "  \"vendorCountry\": \"$( sed '4q;d' "$OUTFILE" )\""
 						echo '}'
 					} >"$OUTFILE.json"
 				fi
 			;;
 			*[a-zA-Z0-9]*)
-				test "$ORGANIZATION" && echo "$*" | sed "s/${CR}\$//" >>"$OUTFILE"	# the countrycode
+				test "$ORGANIZATION" && echo "$*" | sed "s/${CARRIAGE_RETURN}\$//" >>"$OUTFILE"	# the countrycode
 			;;
 			*)
 				ORGANIZATION=		# abort parsing, wait for next entry
