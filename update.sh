@@ -47,7 +47,7 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 				DIR1="$( echo "$mac" | cut -b 1,2 )"
 				DIR2="$( echo "$mac" | cut -b 3,4 )"
 				DIR3="$( echo "$mac" | cut -b 5,6 )"
-				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"	# e.g. 3CD92B -> oui/3c/d9/2b
+				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. 3CD92B -> oui/3c/d9/2b
 				shift 3 || logger -s "[ERR] shift: ALL: $ALL LINE: '$LINE'"
 				ORGANIZATION="$( echo "$*" | sed "s/${CR}\$//" )"
 
@@ -67,10 +67,20 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 					mkdir -p "$WWWDIR/$DIR1/$DIR2"
 
 					echo >"$OUTFILE" "$ORGANIZATION"
+
+					{
+						echo '{'
+						echo "  \"vendor_OUI\": \"$DIR1-$DIR2-$DIR3\","
+						echo "  \"vendor_name\": \"...\","
+						echo "  \"vendor_street\": \"...\","
+						echo "  \"vendor_city\": \"...\","
+						echo "  \"vendor_country\": \"...\""
+						echo '}'
+					} >"$OUTFILE.json"
 				fi
 			;;
-			*[a-z0-9]*)
-				test "$ORGANIZATION" && echo "$*" | sed "s/${CR}\$//" >>"$OUTFILE"
+			*[a-zA-Z0-9]*)
+				test "$ORGANIZATION" && echo "$*" | sed "s/${CR}\$//" >>"$OUTFILE"	# the countrycode
 			;;
 			*)
 				ORGANIZATION=		# abort parsing, wait for next entry
