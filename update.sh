@@ -34,7 +34,7 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 		;;
 	esac
 
-	logger -s "[OK] parsing '$FILE' with $( wc -l <"$FILE" ) lines"
+	logger -s "[OK] parsing '$FILE' with $( wc -l <"$FILE" ) lines, this needs some time..."
 	while read -r LINE; do
 		# shellcheck disable=SC2086
 		set -- $LINE
@@ -68,6 +68,11 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 
 					echo >"$OUTFILE" "$ORGANIZATION"
 
+					VENDOR_NAME="$(    sed '1q;d' "$OUTFILE" )"
+					VENDOR_STREET="$(  sed '2q;d' "$OUTFILE" )"
+					VENDOR_CITY="$(    sed '3q;d' "$OUTFILE" )"
+					VENDOR_COUNTRY="$( sed '4q;d' "$OUTFILE" )"
+
 					{
 						# https://stackoverflow.com/questions/5543490/json-naming-convention
 						echo '{'
@@ -75,10 +80,10 @@ if test -e "$FILE" || wget -O "$FILE" "$URL"; then
 						echo "  \"vendorOUIbyte1\": \"$DIR1\","
 						echo "  \"vendorOUIbyte2\": \"$DIR2\","
 						echo "  \"vendorOUIbyte3\": \"$DIR3\","
-						echo "  \"vendorName\": \"$(    sed '1q;d' "$OUTFILE" )\","
-						echo "  \"vendorStreet\": \"$(  sed '2q;d' "$OUTFILE" )\","
-						echo "  \"vendorCity\": \"$(    sed '3q;d' "$OUTFILE" )\","
-						echo "  \"vendorCountry\": \"$( sed '4q;d' "$OUTFILE" )\""
+						echo "  \"vendorName\": \"$VENDOR_NAME\","
+						echo "  \"vendorStreet\": \"$VENDOR_STREET\","
+						echo "  \"vendorCity\": \"$VENDOR_CITY\","
+						echo "  \"vendorCountry\": \"$VENDOR_COUNTRY\""
 						echo '}'
 					} >"$OUTFILE.json"
 				fi

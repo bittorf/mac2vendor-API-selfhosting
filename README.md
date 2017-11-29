@@ -9,7 +9,7 @@ mac2vendor API, e.g. for the mac-address 3C:D9:2B:xx:xx:xx
     # curl http://yourserver/oui/3c/d9/2b
     Hewlett Packard
 
-on your server execute this (needs ~6 min / 11 mbytes disk)
+on your server execute this (needs ~6 min / 23 mbytes disk)
 
     # ./update.sh /var/www/oui
 
