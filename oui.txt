@@ -58091,18 +58091,6 @@ F88B37     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-18-50-2A   (hex)		SOARNEX
-18502A     (base 16)		SOARNEX
-				NO.158, RUIHU ST., NEIHU DIST.,
-				TAIPEI CITY  TAIWAN (R.O.C.)  11494
-				TW
-
-30-FD-38   (hex)		Google, Inc.
-30FD38     (base 16)		Google, Inc.
-				1600 Amphitheatre Parkway
-				Mountain View  CA  94043
-				US
-
 58-7A-6A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 587A6A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
@@ -58114,6 +58102,18 @@ E4C483     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+30-FD-38   (hex)		Google, Inc.
+30FD38     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+18-50-2A   (hex)		SOARNEX
+18502A     (base 16)		SOARNEX
+				NO.158, RUIHU ST., NEIHU DIST.,
+				TAIPEI CITY  TAIWAN (R.O.C.)  11494
+				TW
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
