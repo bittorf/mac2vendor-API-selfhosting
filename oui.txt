@@ -86729,6 +86729,12 @@ C42C4F     (base 16)		Qingdao Hisense Mobile Communication Technology Co,Ltd
 				Torrance  CA  90503
 				US
 
+74-72-1E   (hex)		Edison Labs Inc.
+74721E     (base 16)		Edison Labs Inc.
+				1122 Stanyan St
+				San Francisco  CA  94117
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
