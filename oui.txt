@@ -29069,6 +29069,24 @@ A438CC     (base 16)		Nintendo Co.,Ltd
 				Odenton  MD  21113
 				US
 
+64-CB-5D   (hex)		SIA TeleSet
+64CB5D     (base 16)		SIA TeleSet
+				Krāslavas iela 5
+				Vecstropi, Naujenes par., Daugavpils distr.    LV-5413
+				LV
+
+70-69-5A   (hex)		Cisco Systems, Inc
+70695A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+A0-66-10   (hex)		FUJITSU LIMITED
+A06610     (base 16)		FUJITSU LIMITED
+				Mushashi-kosuge Tower Place 13F
+				Kawasaki  Kanagawa  211-0063
+				JP
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -30381,12 +30399,6 @@ DCA3AC     (base 16)		RBcloudtech
 44656A     (base 16)		Mega Video Electronic(HK) Industry Co., Ltd
 				Room 503, No.43 Fushun Street, Huanghai West Road,
 				Dalian  Liaoning  116600
-				CN
-
-0C-91-60   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
-0C9160     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
-				No.75,Zhongkai High-Tech Development District,Huizhou
-				Hui Zhou  Guangdong  516006
 				CN
 
 EC-A9-FA   (hex)		GUANGDONG GENIUS TECHNOLOGY CO.,LTD.
@@ -53783,12 +53795,6 @@ BC60A7     (base 16)		Sony Interactive Entertainment Inc.
 				Palo Alto  CA  94301
 				US
 
-20-F5-43   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
-20F543     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
-				No.75,Zhongkai High-Tech Development District,Huizhou
-				Hui Zhou  Guangdong  516006
-				CN
-
 68-53-88   (hex)		P&S Technology
 685388     (base 16)		P&S Technology
 				216 Deajiro
@@ -54801,12 +54807,6 @@ E05163     (base 16)		Arcadyan Corporation
 500FF5     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
 				Room 79,Yuanyi Road,Dalang Town,Dongguan Guangdong 523770
 				Dongguan  Guangdong  523770
-				CN
-
-1C-1E-E3   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
-1C1EE3     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
-				No.75,Zhongkai High-Tech Development District,Huizhou
-				Hui Zhou  Guangdong  516006
 				CN
 
 F0-27-2D   (hex)		Amazon Technologies Inc.
@@ -58132,6 +58132,54 @@ E4C483     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.158, RUIHU ST., NEIHU DIST.,
 				TAIPEI CITY  TAIWAN (R.O.C.)  11494
 				TW
+
+30-45-11   (hex)		Texas Instruments
+304511     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+34-03-DE   (hex)		Texas Instruments
+3403DE     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+F4-E1-1E   (hex)		Texas Instruments
+F4E11E     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+10-E7-C6   (hex)		Hewlett Packard
+10E7C6     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
+				US
+
+20-F5-43   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+20F543     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
+
+1C-1E-E3   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+1C1EE3     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
+
+0C-91-60   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+0C9160     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
+
+0C-62-A6   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+0C62A6     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -85760,6 +85808,12 @@ E42F26     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				San Francisco  CA  94117
 				US
 
+A8-36-7A   (hex)		frogblue TECHNOLOGY GmbH
+A8367A     (base 16)		frogblue TECHNOLOGY GmbH
+				Luxemburger Straße 6
+				Kaiserslautern  Rheinland-Pfalz  67657
+				DE
+
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -86513,12 +86567,6 @@ F0C9D1     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
 				Foshan  Guangdong  528311
 				CN
 
-10-1D-51   (hex)		8Mesh Networks
-101D51     (base 16)		8Mesh Networks
-				 78 Bonham Strand
-				, Sheung Wan    000.
-				HK
-
 D4-9C-F4   (hex)		Palo Alto Networks
 D49CF4     (base 16)		Palo Alto Networks
 				3000 Tannery Way
@@ -86759,11 +86807,23 @@ C42C4F     (base 16)		Qingdao Hisense Mobile Communication Technology Co,Ltd
 				Torrance  CA  90503
 				US
 
-A8-36-7A   (hex)		frogblue TECHNOLOGY GmbH
-A8367A     (base 16)		frogblue TECHNOLOGY GmbH
-				Luxemburger Straße 6
-				Kaiserslautern  Rheinland-Pfalz  67657
-				DE
+B4-81-BF   (hex)		Meta-Networks, LLC
+B481BF     (base 16)		Meta-Networks, LLC
+				Office 106C, 5/2, Varshavskaya street
+				Saint-Petersburg  Saint-Petersburg  196128
+				RU
+
+0C-AE-7D   (hex)		Texas Instruments
+0CAE7D     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+10-1D-51   (hex)		8Mesh Networks
+101D51     (base 16)		8Mesh Networks
+				Unit 607, 6/F, Yen Sheng Centre,
+				64 Hoi Yuen Road  Kwun Tong  000
+				HK
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -91038,12 +91098,6 @@ CC262D     (base 16)		Verifi, LLC
 3C8AE5     (base 16)		Tensun Information Technology(Hangzhou) Co.,LTD
 				Room 207,Building 5,Wensan Road
 				Hangzhou  Zhejiang  310013
-				CN
-
-7C-B2-32   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
-7CB232     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
-				No.75,Zhongkai High-Tech Development District,Huizhou
-				Hui Zhou  Guangdong  516006
 				CN
 
 54-DF-63   (hex)		Intrakey technologies GmbH
@@ -114602,6 +114656,12 @@ D466A8     (base 16)		Riedo Networks Ltd
 				Fribourg    1700
 				CH
 
+38-80-DF   (hex)		Motorola Mobility LLC, a Lenovo Company
+3880DF     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
 				1717 Haitai Building
@@ -115697,12 +115757,6 @@ AC075F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Ottawa  Ontario  K2K-2M5
 				CA
 
-2C-D9-74   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
-2CD974     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
-				No.75,Zhongkai High-Tech Development District,Huizhou
-				Hui Zhou  Guangdong  516006
-				CN
-
 54-3E-64   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 543E64     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
@@ -115779,6 +115833,30 @@ B0ACD2     (base 16)		zte corporation
 4818FA     (base 16)		Nocsys
 				1F, No. 63 Building, No. 421 Hong Cao Road, Xuhui District
 				Shanghai  Shanghai  200233
+				CN
+
+00-BF-77   (hex)		Cisco Systems, Inc
+00BF77     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+30-B7-D4   (hex)		Hitron Technologies. Inc
+30B7D4     (base 16)		Hitron Technologies. Inc
+				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu  Taiwan  300
+				TW
+
+7C-B2-32   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+7CB232     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
+
+2C-D9-74   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+2CD974     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -145027,3 +145105,27 @@ A038F8     (base 16)		OURA Health Oy
 				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
 				shenzhen  guangdong  518000
 				CN
+
+D0-77-14   (hex)		Motorola Mobility LLC, a Lenovo Company
+D07714     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+34-D7-12   (hex)		Smartisan Digital Co., Ltd
+34D712     (base 16)		Smartisan Digital Co., Ltd
+				4F, China Digital Kingdom, No.1 Wangjing North Road, Chaoyang District
+				Beijing  Beijing  100012
+				CN
+
+98-45-62   (hex)		Shanghai Baud Data Communication Co.,Ltd.
+984562     (base 16)		Shanghai Baud Data Communication Co.,Ltd.
+				NO.123 JULI RD
+				PUDONG ZHANGJIANG HIGH-TECH PARK  SHANGHAI  201203
+				CN
+
+E8-98-6D   (hex)		Palo Alto Networks
+E8986D     (base 16)		Palo Alto Networks
+				3000 Tannery Way
+				Santa Clara  CA  95054
+				US
