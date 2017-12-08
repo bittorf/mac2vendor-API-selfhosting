@@ -29087,6 +29087,12 @@ A06610     (base 16)		FUJITSU LIMITED
 				Kawasaki  Kanagawa  211-0063
 				JP
 
+68-D4-82   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+68D482     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
+
 30-1F-9A   (hex)		IEEE Registration Authority
 301F9A     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -86819,17 +86825,23 @@ B481BF     (base 16)		Meta-Networks, LLC
 				Saint-Petersburg  Saint-Petersburg  196128
 				RU
 
+10-1D-51   (hex)		8Mesh Networks
+101D51     (base 16)		8Mesh Networks
+				Unit 607, 6/F, Yen Sheng Centre,
+				64 Hoi Yuen Road  Kwun Tong  000
+				HK
+
 0C-AE-7D   (hex)		Texas Instruments
 0CAE7D     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
 
-10-1D-51   (hex)		8Mesh Networks
-101D51     (base 16)		8Mesh Networks
-				Unit 607, 6/F, Yen Sheng Centre,
-				64 Hoi Yuen Road  Kwun Tong  000
-				HK
+14-4E-34   (hex)		Remote Solution
+144E34     (base 16)		Remote Solution
+				92, Chogokri, Nammyun
+				Kimcheon city  Kyungbuk  740-871
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -114668,6 +114680,24 @@ D466A8     (base 16)		Riedo Networks Ltd
 				Chicago  IL  60654
 				US
 
+7C-B2-32   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+7CB232     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
+
+2C-D9-74   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+2CD974     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
+
+58-B3-FC   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+58B3FC     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,
+				Shenzhen  Guangdong  518000
+				CN
+
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
 				1717 Haitai Building
@@ -115852,18 +115882,6 @@ B0ACD2     (base 16)		zte corporation
 				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
 				Hsin-chu  Taiwan  300
 				TW
-
-7C-B2-32   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
-7CB232     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
-				No.75,Zhongkai High-Tech Development District,Huizhou
-				Hui Zhou  Guangdong  516006
-				CN
-
-2C-D9-74   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
-2CD974     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
-				No.75,Zhongkai High-Tech Development District,Huizhou
-				Hui Zhou  Guangdong  516006
-				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
