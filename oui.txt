@@ -85826,6 +85826,18 @@ A8367A     (base 16)		frogblue TECHNOLOGY GmbH
 				Kaiserslautern  Rheinland-Pfalz  67657
 				DE
 
+14-4E-34   (hex)		Remote Solution
+144E34     (base 16)		Remote Solution
+				92, Chogokri, Nammyun
+				Kimcheon city  Kyungbuk  740-871
+				KR
+
+EC-65-CC   (hex)		Panasonic Automotive Systems Company of America
+EC65CC     (base 16)		Panasonic Automotive Systems Company of America
+				776 Highway 74 South
+				Peachtree City    30269
+				US
+
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -86835,18 +86847,6 @@ B481BF     (base 16)		Meta-Networks, LLC
 0CAE7D     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
-				US
-
-14-4E-34   (hex)		Remote Solution
-144E34     (base 16)		Remote Solution
-				92, Chogokri, Nammyun
-				Kimcheon city  Kyungbuk  740-871
-				KR
-
-EC-65-CC   (hex)		Panasonic Automotive Systems Company of America
-EC65CC     (base 16)		Panasonic Automotive Systems Company of America
-				776 Highway 74 South
-				Peachtree City    30269
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -145158,4 +145158,10 @@ E8-98-6D   (hex)		Palo Alto Networks
 E8986D     (base 16)		Palo Alto Networks
 				3000 Tannery Way
 				Santa Clara  CA  95054
+				US
+
+F0-81-73   (hex)		Amazon Technologies Inc.
+F08173     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno    89507
 				US
