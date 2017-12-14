@@ -19748,12 +19748,6 @@ A8CE90     (base 16)		CVC
 				RESTON  VA  22096
 				US
 
-00-A0-D5   (hex)		SIERRA WIRELESS INC.
-00A0D5     (base 16)		SIERRA WIRELESS INC.
-				13811 Wireless Way
-				  RICHMOND B.C.  V6V 3A4
-				CA
-
 00-20-0F   (hex)		EBRAINS Inc
 00200F     (base 16)		EBRAINS Inc
 				Tachibana Bldg
@@ -29098,6 +29092,18 @@ A06610     (base 16)		FUJITSU LIMITED
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+90-79-10   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+907910     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+00-A0-D5   (hex)		Sierra Wireless Inc
+00A0D5     (base 16)		Sierra Wireless Inc
+				13811 Wireless Way
+				  RICHMOND B.C.  V6V 3A4
+				CA
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -46601,12 +46607,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				    
 				IL
 
-00-01-B9   (hex)		SKF Condition Monitoring
-0001B9     (base 16)		SKF Condition Monitoring
-				4141 Ruffin Road
-				San Diego  CA  92123
-				US
-
 00-01-B5   (hex)		Turin Networks, Inc.
 0001B5     (base 16)		Turin Networks, Inc.
 				1415 North McDowell Blvd.
@@ -58204,6 +58204,36 @@ C43306     (base 16)		China Mobile Group Device Co.,Ltd.
 				32 Xuanwumen West Street,Xicheng District
 				Beijing    100053
 				CN
+
+68-FE-DA   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+68FEDA     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+0C-6A-BC   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+0C6ABC     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+D4-C1-9E   (hex)		Ruckus Wireless
+D4C19E     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+00-01-B9   (hex)		SKF (U.K.) Limited
+0001B9     (base 16)		SKF (U.K.) Limited
+				2 Michaelson Square Kirkton Campus
+				Livingston    West Lothian  EH54 7DP
+				GB
+
+64-C3-D6   (hex)		Juniper Networks
+64C3D6     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -110066,12 +110096,6 @@ BC7574     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Gyeonggi-Do    14523
 				KR
 
-A0-67-BE   (hex)		Sicon srl
-A067BE     (base 16)		Sicon srl
-				Via Sila 1/3
-				Isola Vicentina  Vicenza  36033
-				IT
-
 C4-CA-D9   (hex)		Hangzhou H3C Technologies Co., Limited
 C4CAD9     (base 16)		Hangzhou H3C Technologies Co., Limited
 				310 Liuhe Road, Zhijiang Science Park
@@ -114722,6 +114746,12 @@ D466A8     (base 16)		Riedo Networks Ltd
 				Shenzhen  Guangdong  518000
 				CN
 
+BC-AB-7C   (hex)		TRnP KOREA Co Ltd
+BCAB7C     (base 16)		TRnP KOREA Co Ltd
+				room1308,239 SoHyungRo,WonMiGu,
+				BuChunCity  KyungKiDo  1135
+				KR
+
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
 				1717 Haitai Building
@@ -115907,11 +115937,29 @@ B0ACD2     (base 16)		zte corporation
 				Hsin-chu  Taiwan  300
 				TW
 
-BC-AB-7C   (hex)		TRnP KOREA Co Ltd
-BCAB7C     (base 16)		TRnP KOREA Co Ltd
-				room1308,239 SoHyungRo,WonMiGu,
-				BuChunCity  KyungKiDo  1135
+00-3D-E8   (hex)		LG Electronics (Mobile Communications)
+003DE8     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul    153-801
 				KR
+
+00-2F-D9   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+002FD9     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+88-5F-E8   (hex)		IEEE Registration Authority
+885FE8     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+A0-67-BE   (hex)		Sicon srl
+A067BE     (base 16)		Sicon srl
+				Via Sila 1/3
+				Isola Vicentina  Vicenza  36033
+				IT
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
