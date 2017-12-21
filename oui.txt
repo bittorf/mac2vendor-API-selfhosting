@@ -29135,12 +29135,6 @@ A06610     (base 16)		FUJITSU LIMITED
 				Dongguan    523808
 				CN
 
-AC-35-EE   (hex)		FN-LINK TECHNOLOGY LIMITED
-AC35EE     (base 16)		FN-LINK TECHNOLOGY LIMITED
-				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
-				SHENZHEN  GUANGDONG  518100
-				CN
-
 2C-B8-ED   (hex)		SonicWall
 2CB8ED     (base 16)		SonicWall
 				5455 Great America Parkway
@@ -29152,6 +29146,18 @@ AC35EE     (base 16)		FN-LINK TECHNOLOGY LIMITED
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+AC-35-EE   (hex)		FN-LINK TECHNOLOGY LIMITED
+AC35EE     (base 16)		FN-LINK TECHNOLOGY LIMITED
+				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
+				SHENZHEN  GUANGDONG  518100
+				CN
+
+00-72-78   (hex)		Cisco Systems, Inc
+007278     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
