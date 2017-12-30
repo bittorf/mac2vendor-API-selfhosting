@@ -11840,12 +11840,6 @@ A8CE90     (base 16)		CVC
 				Gdansk    80299
 				PL
 
-00-15-C4   (hex)		FLOVEL CO., LTD.
-0015C4     (base 16)		FLOVEL CO., LTD.
-				The Tachihi building No,3 hall, 6-1, Sakae-cho,
-				Tokyo    190-0003
-				US
-
 00-15-C9   (hex)		Gumstix, Inc
 0015C9     (base 16)		Gumstix, Inc
 				3130 Alpine Road
@@ -29237,6 +29231,12 @@ FC2A9C     (base 16)		Apple, Inc.
 				Building 1, Building 2, J1 site  Shanghai  200120
 				CN
 
+00-15-C4   (hex)		FLOVEL CO., LTD.
+0015C4     (base 16)		FLOVEL CO., LTD.
+				The Tachihi building No,3 hall, 6-1, Sakae-cho,
+				Tokyo    190-0003
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -40813,12 +40813,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				4F, No.19, Ln.221, Ganqian Rd., Neihu District
 				Taipei    114
 				TW
-
-00-16-5C   (hex)		Trackflow Ltd
-00165C     (base 16)		Trackflow Ltd
-				167-169 Kensington High Street
-				London  England  W86SH
-				GB
 
 00-16-55   (hex)		FUHO TECHNOLOGY Co., LTD
 001655     (base 16)		FUHO TECHNOLOGY Co., LTD
@@ -58480,6 +58474,30 @@ C8D083     (base 16)		Apple, Inc.
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+84-F3-EB   (hex)		Espressif Inc.
+84F3EB     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+10-B3-6F   (hex)		Bowei Technology Company Limited 
+10B36F     (base 16)		Bowei Technology Company Limited 
+				2F,Building No.6C,1658,Gumei Rd
+				Shanghai  Shanghai  200233
+				CN
+
+80-05-88   (hex)		Ruijie Networks Co.,LTD
+800588     (base 16)		Ruijie Networks Co.,LTD
+				20# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
+				Fuzhou  Fujian  350002
+				CN
+
+00-16-5C   (hex)		Trackflow Ltd.
+00165C     (base 16)		Trackflow Ltd.
+				167-169 Kensington High Street
+				London  England  W86SH
+				GB
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -78014,12 +78032,6 @@ A06A00     (base 16)		Verilink Corporation
 				BALDWIN PARK  CA  91706
 				US
 
-00-20-0E   (hex)		SATELLITE TECHNOLOGY MGMT, INC
-00200E     (base 16)		SATELLITE TECHNOLOGY MGMT, INC
-				3530 HYLAND AVENUE
-				COSTA MESA  CA  92626
-				US
-
 00-20-96   (hex)		Invensys
 002096     (base 16)		Invensys
 				Robershaw Industrial Products
@@ -87203,6 +87215,24 @@ DC4EF4     (base 16)		Shenzhen MTN Electronics CO., Ltd
 				Hudson  NH  03051
 				US
 
+DC-29-19   (hex)		AltoBeam (Xiamen) Technology Ltd, Co.
+DC2919     (base 16)		AltoBeam (Xiamen) Technology Ltd, Co.
+				South Building 203-38,Huoju Square ,No.56-58,Huoju Road, Huoju Park, Huoju High-tech District
+				Xiamen    361000
+				CN
+
+00-58-3F   (hex)		PC Aquarius
+00583F     (base 16)		PC Aquarius
+				Comcity Office Park, Kievskoe shosse, est.6, bld. 1, Rumyantsevo, Moscow, 108811, RF
+				Moscow    108811
+				RU
+
+F0-9C-D7   (hex)		Guangzhou Blue Cheetah Intelligent Technology Co., Ltd.
+F09CD7     (base 16)		Guangzhou Blue Cheetah Intelligent Technology Co., Ltd.
+				Panyu District, Guangzhou City Panyu Avenue North 555 Panyu Energy Technology Park,Industry Building 2 seats 406-407
+				Guangzhou  Guangdong   511400
+				CN
+
 5C-1D-D9   (hex)		Apple, Inc.
 5C1DD9     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -87227,23 +87257,11 @@ F099B6     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-00-58-3F   (hex)		PC Aquarius
-00583F     (base 16)		PC Aquarius
-				Comcity Office Park, Kievskoe shosse, est.6, bld. 1, Rumyantsevo, Moscow, 108811, RF
-				Moscow    108811
-				RU
-
-F0-9C-D7   (hex)		Guangzhou Blue Cheetah Intelligent Technology Co., Ltd.
-F09CD7     (base 16)		Guangzhou Blue Cheetah Intelligent Technology Co., Ltd.
-				Panyu District, Guangzhou City Panyu Avenue North 555 Panyu Energy Technology Park,Industry Building 2 seats 406-407
-				Guangzhou  Guangdong   511400
-				CN
-
-DC-29-19   (hex)		AltoBeam (Xiamen) Technology Ltd, Co.
-DC2919     (base 16)		AltoBeam (Xiamen) Technology Ltd, Co.
-				South Building 203-38,Huoju Square ,No.56-58,Huoju Road, Huoju Park, Huoju High-tech District
-				Xiamen    361000
-				CN
+00-20-0E   (hex)		NSSLGlobal Technologies AS
+00200E     (base 16)		NSSLGlobal Technologies AS
+				Martin Linges vei 25
+				Fornebu    1364 
+				NO
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -91363,12 +91381,6 @@ DCC0DB     (base 16)		Shenzhen Kaiboer Technology Co., Ltd.
 				Blokken 59
 				Birkeroed    DK-3460
 				DK
-
-E8-9A-FF   (hex)		Fujian Landi Commercial Equipment Co.,Ltd
-E89AFF     (base 16)		Fujian Landi Commercial Equipment Co.,Ltd
-				No.68, Hong Shan Yuan Road, Gulou District
-				Fuzhou Municipality  Fujian Province  350001
-				CN
 
 68-3B-1E   (hex)		Countwise LTD
 683B1E     (base 16)		Countwise LTD
@@ -116387,6 +116399,18 @@ CCC079     (base 16)		Murata Manufacturing Co., Ltd.
 				Nagaokakyo-shi  Kyoto  617-8555
 				JP
 
+E8-9A-FF   (hex)		Fujian LANDI Commercial Equipment Co.,Ltd
+E89AFF     (base 16)		Fujian LANDI Commercial Equipment Co.,Ltd
+				Building 17,the 1st Section ,Fuzhou Software Park
+				No.89 Software Road   Fuzhou ,Fujian  350003
+				CN
+
+34-8B-75   (hex)		LAVA INTERNATIONAL(H.K) LIMITED
+348B75     (base 16)		LAVA INTERNATIONAL(H.K) LIMITED
+				UNIT L 1/F MAU LAM COMM BLDG 16-18 MAU LAM ST, JORDAN KL, HK
+				Hong kong    999077
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -126564,12 +126588,6 @@ DC3350     (base 16)		TechSAT GmbH
 001E00     (base 16)		Shantou Institute of Ultrasonic Instruments
 				No.77, Jinsha Road,
 				Shantou  Guangdong  515041
-				CN
-
-00-1D-FA   (hex)		Fujian LANDI Commercial Equipment Co.,Ltd
-001DFA     (base 16)		Fujian LANDI Commercial Equipment Co.,Ltd
-				Building 23,the 1st section,Software Garden
-				Fuzhou  Fujian  350003
 				CN
 
 00-1D-F3   (hex)		SBS Science & Technology Co., Ltd
@@ -145759,6 +145777,18 @@ F895EA     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+FC-9B-C6   (hex)		Sumavision Technologies Co.,Ltd
+FC9BC6     (base 16)		Sumavision Technologies Co.,Ltd
+				6F, Block A2, Power Creative Building,No.1 Shangdi East Road, Haidian District
+				Beijing    100085
+				CN
+
+00-1D-FA   (hex)		Fujian LANDI Commercial Equipment Co.,Ltd
+001DFA     (base 16)		Fujian LANDI Commercial Equipment Co.,Ltd
+				Building 17,the 1st Section ,Fuzhou Software Park
+				No.89 Software Road   Fuzhou ,Fujian  350003
+				CN
 
 48-0B-B2   (hex)		IEEE Registration Authority
 480BB2     (base 16)		IEEE Registration Authority
