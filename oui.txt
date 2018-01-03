@@ -29225,12 +29225,6 @@ FC2A9C     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-98-2A-69   (hex)		Friends of the electronic equipment (Shanghai) Co.
-982A69     (base 16)		Friends of the electronic equipment (Shanghai) Co.
-				 Free Trade Area of ​​trial test all the way 115 West, 
-				Building 1, Building 2, J1 site  Shanghai  200120
-				CN
-
 48-60-5F   (hex)		LG Electronics (Mobile Communications)
 48605F     (base 16)		LG Electronics (Mobile Communications)
 				60-39, Gasan-dong, Geumcheon-gu
@@ -29242,6 +29236,30 @@ FC2A9C     (base 16)		Apple, Inc.
 				The Tachihi building No,3 hall, 6-1, Sakae-cho,
 				Tokyo    190-0003
 				US
+
+78-1D-4A   (hex)		zte corporation
+781D4A     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+D4-72-26   (hex)		zte corporation
+D47226     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+E4-82-CC   (hex)		Jumptronic GmbH
+E482CC     (base 16)		Jumptronic GmbH
+				An der Weide 5
+				Springe    31832
+				DE
+
+20-16-B9   (hex)		Intel Corporate
+2016B9     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -58511,6 +58529,18 @@ C8D083     (base 16)		Apple, Inc.
 				Qingdao  Shandong  266101
 				CN
 
+78-F9-B4   (hex)		Nokia
+78F9B4     (base 16)		Nokia
+				Karaportti 3
+				Espoo  Finland  02610
+				FI
+
+04-D3-B0   (hex)		Intel Corporate
+04D3B0     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -86222,6 +86252,18 @@ F09CD7     (base 16)		Guangzhou Blue Cheetah Intelligent Technology Co., Ltd.
 				Fornebu    1364 
 				NO
 
+E0-38-3F   (hex)		zte corporation
+E0383F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+00-25-0C   (hex)		Senet Inc
+00250C     (base 16)		Senet Inc
+				100 Market Street, Suite 302 
+				 Portsmouth  NH  03801
+				US
+
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -87267,12 +87309,6 @@ DC-D3-A2   (hex)		Apple, Inc.
 DCD3A2     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
-				US
-
-00-25-0C   (hex)		Senet Inc
-00250C     (base 16)		Senet Inc
-				100 Market Street, Suite 302 
-				 Portsmouth  NH  03801
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -116417,8 +116453,8 @@ A056F3     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-30-78-C2   (hex)		QUCELL Networks
-3078C2     (base 16)		QUCELL Networks
+30-78-C2   (hex)		Innowireless
+3078C2     (base 16)		Innowireless
 				1-301, Pangyo Seven Venture Valley 2-danji
 				Seongnam-Si  Gyeonggi-do  463-400
 				KR
@@ -145813,3 +145849,9 @@ BC2643     (base 16)		Elprotronic Inc.
 				35 Austin Rumble Crt.
 				King City  ON  L7B0B2
 				CA
+
+98-14-D2   (hex)		Avonic
+9814D2     (base 16)		Avonic
+				Distributieweg 60
+				Delfgauw    2645EJ
+				NL
