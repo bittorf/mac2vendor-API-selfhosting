@@ -29225,18 +29225,6 @@ FC2A9C     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-48-60-5F   (hex)		LG Electronics (Mobile Communications)
-48605F     (base 16)		LG Electronics (Mobile Communications)
-				60-39, Gasan-dong, Geumcheon-gu
-				Seoul    153-801
-				KR
-
-00-15-C4   (hex)		FLOVEL CO., LTD.
-0015C4     (base 16)		FLOVEL CO., LTD.
-				The Tachihi building No,3 hall, 6-1, Sakae-cho,
-				Tokyo    190-0003
-				US
-
 78-1D-4A   (hex)		zte corporation
 781D4A     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -29260,6 +29248,18 @@ E482CC     (base 16)		Jumptronic GmbH
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+48-60-5F   (hex)		LG Electronics (Mobile Communications)
+48605F     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul    153-801
+				KR
+
+00-15-C4   (hex)		FLOVEL CO., LTD.
+0015C4     (base 16)		FLOVEL CO., LTD.
+				The Tachihi building No,3 hall, 6-1, Sakae-cho,
+				Tokyo    190-0003
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -116459,6 +116459,18 @@ A056F3     (base 16)		Apple, Inc.
 				Seongnam-Si  Gyeonggi-do  463-400
 				KR
 
+68-89-75   (hex)		nuoxc
+688975     (base 16)		nuoxc
+				龙岗区横岗街道西坑社区西坑梧岗路9号2栋
+				深圳市  广东省  518173
+				CN
+
+44-1E-98   (hex)		Ruckus Wireless
+441E98     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -145855,3 +145867,9 @@ BC2643     (base 16)		Elprotronic Inc.
 				Distributieweg 60
 				Delfgauw    2645EJ
 				NL
+
+68-CA-E4   (hex)		Cisco Systems, Inc
+68CAE4     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
