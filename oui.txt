@@ -29225,12 +29225,6 @@ FC2A9C     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-78-1D-4A   (hex)		zte corporation
-781D4A     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
-				CN
-
 D4-72-26   (hex)		zte corporation
 D47226     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -29248,6 +29242,12 @@ E482CC     (base 16)		Jumptronic GmbH
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+78-1D-4A   (hex)		zte corporation
+781D4A     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
 
 48-60-5F   (hex)		LG Electronics (Mobile Communications)
 48605F     (base 16)		LG Electronics (Mobile Communications)
@@ -145870,6 +145870,12 @@ BC2643     (base 16)		Elprotronic Inc.
 
 68-CA-E4   (hex)		Cisco Systems, Inc
 68CAE4     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+68-2C-7B   (hex)		Cisco Systems, Inc
+682C7B     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
