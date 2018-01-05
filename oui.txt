@@ -86264,6 +86264,12 @@ E0383F     (base 16)		zte corporation
 				 Portsmouth  NH  03801
 				US
 
+DC-33-0D   (hex)		QING DAO HAIER TELECOM CO.,LTD.
+DC330D     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
+				No 1  Haier road,Hi-tech Zone，Qingdao，PR.China
+				Qingdao  Shandong  266101
+				CN
+
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -87310,12 +87316,6 @@ DCD3A2     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
-
-DC-33-0D   (hex)		QING DAO HAIER TELECOM CO.,LTD.
-DC330D     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
-				No 1  Haier road,Hi-tech Zone，Qingdao，PR.China
-				Qingdao  Shandong  266101
-				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -145874,11 +145874,11 @@ BC2643     (base 16)		Elprotronic Inc.
 				Delfgauw    2645EJ
 				NL
 
-68-CA-E4   (hex)		Cisco Systems, Inc
-68CAE4     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+B0-A3-7E   (hex)		QING DAO HAIER TELECOM CO.,LTD.
+B0A37E     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
+				No.1,Haier Road,Qingdao 266101 P.R.China
+				Qingdao  Shandong  266101
+				CN
 
 68-2C-7B   (hex)		Cisco Systems, Inc
 682C7B     (base 16)		Cisco Systems, Inc
@@ -145886,8 +145886,14 @@ BC2643     (base 16)		Elprotronic Inc.
 				San Jose  CA  94568
 				US
 
-B0-A3-7E   (hex)		QING DAO HAIER TELECOM CO.,LTD.
-B0A37E     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
-				No.1,Haier Road,Qingdao 266101 P.R.China
-				Qingdao  Shandong  266101
-				CN
+68-CA-E4   (hex)		Cisco Systems, Inc
+68CAE4     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+CC-93-4A   (hex)		Sierra Wireless
+CC934A     (base 16)		Sierra Wireless
+				1381 Wireless Way 
+				Richmond BC   CA   V6V 3A4 
+				GB
