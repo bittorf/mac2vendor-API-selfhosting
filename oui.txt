@@ -29225,6 +29225,12 @@ FC2A9C     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+78-1D-4A   (hex)		zte corporation
+781D4A     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
 D4-72-26   (hex)		zte corporation
 D47226     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -29243,12 +29249,6 @@ E482CC     (base 16)		Jumptronic GmbH
 				Kulim  Kedah  09000
 				MY
 
-78-1D-4A   (hex)		zte corporation
-781D4A     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
-				CN
-
 48-60-5F   (hex)		LG Electronics (Mobile Communications)
 48605F     (base 16)		LG Electronics (Mobile Communications)
 				60-39, Gasan-dong, Geumcheon-gu
@@ -29260,6 +29260,12 @@ E482CC     (base 16)		Jumptronic GmbH
 				The Tachihi building No,3 hall, 6-1, Sakae-cho,
 				Tokyo    190-0003
 				US
+
+3C-EA-F9   (hex)		JUBIXCOLTD
+3CEAF9     (base 16)		JUBIXCOLTD
+				Rm 808, 809, B dong, Gunpo IT vally, 17, Gosan-ro 148beon-gil, Gunpo-si, Gyeonggi-do, Republic of Korea
+				GUNPOSI    15850
+				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -30933,12 +30939,6 @@ C43ABE     (base 16)		Sony Mobile Communications AB
 38D82F     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
-				CN
-
-C8-D7-79   (hex)		Qingdao Haier Telecom Co.，Ltd
-C8D779     (base 16)		Qingdao Haier Telecom Co.，Ltd
-				No 1  Haier road,Hi-tech Zone，Qingdao，PR.China
-				Qingdao  Shandong  266101
 				CN
 
 2C-A2-B4   (hex)		Fortify Technologies, LLC
@@ -58541,6 +58541,12 @@ C8D083     (base 16)		Apple, Inc.
 				Kulim  Kedah  09000
 				MY
 
+C8-D7-79   (hex)		QING DAO HAIER TELECOM CO.,LTD.
+C8D779     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
+				No 1  Haier road,Hi-tech Zone，Qingdao，PR.China
+				Qingdao  Shandong  266101
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -58756,12 +58762,6 @@ CC4EEC     (base 16)		HUMAX Co., Ltd.
 				HUMAX Village, 216, Hwangsaeul-ro, Bundang-gu,
 				Seongnam-si  Gyeonggi-do  463-875
 				KR
-
-DC-33-0D   (hex)		Qingdao Haier Telecom Co.，Ltd
-DC330D     (base 16)		Qingdao Haier Telecom Co.，Ltd
-				No 1  Haier road,Hi-tech Zone，Qingdao，PR.China
-				Qingdao  Shandong  266101
-				CN
 
 00-80-E1   (hex)		STMicroelectronics SRL
 0080E1     (base 16)		STMicroelectronics SRL
@@ -87311,6 +87311,12 @@ DCD3A2     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+DC-33-0D   (hex)		QING DAO HAIER TELECOM CO.,LTD.
+DC330D     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
+				No 1  Haier road,Hi-tech Zone，Qingdao，PR.China
+				Qingdao  Shandong  266101
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -102851,12 +102857,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Hoechberg  Bavaria  97204
 				DE
 
-00-07-A8   (hex)		Haier Group Technologies Ltd.
-0007A8     (base 16)		Haier Group Technologies Ltd.
-				No. 1 Haier Road, Hi-tech Zone
-				    
-				CN
-
 00-09-4A   (hex)		Homenet Communications
 00094A     (base 16)		Homenet Communications
 				Innovation Centre
@@ -116471,6 +116471,18 @@ A056F3     (base 16)		Apple, Inc.
 				Sunnyvale  CA  94089
 				US
 
+00-07-A8   (hex)		Haier Group Technologies Ltd
+0007A8     (base 16)		Haier Group Technologies Ltd
+				No. 1 Haier Road, Hi-tech Zone
+				    
+				CN
+
+E4-43-4B   (hex)		Dell Inc.
+E4434B     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -117051,12 +117063,6 @@ B075D5     (base 16)		zte corporation
 002512     (base 16)		zte corporation
 				12/F ZTE Plaza,Keji Road South,Hi-Tech Industrial Park,Nanshan District,
 				Shenzhen  GUANGDONG  518057
-				CN
-
-B0-A3-7E   (hex)		Qingdao Haier Telecom Co.，Ltd
-B0A37E     (base 16)		Qingdao Haier Telecom Co.，Ltd
-				No.1,Haier Road,Qingdao 266101 P.R.China
-				Qingdao  Shandong  266101
 				CN
 
 70-A8-E3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -145879,3 +145885,9 @@ BC2643     (base 16)		Elprotronic Inc.
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+B0-A3-7E   (hex)		QING DAO HAIER TELECOM CO.,LTD.
+B0A37E     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
+				No.1,Haier Road,Qingdao 266101 P.R.China
+				Qingdao  Shandong  266101
+				CN
