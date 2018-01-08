@@ -29225,6 +29225,12 @@ FC2A9C     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+78-1D-4A   (hex)		zte corporation
+781D4A     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
 D4-72-26   (hex)		zte corporation
 D47226     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -29242,12 +29248,6 @@ E482CC     (base 16)		Jumptronic GmbH
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
-
-78-1D-4A   (hex)		zte corporation
-781D4A     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
-				CN
 
 48-60-5F   (hex)		LG Electronics (Mobile Communications)
 48605F     (base 16)		LG Electronics (Mobile Communications)
@@ -29296,6 +29296,24 @@ DCDE4F     (base 16)		Gionee Communication Equipment Co Ltd
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+88-96-4E   (hex)		ARRIS Group, Inc.
+88964E     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+F8-F5-32   (hex)		ARRIS Group, Inc.
+F8F532     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+B0-83-D6   (hex)		ARRIS Group, Inc.
+B083D6     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -58570,6 +58588,18 @@ C8D779     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
 				No 1  Haier road,Hi-tech Zone，Qingdao，PR.China
 				Qingdao  Shandong  266101
 				CN
+
+44-34-A7   (hex)		ARRIS Group, Inc.
+4434A7     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+3C-E1-A1   (hex)		Universal Global Scientific Industrial Co., Ltd.
+3CE1A1     (base 16)		Universal Global Scientific Industrial Co., Ltd.
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
 
 58-BA-D4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 58BAD4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -115232,6 +115262,30 @@ E89AFF     (base 16)		Fujian LANDI Commercial Equipment Co.,Ltd
 				No.89 Software Road   Fuzhou ,Fujian  350003
 				CN
 
+00-07-A8   (hex)		Haier Group Technologies Ltd
+0007A8     (base 16)		Haier Group Technologies Ltd
+				No. 1 Haier Road, Hi-tech Zone
+				    
+				CN
+
+E4-43-4B   (hex)		Dell Inc.
+E4434B     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+68-89-75   (hex)		nuoxc
+688975     (base 16)		nuoxc
+				龙岗区横岗街道西坑社区西坑梧岗路9号2栋
+				深圳市  广东省  518173
+				CN
+
+44-1E-98   (hex)		Ruckus Wireless
+441E98     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
 				1717 Haitai Building
@@ -116513,29 +116567,11 @@ A056F3     (base 16)		Apple, Inc.
 				Seongnam-Si  Gyeonggi-do  463-400
 				KR
 
-00-07-A8   (hex)		Haier Group Technologies Ltd
-0007A8     (base 16)		Haier Group Technologies Ltd
-				No. 1 Haier Road, Hi-tech Zone
-				    
+3C-15-FB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3C15FB     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
-
-E4-43-4B   (hex)		Dell Inc.
-E4434B     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
-68-89-75   (hex)		nuoxc
-688975     (base 16)		nuoxc
-				龙岗区横岗街道西坑社区西坑梧岗路9号2栋
-				深圳市  广东省  518173
-				CN
-
-44-1E-98   (hex)		Ruckus Wireless
-441E98     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
 
 B0-41-6F   (hex)		Shenzhen Maxtang Computer Co.,Ltd
 B0416F     (base 16)		Shenzhen Maxtang Computer Co.,Ltd
@@ -116551,12 +116587,6 @@ F898EF     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 
 14-09-DC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 1409DC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-3C-15-FB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-3C15FB     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
@@ -145976,12 +146006,6 @@ CC934A     (base 16)		Sierra Wireless
 				Richmond BC   CA   V6V 3A4 
 				GB
 
-EC-93-65   (hex)		Mapper.ai, Inc.
-EC9365     (base 16)		Mapper.ai, Inc.
-				400 Treat Ave, Suite G
-				San Francisco  CA  94110
-				US
-
 A8-F5-AC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 A8F5AC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -145993,3 +146017,15 @@ A8F5AC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+EC-93-65   (hex)		Mapper.ai, Inc.
+EC9365     (base 16)		Mapper.ai, Inc.
+				400 Treat Ave, Suite G
+				San Francisco  CA  94110
+				US
+
+28-16-A8   (hex)		Microsoft Corporation
+2816A8     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
