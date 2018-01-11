@@ -58649,6 +58649,12 @@ A4ED4E     (base 16)		ARRIS Group, Inc.
 				Piscataway  NJ  08554
 				US
 
+10-65-30   (hex)		Dell Inc.
+106530     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -87455,6 +87461,18 @@ BC644B     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
+70-C8-33   (hex)		Wirepas Oy
+70C833     (base 16)		Wirepas Oy
+				Visiokatu 4
+				Tampere    33720
+				FI
+
+E8-FA-F7   (hex)		Guangdong Uniteddata Holding Group Co., Ltd.
+E8FAF7     (base 16)		Guangdong Uniteddata Holding Group Co., Ltd.
+				39L, Pearl River Tower, No.15 Zhujiang West Road,Tianhe District
+				GUANGZHOU  GUANGDONG  510623
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -115244,6 +115262,96 @@ E8ED05     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
+30-78-C2   (hex)		Innowireless / QUCELL Networks
+3078C2     (base 16)		Innowireless / QUCELL Networks
+				Innowireless Bldg.  190 Seohyeon-ro
+				Bundang-gu, Seongnam-si  Gyeonggi-do  463-400
+				KR
+
+64-12-69   (hex)		ARRIS Group, Inc.
+641269     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1C-C3   (hex)		ARRIS Group, Inc.
+001CC3     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+14-D4-FE   (hex)		ARRIS Group, Inc.
+14D4FE     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+70-B1-4E   (hex)		ARRIS Group, Inc.
+70B14E     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+D8-25-22   (hex)		ARRIS Group, Inc.
+D82522     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+70-76-30   (hex)		ARRIS Group, Inc.
+707630     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+F4-0E-83   (hex)		ARRIS Group, Inc.
+F40E83     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+60-8C-E6   (hex)		ARRIS Group, Inc.
+608CE6     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+E8-82-5B   (hex)		ARRIS Group, Inc.
+E8825B     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+64-02-CB   (hex)		ARRIS Group, Inc.
+6402CB     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+F0-FC-C8   (hex)		ARRIS Group, Inc.
+F0FCC8     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+FC-69-47   (hex)		Texas Instruments
+FC6947     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+E0-7D-EA   (hex)		Texas Instruments
+E07DEA     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+F0-B5-D1   (hex)		Texas Instruments
+F0B5D1     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
 				1717 Haitai Building
@@ -116578,96 +116686,6 @@ F01898     (base 16)		Apple, Inc.
 				11th Fl., Suojia Business Building , No.7 Hangkong Road , Baoan District
 				Shenzhen  Guangdong  518000
 				CN
-
-64-12-69   (hex)		ARRIS Group, Inc.
-641269     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1C-C3   (hex)		ARRIS Group, Inc.
-001CC3     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-14-D4-FE   (hex)		ARRIS Group, Inc.
-14D4FE     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-70-B1-4E   (hex)		ARRIS Group, Inc.
-70B14E     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-D8-25-22   (hex)		ARRIS Group, Inc.
-D82522     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-70-76-30   (hex)		ARRIS Group, Inc.
-707630     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-F4-0E-83   (hex)		ARRIS Group, Inc.
-F40E83     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-60-8C-E6   (hex)		ARRIS Group, Inc.
-608CE6     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-E8-82-5B   (hex)		ARRIS Group, Inc.
-E8825B     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-64-02-CB   (hex)		ARRIS Group, Inc.
-6402CB     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-F0-FC-C8   (hex)		ARRIS Group, Inc.
-F0FCC8     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-30-78-C2   (hex)		Innowireless / QUCELL Networks
-3078C2     (base 16)		Innowireless / QUCELL Networks
-				Innowireless Bldg.  190 Seohyeon-ro
-				Bundang-gu, Seongnam-si  Gyeonggi-do  463-400
-				KR
-
-FC-69-47   (hex)		Texas Instruments
-FC6947     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-E0-7D-EA   (hex)		Texas Instruments
-E07DEA     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-F0-B5-D1   (hex)		Texas Instruments
-F0B5D1     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -146119,3 +146137,9 @@ C0C522     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+04-6B-1B   (hex)		SYSDINE Co., Ltd.
+046B1B     (base 16)		SYSDINE Co., Ltd.
+				506 Convergence technology research commercialization center 218 Gajung-Ro, Yuseong-gu
+				Daejeon-City  Daejeon-City  34129
+				KR
