@@ -18200,12 +18200,6 @@ A8CE90     (base 16)		CVC
 				HSIN-CHU    
 				TW
 
-00-50-89   (hex)		SAFETY MANAGEMENT SYSTEMS
-005089     (base 16)		SAFETY MANAGEMENT SYSTEMS
-				BRANDERIJSTRAAT 6
-				5223 AS 'S-HERTOGENBOSCH'    
-				NL
-
 00-50-66   (hex)		AtecoM GmbH advanced telecomunication modules
 005066     (base 16)		AtecoM GmbH advanced telecomunication modules
 				KAISERSTR. 100
@@ -29344,6 +29338,12 @@ CCA462     (base 16)		ARRIS Group, Inc.
 				No. 1, building 305, Yunqi Town Cloud Computing Industrial Park, Hangzhou City, Xihu District
 				Hangzhou  Zhejiang  310000
 				CN
+
+00-50-89   (hex)		SAFETY MANAGEMENT SYSTEMS
+005089     (base 16)		SAFETY MANAGEMENT SYSTEMS
+				Burgemeester Burgerslaan 40
+				NH Rosmalen    5245
+				NL
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -48581,12 +48581,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				SEATTLE  WA  98168
 				US
 
-00-E0-09   (hex)		MARATHON TECHNOLOGIES CORP.
-00E009     (base 16)		MARATHON TECHNOLOGIES CORP.
-				1300 MASSACHUSETTS AVENUE
-				BOXBOROUGH  MA  01719
-				US
-
 00-E0-2F   (hex)		MCNS HOLDINGS, L.P.
 00E02F     (base 16)		MCNS HOLDINGS, L.P.
 				TCI, INC.-TECHNOLOGY VENTURES
@@ -58695,6 +58689,18 @@ B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 701D08     (base 16)		99IOT Shenzhen co.,ltd
 				609C north block, Cangsong Building, Tairan Seven Road, Futian District
 				Shenzhen  Guangdong  518000
+				CN
+
+00-E0-09   (hex)		Stratus Technologies
+00E009     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
+30-0A-C5   (hex)		Ruio telecommunication technologies Co., Limited
+300AC5     (base 16)		Ruio telecommunication technologies Co., Limited
+				Room 2501, Broadegate Software Building, No,1003 Keyuan Road,
+				Shenzhen  guangdong  518000
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -74348,12 +74354,6 @@ A06A00     (base 16)		Verilink Corporation
 				    
 				SE
 
-00-04-FC   (hex)		Stratus Computer (DE), Inc.
-0004FC     (base 16)		Stratus Computer (DE), Inc.
-				111 Powdermill Road
-				Maynard  MA  01754
-				US
-
 00-04-F6   (hex)		Amphus
 0004F6     (base 16)		Amphus
 				2372 Qume Drive, #F
@@ -79158,12 +79158,6 @@ A06A00     (base 16)		Verilink Corporation
 000068     (base 16)		ROSEMOUNT CONTROLS
 				1300 E. LAMBERT ROAD
 				LA HABRA  CA  90632
-				US
-
-00-00-A8   (hex)		STRATUS COMPUTER INC.
-0000A8     (base 16)		STRATUS COMPUTER INC.
-				111 Powdermill Road
-				Maynard  MA  01754
 				US
 
 00-00-DF   (hex)		BELL & HOWELL PUB SYS DIV
@@ -87532,6 +87526,24 @@ E8FAF7     (base 16)		Guangdong Uniteddata Holding Group Co., Ltd.
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+38-35-FB   (hex)		Sagemcom Broadband SAS
+3835FB     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+00-00-A8   (hex)		Stratus Technologies
+0000A8     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
+00-04-FC   (hex)		Stratus Technologies
+0004FC     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -115322,12 +115334,6 @@ E8ED05     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-30-78-C2   (hex)		Innowireless / QUCELL Networks
-3078C2     (base 16)		Innowireless / QUCELL Networks
-				Innowireless Bldg.  190 Seohyeon-ro
-				Bundang-gu, Seongnam-si  Gyeonggi-do  463-400
-				KR
-
 64-12-69   (hex)		ARRIS Group, Inc.
 641269     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -115411,6 +115417,18 @@ F0B5D1     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+FC-E6-6A   (hex)		Industrial Software Co
+FCE66A     (base 16)		Industrial Software Co
+				85, Aleksandyr Malinov Blvd. Office 6
+				Sofia    1715
+				BG
+
+78-36-CC   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+7836CC     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
@@ -116747,17 +116765,11 @@ F01898     (base 16)		Apple, Inc.
 				Shenzhen  Guangdong  518000
 				CN
 
-FC-E6-6A   (hex)		Industrial Software Co
-FCE66A     (base 16)		Industrial Software Co
-				85, Aleksandyr Malinov Blvd. Office 6
-				Sofia    1715
-				BG
-
-78-36-CC   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-7836CC     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
+30-78-C2   (hex)		Innowireless / QUCELL Networks
+3078C2     (base 16)		Innowireless / QUCELL Networks
+				Innowireless Bldg.  190 Seohyeon-ro
+				Bundang-gu, Seongnam-si  Gyeonggi-do  13590
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
