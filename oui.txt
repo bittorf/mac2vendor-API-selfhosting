@@ -58667,12 +58667,6 @@ A4ED4E     (base 16)		ARRIS Group, Inc.
 				Round Rock  TX  78682
 				US
 
-9C-7F-57   (hex)		DERA Co. Ltd
-9C7F57     (base 16)		DERA Co. Ltd
-				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
-				Beijing    102208
-				CN
-
 B4-E0-1D   (hex)		CONCEPTION ELECTRONIQUE
 B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 				3 boulevard de l'europe
@@ -58691,6 +58685,12 @@ B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 				Shenzhen  Guangdong  518000
 				CN
 
+9C-7F-57   (hex)		DERA Co. Ltd
+9C7F57     (base 16)		DERA Co. Ltd
+				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
+				Beijing    102208
+				CN
+
 00-E0-09   (hex)		Stratus Technologies
 00E009     (base 16)		Stratus Technologies
 				5 Mill and Main Place, Suite 500
@@ -58702,6 +58702,12 @@ B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 				Room 2501, Broadegate Software Building, No,1003 Keyuan Road,
 				Shenzhen  guangdong  518000
 				CN
+
+3C-24-F0   (hex)		IEEE Registration Authority
+3C24F0     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -86192,6 +86198,24 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
+40-F0-4E   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+40F04E     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+58-DB-15   (hex)		TECNO MOBILE LIMITED
+58DB15     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
+44-66-FC   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+4466FC     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -87507,24 +87531,6 @@ E8-FA-F7   (hex)		Guangdong Uniteddata Holding Group Co., Ltd.
 E8FAF7     (base 16)		Guangdong Uniteddata Holding Group Co., Ltd.
 				39L, Pearl River Tower, No.15 Zhujiang West Road,Tianhe District
 				GUANGZHOU  GUANGDONG  510623
-				CN
-
-40-F0-4E   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-40F04E     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-				Phase 3, Bayan Lepas FIZ
-				Bayan Lepas  Penang  11900
-				MY
-
-58-DB-15   (hex)		TECNO MOBILE LIMITED
-58DB15     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
-
-44-66-FC   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-4466FC     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
 				CN
 
 38-35-FB   (hex)		Sagemcom Broadband SAS
@@ -115430,6 +115436,12 @@ FCE66A     (base 16)		Industrial Software Co
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+30-78-C2   (hex)		Innowireless / QUCELL Networks
+3078C2     (base 16)		Innowireless / QUCELL Networks
+				Innowireless Bldg.  190 Seohyeon-ro
+				Bundang-gu, Seongnam-si  Gyeonggi-do  13590
+				KR
+
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
 				1717 Haitai Building
@@ -116764,12 +116776,6 @@ F01898     (base 16)		Apple, Inc.
 				11th Fl., Suojia Business Building , No.7 Hangkong Road , Baoan District
 				Shenzhen  Guangdong  518000
 				CN
-
-30-78-C2   (hex)		Innowireless / QUCELL Networks
-3078C2     (base 16)		Innowireless / QUCELL Networks
-				Innowireless Bldg.  190 Seohyeon-ro
-				Bundang-gu, Seongnam-si  Gyeonggi-do  13590
-				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
