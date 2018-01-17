@@ -146233,3 +146233,9 @@ B0935B     (base 16)		ARRIS Group, Inc.
 				506 Convergence technology research commercialization center 218 Gajung-Ro, Yuseong-gu
 				Daejeon-City  Daejeon-City  34129
 				KR
+
+14-9B-2F   (hex)		JiangSu ZhongXie Intelligent Technology co., LTD
+149B2F     (base 16)		JiangSu ZhongXie Intelligent Technology co., LTD
+				Room 201,building 15, 16,FengJi set avenue (C08),YuHua district economic development zone ,NanJing city,JiangSu province,China,PRC.
+				NanJing   JiangSu   210000
+				CN
