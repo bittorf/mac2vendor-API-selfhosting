@@ -29051,6 +29051,12 @@ E02202     (base 16)		ARRIS Group, Inc.
 				Manaus  Amazonas  69075150
 				BR
 
+00-50-89   (hex)		SAFETY MANAGEMENT SYSTEMS
+005089     (base 16)		SAFETY MANAGEMENT SYSTEMS
+				Burgemeester Burgerslaan 40
+				NH Rosmalen    5245
+				NL
+
 00-15-D0   (hex)		ARRIS Group, Inc.
 0015D0     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -29339,11 +29345,11 @@ CCA462     (base 16)		ARRIS Group, Inc.
 				Hangzhou  Zhejiang  310000
 				CN
 
-00-50-89   (hex)		SAFETY MANAGEMENT SYSTEMS
-005089     (base 16)		SAFETY MANAGEMENT SYSTEMS
-				Burgemeester Burgerslaan 40
-				NH Rosmalen    5245
-				NL
+9C-E8-2B   (hex)		vivo Mobile Communication Co., Ltd.
+9CE82B     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -58667,12 +58673,6 @@ A4ED4E     (base 16)		ARRIS Group, Inc.
 				Round Rock  TX  78682
 				US
 
-9C-7F-57   (hex)		DERA Co. Ltd
-9C7F57     (base 16)		DERA Co. Ltd
-				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
-				Beijing    102208
-				CN
-
 B4-E0-1D   (hex)		CONCEPTION ELECTRONIQUE
 B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 				3 boulevard de l'europe
@@ -58689,6 +58689,12 @@ B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 701D08     (base 16)		99IOT Shenzhen co.,ltd
 				609C north block, Cangsong Building, Tairan Seven Road, Futian District
 				Shenzhen  Guangdong  518000
+				CN
+
+9C-7F-57   (hex)		DERA Co. Ltd
+9C7F57     (base 16)		DERA Co. Ltd
+				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
+				Beijing    102208
 				CN
 
 00-E0-09   (hex)		Stratus Technologies
@@ -58708,6 +58714,12 @@ B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+C8-86-29   (hex)		Shenzhen Duubee Intelligent Technologies Co.,LTD.
+C88629     (base 16)		Shenzhen Duubee Intelligent Technologies Co.,LTD.
+				9F, Block B, Unicenter, Xin’an Sub district, Bao’an District
+				Shenzhen  GuangDong  518000
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -86216,24 +86228,6 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-38-35-FB   (hex)		Sagemcom Broadband SAS
-3835FB     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-00-00-A8   (hex)		Stratus Technologies
-0000A8     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
-				US
-
-00-04-FC   (hex)		Stratus Technologies
-0004FC     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
-				US
-
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -87550,6 +87544,36 @@ E8FAF7     (base 16)		Guangdong Uniteddata Holding Group Co., Ltd.
 				39L, Pearl River Tower, No.15 Zhujiang West Road,Tianhe District
 				GUANGZHOU  GUANGDONG  510623
 				CN
+
+38-35-FB   (hex)		Sagemcom Broadband SAS
+3835FB     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+00-00-A8   (hex)		Stratus Technologies
+0000A8     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
+00-04-FC   (hex)		Stratus Technologies
+0004FC     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
+00-CB-B4   (hex)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
+00CBB4     (base 16)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
+				4-5F,E1 Building,TCL International E City,No.1001 Zhongshanyuan Road,Nanshan District,Shenzhen
+				SHENZHEN  GUANGDONG  518052
+				CN
+
+70-79-B3   (hex)		Cisco Systems, Inc
+7079B3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -96439,12 +96463,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Zizkuv Kopec 617
 				Ceska Skalice  Nachod  55203
 				CZ
-
-00-23-3D   (hex)		Novero holding B.V.
-00233D     (base 16)		Novero holding B.V.
-				Parsevalstrasse 7A
-				Düsseldorf    40468
-				DE
 
 00-23-30   (hex)		DIZIPIA, INC.
 002330     (base 16)		DIZIPIA, INC.
@@ -116782,6 +116800,30 @@ D818D3     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
+
+00-23-3D   (hex)		Laird Technologies
+00233D     (base 16)		Laird Technologies
+				Meesmannstrasse 103
+				Bochum    44807
+				DE
+
+0C-21-38   (hex)		Hengstler GmbH
+0C2138     (base 16)		Hengstler GmbH
+				Uhlandstrasse49
+				Aldingen  BW  78554
+				DE
+
+CC-C2-E0   (hex)		Raisecom Technology CO., LTD
+CCC2E0     (base 16)		Raisecom Technology CO., LTD
+				No. 11, East Area, No. 10 Block, East Xibeiwang Road
+				Beijing    100094
+				CN
+
+4C-C0-0A   (hex)		vivo Mobile Communication Co., Ltd.
+4CC00A     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
