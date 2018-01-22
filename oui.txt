@@ -29351,6 +29351,12 @@ CCA462     (base 16)		ARRIS Group, Inc.
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+48-DD-9D   (hex)		ITEL MOBILE LIMITED
+48DD9D     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -58673,12 +58679,6 @@ A4ED4E     (base 16)		ARRIS Group, Inc.
 				Round Rock  TX  78682
 				US
 
-9C-7F-57   (hex)		DERA Co. Ltd
-9C7F57     (base 16)		DERA Co. Ltd
-				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
-				Beijing    102208
-				CN
-
 B4-E0-1D   (hex)		CONCEPTION ELECTRONIQUE
 B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 				3 boulevard de l'europe
@@ -58695,6 +58695,12 @@ B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 701D08     (base 16)		99IOT Shenzhen co.,ltd
 				609C north block, Cangsong Building, Tairan Seven Road, Futian District
 				Shenzhen  Guangdong  518000
+				CN
+
+9C-7F-57   (hex)		DERA Co. Ltd
+9C7F57     (base 16)		DERA Co. Ltd
+				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
+				Beijing    102208
 				CN
 
 00-E0-09   (hex)		Stratus Technologies
@@ -86234,22 +86240,22 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-38-35-FB   (hex)		Sagemcom Broadband SAS
-3835FB     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+00-CB-B4   (hex)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
+00CBB4     (base 16)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
+				4-5F,E1 Building,TCL International E City,No.1001 Zhongshanyuan Road,Nanshan District,Shenzhen
+				SHENZHEN  GUANGDONG  518052
+				CN
 
-00-00-A8   (hex)		Stratus Technologies
-0000A8     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
-				US
+0C-B3-4F   (hex)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
+0CB34F     (base 16)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
+				Room 1501, Block B4, Building 9, Section 2, Shenzhen Bay Science & Technology Ecological Park, West Shahe Road, Nanshan District,
+				Shenzhen  Guangdong  518000
+				CN
 
-00-04-FC   (hex)		Stratus Technologies
-0004FC     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
+70-79-B3   (hex)		Cisco Systems, Inc
+7079B3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 AC-F8-5C   (hex)		Private
@@ -87569,29 +87575,35 @@ E8FAF7     (base 16)		Guangdong Uniteddata Holding Group Co., Ltd.
 				GUANGZHOU  GUANGDONG  510623
 				CN
 
-00-CB-B4   (hex)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
-00CBB4     (base 16)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
-				4-5F,E1 Building,TCL International E City,No.1001 Zhongshanyuan Road,Nanshan District,Shenzhen
-				SHENZHEN  GUANGDONG  518052
-				CN
+38-35-FB   (hex)		Sagemcom Broadband SAS
+3835FB     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
-70-79-B3   (hex)		Cisco Systems, Inc
-7079B3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
+00-00-A8   (hex)		Stratus Technologies
+0000A8     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
 				US
 
-0C-B3-4F   (hex)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
-0CB34F     (base 16)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
-				Room 1501, Block B4, Building 9, Section 2, Shenzhen Bay Science & Technology Ecological Park, West Shahe Road, Nanshan District,
-				Shenzhen  Guangdong  518000
-				CN
+00-04-FC   (hex)		Stratus Technologies
+0004FC     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
 
 F0-4C-D5   (hex)		Maxlinear, Inc
 F04CD5     (base 16)		Maxlinear, Inc
 				5966 La Place Ct. Ste# 100
 				Carlsbad  CA  92008
 				US
+
+94-87-E0   (hex)		Xiaomi Communications Co Ltd
+9487E0     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -116825,6 +116837,12 @@ F01898     (base 16)		Apple, Inc.
 				Shenzhen  Guangdong  518000
 				CN
 
+04-8A-E1   (hex)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+048AE1     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+				Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC
+				Zhuhai  Guangdong  519180
+				CN
+
 0C-21-38   (hex)		Hengstler GmbH
 0C2138     (base 16)		Hengstler GmbH
 				Uhlandstrasse49
@@ -116843,23 +116861,23 @@ CCC2E0     (base 16)		Raisecom Technology CO., LTD
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+A0-75-EA   (hex)		BoxLock, Inc.
+A075EA     (base 16)		BoxLock, Inc.
+				931 Monroe Dr Ste A 102-405
+				Atlanta  GA  30308
+				US
+
 70-01-B5   (hex)		Cisco Systems, Inc
 7001B5     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
 
-04-8A-E1   (hex)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
-048AE1     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
-				Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC
-				Zhuhai  Guangdong  519180
-				CN
-
-A0-75-EA   (hex)		BoxLock, Inc.
-A075EA     (base 16)		BoxLock, Inc.
-				931 Monroe Dr Ste A 102-405
-				Atlanta  GA  30308
-				US
+6C-AF-15   (hex)		Webasto SE
+6CAF15     (base 16)		Webasto SE
+				Kraillinger Straße 5
+				Stockdorf  Bayern  82131
+				DE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -146322,4 +146340,16 @@ C0C522     (base 16)		ARRIS Group, Inc.
 149B2F     (base 16)		JiangSu ZhongXie Intelligent Technology co., LTD
 				Room 201,building 15, 16,FengJi set avenue (C08),YuHua district economic development zone ,NanJing city,JiangSu province,China,PRC.
 				NanJing   JiangSu   210000
+				CN
+
+88-DE-7C   (hex)		Askey Computer Corp.
+88DE7C     (base 16)		Askey Computer Corp.
+				10F, No.119, JIANKANG RD.,ZHINGHE DIST,
+				NEW TAIPEI CITY    23585
+				TW
+
+38-AF-29   (hex)		Zhejiang Dahua Technology Co., Ltd.
+38AF29     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
 				CN
