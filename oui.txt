@@ -8888,12 +8888,6 @@ A8CE90     (base 16)		CVC
 				London    SW20 0JW
 				GB
 
-00-22-18   (hex)		Verivue Inc.
-002218     (base 16)		Verivue Inc.
-				3 Carlisle Road
-				Westford  MA  01886
-				US
-
 00-22-12   (hex)		CAI Networks, Inc.
 002212     (base 16)		CAI Networks, Inc.
 				4790 Irvine Blvd
@@ -29063,6 +29057,18 @@ E02202     (base 16)		ARRIS Group, Inc.
 				Hong Kong  KOWLOON  999077
 				HK
 
+E4-8F-65   (hex)		Yelatma Instrument Making Enterprise, JSC
+E48F65     (base 16)		Yelatma Instrument Making Enterprise, JSC
+				Yanina 25
+				Yelatma  Ryazan Region  391351
+				RU
+
+9C-2F-73   (hex)		Universal Tiancheng Technology (Beijing) Co., Ltd.
+9C2F73     (base 16)		Universal Tiancheng Technology (Beijing) Co., Ltd.
+				13 floor,Changxin Building,Anding Road No.39,Chaoyang District,Beijing
+				Beijing  Beijing  100029
+				CN
+
 00-15-D0   (hex)		ARRIS Group, Inc.
 0015D0     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -29357,17 +29363,11 @@ CCA462     (base 16)		ARRIS Group, Inc.
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-E4-8F-65   (hex)		Yelatma Instrument Making Enterprise, JSC
-E48F65     (base 16)		Yelatma Instrument Making Enterprise, JSC
-				Yanina 25
-				Yelatma  Ryazan Region  391351
-				RU
-
-9C-2F-73   (hex)		Universal Tiancheng Technology (Beijing) Co., Ltd.
-9C2F73     (base 16)		Universal Tiancheng Technology (Beijing) Co., Ltd.
-				13 floor,Changxin Building,Anding Road No.39,Chaoyang District,Beijing
-				Beijing  Beijing  100029
-				CN
+00-22-18   (hex)		AKAMAI TECHNOLOGIES INC
+002218     (base 16)		AKAMAI TECHNOLOGIES INC
+				150 BROADWAY
+				CAMBRIDGE  MA  02142
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -58691,12 +58691,6 @@ A4ED4E     (base 16)		ARRIS Group, Inc.
 				Round Rock  TX  78682
 				US
 
-9C-7F-57   (hex)		DERA Co. Ltd
-9C7F57     (base 16)		DERA Co. Ltd
-				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
-				Beijing    102208
-				CN
-
 B4-E0-1D   (hex)		CONCEPTION ELECTRONIQUE
 B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 				3 boulevard de l'europe
@@ -58713,6 +58707,12 @@ B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 701D08     (base 16)		99IOT Shenzhen co.,ltd
 				609C north block, Cangsong Building, Tairan Seven Road, Futian District
 				Shenzhen  Guangdong  518000
+				CN
+
+9C-7F-57   (hex)		DERA Co. Ltd
+9C7F57     (base 16)		DERA Co. Ltd
+				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
+				Beijing    102208
 				CN
 
 00-E0-09   (hex)		Stratus Technologies
@@ -58762,6 +58762,12 @@ D832E3     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+FC-90-FA   (hex)		Independent Technologies
+FC90FA     (base 16)		Independent Technologies
+				1960 Ridgeview Rd
+				Blair  NE  68008
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -86270,35 +86276,11 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-38-35-FB   (hex)		Sagemcom Broadband SAS
-3835FB     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-00-00-A8   (hex)		Stratus Technologies
-0000A8     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
-				US
-
-00-04-FC   (hex)		Stratus Technologies
-0004FC     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
-				US
-
 00-CB-B4   (hex)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
 00CBB4     (base 16)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
 				4-5F,E1 Building,TCL International E City,No.1001 Zhongshanyuan Road,Nanshan District,Shenzhen
 				SHENZHEN  GUANGDONG  518052
 				CN
-
-70-79-B3   (hex)		Cisco Systems, Inc
-7079B3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
 
 0C-B3-4F   (hex)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
 0CB34F     (base 16)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
@@ -86306,10 +86288,10 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				Shenzhen  Guangdong  518000
 				CN
 
-F0-4C-D5   (hex)		Maxlinear, Inc
-F04CD5     (base 16)		Maxlinear, Inc
-				5966 La Place Ct. Ste# 100
-				Carlsbad  CA  92008
+70-79-B3   (hex)		Cisco Systems, Inc
+7079B3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 AC-F8-5C   (hex)		Private
@@ -87629,11 +87611,35 @@ E8FAF7     (base 16)		Guangdong Uniteddata Holding Group Co., Ltd.
 				GUANGZHOU  GUANGDONG  510623
 				CN
 
+38-35-FB   (hex)		Sagemcom Broadband SAS
+3835FB     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+00-00-A8   (hex)		Stratus Technologies
+0000A8     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
+00-04-FC   (hex)		Stratus Technologies
+0004FC     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
 94-87-E0   (hex)		Xiaomi Communications Co Ltd
 9487E0     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+F0-4C-D5   (hex)		Maxlinear, Inc
+F04CD5     (base 16)		Maxlinear, Inc
+				5966 La Place Ct. Ste# 100
+				Carlsbad  CA  92008
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -146402,14 +146408,20 @@ B0935B     (base 16)		ARRIS Group, Inc.
 				NEW TAIPEI CITY    23585
 				TW
 
+BC-32-5F   (hex)		Zhejiang Dahua Technology Co., Ltd.
+BC325F     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
+
 E4-E1-30   (hex)		TCT mobile ltd
 E4E130     (base 16)		TCT mobile ltd
 				No.86 hechang 7th road, zhongkai, Hi-Tech District
 				Hui Zhou  Guang Dong  516006
 				CN
 
-BC-32-5F   (hex)		Zhejiang Dahua Technology Co., Ltd.
-BC325F     (base 16)		Zhejiang Dahua Technology Co., Ltd.
-				No.1199,Waterfront Road 
-				Hangzhou  Zhejiang  310053
-				CN
+88-D6-52   (hex)		AMERGINT Technologies
+88D652     (base 16)		AMERGINT Technologies
+				2315 Briargate Pkwy, Suite 100
+				Colorado Springs  CO  80920
+				US
