@@ -58745,12 +58745,6 @@ A0E617     (base 16)		MATIS
 				Shintomi,Chuo-Ku,  Tokyo  104-0041
 				JP
 
-84-0D-8E   (hex)		Espressif Inc.
-840D8E     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Road, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 50-5B-C2   (hex)		Liteon Technology Corporation
 505BC2     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
@@ -58763,11 +58757,23 @@ D832E3     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+84-0D-8E   (hex)		Espressif Inc.
+840D8E     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
 FC-90-FA   (hex)		Independent Technologies
 FC90FA     (base 16)		Independent Technologies
 				1960 Ridgeview Rd
 				Blair  NE  68008
 				US
+
+CC-C9-2C   (hex)		Schindler - PORT Technology
+CCC92C     (base 16)		Schindler - PORT Technology
+				via della Pace 22
+				Locarno  Ticino  6600
+				CH
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -82556,12 +82562,6 @@ BC282C     (base 16)		e-Smart Systems Pvt. Ltd
 				Dallas  TX  75243
 				US
 
-F8-5C-4D   (hex)		NOKIA
-F85C4D     (base 16)		NOKIA
-				1 Robbins Road
-				Westford    01886-4113
-				US
-
 D8-E7-2B   (hex)		NetScout Systems, Inc.
 D8E72B     (base 16)		NetScout Systems, Inc.
 				310 Littleton Road
@@ -87640,6 +87640,24 @@ F04CD5     (base 16)		Maxlinear, Inc
 				5966 La Place Ct. Ste# 100
 				Carlsbad  CA  92008
 				US
+
+F8-5C-4D   (hex)		NOKIA
+F85C4D     (base 16)		NOKIA
+				1 Robbins Road
+				Westford  MA  01886-4113
+				US
+
+BC-99-11   (hex)		Zyxel Communications Corporation
+BC9911     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
+28-02-45   (hex)		Konze System Technology Co.,Ltd.
+280245     (base 16)		Konze System Technology Co.,Ltd.
+				4F., No.134, Ln. 235, Baoqiao Rd., Xindian Dist.
+				New Taipei City  ---  231
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
