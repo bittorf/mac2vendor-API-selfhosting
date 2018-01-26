@@ -58691,12 +58691,6 @@ A4ED4E     (base 16)		ARRIS Group, Inc.
 				Round Rock  TX  78682
 				US
 
-9C-7F-57   (hex)		DERA Co. Ltd
-9C7F57     (base 16)		DERA Co. Ltd
-				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
-				Beijing    102208
-				CN
-
 B4-E0-1D   (hex)		CONCEPTION ELECTRONIQUE
 B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 				3 boulevard de l'europe
@@ -58713,6 +58707,12 @@ B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 701D08     (base 16)		99IOT Shenzhen co.,ltd
 				609C north block, Cangsong Building, Tairan Seven Road, Futian District
 				Shenzhen  Guangdong  518000
+				CN
+
+9C-7F-57   (hex)		DERA Co. Ltd
+9C7F57     (base 16)		DERA Co. Ltd
+				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
+				Beijing    102208
 				CN
 
 00-E0-09   (hex)		Stratus Technologies
@@ -58745,12 +58745,6 @@ A0E617     (base 16)		MATIS
 				Shintomi,Chuo-Ku,  Tokyo  104-0041
 				JP
 
-84-0D-8E   (hex)		Espressif Inc.
-840D8E     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Road, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 50-5B-C2   (hex)		Liteon Technology Corporation
 505BC2     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
@@ -58761,6 +58755,12 @@ D8-32-E3   (hex)		Xiaomi Communications Co Ltd
 D832E3     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+84-0D-8E   (hex)		Espressif Inc.
+840D8E     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 FC-90-FA   (hex)		Independent Technologies
@@ -58774,6 +58774,12 @@ CCC92C     (base 16)		Schindler - PORT Technology
 				via della Pace 22
 				Locarno  Ticino  6600
 				CH
+
+7C-2E-BD   (hex)		Google, Inc.
+7C2EBD     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -86276,35 +86282,11 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-38-35-FB   (hex)		Sagemcom Broadband SAS
-3835FB     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-00-00-A8   (hex)		Stratus Technologies
-0000A8     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
-				US
-
-00-04-FC   (hex)		Stratus Technologies
-0004FC     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
-				US
-
 00-CB-B4   (hex)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
 00CBB4     (base 16)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
 				4-5F,E1 Building,TCL International E City,No.1001 Zhongshanyuan Road,Nanshan District,Shenzhen
 				SHENZHEN  GUANGDONG  518052
 				CN
-
-70-79-B3   (hex)		Cisco Systems, Inc
-7079B3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
 
 0C-B3-4F   (hex)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
 0CB34F     (base 16)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
@@ -86312,10 +86294,10 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				Shenzhen  Guangdong  518000
 				CN
 
-F0-4C-D5   (hex)		Maxlinear, Inc
-F04CD5     (base 16)		Maxlinear, Inc
-				5966 La Place Ct. Ste# 100
-				Carlsbad  CA  92008
+70-79-B3   (hex)		Cisco Systems, Inc
+7079B3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 AC-F8-5C   (hex)		Private
@@ -87635,16 +87617,34 @@ E8FAF7     (base 16)		Guangdong Uniteddata Holding Group Co., Ltd.
 				GUANGZHOU  GUANGDONG  510623
 				CN
 
+38-35-FB   (hex)		Sagemcom Broadband SAS
+3835FB     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+00-00-A8   (hex)		Stratus Technologies
+0000A8     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
+00-04-FC   (hex)		Stratus Technologies
+0004FC     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
 94-87-E0   (hex)		Xiaomi Communications Co Ltd
 9487E0     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-F8-5C-4D   (hex)		NOKIA
-F85C4D     (base 16)		NOKIA
-				1 Robbins Road
-				Westford  MA  01886-4113
+F0-4C-D5   (hex)		Maxlinear, Inc
+F04CD5     (base 16)		Maxlinear, Inc
+				5966 La Place Ct. Ste# 100
+				Carlsbad  CA  92008
 				US
 
 BC-99-11   (hex)		Zyxel Communications Corporation
@@ -87663,6 +87663,12 @@ BC9911     (base 16)		Zyxel Communications Corporation
 8C1CDA     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+F8-5C-4D   (hex)		NOKIA
+F85C4D     (base 16)		NOKIA
+				1 Robbins Road
+				Westford  MA  01886-4113
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -116956,6 +116962,12 @@ ECAF97     (base 16)		GIT
 				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
 				Hsinchu  Taiwan ROC.  30352 
 				TW
+
+94-19-3A   (hex)		Elvaco AB
+94193A     (base 16)		Elvaco AB
+				Kabelgatan 2T
+				Kungsbacka    43437
+				SE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
