@@ -16529,12 +16529,6 @@ A8CE90     (base 16)		CVC
 				San Jose  CA  95113
 				US
 
-00-04-13   (hex)		SNOM Technology AG
-000413     (base 16)		SNOM Technology AG
-				Helmholtzstraße 2-9
-				    
-				DE
-
 00-04-18   (hex)		Teltronic S.A.U.
 000418     (base 16)		Teltronic S.A.U.
 				Poligono de Malpica
@@ -27029,9 +27023,6 @@ E4A7C5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				GUMI  KYUNGBUK  730-030
 				KR
 
-8C-E7-48   (hex)		Private
-8CE748     (base 16)		Private
-
 48-D3-5D   (hex)		Private
 48D35D     (base 16)		Private
 
@@ -29069,6 +29060,12 @@ E48F65     (base 16)		Yelatma Instrument Making Enterprise, JSC
 				Beijing  Beijing  100029
 				CN
 
+54-B2-03   (hex)		PEGATRON CORPORATION
+54B203     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
 00-15-D0   (hex)		ARRIS Group, Inc.
 0015D0     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -29369,11 +29366,20 @@ CCA462     (base 16)		ARRIS Group, Inc.
 				CAMBRIDGE  MA  02142
 				US
 
-54-B2-03   (hex)		PEGATRON CORPORATION
-54B203     (base 16)		PEGATRON CORPORATION
-				5F No. 76, Ligong St., Beitou District
-				Taipei City  Taiwan  112
-				TW
+54-48-10   (hex)		Dell Inc.
+544810     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+00-04-13   (hex)		snom technology GmbH
+000413     (base 16)		snom technology GmbH
+				Wittestr 30 G
+				Berlin    13509
+				DE
+
+8C-E7-48   (hex)		Private
+8CE748     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -44417,12 +44423,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Sanchong City  Taipei  241
 				TW
 
-00-0A-DB   (hex)		SkyPilot Network, Inc
-000ADB     (base 16)		SkyPilot Network, Inc
-				1301 Shoreway Road
-				Belmont  CA  94002
-				US
-
 00-0A-DD   (hex)		Allworx Corp.
 000ADD     (base 16)		Allworx Corp.
 				245 East Main Street
@@ -54335,9 +54335,6 @@ C0143D     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Rowley  MA  01969
 				US
 
-60-4B-AA   (hex)		Private
-604BAA     (base 16)		Private
-
 CC-73-14   (hex)		HONG KONG WHEATEK TECHNOLOGY LIMITED
 CC7314     (base 16)		HONG KONG WHEATEK TECHNOLOGY LIMITED
 				Building 20，No.2277, ZuChongZhi Road, PuDong District, Shanghai
@@ -55522,12 +55519,6 @@ A013CB     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
-
-CC-3A-DF   (hex)		Neptune Technology Group Inc.
-CC3ADF     (base 16)		Neptune Technology Group Inc.
-				1600 AL Highway 229 S
-				Tallassee  AL  36078
-				US
 
 28-ED-E0   (hex)		AMPAK Technology, Inc.
 28EDE0     (base 16)		AMPAK Technology, Inc.
@@ -58798,6 +58789,18 @@ E0BAB4     (base 16)		Arrcus, Inc
 				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
 				Ansan-si   Gyeonggi-Do  15433
 				KR
+
+00-0A-DB   (hex)		Trilliant
+000ADB     (base 16)		Trilliant
+				401 Harrison Oaks Blvd. Suite 300
+				Cary  NC  27513
+				US
+
+CC-3A-DF   (hex)		Private
+CC3ADF     (base 16)		Private
+
+60-4B-AA   (hex)		Private
+604BAA     (base 16)		Private
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -70492,12 +70495,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				1155 Kas Drive, Suite 200
 				Richardson  TX  75081
 				US
-
-00-14-77   (hex)		Nertec  Inc.
-001477     (base 16)		Nertec  Inc.
-				950 Cowie st.
-				Granby  Quebec  J2J 1P2
-				CA
 
 00-14-72   (hex)		China Broadband Wireless IP Standard Group
 001472     (base 16)		China Broadband Wireless IP Standard Group
@@ -85121,9 +85118,6 @@ D8C497     (base 16)		Quanta Computer Inc.
 				Berlin  Berlin  10559
 				DE
 
-00-50-C7   (hex)		Private
-0050C7     (base 16)		Private
-
 40-99-22   (hex)		AzureWave Technology Inc.
 409922     (base 16)		AzureWave Technology Inc.
 				8F., No. 94, Baozhong Rd.
@@ -85243,9 +85237,6 @@ CC5A53     (base 16)		Cisco Systems, Inc
 				Dimbacher Str. 6
 				Obersulm  BW  74182
 				DE
-
-28-EF-01   (hex)		Private
-28EF01     (base 16)		Private
 
 A8-75-E2   (hex)		Aventura Technologies, Inc.
 A875E2     (base 16)		Aventura Technologies, Inc.
@@ -86317,6 +86308,15 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+00-50-C7   (hex)		Private
+0050C7     (base 16)		Private
+
+00-14-77   (hex)		Trilliant
+001477     (base 16)		Trilliant
+				950 Cowie st.
+				Granby  Quebec  J2J 1P2
+				CA
 
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
@@ -87689,17 +87689,20 @@ F85C4D     (base 16)		NOKIA
 				Westford  MA  01886-4113
 				US
 
+B4-6B-FC   (hex)		Intel Corporate
+B46BFC     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 C0-81-35   (hex)		Ningbo Forfan technology Co., LTD
 C08135     (base 16)		Ningbo Forfan technology Co., LTD
 				Room B308,Tianjing Building,Tianan Cyber Park,Futian
 				Shenzhen  Guangdong  518040
 				CN
 
-B4-6B-FC   (hex)		Intel Corporate
-B46BFC     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
+28-EF-01   (hex)		Private
+28EF01     (base 16)		Private
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -114431,9 +114434,6 @@ B0B98A     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
-11-00-AA   (hex)		Private
-1100AA     (base 16)		Private
-
 1C-96-5A   (hex)		Weifang GoerTek Technology Co.,Ltd. 
 1C965A     (base 16)		Weifang GoerTek Technology Co.,Ltd. 
 				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
@@ -117010,6 +117010,15 @@ ECAF97     (base 16)		GIT
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+FC-6B-F0   (hex)		TOPWELL INTERNATIONAL HOLDINDS LIMITED
+FC6BF0     (base 16)		TOPWELL INTERNATIONAL HOLDINDS LIMITED
+				Room 1301-5,Buliding China Youshe,NO.6013,ShenNan Road,CheGong Temple,FuTian District,ShenZhen,GuangDong province,China
+				SHENZHEN  GUANGDONG  518000
+				CN
+
+11-00-AA   (hex)		Private
+1100AA     (base 16)		Private
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -144965,12 +144974,6 @@ AC6B0F     (base 16)		CADENCE DESIGN SYSTEMS INC
 				Piscataway  NJ  08554
 				US
 
-00-BB-3A   (hex)		Private
-00BB3A     (base 16)		Private
-
-E0-CB-1D   (hex)		Private
-E0CB1D     (base 16)		Private
-
 84-D6-D0   (hex)		Amazon Technologies Inc.
 84D6D0     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
@@ -146509,3 +146512,12 @@ B0FC0D     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
+
+00-BB-3A   (hex)		Amazon Technologies Inc.
+00BB3A     (base 16)		Amazon Technologies Inc.
+				PO BOX 8102
+				Reno  NV  89507
+				US
+
+E0-CB-1D   (hex)		Private
+E0CB1D     (base 16)		Private
