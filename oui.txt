@@ -29381,6 +29381,18 @@ CCA462     (base 16)		ARRIS Group, Inc.
 8C-E7-48   (hex)		Private
 8CE748     (base 16)		Private
 
+E4-EA-83   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+E4EA83     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
+
+D0-8A-91   (hex)		Technicolor CH USA Inc.
+D08A91     (base 16)		Technicolor CH USA Inc.
+				101 West 103rd St.
+				Indianapolis  IN  46290
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -58802,6 +58814,18 @@ CC3ADF     (base 16)		Private
 60-4B-AA   (hex)		Private
 604BAA     (base 16)		Private
 
+3C-F5-CC   (hex)		New H3C Technologies Co., Ltd
+3CF5CC     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+74-EC-42   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+74EC42     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -87703,6 +87727,12 @@ C08135     (base 16)		Ningbo Forfan technology Co., LTD
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
+
+E8-D0-99   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+E8D099     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -117019,6 +117049,18 @@ FC6BF0     (base 16)		TOPWELL INTERNATIONAL HOLDINDS LIMITED
 
 11-00-AA   (hex)		Private
 1100AA     (base 16)		Private
+
+80-02-9C   (hex)		Gemtek Technology Co., Ltd.
+80029C     (base 16)		Gemtek Technology Co., Ltd.
+				No.15-1 Zhonghua Road
+				Hukou  Hsinchu  30352
+				TW
+
+D4-FC-13   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+D4FC13     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
