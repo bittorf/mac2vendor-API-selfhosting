@@ -29429,6 +29429,18 @@ C8B1EE     (base 16)		Qorvo
 				NA    486058
 				SG
 
+48-2A-E3   (hex)		Wistron InfoComm(Kunshan)Co.,Ltd.
+482AE3     (base 16)		Wistron InfoComm(Kunshan)Co.,Ltd.
+				168# First Avenue,Kunshan Integrated Free Trade Zone,Kunshan,Jiangsu,China
+				Kunshan  Jiangsu  215300
+				CN
+
+B0-EB-57   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B0EB57     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -58880,6 +58892,12 @@ CC3ADF     (base 16)		Private
 				Grugliasco  (TO)  10095
 				IT
 
+AC-3B-77   (hex)		Sagemcom Broadband SAS
+AC3B77     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 00-C3-F4   (hex)		Samsung Electronics Co.,Ltd
 00C3F4     (base 16)		Samsung Electronics Co.,Ltd
 				129, Samsung-ro, Youngtongl-Gu
@@ -58892,11 +58910,29 @@ B88AEC     (base 16)		Nintendo Co.,Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-AC-3B-77   (hex)		Sagemcom Broadband SAS
-AC3B77     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+F4-BF-80   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F4BF80     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+30-45-96   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+304596     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+F8-C3-9E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F8C39E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D0-D7-83   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0D783     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -87858,6 +87894,18 @@ A492CB     (base 16)		Nokia
 1869DA     (base 16)		China Mobile Group Device Co.,Ltd.
 				32 Xuanwumen West Street,Xicheng District
 				Beijing    100053
+				CN
+
+A8-7D-12   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A87D12     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+C0-F4-E6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C0F4E6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -117223,6 +117271,24 @@ CC51B4     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+64-A2-F9   (hex)		OnePlus Technology (Shenzhen) Co., Ltd
+64A2F9     (base 16)		OnePlus Technology (Shenzhen) Co., Ltd
+				18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING,
+				Shenzhen  Guangdong  518000
+				CN
+
+EC-8C-9A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC8C9A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B4-86-55   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B48655     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -146755,3 +146821,9 @@ D49E05     (base 16)		zte corporation
 
 9C-93-E4   (hex)		Private
 9C93E4     (base 16)		Private
+
+74-C1-4F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+74C14F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
