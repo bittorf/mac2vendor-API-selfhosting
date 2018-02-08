@@ -29405,11 +29405,11 @@ C42456     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054
 				US
 
-B8-83-03   (hex)		Hewlett Packard Enterprise
-B88303     (base 16)		Hewlett Packard Enterprise
-				8000 Foothills Blvd.
-				Roseville  CA  95747
-				US
+C8-B1-EE   (hex)		Qorvo
+C8B1EE     (base 16)		Qorvo
+				1 Changi Business Park Crescent, Avenue 1, #04-01
+				NA    486058
+				SG
 
 E4-CA-12   (hex)		zte corporation
 E4CA12     (base 16)		zte corporation
@@ -29417,17 +29417,17 @@ E4CA12     (base 16)		zte corporation
 				shenzhen  guangdong  518057
 				CN
 
+B8-83-03   (hex)		Hewlett Packard Enterprise
+B88303     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
 B4-B6-86   (hex)		Hewlett Packard
 B4B686     (base 16)		Hewlett Packard
 				11445 Compaq Center Drive
 				Houston  TX  77070
 				US
-
-C8-B1-EE   (hex)		Qorvo
-C8B1EE     (base 16)		Qorvo
-				1 Changi Business Park Crescent, Avenue 1, #04-01
-				NA    486058
-				SG
 
 48-2A-E3   (hex)		Wistron InfoComm(Kunshan)Co.,Ltd.
 482AE3     (base 16)		Wistron InfoComm(Kunshan)Co.,Ltd.
@@ -58934,6 +58934,12 @@ D0D783     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+D8-F3-DB   (hex)		Post CH AG
+D8F3DB     (base 16)		Post CH AG
+				Wankdorfallee 4
+				Bern    3030
+				CH
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -87914,6 +87920,18 @@ C0F4E6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Piscataway  NJ  08554
 				US
 
+DC-B4-AC   (hex)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+DCB4AC     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+				Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC
+				Zhuhai  Guangdong  519180
+				CN
+
+5C-CD-7C   (hex)		MEIZU Technology Co.,Ltd.
+5CCD7C     (base 16)		MEIZU Technology Co.,Ltd.
+				MEIZU Tech Bldg., Technology& Innovation Coast
+				Zhuhai  Guangdong  519085
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -115817,26 +115835,11 @@ D818D3     (base 16)		Juniper Networks
 				Kungsbacka    43437
 				SE
 
-38-68-DD   (hex)		INVENTEC CORPORATION
-3868DD     (base 16)		INVENTEC CORPORATION
-				NO.88, DAZHI RD.
-				TAOYUAN    33068
-				TW
-
-3C-6A-A7   (hex)		Intel Corporate
-3C6AA7     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
-FC-6B-F0   (hex)		TOPWELL INTERNATIONAL HOLDINDS LIMITED
-FC6BF0     (base 16)		TOPWELL INTERNATIONAL HOLDINDS LIMITED
-				Room 1301-5,Buliding China Youshe,NO.6013,ShenNan Road,CheGong Temple,FuTian District,ShenZhen,GuangDong province,China
-				SHENZHEN  GUANGDONG  518000
+D4-FC-13   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+D4FC13     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
 				CN
-
-11-00-AA   (hex)		Private
-1100AA     (base 16)		Private
 
 80-02-9C   (hex)		Gemtek Technology Co., Ltd.
 80029C     (base 16)		Gemtek Technology Co., Ltd.
@@ -115844,10 +115847,22 @@ FC6BF0     (base 16)		TOPWELL INTERNATIONAL HOLDINDS LIMITED
 				Hukou  Hsinchu  30352
 				TW
 
-D4-FC-13   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-D4FC13     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
+EC-8C-9A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC8C9A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B4-86-55   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B48655     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+64-A2-F9   (hex)		OnePlus Technology (Shenzhen) Co., Ltd
+64A2F9     (base 16)		OnePlus Technology (Shenzhen) Co., Ltd
+				18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING,
+				Shenzhen  Guangdong  518000
 				CN
 
 54-C5-7A   (hex)		Sunnovo International Limited
@@ -117239,6 +117254,27 @@ ECAF97     (base 16)		GIT
 				Hsinchu  Taiwan ROC.  30352 
 				TW
 
+38-68-DD   (hex)		INVENTEC CORPORATION
+3868DD     (base 16)		INVENTEC CORPORATION
+				NO.88, DAZHI RD.
+				TAOYUAN    33068
+				TW
+
+3C-6A-A7   (hex)		Intel Corporate
+3C6AA7     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+FC-6B-F0   (hex)		TOPWELL INTERNATIONAL HOLDINDS LIMITED
+FC6BF0     (base 16)		TOPWELL INTERNATIONAL HOLDINDS LIMITED
+				Room 1301-5,Buliding China Youshe,NO.6013,ShenNan Road,CheGong Temple,FuTian District,ShenZhen,GuangDong province,China
+				SHENZHEN  GUANGDONG  518000
+				CN
+
+11-00-AA   (hex)		Private
+1100AA     (base 16)		Private
+
 20-39-56   (hex)		HMD Global Oy
 203956     (base 16)		HMD Global Oy
 				Karaportti 2
@@ -117278,23 +117314,17 @@ CC51B4     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Kanata  Ontario  K2K 2E6
 				CA
 
-64-A2-F9   (hex)		OnePlus Technology (Shenzhen) Co., Ltd
-64A2F9     (base 16)		OnePlus Technology (Shenzhen) Co., Ltd
-				18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING,
-				Shenzhen  Guangdong  518000
+18-66-C7   (hex)		Shenzhen Libre Technology Co., Ltd
+1866C7     (base 16)		Shenzhen Libre Technology Co., Ltd
+				634, Tian Hui Building #B, You Song Lu, Long Hua District
+				Shenzhen    511700
 				CN
 
-EC-8C-9A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-EC8C9A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-B4-86-55   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-B48655     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+5C-B3-F6   (hex)		Human, Incorporated
+5CB3F6     (base 16)		Human, Incorporated
+				3100 Airport Way S, 25-512
+				Seattle  WA  98134
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -144044,6 +144074,24 @@ A8F5AC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				REDMOND  WA  98052
 				US
 
+CC-08-8D   (hex)		Apple, Inc.
+CC088D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+8C-8E-F2   (hex)		Apple, Inc.
+8C8EF2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F4-0F-24   (hex)		Apple, Inc.
+F40F24     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 84-A1-34   (hex)		Apple, Inc.
 84A134     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -144070,6 +144118,54 @@ C0CCF8     (base 16)		Apple, Inc.
 
 E8-B2-AC   (hex)		Apple, Inc.
 E8B2AC     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+9C-84-BF   (hex)		Apple, Inc.
+9C84BF     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-B3-62   (hex)		Apple, Inc.
+00B362     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F8-62-14   (hex)		Apple, Inc.
+F86214     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B0-70-2D   (hex)		Apple, Inc.
+B0702D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D0-C5-F3   (hex)		Apple, Inc.
+D0C5F3     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+60-F4-45   (hex)		Apple, Inc.
+60F445     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+5C-F7-E6   (hex)		Apple, Inc.
+5CF7E6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A0-D7-95   (hex)		Apple, Inc.
+A0D795     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -144110,6 +144206,138 @@ E8B2AC     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+70-81-EB   (hex)		Apple, Inc.
+7081EB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+08-66-98   (hex)		Apple, Inc.
+086698     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+54-33-CB   (hex)		Apple, Inc.
+5433CB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D0-D2-B0   (hex)		Apple, Inc.
+D0D2B0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D8-8F-76   (hex)		Apple, Inc.
+D88F76     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+3C-2E-F9   (hex)		Apple, Inc.
+3C2EF9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B0-19-C6   (hex)		Apple, Inc.
+B019C6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+58-E2-8F   (hex)		Apple, Inc.
+58E28F     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+AC-1F-74   (hex)		Apple, Inc.
+AC1F74     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+90-60-F1   (hex)		Apple, Inc.
+9060F1     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+74-1B-B2   (hex)		Apple, Inc.
+741BB2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+28-CF-E9   (hex)		Apple, Inc.
+28CFE9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E4-25-E7   (hex)		Apple, Inc.
+E425E7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+08-00-07   (hex)		Apple, Inc.
+080007     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-0A-95   (hex)		Apple, Inc.
+000A95     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+DC-56-E7   (hex)		Apple, Inc.
+DC56E7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+34-7C-25   (hex)		Apple, Inc.
+347C25     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D4-90-9C   (hex)		Apple, Inc.
+D4909C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+24-F6-77   (hex)		Apple, Inc.
+24F677     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+78-67-D7   (hex)		Apple, Inc.
+7867D7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+48-BF-6B   (hex)		Apple, Inc.
+48BF6B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+24-5B-A7   (hex)		Apple, Inc.
+245BA7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 BC-A9-20   (hex)		Apple, Inc.
 BCA920     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -144122,32 +144350,272 @@ BCA920     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-9C-84-BF   (hex)		Apple, Inc.
-9C84BF     (base 16)		Apple, Inc.
+8C-00-6D   (hex)		Apple, Inc.
+8C006D     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-00-B3-62   (hex)		Apple, Inc.
-00B362     (base 16)		Apple, Inc.
+B0-9F-BA   (hex)		Apple, Inc.
+B09FBA     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-F8-62-14   (hex)		Apple, Inc.
-F86214     (base 16)		Apple, Inc.
+DC-86-D8   (hex)		Apple, Inc.
+DC86D8     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-B0-70-2D   (hex)		Apple, Inc.
-B0702D     (base 16)		Apple, Inc.
+8C-29-37   (hex)		Apple, Inc.
+8C2937     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-D0-C5-F3   (hex)		Apple, Inc.
-D0C5F3     (base 16)		Apple, Inc.
+DC-9B-9C   (hex)		Apple, Inc.
+DC9B9C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-F0-AB   (hex)		Apple, Inc.
+98F0AB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F0-DB-F8   (hex)		Apple, Inc.
+F0DBF8     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+AC-CF-5C   (hex)		Apple, Inc.
+ACCF5C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+30-90-AB   (hex)		Apple, Inc.
+3090AB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+1C-E6-2B   (hex)		Apple, Inc.
+1CE62B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A0-ED-CD   (hex)		Apple, Inc.
+A0EDCD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A8-86-DD   (hex)		Apple, Inc.
+A886DD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+54-EA-A8   (hex)		Apple, Inc.
+54EAA8     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E4-C6-3D   (hex)		Apple, Inc.
+E4C63D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+84-38-35   (hex)		Apple, Inc.
+843835     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C0-63-94   (hex)		Apple, Inc.
+C06394     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D4-9A-20   (hex)		Apple, Inc.
+D49A20     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+90-27-E4   (hex)		Apple, Inc.
+9027E4     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+60-33-4B   (hex)		Apple, Inc.
+60334B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+5C-59-48   (hex)		Apple, Inc.
+5C5948     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+78-CA-39   (hex)		Apple, Inc.
+78CA39     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+18-E7-F4   (hex)		Apple, Inc.
+18E7F4     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B8-FF-61   (hex)		Apple, Inc.
+B8FF61     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+DC-2B-61   (hex)		Apple, Inc.
+DC2B61     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+3C-15-C2   (hex)		Apple, Inc.
+3C15C2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+04-48-9A   (hex)		Apple, Inc.
+04489A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D8-CF-9C   (hex)		Apple, Inc.
+D8CF9C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A8-8E-24   (hex)		Apple, Inc.
+A88E24     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E8-80-2E   (hex)		Apple, Inc.
+E8802E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+68-AE-20   (hex)		Apple, Inc.
+68AE20     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+10-93-E9   (hex)		Apple, Inc.
+1093E9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+44-2A-60   (hex)		Apple, Inc.
+442A60     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E0-F8-47   (hex)		Apple, Inc.
+E0F847     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+14-5A-05   (hex)		Apple, Inc.
+145A05     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+28-CF-DA   (hex)		Apple, Inc.
+28CFDA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+14-8F-C6   (hex)		Apple, Inc.
+148FC6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+28-37-37   (hex)		Apple, Inc.
+283737     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+04-54-53   (hex)		Apple, Inc.
+045453     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F0-CB-A1   (hex)		Apple, Inc.
+F0CBA1     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+70-73-CB   (hex)		Apple, Inc.
+7073CB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+9C-20-7B   (hex)		Apple, Inc.
+9C207B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+84-29-99   (hex)		Apple, Inc.
+842999     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+74-E2-F5   (hex)		Apple, Inc.
+74E2F5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+20-C9-D0   (hex)		Apple, Inc.
+20C9D0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-22-41   (hex)		Apple, Inc.
+002241     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -144182,200 +144650,68 @@ D0C5F3     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-D4-9A-20   (hex)		Apple, Inc.
-D49A20     (base 16)		Apple, Inc.
+30-F7-C5   (hex)		Apple, Inc.
+30F7C5     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-90-27-E4   (hex)		Apple, Inc.
-9027E4     (base 16)		Apple, Inc.
+00-88-65   (hex)		Apple, Inc.
+008865     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-60-33-4B   (hex)		Apple, Inc.
-60334B     (base 16)		Apple, Inc.
+40-B3-95   (hex)		Apple, Inc.
+40B395     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-5C-59-48   (hex)		Apple, Inc.
-5C5948     (base 16)		Apple, Inc.
+E0-B5-2D   (hex)		Apple, Inc.
+E0B52D     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-60-F4-45   (hex)		Apple, Inc.
-60F445     (base 16)		Apple, Inc.
+80-BE-05   (hex)		Apple, Inc.
+80BE05     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-5C-F7-E6   (hex)		Apple, Inc.
-5CF7E6     (base 16)		Apple, Inc.
+D8-BB-2C   (hex)		Apple, Inc.
+D8BB2C     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-A0-D7-95   (hex)		Apple, Inc.
-A0D795     (base 16)		Apple, Inc.
+D0-4F-7E   (hex)		Apple, Inc.
+D04F7E     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-CC-08-8D   (hex)		Apple, Inc.
-CC088D     (base 16)		Apple, Inc.
+2C-1F-23   (hex)		Apple, Inc.
+2C1F23     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-8C-8E-F2   (hex)		Apple, Inc.
-8C8EF2     (base 16)		Apple, Inc.
+54-9F-13   (hex)		Apple, Inc.
+549F13     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-F4-0F-24   (hex)		Apple, Inc.
-F40F24     (base 16)		Apple, Inc.
+B8-09-8A   (hex)		Apple, Inc.
+B8098A     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
 
-24-F6-77   (hex)		Apple, Inc.
-24F677     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-78-67-D7   (hex)		Apple, Inc.
-7867D7     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-54-33-CB   (hex)		Apple, Inc.
-5433CB     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-D0-D2-B0   (hex)		Apple, Inc.
-D0D2B0     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-D8-8F-76   (hex)		Apple, Inc.
-D88F76     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-3C-2E-F9   (hex)		Apple, Inc.
-3C2EF9     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-70-81-EB   (hex)		Apple, Inc.
-7081EB     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-08-66-98   (hex)		Apple, Inc.
-086698     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-90-60-F1   (hex)		Apple, Inc.
-9060F1     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-74-1B-B2   (hex)		Apple, Inc.
-741BB2     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-28-CF-E9   (hex)		Apple, Inc.
-28CFE9     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-E4-25-E7   (hex)		Apple, Inc.
-E425E7     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-B0-19-C6   (hex)		Apple, Inc.
-B019C6     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-58-E2-8F   (hex)		Apple, Inc.
-58E28F     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-AC-1F-74   (hex)		Apple, Inc.
-AC1F74     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-48-BF-6B   (hex)		Apple, Inc.
-48BF6B     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-24-5B-A7   (hex)		Apple, Inc.
-245BA7     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-DC-56-E7   (hex)		Apple, Inc.
-DC56E7     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-34-7C-25   (hex)		Apple, Inc.
-347C25     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-D4-90-9C   (hex)		Apple, Inc.
-D4909C     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-08-00-07   (hex)		Apple, Inc.
-080007     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-00-0A-95   (hex)		Apple, Inc.
-000A95     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-00-22-41   (hex)		Apple, Inc.
-002241     (base 16)		Apple, Inc.
+F0-DB-E2   (hex)		Apple, Inc.
+F0DBE2     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -144448,312 +144784,6 @@ A0999B     (base 16)		Apple, Inc.
 
 90-3C-92   (hex)		Apple, Inc.
 903C92     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-A8-8E-24   (hex)		Apple, Inc.
-A88E24     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-E8-80-2E   (hex)		Apple, Inc.
-E8802E     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-68-AE-20   (hex)		Apple, Inc.
-68AE20     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-E0-B5-2D   (hex)		Apple, Inc.
-E0B52D     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-80-BE-05   (hex)		Apple, Inc.
-80BE05     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-D8-BB-2C   (hex)		Apple, Inc.
-D8BB2C     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-D0-4F-7E   (hex)		Apple, Inc.
-D04F7E     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-2C-1F-23   (hex)		Apple, Inc.
-2C1F23     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-54-9F-13   (hex)		Apple, Inc.
-549F13     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-B8-09-8A   (hex)		Apple, Inc.
-B8098A     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-F0-DB-E2   (hex)		Apple, Inc.
-F0DBE2     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-8C-29-37   (hex)		Apple, Inc.
-8C2937     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-DC-9B-9C   (hex)		Apple, Inc.
-DC9B9C     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-98-F0-AB   (hex)		Apple, Inc.
-98F0AB     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-F0-DB-F8   (hex)		Apple, Inc.
-F0DBF8     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-AC-CF-5C   (hex)		Apple, Inc.
-ACCF5C     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-3C-15-C2   (hex)		Apple, Inc.
-3C15C2     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-04-48-9A   (hex)		Apple, Inc.
-04489A     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-D8-CF-9C   (hex)		Apple, Inc.
-D8CF9C     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-A8-86-DD   (hex)		Apple, Inc.
-A886DD     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-54-EA-A8   (hex)		Apple, Inc.
-54EAA8     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-E4-C6-3D   (hex)		Apple, Inc.
-E4C63D     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-84-38-35   (hex)		Apple, Inc.
-843835     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-C0-63-94   (hex)		Apple, Inc.
-C06394     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-8C-00-6D   (hex)		Apple, Inc.
-8C006D     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-B0-9F-BA   (hex)		Apple, Inc.
-B09FBA     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-DC-86-D8   (hex)		Apple, Inc.
-DC86D8     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-78-CA-39   (hex)		Apple, Inc.
-78CA39     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-18-E7-F4   (hex)		Apple, Inc.
-18E7F4     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-B8-FF-61   (hex)		Apple, Inc.
-B8FF61     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-DC-2B-61   (hex)		Apple, Inc.
-DC2B61     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-10-93-E9   (hex)		Apple, Inc.
-1093E9     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-44-2A-60   (hex)		Apple, Inc.
-442A60     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-E0-F8-47   (hex)		Apple, Inc.
-E0F847     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-14-5A-05   (hex)		Apple, Inc.
-145A05     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-28-CF-DA   (hex)		Apple, Inc.
-28CFDA     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-14-8F-C6   (hex)		Apple, Inc.
-148FC6     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-28-37-37   (hex)		Apple, Inc.
-283737     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-04-54-53   (hex)		Apple, Inc.
-045453     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-F0-CB-A1   (hex)		Apple, Inc.
-F0CBA1     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-30-F7-C5   (hex)		Apple, Inc.
-30F7C5     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-00-88-65   (hex)		Apple, Inc.
-008865     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-40-B3-95   (hex)		Apple, Inc.
-40B395     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-30-90-AB   (hex)		Apple, Inc.
-3090AB     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-1C-E6-2B   (hex)		Apple, Inc.
-1CE62B     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-A0-ED-CD   (hex)		Apple, Inc.
-A0EDCD     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-84-29-99   (hex)		Apple, Inc.
-842999     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-74-E2-F5   (hex)		Apple, Inc.
-74E2F5     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-20-C9-D0   (hex)		Apple, Inc.
-20C9D0     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-70-73-CB   (hex)		Apple, Inc.
-7073CB     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-9C-20-7B   (hex)		Apple, Inc.
-9C207B     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -144860,14 +144890,92 @@ F895EA     (base 16)		Apple, Inc.
 				Shenzhen  Guangdong  518055
 				CN
 
-BC-CA-B5   (hex)		ARRIS Group, Inc.
-BCCAB5     (base 16)		ARRIS Group, Inc.
+AC-EC-80   (hex)		ARRIS Group, Inc.
+ACEC80     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-5C-8F-E0   (hex)		ARRIS Group, Inc.
-5C8FE0     (base 16)		ARRIS Group, Inc.
+3C-7A-8A   (hex)		ARRIS Group, Inc.
+3C7A8A     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+2C-A1-7D   (hex)		ARRIS Group, Inc.
+2CA17D     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+5C-B0-66   (hex)		ARRIS Group, Inc.
+5CB066     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+80-F5-03   (hex)		ARRIS Group, Inc.
+80F503     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+84-96-D8   (hex)		ARRIS Group, Inc.
+8496D8     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+D4-2C-0F   (hex)		ARRIS Group, Inc.
+D42C0F     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+E0-B7-B1   (hex)		ARRIS Group, Inc.
+E0B7B1     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-16-75   (hex)		ARRIS Group, Inc.
+001675     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-16-B5   (hex)		ARRIS Group, Inc.
+0016B5     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-17-84   (hex)		ARRIS Group, Inc.
+001784     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-17-E2   (hex)		ARRIS Group, Inc.
+0017E2     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+CC-7D-37   (hex)		ARRIS Group, Inc.
+CC7D37     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1A-77   (hex)		ARRIS Group, Inc.
+001A77     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+98-4B-4A   (hex)		ARRIS Group, Inc.
+984B4A     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -144884,26 +144992,20 @@ BCCAB5     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-AC-EC-80   (hex)		ARRIS Group, Inc.
-ACEC80     (base 16)		ARRIS Group, Inc.
+F8-ED-A5   (hex)		ARRIS Group, Inc.
+F8EDA5     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-3C-7A-8A   (hex)		ARRIS Group, Inc.
-3C7A8A     (base 16)		ARRIS Group, Inc.
+40-70-09   (hex)		ARRIS Group, Inc.
+407009     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-00-0F-CC   (hex)		ARRIS Group, Inc.
-000FCC     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-2C-A1-7D   (hex)		ARRIS Group, Inc.
-2CA17D     (base 16)		ARRIS Group, Inc.
+94-87-7C   (hex)		ARRIS Group, Inc.
+94877C     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -144944,86 +145046,8 @@ ACEC80     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-00-12-C9   (hex)		ARRIS Group, Inc.
-0012C9     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1C-FB   (hex)		ARRIS Group, Inc.
-001CFB     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1C-12   (hex)		ARRIS Group, Inc.
-001C12     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1F-C4   (hex)		ARRIS Group, Inc.
-001FC4     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-22-10   (hex)		ARRIS Group, Inc.
-002210     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-21-1E   (hex)		ARRIS Group, Inc.
-00211E     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-F8-ED-A5   (hex)		ARRIS Group, Inc.
-F8EDA5     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-40-70-09   (hex)		ARRIS Group, Inc.
-407009     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-94-87-7C   (hex)		ARRIS Group, Inc.
-94877C     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
 00-1D-D2   (hex)		ARRIS Group, Inc.
 001DD2     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-17-E2   (hex)		ARRIS Group, Inc.
-0017E2     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-CC-7D-37   (hex)		ARRIS Group, Inc.
-CC7D37     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1A-77   (hex)		ARRIS Group, Inc.
-001A77     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-98-4B-4A   (hex)		ARRIS Group, Inc.
-984B4A     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -145046,14 +145070,14 @@ CC7D37     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-C0-C5-22   (hex)		ARRIS Group, Inc.
-C0C522     (base 16)		ARRIS Group, Inc.
+00-22-10   (hex)		ARRIS Group, Inc.
+002210     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-5C-B0-66   (hex)		ARRIS Group, Inc.
-5CB066     (base 16)		ARRIS Group, Inc.
+00-21-1E   (hex)		ARRIS Group, Inc.
+00211E     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -145070,20 +145094,44 @@ E48399     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-00-24-A0   (hex)		ARRIS Group, Inc.
-0024A0     (base 16)		ARRIS Group, Inc.
+00-0F-CC   (hex)		ARRIS Group, Inc.
+000FCC     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-00-16-75   (hex)		ARRIS Group, Inc.
-001675     (base 16)		ARRIS Group, Inc.
+BC-CA-B5   (hex)		ARRIS Group, Inc.
+BCCAB5     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-00-16-B5   (hex)		ARRIS Group, Inc.
-0016B5     (base 16)		ARRIS Group, Inc.
+5C-8F-E0   (hex)		ARRIS Group, Inc.
+5C8FE0     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-12-C9   (hex)		ARRIS Group, Inc.
+0012C9     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1C-FB   (hex)		ARRIS Group, Inc.
+001CFB     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1C-12   (hex)		ARRIS Group, Inc.
+001C12     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1F-C4   (hex)		ARRIS Group, Inc.
+001FC4     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -146666,30 +146714,6 @@ BC903A     (base 16)		Robert Bosch GmbH
 				Bangalore  Karnataka  560082
 				IN
 
-80-F5-03   (hex)		ARRIS Group, Inc.
-80F503     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-84-96-D8   (hex)		ARRIS Group, Inc.
-8496D8     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-D4-2C-0F   (hex)		ARRIS Group, Inc.
-D42C0F     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-E0-B7-B1   (hex)		ARRIS Group, Inc.
-E0B7B1     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
 98-F7-D7   (hex)		ARRIS Group, Inc.
 98F7D7     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -146706,12 +146730,6 @@ D4B27A     (base 16)		ARRIS Group, Inc.
 909D7D     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
-				US
-
-88-3F-4A   (hex)		Texas Instruments
-883F4A     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
 				US
 
 B0-93-5B   (hex)		ARRIS Group, Inc.
@@ -146732,8 +146750,20 @@ B0935B     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-00-17-84   (hex)		ARRIS Group, Inc.
-001784     (base 16)		ARRIS Group, Inc.
+88-3F-4A   (hex)		Texas Instruments
+883F4A     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+00-24-A0   (hex)		ARRIS Group, Inc.
+0024A0     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+C0-C5-22   (hex)		ARRIS Group, Inc.
+C0C522     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -146762,16 +146792,16 @@ B0935B     (base 16)		ARRIS Group, Inc.
 				NEW TAIPEI CITY    23585
 				TW
 
-BC-32-5F   (hex)		Zhejiang Dahua Technology Co., Ltd.
-BC325F     (base 16)		Zhejiang Dahua Technology Co., Ltd.
-				No.1199,Waterfront Road 
-				Hangzhou  Zhejiang  310053
-				CN
-
 E4-E1-30   (hex)		TCT mobile ltd
 E4E130     (base 16)		TCT mobile ltd
 				No.86 hechang 7th road, zhongkai, Hi-Tech District
 				Hui Zhou  Guang Dong  516006
+				CN
+
+BC-32-5F   (hex)		Zhejiang Dahua Technology Co., Ltd.
+BC325F     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
 				CN
 
 88-D6-52   (hex)		AMERGINT Technologies
@@ -146795,12 +146825,6 @@ B0FC0D     (base 16)		Amazon Technologies Inc.
 E0-CB-1D   (hex)		Private
 E0CB1D     (base 16)		Private
 
-10-7B-A4   (hex)		Olive & Dove Co.,Ltd.
-107BA4     (base 16)		Olive & Dove Co.,Ltd.
-				803 Polaris bldg., 381, Seongnam-daero, Bundang-gu 
-				Gyeonggi-do  Seongnam-si  13555
-				KR
-
 D0-C5-D3   (hex)		AzureWave Technology Inc.
 D0C5D3     (base 16)		AzureWave Technology Inc.
 				8F., No. 94, Baozhong Rd.
@@ -146818,6 +146842,12 @@ D49E05     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
+
+10-7B-A4   (hex)		Olive & Dove Co.,Ltd.
+107BA4     (base 16)		Olive & Dove Co.,Ltd.
+				803 Polaris bldg., 381, Seongnam-daero, Bundang-gu 
+				Gyeonggi-do  Seongnam-si  13555
+				KR
 
 00-B8-C2   (hex)		Heights Telecom T ltd
 00B8C2     (base 16)		Heights Telecom T ltd
