@@ -58940,6 +58940,12 @@ D8F3DB     (base 16)		Post CH AG
 				Bern    3030
 				CH
 
+28-11-A5   (hex)		Bose Corporation
+2811A5     (base 16)		Bose Corporation
+				The Mountain
+				Framingham  MA  01701-9168
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
