@@ -29447,6 +29447,12 @@ B0EB57     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Seoul    KS013
 				KR
 
+B8-B7-F1   (hex)		Wistron Neweb Corporation
+B8B7F1     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -58850,12 +58856,6 @@ E0BAB4     (base 16)		Arrcus, Inc
 				San Jose  CA  95110
 				US
 
-3C-F4-F9   (hex)		Mada-InnoChips
-3CF4F9     (base 16)		Mada-InnoChips
-				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
-				Ansan-si   Gyeonggi-Do  15433
-				KR
-
 00-0A-DB   (hex)		Trilliant
 000ADB     (base 16)		Trilliant
 				401 Harrison Oaks Blvd. Suite 300
@@ -58951,6 +58951,24 @@ D8F3DB     (base 16)		Post CH AG
 				The Mountain
 				Framingham  MA  01701-9168
 				US
+
+3C-F4-F9   (hex)		Moda-InnoChips
+3CF4F9     (base 16)		Moda-InnoChips
+				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
+				Ansan-si   Gyeonggi-Do  15433
+				KR
+
+30-88-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
+308841     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou,Industrial Park
+				Anzhou,Industrial Park  Sichuan  621000
+				CN
+
+80-50-F6   (hex)		ITEL MOBILE LIMITED
+8050F6     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -87944,6 +87962,12 @@ A85B6C     (base 16)		Robert Bosch Gmbh, CM-CI2
 				shenzhen  guangdong  518057
 				CN
 
+A8-E5-52   (hex)		JUWEL Aquarium AG & Co. KG
+A8E552     (base 16)		JUWEL Aquarium AG & Co. KG
+				Karl-Göx-Straße 1
+				Rotenburg / Wümme    27356
+				DE
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -115878,6 +115902,12 @@ D4-FC-13   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 D4FC13     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
+				CN
+
+B0-53-65   (hex)		China Mobile IOT Company Limited
+B05365     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area Chongqing,China
+				Chongqing  Chongqing  401336
 				CN
 
 54-C5-7A   (hex)		Sunnovo International Limited
