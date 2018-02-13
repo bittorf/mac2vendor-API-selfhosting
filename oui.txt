@@ -29441,11 +29441,11 @@ B0EB57     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-44-EF-CF   (hex)		UGENE SOLUTION inc.
-44EFCF     (base 16)		UGENE SOLUTION inc.
-				A-1508, 1509, 583, Yangcheon-ro, Gangseo-gu
-				Seoul    KS013
-				KR
+0C-B6-D2   (hex)		D-Link International
+0CB6D2     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
 
 B8-B7-F1   (hex)		Wistron Neweb Corporation
 B8B7F1     (base 16)		Wistron Neweb Corporation
@@ -29453,11 +29453,11 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 				Hsin-Chu  R.O.C.  308
 				TW
 
-0C-B6-D2   (hex)		D-Link International
-0CB6D2     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
+44-EF-CF   (hex)		UGENE SOLUTION inc.
+44EFCF     (base 16)		UGENE SOLUTION inc.
+				A-1508, 1509, 583, Yangcheon-ro, Gangseo-gu
+				Seoul    KS013
+				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -58981,6 +58981,12 @@ D8F3DB     (base 16)		Post CH AG
 				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
 				Ansan-si   Gyeonggi-Do  15433
 				KR
+
+F0-4B-3A   (hex)		Juniper Networks
+F04B3A     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -117404,6 +117410,12 @@ B48655     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Hong Kong  Hong Kong  999077
 				HK
 
+78-D2-94   (hex)		NETGEAR
+78D294     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -130021,12 +130033,6 @@ DC3350     (base 16)		TechSAT GmbH
 				3-25 Kanda Jinbo-cho
 				Chiyoda-ku  Tokyo  101-0051
 				JP
-
-00-13-4F   (hex)		Tranzeo Wireless Technologies Inc.
-00134F     (base 16)		Tranzeo Wireless Technologies Inc.
-				20155 Stewart Cres.
-				Maple Ridge  British Columbia  V2X 0T6
-				CA
 
 00-13-48   (hex)		Artila Electronics Co., Ltd.
 001348     (base 16)		Artila Electronics Co., Ltd.
@@ -146948,8 +146954,20 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				SUWON  KYUNGGI-DO  443-743
 				KR
 
+00-13-4F   (hex)		Rapidus Wireless Networks Inc.
+00134F     (base 16)		Rapidus Wireless Networks Inc.
+				47 - 14550 Morris Valley Road
+				Agassiz  British Columbia  V0M 1A1
+				CA
+
 78-29-ED   (hex)		ASKEY COMPUTER CORP
 7829ED     (base 16)		ASKEY COMPUTER CORP
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
+
+54-BF-64   (hex)		Dell Inc.
+54BF64     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
