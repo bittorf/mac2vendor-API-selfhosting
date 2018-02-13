@@ -29453,6 +29453,12 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 				Hsin-Chu  R.O.C.  308
 				TW
 
+0C-B6-D2   (hex)		D-Link International
+0CB6D2     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -58952,12 +58958,6 @@ D8F3DB     (base 16)		Post CH AG
 				Framingham  MA  01701-9168
 				US
 
-3C-F4-F9   (hex)		Moda-InnoChips
-3CF4F9     (base 16)		Moda-InnoChips
-				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
-				Ansan-si   Gyeonggi-Do  15433
-				KR
-
 30-88-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
 308841     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou,Industrial Park
@@ -58969,6 +58969,18 @@ D8F3DB     (base 16)		Post CH AG
 				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
 				Hong Kong  KOWLOON  999077
 				HK
+
+0C-01-DB   (hex)		Infinix mobility limited
+0C01DB     (base 16)		Infinix mobility limited
+				RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
+				HongKong  HongKong  999077
+				HK
+
+3C-F4-F9   (hex)		Moda-InnoChips
+3CF4F9     (base 16)		Moda-InnoChips
+				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
+				Ansan-si   Gyeonggi-Do  15433
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -87967,6 +87979,24 @@ A8E552     (base 16)		JUWEL Aquarium AG & Co. KG
 				Karl-Göx-Straße 1
 				Rotenburg / Wümme    27356
 				DE
+
+74-6B-AB   (hex)		GUANGDONG ENOK COMMUNICATION CO., LTD
+746BAB     (base 16)		GUANGDONG ENOK COMMUNICATION CO., LTD
+				NO.139 Lixiang road, Songmushan Dalang Town
+				Dongguan, Guangdong    523770
+				CN
+
+08-C5-E1   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+08C5E1     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+				93Moo5T. Bangsamak SEMTHAI, WELLGROW INDUSTRIAL ESTATE
+				Bangpakong  Chachoengsao  24180
+				TH
+
+20-3D-BD   (hex)		LG Innotek
+203DBD     (base 16)		LG Innotek
+				26, Hanamsandan 5beon-ro
+				Gwangju  Gwangsan-gu  506-731
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -117367,6 +117397,12 @@ B48655     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				3100 Airport Way S, 25-512
 				Seattle  WA  98134
 				US
+
+70-9F-A9   (hex)		TECNO MOBILE LIMITED
+709FA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -146911,3 +146947,9 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				314, Maetan3-Dong, Yeongtong-Gu
 				SUWON  KYUNGGI-DO  443-743
 				KR
+
+78-29-ED   (hex)		ASKEY COMPUTER CORP
+7829ED     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
