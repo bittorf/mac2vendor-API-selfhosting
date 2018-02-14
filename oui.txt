@@ -2507,12 +2507,6 @@ A481EE     (base 16)		Nokia Corporation
 				Shenzhen  Guangdong  518057
 				CN
 
-D4-21-22   (hex)		Sercomm Corporation
-D42122     (base 16)		Sercomm Corporation
-				8F, 3-1, YuanQu St., NanKang,
-				Taipei  Taiwan  115
-				TW
-
 EC-17-66   (hex)		Research Centre Module
 EC1766     (base 16)		Research Centre Module
 				3 Eight March 4Th Street
@@ -12475,12 +12469,6 @@ A8CE90     (base 16)		CVC
 				No.159,Sec.3, Tam-King Rd.,
 				Tamsui  Taipei  251
 				TW
-
-00-13-8A   (hex)		QINGDAO GOERTEK ELECTRONICS CO.,LTD.
-00138A     (base 16)		QINGDAO GOERTEK ELECTRONICS CO.,LTD.
-				Room 605,Innovation Building,Hi-tech Industrial Park,
-				QINGDAO  SHANDONG  266061
-				CN
 
 00-13-89   (hex)		Redes de Telefonía Móvil S.A.
 001389     (base 16)		Redes de Telefonía Móvil S.A.
@@ -26723,30 +26711,6 @@ A00460     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
-AC-FD-93   (hex)		Weifang GoerTek Technology Co.,Ltd. 
-ACFD93     (base 16)		Weifang GoerTek Technology Co.,Ltd. 
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-A4-53-85   (hex)		Weifang GoerTek Technology Co.,Ltd. 
-A45385     (base 16)		Weifang GoerTek Technology Co.,Ltd. 
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-2C-4D-79   (hex)		Weifang GoerTek Technology Co.,Ltd. 
-2C4D79     (base 16)		Weifang GoerTek Technology Co.,Ltd. 
-				No.268 Dongfang Road
-				Weifang  Shandong  261000
-				CN
-
-84-17-66   (hex)		Weifang GoerTek Technology Co.,Ltd. 
-841766     (base 16)		Weifang GoerTek Technology Co.,Ltd. 
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Wei Fang  Shan Dong  
-				CN
-
 74-1C-27   (hex)		ITEL MOBILE LIMITED
 741C27     (base 16)		ITEL MOBILE LIMITED
 				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
@@ -29457,6 +29421,66 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 44EFCF     (base 16)		UGENE SOLUTION inc.
 				A-1508, 1509, 583, Yangcheon-ro, Gangseo-gu
 				Seoul    KS013
+				KR
+
+00-13-8A   (hex)		Qingdao GoerTek Technology Co., Ltd.
+00138A     (base 16)		Qingdao GoerTek Technology Co., Ltd.
+				Room 605,Innovation Building,Hi-tech Industrial Park,
+				QINGDAO  SHANDONG  266061
+				CN
+
+84-17-66   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+841766     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Wei Fang  Shan Dong  
+				CN
+
+2C-4D-79   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+2C4D79     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				No.268 Dongfang Road
+				Weifang  Shandong  261000
+				CN
+
+A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+AC-FD-93   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+ACFD93     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+D4-21-22   (hex)		Sercomm Corporation.
+D42122     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
+0CE0DC     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+10-8E-E0   (hex)		Samsung Electronics Co.,Ltd
+108EE0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+68-E7-C2   (hex)		Samsung Electronics Co.,Ltd
+68E7C2     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+3C-57-6C   (hex)		Samsung Electronics Co.,Ltd
+3C576C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
 				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -57212,12 +57236,6 @@ F87394     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
-40-1B-5F   (hex)		Weifang GoerTek Technology Co.,Ltd. 
-401B5F     (base 16)		Weifang GoerTek Technology Co.,Ltd. 
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
 AC-51-2C   (hex)		Infinix mobility limited
 AC512C     (base 16)		Infinix mobility limited
 				RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
@@ -58982,11 +59000,35 @@ D8F3DB     (base 16)		Post CH AG
 				Ansan-si   Gyeonggi-Do  15433
 				KR
 
+40-1B-5F   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+401B5F     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
 F0-4B-3A   (hex)		Juniper Networks
 F04B3A     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
+
+D0-58-FC   (hex)		BSkyB Ltd
+D058FC     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+74-EB-80   (hex)		Samsung Electronics Co.,Ltd
+74EB80     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+A8-2B-B9   (hex)		Samsung Electronics Co.,Ltd
+A82BB9     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -59473,12 +59515,6 @@ A01D48     (base 16)		Hewlett Packard
 				Room 710, Wangjing SOHO Tower 1-B
 				Beijing  Beijing  100102
 				CN
-
-E0-60-66   (hex)		Sercomm Corporation
-E06066     (base 16)		Sercomm Corporation
-				8F, 3-1, YuanQu St., NanKang,
-				Taipei  Taiwan  115
-				TW
 
 00-19-E0   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 0019E0     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -78203,12 +78239,6 @@ A06A00     (base 16)		Verilink Corporation
 				MADISON HEIGHTS  MI  48071
 				US
 
-00-C0-02   (hex)		SERCOMM CORPORATION
-00C002     (base 16)		SERCOMM CORPORATION
-				3F,NO.81,YU-YIH ROAD,CHU-NAN CHEN
-				TAIPEI    
-				TW
-
 00-C0-F5   (hex)		METACOMP, INC.
 00C0F5     (base 16)		METACOMP, INC.
 				10989 VIA FRONTERA
@@ -85280,12 +85310,6 @@ A021B7     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
-A4-15-66   (hex)		Weifang GoerTek Technology Co.,Ltd. 
-A41566     (base 16)		Weifang GoerTek Technology Co.,Ltd. 
-				Wei fang Export processing Zone
-				Wei Fang  Shan Dong  261205
-				CN
-
 74-E6-0F   (hex)		TECNO MOBILE LIMITED
 74E60F     (base 16)		TECNO MOBILE LIMITED
 				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
@@ -86605,12 +86629,6 @@ C0F4E6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
-
-D4-60-E3   (hex)		Sercomm Corporation.
-D460E3     (base 16)		Sercomm Corporation.
-				violet_liu@sercomm.com
-				Miao-Lih Hsuan    115
-				TW
 
 A0-39-EE   (hex)		Sagemcom Broadband SAS
 A039EE     (base 16)		Sagemcom Broadband SAS
@@ -88002,6 +88020,36 @@ A8E552     (base 16)		JUWEL Aquarium AG & Co. KG
 203DBD     (base 16)		LG Innotek
 				26, Hanamsandan 5beon-ro
 				Gwangju  Gwangsan-gu  506-731
+				KR
+
+A4-15-66   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+A41566     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Wei fang Export processing Zone
+				Wei Fang  Shan Dong  261205
+				CN
+
+D4-60-E3   (hex)		Sercomm Corporation.
+D460E3     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+00-C0-02   (hex)		Sercomm Corporation.
+00C002     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+E0-60-66   (hex)		Sercomm Corporation.
+E06066     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+FC-A6-21   (hex)		Samsung Electronics Co.,Ltd
+FCA621     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
 				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -89533,12 +89581,6 @@ C09A71     (base 16)		XIAMEN MEITU MOBILE TECHNOLOGY CO.LTD
 				VIA ARCHIMEDE, 10
 				SAN MARTINO B.A. (VR)  VERONA  37036
 				IT
-
-94-4A-0C   (hex)		Sercomm Corporation
-944A0C     (base 16)		Sercomm Corporation
-				8F, 3-1, YuanQu St., NanKang,
-				Taipei  Taiwan  115
-				TW
 
 D0-25-16   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 D02516     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
@@ -101596,12 +101638,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				602, Ace Twin Tower 1, 212-1 Guro-dong
 				Gurogu  Seoul  152-766
 				KR
-
-00-0E-8F   (hex)		Sercomm Corp.
-000E8F     (base 16)		Sercomm Corp.
-				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
-				Miao-Lih Hsuan    350
-				TW
 
 00-0E-96   (hex)		Cubic Defense Applications, Inc.
 000E96     (base 16)		Cubic Defense Applications, Inc.
@@ -114734,12 +114770,6 @@ B0B98A     (base 16)		NETGEAR
 				San Jose  CA  95134
 				US
 
-1C-96-5A   (hex)		Weifang GoerTek Technology Co.,Ltd. 
-1C965A     (base 16)		Weifang GoerTek Technology Co.,Ltd. 
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Wei Fang  Shan Dong  261205
-				CN
-
 10-4E-89   (hex)		Garmin International
 104E89     (base 16)		Garmin International
 				1200 E. 151st St
@@ -115945,6 +115975,24 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area Chongqing,China
 				Chongqing  Chongqing  401336
 				CN
+
+1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+1C965A     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Wei Fang  Shan Dong  261205
+				CN
+
+00-0E-8F   (hex)		Sercomm Corporation.
+000E8F     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+94-4A-0C   (hex)		Sercomm Corporation.
+944A0C     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
 
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
@@ -117415,6 +117463,12 @@ B48655     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				350 East Plumeria Drive
 				San Jose  CA  95134
 				US
+
+58-B1-0F   (hex)		Samsung Electronics Co.,Ltd
+58B10F     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -142400,12 +142454,6 @@ A091C8     (base 16)		zte corporation
 				Shawinigan  Quebec  G9N 0A3
 				CA
 
-B4-A5-EF   (hex)		Sercomm Corporation.
-B4A5EF     (base 16)		Sercomm Corporation.
-				violet_liu@sercomm.com
-				Miao-Lih Hsuan    115
-				TW
-
 30-44-A1   (hex)		Shanghai Nanchao Information Technology
 3044A1     (base 16)		Shanghai Nanchao Information Technology
 				Floor 1th, building 13, No.368 Zhangjiang Road, Pudong New District, Shanghai
@@ -145364,12 +145412,6 @@ CC82EB     (base 16)		KYOCERA CORPORATION
 				Yokohama-shi  Kanagawa  224-8502
 				JP
 
-78-94-B4   (hex)		Sercomm Corporation.
-7894B4     (base 16)		Sercomm Corporation.
-				violet_liu@sercomm.com
-				Miao-Lih Hsuan    115
-				TW
-
 00-0F-17   (hex)		Insta Elektro GmbH
 000F17     (base 16)		Insta Elektro GmbH
 				Hohe Steinert 10
@@ -146264,12 +146306,6 @@ F0F8F2     (base 16)		Texas Instruments
 				Dongguan  Guangdong  518057
 				CN
 
-78-81-02   (hex)		Sercomm Corporation.
-788102     (base 16)		Sercomm Corporation.
-				violet_liu@sercomm.com
-				Miao-Lih Hsuan    115
-				TW
-
 58-A0-CB   (hex)		TrackNet, Inc
 58A0CB     (base 16)		TrackNet, Inc
 				900 Lafayette Street #329
@@ -146401,12 +146437,6 @@ F86465     (base 16)		Anova Applied Electronics, Inc.
 				580 Howard Street, #403
 				san francisco  CA  94105
 				US
-
-A8-30-AD   (hex)		Weifang GoerTek Technology Co.,Ltd. 
-A830AD     (base 16)		Weifang GoerTek Technology Co.,Ltd. 
-				Wei fang Export processing Zone
-				Wei Fang  Shan Dong  261205
-				CN
 
 70-E1-FD   (hex)		FLEXTRONICS
 70E1FD     (base 16)		FLEXTRONICS
@@ -146971,3 +147001,39 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+78-81-02   (hex)		Sercomm Corporation.
+788102     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+78-94-B4   (hex)		Sercomm Corporation.
+7894B4     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+B4-A5-EF   (hex)		Sercomm Corporation.
+B4A5EF     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+A8-30-AD   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+A830AD     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Wei fang Export processing Zone
+				Wei Fang  Shan Dong  261205
+				CN
+
+D8-68-C3   (hex)		Samsung Electronics Co.,Ltd
+D868C3     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+C4-93-D9   (hex)		Samsung Electronics Co.,Ltd
+C493D9     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
