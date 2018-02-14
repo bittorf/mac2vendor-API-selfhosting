@@ -29423,24 +29423,6 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 				Seoul    KS013
 				KR
 
-00-13-8A   (hex)		Qingdao GoerTek Technology Co., Ltd.
-00138A     (base 16)		Qingdao GoerTek Technology Co., Ltd.
-				Room 605,Innovation Building,Hi-tech Industrial Park,
-				QINGDAO  SHANDONG  266061
-				CN
-
-84-17-66   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-841766     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Wei Fang  Shan Dong  
-				CN
-
-2C-4D-79   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-2C4D79     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				No.268 Dongfang Road
-				Weifang  Shandong  261000
-				CN
-
 A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
@@ -29458,6 +29440,24 @@ D42122     (base 16)		Sercomm Corporation.
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
 				Miao-Lih Hsuan    115
 				TW
+
+00-13-8A   (hex)		Qingdao GoerTek Technology Co., Ltd.
+00138A     (base 16)		Qingdao GoerTek Technology Co., Ltd.
+				Room 605,Innovation Building,Hi-tech Industrial Park,
+				QINGDAO  SHANDONG  266061
+				CN
+
+84-17-66   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+841766     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Wei Fang  Shan Dong  
+				CN
+
+2C-4D-79   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+2C4D79     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				No.268 Dongfang Road
+				Weifang  Shandong  261000
+				CN
 
 0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
 0CE0DC     (base 16)		Samsung Electronics Co.,Ltd
@@ -58976,17 +58976,17 @@ D8F3DB     (base 16)		Post CH AG
 				Framingham  MA  01701-9168
 				US
 
+3C-F4-F9   (hex)		Moda-InnoChips
+3CF4F9     (base 16)		Moda-InnoChips
+				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
+				Ansan-si   Gyeonggi-Do  15433
+				KR
+
 30-88-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
 308841     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou,Industrial Park
 				Anzhou,Industrial Park  Sichuan  621000
 				CN
-
-80-50-F6   (hex)		ITEL MOBILE LIMITED
-8050F6     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
 
 0C-01-DB   (hex)		Infinix mobility limited
 0C01DB     (base 16)		Infinix mobility limited
@@ -58994,11 +58994,11 @@ D8F3DB     (base 16)		Post CH AG
 				HongKong  HongKong  999077
 				HK
 
-3C-F4-F9   (hex)		Moda-InnoChips
-3CF4F9     (base 16)		Moda-InnoChips
-				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
-				Ansan-si   Gyeonggi-Do  15433
-				KR
+80-50-F6   (hex)		ITEL MOBILE LIMITED
+8050F6     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
 
 40-1B-5F   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 401B5F     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
@@ -88052,6 +88052,12 @@ FCA621     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+60-D0-2C   (hex)		Ruckus Wireless
+60D02C     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -115976,12 +115982,6 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
-1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-1C965A     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Wei Fang  Shan Dong  261205
-				CN
-
 00-0E-8F   (hex)		Sercomm Corporation.
 000E8F     (base 16)		Sercomm Corporation.
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
@@ -115993,6 +115993,12 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
 				Miao-Lih Hsuan    115
 				TW
+
+1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+1C965A     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Wei Fang  Shan Dong  261205
+				CN
 
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
@@ -146984,6 +146990,12 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				SUWON  KYUNGGI-DO  443-743
 				KR
 
+54-BF-64   (hex)		Dell Inc.
+54BF64     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 00-13-4F   (hex)		Rapidus Wireless Networks Inc.
 00134F     (base 16)		Rapidus Wireless Networks Inc.
 				47 - 14550 Morris Valley Road
@@ -146995,12 +147007,6 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
-
-54-BF-64   (hex)		Dell Inc.
-54BF64     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
 
 78-81-02   (hex)		Sercomm Corporation.
 788102     (base 16)		Sercomm Corporation.
