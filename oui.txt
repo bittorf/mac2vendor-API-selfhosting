@@ -1274,12 +1274,6 @@ C4ADF1     (base 16)		GOPEACE Inc.
 				San Jose  California  95110
 				US
 
-1C-60-DE   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-1C60DE     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
 74-18-65   (hex)		Shanghai DareGlobal Technologies Co.,Ltd
 741865     (base 16)		Shanghai DareGlobal Technologies Co.,Ltd
 				22F NO.1555 Kongjiang RD
@@ -1739,12 +1733,6 @@ BC5C4C     (base 16)		ELECOM CO.,LTD.
 				Chiyoda-ku  Tokyo  102-0081
 				JP
 
-6C-59-40   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-6C5940     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
 6C-A7-5F   (hex)		zte corporation
 6CA75F     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -1983,12 +1971,6 @@ A8D0E3     (base 16)		Systech Electronics Ltd.
 78B3B9     (base 16)		ShangHai sunup lighting CO.,LTD
 				RM2508,Building 2,1077# Zu Chong Zhi Rd,Zhang Jiang Hi-Tech Park,Pudong New Area,ShangHai,China
 				shanghai  shanghai  201203
-				CN
-
-F4-EE-14   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-F4EE14     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
 				CN
 
 18-65-71   (hex)		Top Victory Electronics (Taiwan) Co., Ltd.
@@ -29423,24 +29405,6 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 				Seoul    KS013
 				KR
 
-A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-AC-FD-93   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-ACFD93     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-D4-21-22   (hex)		Sercomm Corporation.
-D42122     (base 16)		Sercomm Corporation.
-				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
-				Miao-Lih Hsuan    115
-				TW
-
 00-13-8A   (hex)		Qingdao GoerTek Technology Co., Ltd.
 00138A     (base 16)		Qingdao GoerTek Technology Co., Ltd.
 				Room 605,Innovation Building,Hi-tech Industrial Park,
@@ -29457,6 +29421,18 @@ D42122     (base 16)		Sercomm Corporation.
 2C4D79     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				No.268 Dongfang Road
 				Weifang  Shandong  261000
+				CN
+
+A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+AC-FD-93   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+ACFD93     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
 				CN
 
 0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
@@ -29482,6 +29458,30 @@ D42122     (base 16)		Sercomm Corporation.
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+D4-21-22   (hex)		Sercomm Corporation.
+D42122     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+F4-EE-14   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+F4EE14     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+6C-59-40   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+6C5940     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+1C-60-DE   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+1C60DE     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 A8-D4-98   (hex)		Avira Operations GmbH & Co. KG
 A8D498     (base 16)		Avira Operations GmbH & Co. KG
@@ -48281,12 +48281,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				TU-CHENG TAIPEI    
 				TW
 
-00-10-17   (hex)		Bosch Access Systems GmbH
-001017     (base 16)		Bosch Access Systems GmbH
-				Charlottenburger Allee 50            
-				AACHEN      D-52068 
-				DE
-
 00-10-24   (hex)		NAGOYA ELECTRIC WORKS CO., LTD
 001024     (base 16)		NAGOYA ELECTRIC WORKS CO., LTD
 				29-1 SHINODA, MIWA-CHO
@@ -58994,17 +58988,17 @@ D8F3DB     (base 16)		Post CH AG
 				Framingham  MA  01701-9168
 				US
 
+3C-F4-F9   (hex)		Moda-InnoChips
+3CF4F9     (base 16)		Moda-InnoChips
+				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
+				Ansan-si   Gyeonggi-Do  15433
+				KR
+
 30-88-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
 308841     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou,Industrial Park
 				Anzhou,Industrial Park  Sichuan  621000
 				CN
-
-80-50-F6   (hex)		ITEL MOBILE LIMITED
-8050F6     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
 
 0C-01-DB   (hex)		Infinix mobility limited
 0C01DB     (base 16)		Infinix mobility limited
@@ -59012,11 +59006,11 @@ D8F3DB     (base 16)		Post CH AG
 				HongKong  HongKong  999077
 				HK
 
-3C-F4-F9   (hex)		Moda-InnoChips
-3CF4F9     (base 16)		Moda-InnoChips
-				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
-				Ansan-si   Gyeonggi-Do  15433
-				KR
+80-50-F6   (hex)		ITEL MOBILE LIMITED
+8050F6     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
 
 40-1B-5F   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 401B5F     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
@@ -59047,6 +59041,12 @@ A82BB9     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+00-10-17   (hex)		Bosch Access Systems GmbH
+001017     (base 16)		Bosch Access Systems GmbH
+				Charlottenburger Allee 50            
+				AACHEN      D-52068 
+				DE
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -59311,12 +59311,6 @@ E899C4     (base 16)		HTC Corporation
 				1132 W. 1700 N.
 				Logan  UT  84321
 				US
-
-8C-F2-28   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-8CF228     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
 
 88-51-FB   (hex)		Hewlett Packard
 8851FB     (base 16)		Hewlett Packard
@@ -60349,12 +60343,6 @@ E8DED6     (base 16)		Intrising Networks, Inc.
 				1289 Fordham Blvd.
 				Chapel Hill  NC  27514
 				US
-
-BC-5F-F6   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-BC5FF6     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
 
 C8-F9-C8   (hex)		NewSharp Technology(SuZhou)Co,Ltd
 C8F9C8     (base 16)		NewSharp Technology(SuZhou)Co,Ltd
@@ -65029,12 +65017,6 @@ BC99BC     (base 16)		FonSee Technology Inc.
 				80B-4L, 680-3 Gojan-Dong
 				Incheon    405-819
 				KR
-
-80-B3-2A   (hex)		Alstom Grid
-80B32A     (base 16)		Alstom Grid
-				St Leonard's Ave
-				Stafford   Staffordshire  ST17 4LX
-				GB
 
 80-34-57   (hex)		OT Systems Limited
 803457     (base 16)		OT Systems Limited
@@ -73415,12 +73397,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Enfield  CT  06082
 				US
 
-00-09-DF   (hex)		Vestel Komunikasyon Sanayi ve Ticaret A.S.
-0009DF     (base 16)		Vestel Komunikasyon Sanayi ve Ticaret A.S.
-				Ege Serbest Bolgesi No:144/1
-				Izmir    35410
-				TR
-
 00-09-CD   (hex)		HUDSON SOFT CO.,LTD.
 0009CD     (base 16)		HUDSON SOFT CO.,LTD.
 				C62,Geijutsu-no-mori
@@ -78839,12 +78815,6 @@ A06A00     (base 16)		Verilink Corporation
 				  HONG  KONG
 				HK
 
-00-80-B6   (hex)		THEMIS COMPUTER
-0080B6     (base 16)		THEMIS COMPUTER
-				6681 OWENS DRIVE
-				PLEASONTON  CA  94588
-				US
-
 00-80-C0   (hex)		PENRIL DATACOMM
 0080C0     (base 16)		PENRIL DATACOMM
 				1300 QUINCE ORCHARD BLVD.
@@ -82126,12 +82096,6 @@ D8D43C     (base 16)		Sony Corporation
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-C8-77-8B   (hex)		Themis Computer
-C8778B     (base 16)		Themis Computer
-				47200 Bayside Pkwy
-				Fremont  CA  94538
-				US
 
 00-0A-68   (hex)		Solarflare Communications Inc
 000A68     (base 16)		Solarflare Communications Inc
@@ -86645,6 +86609,42 @@ C0F4E6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Piscataway  NJ  08554
 				US
 
+D4-60-E3   (hex)		Sercomm Corporation.
+D460E3     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+00-C0-02   (hex)		Sercomm Corporation.
+00C002     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+E0-60-66   (hex)		Sercomm Corporation.
+E06066     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+A4-15-66   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+A41566     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Wei fang Export processing Zone
+				Wei Fang  Shan Dong  261205
+				CN
+
+FC-A6-21   (hex)		Samsung Electronics Co.,Ltd
+FCA621     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+60-D0-2C   (hex)		Ruckus Wireless
+60D02C     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -88040,41 +88040,41 @@ A8E552     (base 16)		JUWEL Aquarium AG & Co. KG
 				Gwangju  Gwangsan-gu  506-731
 				KR
 
-A4-15-66   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-A41566     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Wei fang Export processing Zone
-				Wei Fang  Shan Dong  261205
+00-09-DF   (hex)		Vestel Elektronik San ve Tic. A.Ş.
+0009DF     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
+				Organize san
+				Manisa  Turket  45030
+				TR
+
+BC-5F-F6   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+BC5FF6     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
 				CN
 
-D4-60-E3   (hex)		Sercomm Corporation.
-D460E3     (base 16)		Sercomm Corporation.
-				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
-				Miao-Lih Hsuan    115
-				TW
+8C-F2-28   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+8CF228     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
-00-C0-02   (hex)		Sercomm Corporation.
-00C002     (base 16)		Sercomm Corporation.
-				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
-				Miao-Lih Hsuan    115
-				TW
-
-E0-60-66   (hex)		Sercomm Corporation.
-E06066     (base 16)		Sercomm Corporation.
-				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
-				Miao-Lih Hsuan    115
-				TW
-
-FC-A6-21   (hex)		Samsung Electronics Co.,Ltd
-FCA621     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-60-D0-2C   (hex)		Ruckus Wireless
-60D02C     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
+00-80-B6   (hex)		Mercury Systems – Trusted Mission Solutions, Inc. 
+0080B6     (base 16)		Mercury Systems – Trusted Mission Solutions, Inc. 
+				6681 OWENS DRIVE
+				PLEASONTON  CA  94588
 				US
+
+C8-77-8B   (hex)		Mercury Systems – Trusted Mission Solutions, Inc. 
+C8778B     (base 16)		Mercury Systems – Trusted Mission Solutions, Inc. 
+				47200 Bayside Pkwy
+				Fremont  CA  94538
+				US
+
+80-B3-2A   (hex)		UK Grid Solutions Ltd
+80B32A     (base 16)		UK Grid Solutions Ltd
+				Harry Kerr Drive
+				Stafford   Staffordshire  ST17 4LX
+				GB
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -88230,12 +88230,6 @@ C0-56-E3   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 C056E3     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				No.469,Jianghui Road
 				Hangzhou  Zhejiang  310052
-				CN
-
-C8-E7-D8   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-C8E7D8     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr., Building 28, Cui Xi Fourth Road，Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
 				CN
 
 9C-EF-D5   (hex)		Panda Wireless, Inc.
@@ -89605,12 +89599,6 @@ C09A71     (base 16)		XIAMEN MEITU MOBILE TECHNOLOGY CO.LTD
 				VIA ARCHIMEDE, 10
 				SAN MARTINO B.A. (VR)  VERONA  37036
 				IT
-
-D0-25-16   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-D02516     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
 
 D0-5C-7A   (hex)		Sartura d.o.o.
 D05C7A     (base 16)		Sartura d.o.o.
@@ -116000,6 +115988,12 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
+1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+1C965A     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Wei Fang  Shan Dong  261205
+				CN
+
 00-0E-8F   (hex)		Sercomm Corporation.
 000E8F     (base 16)		Sercomm Corporation.
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
@@ -116011,12 +116005,6 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
 				Miao-Lih Hsuan    115
 				TW
-
-1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-1C965A     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Wei Fang  Shan Dong  261205
-				CN
 
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
@@ -117488,11 +117476,29 @@ B48655     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				San Jose  CA  95134
 				US
 
+D0-25-16   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+D02516     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 58-B1-0F   (hex)		Samsung Electronics Co.,Ltd
 58B10F     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+C8-E7-D8   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+C8E7D8     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr., Building 28, Cui Xi Fourth Road，Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+68-3A-1E   (hex)		Cisco Meraki
+683A1E     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -118651,12 +118657,6 @@ E8EDF3     (base 16)		Cisco Systems, Inc
 				170 West Tasman Drive
 				San Jose  CA  95134
 				US
-
-48-8A-D2   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-488AD2     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
 
 14-02-EC   (hex)		Hewlett Packard Enterprise
 1402EC     (base 16)		Hewlett Packard Enterprise
@@ -141632,12 +141632,6 @@ BC8AA3     (base 16)		NHN Entertainment
 				Jincheon-Gun  Chungbuk  27850
 				KR
 
-48-6D-BB   (hex)		Vestel Elektronik San ve Tic. A.Ş.
-486DBB     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
-				Organize san
-				Manisa  Turket  45030
-				TR
-
 E0-9D-FA   (hex)		Wanan Hongsheng Electronic Co.Ltd
 E09DFA     (base 16)		Wanan Hongsheng Electronic Co.Ltd
 				1st section of industrial pack,Wan'An County,Ji'An City,jiangxi province
@@ -147008,6 +147002,12 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				SUWON  KYUNGGI-DO  443-743
 				KR
 
+54-BF-64   (hex)		Dell Inc.
+54BF64     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 00-13-4F   (hex)		Rapidus Wireless Networks Inc.
 00134F     (base 16)		Rapidus Wireless Networks Inc.
 				47 - 14550 Morris Valley Road
@@ -147019,12 +147019,6 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
-
-54-BF-64   (hex)		Dell Inc.
-54BF64     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
 
 78-81-02   (hex)		Sercomm Corporation.
 788102     (base 16)		Sercomm Corporation.
@@ -147061,3 +147055,15 @@ C493D9     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+48-6D-BB   (hex)		Vestel Elektronik San ve Tic. A.Ş.
+486DBB     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
+				Organize san
+				Manisa  Turket  45030
+				TR
+
+48-8A-D2   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+488AD2     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
