@@ -59000,17 +59000,17 @@ D8F3DB     (base 16)		Post CH AG
 				Framingham  MA  01701-9168
 				US
 
-3C-F4-F9   (hex)		Moda-InnoChips
-3CF4F9     (base 16)		Moda-InnoChips
-				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
-				Ansan-si   Gyeonggi-Do  15433
-				KR
-
 30-88-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
 308841     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou,Industrial Park
 				Anzhou,Industrial Park  Sichuan  621000
 				CN
+
+80-50-F6   (hex)		ITEL MOBILE LIMITED
+8050F6     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
 
 0C-01-DB   (hex)		Infinix mobility limited
 0C01DB     (base 16)		Infinix mobility limited
@@ -59018,11 +59018,11 @@ D8F3DB     (base 16)		Post CH AG
 				HongKong  HongKong  999077
 				HK
 
-80-50-F6   (hex)		ITEL MOBILE LIMITED
-8050F6     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
+3C-F4-F9   (hex)		Moda-InnoChips
+3CF4F9     (base 16)		Moda-InnoChips
+				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
+				Ansan-si   Gyeonggi-Do  15433
+				KR
 
 40-1B-5F   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 401B5F     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
@@ -117542,6 +117542,12 @@ D02516     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				San Jose  CA  94568
 				US
 
+BC-22-FB   (hex)		RF Industries
+BC22FB     (base 16)		RF Industries
+				PO Box 5
+				Welland  SA  5007
+				AU
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -147044,12 +147050,6 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				SUWON  KYUNGGI-DO  443-743
 				KR
 
-54-BF-64   (hex)		Dell Inc.
-54BF64     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 00-13-4F   (hex)		Rapidus Wireless Networks Inc.
 00134F     (base 16)		Rapidus Wireless Networks Inc.
 				47 - 14550 Morris Valley Road
@@ -147061,6 +147061,12 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
+
+54-BF-64   (hex)		Dell Inc.
+54BF64     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 78-81-02   (hex)		Sercomm Corporation.
 788102     (base 16)		Sercomm Corporation.
@@ -147098,17 +147104,17 @@ C493D9     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-48-8A-D2   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-488AD2     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
 48-6D-BB   (hex)		Vestel Elektronik San ve Tic. A.Ş.
 486DBB     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
 				Organize san
 				Manisa  Turket  45030
 				TR
+
+48-8A-D2   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+488AD2     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 70-54-B4   (hex)		Vestel Elektronik San ve Tic. A.Ş.
 7054B4     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
