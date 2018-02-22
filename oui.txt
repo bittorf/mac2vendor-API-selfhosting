@@ -29513,6 +29513,12 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+04-AB-18   (hex)		ELECOM CO.,LTD.
+04AB18     (base 16)		ELECOM CO.,LTD.
+				11F Tokyubancho Bldg. 6-2,
+				Chiyoda-ku  Tokyo  102-0081
+				JP
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -59065,6 +59071,12 @@ A82BB9     (base 16)		Samsung Electronics Co.,Ltd
 				#50 Baoxiang Road, Jiangning Bin Jiang Economic Development Zone
 				nanjing  jiangsu  211161
 				CN
+
+60-05-8A   (hex)		Hitachi Metals, Ltd.
+60058A     (base 16)		Hitachi Metals, Ltd.
+				Shinagawa Season Terrace, 2-70, Konan 1-chome
+				Minato-ku  Tokyo  108-8224
+				JP
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -117536,17 +117548,23 @@ D02516     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Gumi  Gyeongbuk  730-350
 				KR
 
+BC-22-FB   (hex)		RF Industries
+BC22FB     (base 16)		RF Industries
+				PO Box 5
+				Welland  SA  5007
+				AU
+
 70-0F-6A   (hex)		Cisco Systems, Inc
 700F6A     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
 
-BC-22-FB   (hex)		RF Industries
-BC22FB     (base 16)		RF Industries
-				PO Box 5
-				Welland  SA  5007
-				AU
+2C-47-59   (hex)		Beijing MEGA preponderance Science & Technology Co. Ltd
+2C4759     (base 16)		Beijing MEGA preponderance Science & Technology Co. Ltd
+				Room 2201,No.8,Ruichuang International B Block,Wangjing East Road
+				Beijing    100102
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
