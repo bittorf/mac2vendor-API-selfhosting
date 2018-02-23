@@ -2738,12 +2738,6 @@ B4827B     (base 16)		AKG Acoustics GmbH
 				Hsin-chu  Taiwan  300
 				TW
 
-4C-5E-0C   (hex)		Routerboard.com
-4C5E0C     (base 16)		Routerboard.com
-				Mikrotikls SIA
-				Riga    LV1009
-				LV
-
 9C-F8-DB   (hex)		shenzhen eyunmei technology co,.ltd
 9CF8DB     (base 16)		shenzhen eyunmei technology co,.ltd
 				8/F Yiben Building,No.1063 ChaGuang Road,XiLi Town,
@@ -4399,12 +4393,6 @@ DCB058     (base 16)		Bürkert Werke GmbH
 				Christian-Bürkert-Straße 13-17
 				Ingelfingen  Baden-Württemberg  74653
 				DE
-
-64-1C-67   (hex)		DIGIBRAS INDUSTRIA DO BRASILS/A
-641C67     (base 16)		DIGIBRAS INDUSTRIA DO BRASILS/A
-				Rua Tambaqui, 180-B - MANAUS - AM ¨C BRAZIL
-				  MANAUS  69075-210 
-				BR
 
 C8-E1-A7   (hex)		Vertu Corporation Limited
 C8E1A7     (base 16)		Vertu Corporation Limited
@@ -7921,12 +7909,6 @@ A8CE90     (base 16)		CVC
 				45 Main St
 				Boylston  MA  01505
 				US
-
-00-26-BD   (hex)		JTEC Card & Communication Co., Ltd.
-0026BD     (base 16)		JTEC Card & Communication Co., Ltd.
-				Dabo Bldg, 4F, 61-1, Gyesu-dong, Sosa-gu
-				Bucheon  Gyunggi-do  422-070
-				KR
 
 00-26-B3   (hex)		Thales Communications Inc
 0026B3     (base 16)		Thales Communications Inc
@@ -11665,12 +11647,6 @@ A8CE90     (base 16)		CVC
 				210 / 54 Currie Street
 				Adelaide  South Australia  5000
 				AU
-
-00-15-1E   (hex)		Ethernet Powerlink Standardization Group (EPSG)
-00151E     (base 16)		Ethernet Powerlink Standardization Group (EPSG)
-				c/o Zurich University of Applied Sciences
-				CH-8401  Winterthur  
-				CH
 
 00-15-25   (hex)		Chamberlain Access Solutions
 001525     (base 16)		Chamberlain Access Solutions
@@ -29405,6 +29381,24 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 				Seoul    KS013
 				KR
 
+A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+AC-FD-93   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+ACFD93     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+D4-21-22   (hex)		Sercomm Corporation.
+D42122     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
 00-13-8A   (hex)		Qingdao GoerTek Technology Co., Ltd.
 00138A     (base 16)		Qingdao GoerTek Technology Co., Ltd.
 				Room 605,Innovation Building,Hi-tech Industrial Park,
@@ -29421,66 +29415,6 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 2C4D79     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				No.268 Dongfang Road
 				Weifang  Shandong  261000
-				CN
-
-A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-AC-FD-93   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-ACFD93     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
-0CE0DC     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-10-8E-E0   (hex)		Samsung Electronics Co.,Ltd
-108EE0     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-68-E7-C2   (hex)		Samsung Electronics Co.,Ltd
-68E7C2     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-3C-57-6C   (hex)		Samsung Electronics Co.,Ltd
-3C576C     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D4-21-22   (hex)		Sercomm Corporation.
-D42122     (base 16)		Sercomm Corporation.
-				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
-				Miao-Lih Hsuan    115
-				TW
-
-F4-EE-14   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-F4EE14     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
-6C-59-40   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-6C5940     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
-1C-60-DE   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-1C60DE     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
 				CN
 
 A8-D4-98   (hex)		Avira Operations GmbH & Co. KG
@@ -29501,11 +29435,47 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				Santa Ana  CA  92707
 				US
 
-50-61-BF   (hex)		Cisco Systems, Inc
-5061BF     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+10-8E-E0   (hex)		Samsung Electronics Co.,Ltd
+108EE0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+68-E7-C2   (hex)		Samsung Electronics Co.,Ltd
+68E7C2     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+3C-57-6C   (hex)		Samsung Electronics Co.,Ltd
+3C576C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
+0CE0DC     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+6C-59-40   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+6C5940     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+1C-60-DE   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+1C60DE     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+F4-EE-14   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+F4EE14     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 20-A6-0C   (hex)		Xiaomi Communications Co Ltd
 20A60C     (base 16)		Xiaomi Communications Co Ltd
@@ -29513,11 +29483,41 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+50-61-BF   (hex)		Cisco Systems, Inc
+5061BF     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 04-AB-18   (hex)		ELECOM CO.,LTD.
 04AB18     (base 16)		ELECOM CO.,LTD.
 				11F Tokyubancho Bldg. 6-2,
 				Chiyoda-ku  Tokyo  102-0081
 				JP
+
+4C-5E-0C   (hex)		Routerboard.com
+4C5E0C     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga    LV1009
+				LV
+
+00-26-BD   (hex)		JTEC Card &amp; Communication Co., Ltd
+0026BD     (base 16)		JTEC Card &amp; Communication Co., Ltd
+				Dabo Bldg, 4F, 61-1, Gyesu-dong, Sosa-gu
+				Bucheon  Gyunggi-do  422-070
+				KR
+
+00-15-1E   (hex)		ETHERNET Powerlink Standarization Group (EPSG)
+00151E     (base 16)		ETHERNET Powerlink Standarization Group (EPSG)
+				c/o Zurich University of Applied Sciences
+				CH-8401  Winterthur  
+				CH
+
+64-1C-67   (hex)		DIGIBRAS INDUSTRIA DO BRASILS/A
+641C67     (base 16)		DIGIBRAS INDUSTRIA DO BRASILS/A
+				Rua Tambaqui, 180-B - MANAUS - AM ¨C BRAZIL
+				  MANAUS  69075-210 
+				BR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -38527,12 +38527,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Suite 2, Level 2
 				Macquarie Park  NSW  2113
 				AU
-
-00-21-06   (hex)		RIM Testing Services
-002106     (base 16)		RIM Testing Services
-				440 Phillip Street
-				Waterloo  ON  N2L 5R9
-				CA
 
 00-1F-FF   (hex)		Respironics, Inc.
 001FFF     (base 16)		Respironics, Inc.
@@ -47751,12 +47745,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 0090A7     (base 16)		CLIENTEC CORPORATION
 				8175 S. VIRGINIA ST.
 				RENO  NV  89511
-				US
-
-00-90-7F   (hex)		WatchGuard Technologies, Inc.
-00907F     (base 16)		WatchGuard Technologies, Inc.
-				505 Fifth Ave South
-				Seattle  WA  98104
 				US
 
 00-90-7E   (hex)		VETRONIX CORP.
@@ -59077,6 +59065,18 @@ A82BB9     (base 16)		Samsung Electronics Co.,Ltd
 				Shinagawa Season Terrace, 2-70, Konan 1-chome
 				Minato-ku  Tokyo  108-8224
 				JP
+
+00-21-06   (hex)		RIM Testing Services
+002106     (base 16)		RIM Testing Services
+				440 Phillip Street
+				Waterloo  ON  N2L 5R9
+				CA
+
+00-90-7F   (hex)		Watchguard Technologies, Inc.
+00907F     (base 16)		Watchguard Technologies, Inc.
+				505 Fifth Ave South
+				Seattle  WA  98104
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -70748,12 +70748,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Richardson  TX  75081
 				US
 
-00-14-72   (hex)		China Broadband Wireless IP Standard Group
-001472     (base 16)		China Broadband Wireless IP Standard Group
-				P.O.BOX 88,West High-tech
-				Xi'an  Shaan Xi  710075
-				CN
-
 00-14-66   (hex)		Kleinhenz Elektronik GmbH
 001466     (base 16)		Kleinhenz Elektronik GmbH
 				Greinerberg 14
@@ -71803,12 +71797,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Room F, 3/F, Yeung Yiu Chong (no. 8) Industrial building,
 				    
 				HK
-
-00-11-1E   (hex)		EPSG (Ethernet Powerlink Standardization Group)
-00111E     (base 16)		EPSG (Ethernet Powerlink Standardization Group)
-				c/o University of Applied Sciences
-				Winterthur  ZH  CH-8401
-				CH
 
 00-11-1F   (hex)		Doremi Labs, Inc.
 00111F     (base 16)		Doremi Labs, Inc.
@@ -79167,12 +79155,6 @@ A06A00     (base 16)		Verilink Corporation
 004045     (base 16)		TWINHEAD CORPORATION
 				1537 CENTRE POINTE DRIVE
 				MILPITAS  CA  95035
-				US
-
-00-40-9D   (hex)		DIGIBOARD, INC.
-00409D     (base 16)		DIGIBOARD, INC.
-				6400 FLYING CLOUD DRIVE
-				EDEN PRAIRIE  MN  55344
 				US
 
 00-40-1A   (hex)		FUJI ELECTRIC CO., LTD.
@@ -86675,6 +86657,18 @@ FCA621     (base 16)		Samsung Electronics Co.,Ltd
 				Sunnyvale  CA  94089
 				US
 
+00-09-DF   (hex)		Vestel Elektronik San ve Tic. A.Ş.
+0009DF     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
+				Organize san
+				Manisa  Turket  45030
+				TR
+
+BC-5F-F6   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+BC5FF6     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 8C-F2-28   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 8CF228     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
@@ -86699,16 +86693,22 @@ C8778B     (base 16)		Mercury Systems – Trusted Mission Solutions, Inc.
 				Stafford   Staffordshire  ST17 4LX
 				GB
 
-00-09-DF   (hex)		Vestel Elektronik San ve Tic. A.Ş.
-0009DF     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
-				Organize san
-				Manisa  Turket  45030
-				TR
+00-11-1E   (hex)		ETHERNET Powerlink Standarization Group (EPSG)
+00111E     (base 16)		ETHERNET Powerlink Standarization Group (EPSG)
+				c/o University of Applied Sciences
+				Winterthur  ZH  CH-8401
+				CH
 
-BC-5F-F6   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-BC5FF6     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
+00-40-9D   (hex)		DigiBoard
+00409D     (base 16)		DigiBoard
+				6400 FLYING CLOUD DRIVE
+				EDEN PRAIRIE  MN  55344
+				US
+
+00-14-72   (hex)		China Broadband Wireless IP Standard group(ChinaBWIPS)
+001472     (base 16)		China Broadband Wireless IP Standard group(ChinaBWIPS)
+				P.O.BOX 88,West High-tech
+				Xi'an  Shaan Xi  710075
 				CN
 
 AC-F8-5C   (hex)		Private
@@ -88105,6 +88105,12 @@ A8E552     (base 16)		JUWEL Aquarium AG & Co. KG
 				26, Hanamsandan 5beon-ro
 				Gwangju  Gwangsan-gu  506-731
 				KR
+
+D8-24-77   (hex)		Universal Electric Corporation
+D82477     (base 16)		Universal Electric Corporation
+				168 Georgetown Road
+				Canonsburg  PA  15317
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -93475,12 +93481,6 @@ F8313E     (base 16)		endeavour GmbH
 				4F, No. 92, Section 1, Nei-Hu Road
 				Taipei    114
 				TW
-
-D4-CA-6D   (hex)		Routerboard.com
-D4CA6D     (base 16)		Routerboard.com
-				Mikrotikls SIA
-				Riga    LV-1009
-				LV
 
 D8-E7-43   (hex)		Wush, Inc
 D8E743     (base 16)		Wush, Inc
@@ -102047,12 +102047,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Santa Barbara  CA  93117
 				US
 
-00-0D-82   (hex)		PHS srl
-000D82     (base 16)		PHS srl
-				Via Palù, 17
-				Arcugnano  Vicenza  36057
-				IT
-
 00-0D-81   (hex)		Pepperl+Fuchs GmbH
 000D81     (base 16)		Pepperl+Fuchs GmbH
 				Lilienthalstraße 200
@@ -102508,12 +102502,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Hatanpaan valtatie 24
 				TAMPERE  FIN  33950
 				FI
-
-00-0C-42   (hex)		Routerboard.com
-000C42     (base 16)		Routerboard.com
-				Pernavas 46
-				Riga    LV-1009
-				LV
 
 00-0C-44   (hex)		Automated Interfaces, Inc.
 000C44     (base 16)		Automated Interfaces, Inc.
@@ -116018,12 +116006,6 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
-1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-1C965A     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Wei Fang  Shan Dong  261205
-				CN
-
 00-0E-8F   (hex)		Sercomm Corporation.
 000E8F     (base 16)		Sercomm Corporation.
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
@@ -116036,35 +116018,11 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				Miao-Lih Hsuan    115
 				TW
 
-D0-C5-D8   (hex)		LATECOERE
-D0C5D8     (base 16)		LATECOERE
-				135 Rue de Périole, BP25211
-				Toulouse Cedex 5  31 Haute-Garonne  31079
-				FR
-
-DC-E0-EB   (hex)		Nanjing Aozheng Information Technology Co.Ltd
-DCE0EB     (base 16)		Nanjing Aozheng Information Technology Co.Ltd
-				#E1-453, Zidong Road #1,Qixia District
-				Nanjing  jiangsu  210000
+1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+1C965A     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Wei Fang  Shan Dong  261205
 				CN
-
-C8-E7-D8   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-C8E7D8     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr., Building 28, Cui Xi Fourth Road，Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
-50-59-67   (hex)		Intent Solutions Inc
-505967     (base 16)		Intent Solutions Inc
-				730 Peachtree St NE, Suite 550
-				ATLANTA  GA  30308
-				US
-
-68-3A-1E   (hex)		Cisco Meraki
-683A1E     (base 16)		Cisco Meraki
-				500 Terry A. Francois Blvd
-				San Francisco    94158
-				US
 
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
@@ -117542,11 +117500,47 @@ D02516     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Shenzhen  Guangdong  518057
 				CN
 
+C8-E7-D8   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+C8E7D8     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr., Building 28, Cui Xi Fourth Road，Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 58-B1-0F   (hex)		Samsung Electronics Co.,Ltd
 58B10F     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+68-3A-1E   (hex)		Cisco Meraki
+683A1E     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+DC-E0-EB   (hex)		Nanjing Aozheng Information Technology Co.Ltd
+DCE0EB     (base 16)		Nanjing Aozheng Information Technology Co.Ltd
+				#E1-453, Zidong Road #1,Qixia District
+				Nanjing  jiangsu  210000
+				CN
+
+50-59-67   (hex)		Intent Solutions Inc
+505967     (base 16)		Intent Solutions Inc
+				730 Peachtree St NE, Suite 550
+				ATLANTA  GA  30308
+				US
+
+D0-C5-D8   (hex)		LATECOERE
+D0C5D8     (base 16)		LATECOERE
+				135 Rue de Périole, BP25211
+				Toulouse Cedex 5  31 Haute-Garonne  31079
+				FR
+
+2C-47-59   (hex)		Beijing MEGA preponderance Science & Technology Co. Ltd
+2C4759     (base 16)		Beijing MEGA preponderance Science & Technology Co. Ltd
+				Room 2201,No.8,Ruichuang International B Block,Wangjing East Road
+				Beijing    100102
+				CN
 
 BC-22-FB   (hex)		RF Industries
 BC22FB     (base 16)		RF Industries
@@ -117560,11 +117554,23 @@ BC22FB     (base 16)		RF Industries
 				San Jose  CA  94568
 				US
 
-2C-47-59   (hex)		Beijing MEGA preponderance Science & Technology Co. Ltd
-2C4759     (base 16)		Beijing MEGA preponderance Science & Technology Co. Ltd
-				Room 2201,No.8,Ruichuang International B Block,Wangjing East Road
-				Beijing    100102
-				CN
+D4-CA-6D   (hex)		Routerboard.com
+D4CA6D     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga    LV-1009
+				LV
+
+00-0C-42   (hex)		Routerboard.com
+000C42     (base 16)		Routerboard.com
+				Pernavas 46
+				Riga    LV-1009
+				LV
+
+00-0D-82   (hex)		PHSNET SRLS
+000D82     (base 16)		PHSNET SRLS
+				Via Palù, 17
+				Arcugnano  Vicenza  36057
+				IT
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -122128,12 +122134,6 @@ ACC698     (base 16)		Kohzu Precision Co., Ltd.
 				899 Kifer Road
 				Sunnyvale  California  94086
 				US
-
-4C-0F-C7   (hex)		Earda Electronics Co.,Ltd 
-4C0FC7     (base 16)		Earda Electronics Co.,Ltd 
-				5/F,Block 2 East area,Haosheng Industrial Park,
-				Guangzhou  Guangdong  511400
-				CN
 
 64-C9-44   (hex)		LARK Technologies, Inc
 64C944     (base 16)		LARK Technologies, Inc
@@ -147139,3 +147139,9 @@ C493D9     (base 16)		Samsung Electronics Co.,Ltd
 				Organize san
 				Manisa  Turket  45030
 				TR
+
+4C-0F-C7   (hex)		Earda Technologies co Ltd
+4C0FC7     (base 16)		Earda Technologies co Ltd
+				5/F,Block 2 East area,Haosheng Industrial Park,
+				Guangzhou  Guangdong  511400
+				CN
