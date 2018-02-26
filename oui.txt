@@ -17177,12 +17177,6 @@ A8CE90     (base 16)		CVC
 				    
 				FR
 
-00-02-84   (hex)		AREVA T&D
-000284     (base 16)		AREVA T&D
-				Avenue de Figuieres BP 75
-				    
-				FR
-
 00-02-7D   (hex)		Cisco Systems, Inc
 00027D     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -29363,6 +29357,42 @@ B0EB57     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+8C-15-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8C15C7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A4-BE-2B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4BE2B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+60-FA-9D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60FA9D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+DC-99-14   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DC9914     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+2C-97-B1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+2C97B1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+70-89-CC   (hex)		China Mobile Group Device Co.,Ltd.
+7089CC     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
 0C-B6-D2   (hex)		D-Link International
 0CB6D2     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
@@ -29518,6 +29548,12 @@ F4EE14     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Rua Tambaqui, 180-B - MANAUS - AM ¨C BRAZIL
 				  MANAUS  69075-210 
 				BR
+
+00-02-84   (hex)		UK Grid Solutions Limited
+000284     (base 16)		UK Grid Solutions Limited
+				St Leonards Building  Redhill Business Park
+				Stafford    ST16 1TW
+				GB
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -59078,6 +59114,18 @@ A82BB9     (base 16)		Samsung Electronics Co.,Ltd
 				Seattle  WA  98104
 				US
 
+14-57-9F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+14579F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+14-4F-8A   (hex)		Intel Corporate
+144F8A     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -88106,10 +88154,34 @@ A8E552     (base 16)		JUWEL Aquarium AG & Co. KG
 				Gwangju  Gwangsan-gu  506-731
 				KR
 
+B4-43-26   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B44326     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+24-EC-51   (hex)		ADF Technologies Sdn Bhd
+24EC51     (base 16)		ADF Technologies Sdn Bhd
+				Plot 88F, Lintang Bayan Lepas 10, Bayan Lepas Industrial Park Phase IV
+				Bayan Lepas  Pulau Pinang  11900
+				MY
+
 D8-24-77   (hex)		Universal Electric Corporation
 D82477     (base 16)		Universal Electric Corporation
 				168 Georgetown Road
 				Canonsburg  PA  15317
+				US
+
+9C-71-3A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C713A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+38-56-B5   (hex)		Peerbridge Health Inc
+3856B5     (base 16)		Peerbridge Health Inc
+				3 Columbus Circle 15th Fl
+				New York  NY  10019
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -116024,6 +116096,36 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				Wei Fang  Shan Dong  261205
 				CN
 
+D4-CA-6D   (hex)		Routerboard.com
+D4CA6D     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga    LV-1009
+				LV
+
+00-0C-42   (hex)		Routerboard.com
+000C42     (base 16)		Routerboard.com
+				Pernavas 46
+				Riga    LV-1009
+				LV
+
+A8-3E-0E   (hex)		HMD Global Oy
+A83E0E     (base 16)		HMD Global Oy
+				Karaportti 2
+				Espoo    02610
+				FI
+
+10-C1-72   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+10C172     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+80-B5-75   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80B575     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
 				1717 Haitai Building
@@ -117554,21 +117656,9 @@ BC22FB     (base 16)		RF Industries
 				San Jose  CA  94568
 				US
 
-D4-CA-6D   (hex)		Routerboard.com
-D4CA6D     (base 16)		Routerboard.com
-				Mikrotikls SIA
-				Riga    LV-1009
-				LV
-
-00-0C-42   (hex)		Routerboard.com
-000C42     (base 16)		Routerboard.com
-				Pernavas 46
-				Riga    LV-1009
-				LV
-
 00-0D-82   (hex)		PHSNET SRLS
 000D82     (base 16)		PHSNET SRLS
-				Via Palù, 17
+				Piazza Mariano Rumor, 18
 				Arcugnano  Vicenza  36057
 				IT
 
@@ -147145,3 +147235,9 @@ C493D9     (base 16)		Samsung Electronics Co.,Ltd
 				5/F,Block 2 East area,Haosheng Industrial Park,
 				Guangzhou  Guangdong  511400
 				CN
+
+CC-7B-61   (hex)		NIKKISO CO., LTD.
+CC7B61     (base 16)		NIKKISO CO., LTD.
+				Yebisu Garden Place Tower 22nd Floor, 20-3, Ebisu 4-Chome
+				Shibuya-ku  Tokyo  150-6022
+				JP
