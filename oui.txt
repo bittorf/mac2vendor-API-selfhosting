@@ -1700,12 +1700,6 @@ B0495F     (base 16)		OMRON HEALTHCARE Co., Ltd.
 				Muko  Kyoto  6170002
 				JP
 
-BC-6E-64   (hex)		Sony Mobile Communications AB
-BC6E64     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
-
 F4-47-13   (hex)		Leading Public Performance Co., Ltd.
 F44713     (base 16)		Leading Public Performance Co., Ltd.
 				137/77-78 Moo 1 Nanthanagarden Soi 12 Pathum-Rangsit Road Banklang Muang Pathumthani 12000 Thailand
@@ -2954,12 +2948,6 @@ F0321A     (base 16)		Mita-Teknik A/S
 				New Taipei City    231
 				TW
 
-A0-E4-53   (hex)		Sony Mobile Communications AB
-A0E453     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
-
 40-4A-18   (hex)		Addrek Smart Solutions
 404A18     (base 16)		Addrek Smart Solutions
 				Al Gharrafa Thani Bin Jassim St
@@ -3130,12 +3118,6 @@ F42896     (base 16)		SPECTO PAINEIS ELETRONICOS LTDA
 				RUA WALTER JOSE CORREA, AREA 12
 				SAO JOSE  SANTA CATARINA  88122-035
 				BR
-
-1C-7B-21   (hex)		Sony Mobile Communications AB
-1C7B21     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 9C-28-40   (hex)		Discovery Technology,LTD..
 9C2840     (base 16)		Discovery Technology,LTD..
@@ -22022,48 +22004,6 @@ EC086B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Shenzhen  Guangdong  518057
 				CN
 
-24-21-AB   (hex)		Sony Mobile Communications AB
-2421AB     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-6C-23-B9   (hex)		Sony Mobile Communications AB
-6C23B9     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
-58-17-0C   (hex)		Sony Mobile Communications AB
-58170C     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
-B8-F9-34   (hex)		Sony Mobile Communications AB
-B8F934     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
-20-54-76   (hex)		Sony Mobile Communications AB
-205476     (base 16)		Sony Mobile Communications AB
-				Mobilvägen 10
-				Lund    22188
-				SE
-
-30-39-26   (hex)		Sony Mobile Communications AB
-303926     (base 16)		Sony Mobile Communications AB
-				Mobilvägen 10
-				Lund    22181
-				SE
-
-00-EB-2D   (hex)		Sony Mobile Communications AB
-00EB2D     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet 
-				Lund  SE  22188
-				SE
-
 B0-05-94   (hex)		Liteon Technology Corporation
 B00594     (base 16)		Liteon Technology Corporation
 				4F,90,Chien 1 Road,ChungHo
@@ -22105,24 +22045,6 @@ D0DF9A     (base 16)		Liteon Technology Corporation
 				Gotenyama Tec, 5-1-2 Kitashinagawa
 				Tokyo    141-0001
 				JP
-
-00-21-9E   (hex)		Sony Mobile Communications AB
-00219E     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-00-1E-45   (hex)		Sony Mobile Communications AB
-001E45     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund    SE-221 88
-				SE
-
-00-18-13   (hex)		Sony Mobile Communications AB
-001813     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
 
 00-21-63   (hex)		ASKEY COMPUTER CORP
 002163     (base 16)		ASKEY COMPUTER CORP
@@ -25585,12 +25507,6 @@ D4CF37     (base 16)		Symbolic IO
 				101 Crawfords Corner Rd.
 				Holmdel  NJ  07733
 				US
-
-28-3F-69   (hex)		Sony Mobile Communications AB
-283F69     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 F0-D2-F1   (hex)		Amazon Technologies Inc.
 F0D2F1     (base 16)		Amazon Technologies Inc.
@@ -29357,6 +29273,18 @@ B0EB57     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+8C-15-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8C15C7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A4-BE-2B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4BE2B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 60-FA-9D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 60FA9D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -29381,17 +29309,89 @@ DC9914     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Beijing    100053
 				CN
 
-8C-15-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-8C15C7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
+7C-96-D2   (hex)		Fihonest communication co.,Ltd
+7C96D2     (base 16)		Fihonest communication co.,Ltd
+				The Frist Building ,ShangKeng Industrial Zone,  Changping Town
+				Dongguan  Guangdong  523560
 				CN
 
-A4-BE-2B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-A4BE2B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+00-EB-2D   (hex)		Sony Mobile Communications AB
+00EB2D     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+30-39-26   (hex)		Sony Mobile Communications AB
+303926     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+20-54-76   (hex)		Sony Mobile Communications AB
+205476     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+B8-F9-34   (hex)		Sony Mobile Communications AB
+B8F934     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+58-17-0C   (hex)		Sony Mobile Communications AB
+58170C     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+6C-23-B9   (hex)		Sony Mobile Communications AB
+6C23B9     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+24-21-AB   (hex)		Sony Mobile Communications AB
+2421AB     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-18-13   (hex)		Sony Mobile Communications AB
+001813     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-1E-45   (hex)		Sony Mobile Communications AB
+001E45     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-21-9E   (hex)		Sony Mobile Communications AB
+00219E     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+A0-E4-53   (hex)		Sony Mobile Communications AB
+A0E453     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+BC-6E-64   (hex)		Sony Mobile Communications AB
+BC6E64     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+1C-7B-21   (hex)		Sony Mobile Communications AB
+1C7B21     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
 
 0C-B6-D2   (hex)		D-Link International
 0CB6D2     (base 16)		D-Link International
@@ -29411,6 +29411,24 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 				Seoul    KS013
 				KR
 
+A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+AC-FD-93   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+ACFD93     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+D4-21-22   (hex)		Sercomm Corporation.
+D42122     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
 00-13-8A   (hex)		Qingdao GoerTek Technology Co., Ltd.
 00138A     (base 16)		Qingdao GoerTek Technology Co., Ltd.
 				Room 605,Innovation Building,Hi-tech Industrial Park,
@@ -29427,66 +29445,6 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 2C4D79     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				No.268 Dongfang Road
 				Weifang  Shandong  261000
-				CN
-
-A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-AC-FD-93   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-ACFD93     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
-0CE0DC     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-10-8E-E0   (hex)		Samsung Electronics Co.,Ltd
-108EE0     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-68-E7-C2   (hex)		Samsung Electronics Co.,Ltd
-68E7C2     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-3C-57-6C   (hex)		Samsung Electronics Co.,Ltd
-3C576C     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D4-21-22   (hex)		Sercomm Corporation.
-D42122     (base 16)		Sercomm Corporation.
-				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
-				Miao-Lih Hsuan    115
-				TW
-
-F4-EE-14   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-F4EE14     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
-6C-59-40   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-6C5940     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
-1C-60-DE   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-1C60DE     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
 				CN
 
 A8-D4-98   (hex)		Avira Operations GmbH & Co. KG
@@ -29507,11 +29465,47 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				Santa Ana  CA  92707
 				US
 
-50-61-BF   (hex)		Cisco Systems, Inc
-5061BF     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+10-8E-E0   (hex)		Samsung Electronics Co.,Ltd
+108EE0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+68-E7-C2   (hex)		Samsung Electronics Co.,Ltd
+68E7C2     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+3C-57-6C   (hex)		Samsung Electronics Co.,Ltd
+3C576C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
+0CE0DC     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+6C-59-40   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+6C5940     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+1C-60-DE   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+1C60DE     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+F4-EE-14   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+F4EE14     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 20-A6-0C   (hex)		Xiaomi Communications Co Ltd
 20A60C     (base 16)		Xiaomi Communications Co Ltd
@@ -29519,11 +29513,23 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+50-61-BF   (hex)		Cisco Systems, Inc
+5061BF     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 04-AB-18   (hex)		ELECOM CO.,LTD.
 04AB18     (base 16)		ELECOM CO.,LTD.
 				11F Tokyubancho Bldg. 6-2,
 				Chiyoda-ku  Tokyo  102-0081
 				JP
+
+4C-5E-0C   (hex)		Routerboard.com
+4C5E0C     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga    LV1009
+				LV
 
 00-26-BD   (hex)		JTEC Card &amp; Communication Co., Ltd
 0026BD     (base 16)		JTEC Card &amp; Communication Co., Ltd
@@ -29537,12 +29543,6 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				CH-8401  Winterthur  
 				CH
 
-4C-5E-0C   (hex)		Routerboard.com
-4C5E0C     (base 16)		Routerboard.com
-				Mikrotikls SIA
-				Riga    LV1009
-				LV
-
 64-1C-67   (hex)		DIGIBRAS INDUSTRIA DO BRASILS/A
 641C67     (base 16)		DIGIBRAS INDUSTRIA DO BRASILS/A
 				Rua Tambaqui, 180-B - MANAUS - AM ¨C BRAZIL
@@ -29555,11 +29555,11 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				Stafford    ST16 1TW
 				GB
 
-7C-96-D2   (hex)		Fihonest communication co.,Ltd
-7C96D2     (base 16)		Fihonest communication co.,Ltd
-				The Frist Building ,ShangKeng Industrial Zone,  Changping Town
-				Dongguan  Guangdong  523560
-				CN
+28-3F-69   (hex)		Sony Mobile Communications AB
+283F69     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -30773,12 +30773,6 @@ ECB870     (base 16)		Beijing Heweinet Technology Co.,Ltd.
 				Shanghai  /  200355
 				CN
 
-40-40-A7   (hex)		Sony Mobile Communications AB
-4040A7     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
-
 54-BE-53   (hex)		zte corporation
 54BE53     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -31073,12 +31067,6 @@ A4A1E4     (base 16)		Innotube, Inc.
 				Taipei  Taiwan  112
 				TW
 
-40-B8-37   (hex)		Sony Mobile Communications AB
-40B837     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
-
 28-76-10   (hex)		IgniteNet
 287610     (base 16)		IgniteNet
 				1, Creation 3rd Rd.
@@ -31210,12 +31198,6 @@ F87AEF     (base 16)		Rosonix Technology, Inc.
 				10F, No.235, Sec. 4, Chengde Rd., 
 				Taipei  Taiwan  11167
 				TW
-
-C4-3A-BE   (hex)		Sony Mobile Communications AB
-C43ABE     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 18-B1-69   (hex)		Sonicwall
 18B169     (base 16)		Sonicwall
@@ -31462,12 +31444,6 @@ B04515     (base 16)		mira fitness,LLC.
 				1925 West Field Court Suite100
 				Lake Forest  IL  60045
 				US
-
-30-75-12   (hex)		Sony Mobile Communications AB
-307512     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 A4-9D-49   (hex)		Ketra, Inc.
 A49D49     (base 16)		Ketra, Inc.
@@ -32872,12 +32848,6 @@ F42012     (base 16)		Cuciniale GmbH
 				Heuriedweg 65
 				Lindau    88131
 				DE
-
-4C-21-D0   (hex)		Sony Mobile Communications AB
-4C21D0     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 18-10-4E   (hex)		CEDINT-UPM
 18104E     (base 16)		CEDINT-UPM
@@ -51554,30 +51524,6 @@ ECCD6D     (base 16)		Allied Telesis, Inc.
 				Hsinchu    30352
 				TW
 
-40-2B-A1   (hex)		Sony Mobile Communications AB
-402BA1     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
-00-25-E7   (hex)		Sony Mobile Communications AB
-0025E7     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-D0-51-62   (hex)		Sony Mobile Communications AB
-D05162     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet 
-				Lund  SE  22188
-				SE
-
-94-CE-2C   (hex)		Sony Mobile Communications AB
-94CE2C     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet 
-				Lund  SE  22188
-				SE
-
 00-1A-80   (hex)		Sony Corporation
 001A80     (base 16)		Sony Corporation
 				Gotenyama Tec, 5-1-2 Kitashinagawa
@@ -51589,18 +51535,6 @@ D05162     (base 16)		Sony Mobile Communications AB
 				Gotenyama Tec. 5-1-12
 				Shinagawa-ku  Tokyo  141-0001
 				JP
-
-00-16-20   (hex)		Sony Mobile Communications AB
-001620     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund    SE-221 88
-				SE
-
-00-12-EE   (hex)		Sony Mobile Communications AB
-0012EE     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund    SE-221 88
-				SE
 
 20-68-9D   (hex)		Liteon Technology Corporation
 20689D     (base 16)		Liteon Technology Corporation
@@ -53386,12 +53320,6 @@ C411E0     (base 16)		Bull Group Co., Ltd
 				Aastvej 1
 				Billund    DK-7190
 				DK
-
-84-C7-EA   (hex)		Sony Mobile Communications AB
-84C7EA     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 8C-61-02   (hex)		Beijing Baofengmojing Technologies Co., Ltd
 8C6102     (base 16)		Beijing Baofengmojing Technologies Co., Ltd
@@ -59036,17 +58964,17 @@ D8F3DB     (base 16)		Post CH AG
 				Framingham  MA  01701-9168
 				US
 
+3C-F4-F9   (hex)		Moda-InnoChips
+3CF4F9     (base 16)		Moda-InnoChips
+				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
+				Ansan-si   Gyeonggi-Do  15433
+				KR
+
 30-88-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
 308841     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou,Industrial Park
 				Anzhou,Industrial Park  Sichuan  621000
 				CN
-
-80-50-F6   (hex)		ITEL MOBILE LIMITED
-8050F6     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
 
 0C-01-DB   (hex)		Infinix mobility limited
 0C01DB     (base 16)		Infinix mobility limited
@@ -59054,11 +58982,11 @@ D8F3DB     (base 16)		Post CH AG
 				HongKong  HongKong  999077
 				HK
 
-3C-F4-F9   (hex)		Moda-InnoChips
-3CF4F9     (base 16)		Moda-InnoChips
-				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
-				Ansan-si   Gyeonggi-Do  15433
-				KR
+80-50-F6   (hex)		ITEL MOBILE LIMITED
+8050F6     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
 
 40-1B-5F   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 401B5F     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
@@ -59143,6 +59071,78 @@ A4DA32     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+4C-21-D0   (hex)		Sony Mobile Communications AB
+4C21D0     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+30-75-12   (hex)		Sony Mobile Communications AB
+307512     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+C4-3A-BE   (hex)		Sony Mobile Communications AB
+C43ABE     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+40-B8-37   (hex)		Sony Mobile Communications AB
+40B837     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+40-40-A7   (hex)		Sony Mobile Communications AB
+4040A7     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+94-CE-2C   (hex)		Sony Mobile Communications AB
+94CE2C     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+D0-51-62   (hex)		Sony Mobile Communications AB
+D05162     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-25-E7   (hex)		Sony Mobile Communications AB
+0025E7     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+40-2B-A1   (hex)		Sony Mobile Communications AB
+402BA1     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-12-EE   (hex)		Sony Mobile Communications AB
+0012EE     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-16-20   (hex)		Sony Mobile Communications AB
+001620     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+84-C7-EA   (hex)		Sony Mobile Communications AB
+84C7EA     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -61523,12 +61523,6 @@ C80210     (base 16)		LG Innotek
 				Shanghai  Shanghai  200000
 				CN
 
-44-74-6C   (hex)		Sony Mobile Communications AB
-44746C     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
-
 F4-F6-46   (hex)		Dediprog Technology Co. Ltd.
 F4F646     (base 16)		Dediprog Technology Co. Ltd.
 				4F,No.7,Lane 143, Xinming Rd.,
@@ -61786,12 +61780,6 @@ B48547     (base 16)		Amptown System Company GmbH
 				Central Shin-Osaka Building 10F
 				Osaka  Osaka  532-0003
 				JP
-
-30-A8-DB   (hex)		Sony Mobile Communications AB
-30A8DB     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 CC-9F-35   (hex)		Transbit Sp. z o.o.
 CC9F35     (base 16)		Transbit Sp. z o.o.
@@ -80453,59 +80441,11 @@ B8EE65     (base 16)		Liteon Technology Corporation
 				Shinagawa-ku  Tokyo  141-0001
 				JP
 
-00-0A-D9   (hex)		Sony Mobile Communications AB
-000AD9     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund    SE-221 88
-				SE
-
-00-0F-DE   (hex)		Sony Mobile Communications AB
-000FDE     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund    SE-221 88
-				SE
-
-00-1E-DC   (hex)		Sony Mobile Communications AB
-001EDC     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
-00-19-63   (hex)		Sony Mobile Communications AB
-001963     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund    SE-221 88
-				SE
-
-00-1B-59   (hex)		Sony Mobile Communications AB
-001B59     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
 78-84-3C   (hex)		Sony Corporation
 78843C     (base 16)		Sony Corporation
 				Gotenyama Tec,5-1-12,
 				Shinagawa-ku  Tokyo  141-0001
 				JP
-
-00-23-F1   (hex)		Sony Mobile Communications AB
-0023F1     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-30-17-C8   (hex)		Sony Mobile Communications AB
-3017C8     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
-18-00-2D   (hex)		Sony Mobile Communications AB
-18002D     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet 
-				Lund  SE  22188
-				SE
 
 04-E6-76   (hex)		AMPAK Technology, Inc.
 04E676     (base 16)		AMPAK Technology, Inc.
@@ -86723,6 +86663,18 @@ FCA621     (base 16)		Samsung Electronics Co.,Ltd
 				Sunnyvale  CA  94089
 				US
 
+00-09-DF   (hex)		Vestel Elektronik San ve Tic. A.Ş.
+0009DF     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
+				Organize san
+				Manisa  Turket  45030
+				TR
+
+BC-5F-F6   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+BC5FF6     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 8C-F2-28   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 8CF228     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
@@ -86747,40 +86699,34 @@ C8778B     (base 16)		Mercury Systems – Trusted Mission Solutions, Inc.
 				Stafford   Staffordshire  ST17 4LX
 				GB
 
-00-09-DF   (hex)		Vestel Elektronik San ve Tic. A.Ş.
-0009DF     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
-				Organize san
-				Manisa  Turket  45030
-				TR
+00-11-1E   (hex)		ETHERNET Powerlink Standarization Group (EPSG)
+00111E     (base 16)		ETHERNET Powerlink Standarization Group (EPSG)
+				c/o University of Applied Sciences
+				Winterthur  ZH  CH-8401
+				CH
 
-BC-5F-F6   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-BC5FF6     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
+00-40-9D   (hex)		DigiBoard
+00409D     (base 16)		DigiBoard
+				6400 FLYING CLOUD DRIVE
+				EDEN PRAIRIE  MN  55344
+				US
+
+00-14-72   (hex)		China Broadband Wireless IP Standard group(ChinaBWIPS)
+001472     (base 16)		China Broadband Wireless IP Standard group(ChinaBWIPS)
+				P.O.BOX 88,West High-tech
+				Xi'an  Shaan Xi  710075
 				CN
-
-9C-71-3A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-9C713A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-B4-43-26   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-B44326     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-24-EC-51   (hex)		ADF Technologies Sdn Bhd
-24EC51     (base 16)		ADF Technologies Sdn Bhd
-				Plot 88F, Lintang Bayan Lepas 10, Bayan Lepas Industrial Park Phase IV
-				Bayan Lepas  Pulau Pinang  11900
-				MY
 
 38-56-B5   (hex)		Peerbridge Health Inc
 3856B5     (base 16)		Peerbridge Health Inc
 				3 Columbus Circle 15th Fl
 				New York  NY  10019
+				US
+
+40-06-A0   (hex)		Texas Instruments
+4006A0     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 AC-F8-5C   (hex)		Private
@@ -88178,23 +88124,17 @@ A8E552     (base 16)		JUWEL Aquarium AG & Co. KG
 				Gwangju  Gwangsan-gu  506-731
 				KR
 
-00-11-1E   (hex)		ETHERNET Powerlink Standarization Group (EPSG)
-00111E     (base 16)		ETHERNET Powerlink Standarization Group (EPSG)
-				c/o University of Applied Sciences
-				Winterthur  ZH  CH-8401
-				CH
-
-00-40-9D   (hex)		DigiBoard
-00409D     (base 16)		DigiBoard
-				6400 FLYING CLOUD DRIVE
-				EDEN PRAIRIE  MN  55344
-				US
-
-00-14-72   (hex)		China Broadband Wireless IP Standard group(ChinaBWIPS)
-001472     (base 16)		China Broadband Wireless IP Standard group(ChinaBWIPS)
-				P.O.BOX 88,West High-tech
-				Xi'an  Shaan Xi  710075
+B4-43-26   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B44326     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
+
+24-EC-51   (hex)		ADF Technologies Sdn Bhd
+24EC51     (base 16)		ADF Technologies Sdn Bhd
+				Plot 88F, Lintang Bayan Lepas 10, Bayan Lepas Industrial Park Phase IV
+				Bayan Lepas  Pulau Pinang  11900
+				MY
 
 D8-24-77   (hex)		Universal Electric Corporation
 D82477     (base 16)		Universal Electric Corporation
@@ -88202,11 +88142,77 @@ D82477     (base 16)		Universal Electric Corporation
 				Canonsburg  PA  15317
 				US
 
-40-06-A0   (hex)		Texas Instruments
-4006A0     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
+9C-71-3A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C713A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+30-A8-DB   (hex)		Sony Mobile Communications AB
+30A8DB     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+44-74-6C   (hex)		Sony Mobile Communications AB
+44746C     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+18-00-2D   (hex)		Sony Mobile Communications AB
+18002D     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+30-17-C8   (hex)		Sony Mobile Communications AB
+3017C8     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-23-F1   (hex)		Sony Mobile Communications AB
+0023F1     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-1B-59   (hex)		Sony Mobile Communications AB
+001B59     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-19-63   (hex)		Sony Mobile Communications AB
+001963     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-1E-DC   (hex)		Sony Mobile Communications AB
+001EDC     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-0F-DE   (hex)		Sony Mobile Communications AB
+000FDE     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-0A-D9   (hex)		Sony Mobile Communications AB
+000AD9     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+64-4F-42   (hex)		JETTER CO., Ltd.
+644F42     (base 16)		JETTER CO., Ltd.
+				265-40 Emukaecho Tanomoto
+				Sasebo-shi  Nagasaki  859-6134
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -89629,12 +89635,6 @@ EC21E5     (base 16)		Toshiba
 				Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District,Shenzhen,P.R.China
 				Shenzhen  Guangdong  518057
 				CN
-
-58-48-22   (hex)		Sony Mobile Communications AB
-584822     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 F8-BF-09   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 F8BF09     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -91195,12 +91195,6 @@ FC19D0     (base 16)		Cloud Vision Networks Technology Co.,Ltd.
 				2 Edgewater Drive
 				Norwood  MA  02062
 				US
-
-68-76-4F   (hex)		Sony Mobile Communications AB
-68764F     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 D4-D9-19   (hex)		GoPro
 D4D919     (base 16)		GoPro
@@ -110189,66 +110183,6 @@ D0D412     (base 16)		ADB Broadband Italia
 				Hsinchu    30352
 				TW
 
-00-24-EF   (hex)		Sony Mobile Communications AB
-0024EF     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-6C-0E-0D   (hex)		Sony Mobile Communications AB
-6C0E0D     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
-B4-52-7D   (hex)		Sony Mobile Communications AB
-B4527D     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet 
-				Lund  SE  22188
-				SE
-
-E0-63-E5   (hex)		Sony Mobile Communications AB
-E063E5     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet 
-				Lund  SE  22188
-				SE
-
-00-0E-07   (hex)		Sony Mobile Communications AB
-000E07     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund    SE-221 88
-				SE
-
-00-1A-75   (hex)		Sony Mobile Communications AB
-001A75     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-00-16-B8   (hex)		Sony Mobile Communications AB
-0016B8     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-00-1D-28   (hex)		Sony Mobile Communications AB
-001D28     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
-00-1F-E4   (hex)		Sony Mobile Communications AB
-001FE4     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-00-22-98   (hex)		Sony Mobile Communications AB
-002298     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
 24-FD-52   (hex)		Liteon Technology Corporation
 24FD52     (base 16)		Liteon Technology Corporation
 				4F,90,Chien 1 Road,ChungHo
@@ -115517,12 +115451,6 @@ B0B3AD     (base 16)		HUMAX Co., Ltd.
 				Seongnam-si  Gyeonggi-do  463-875
 				KR
 
-38-78-62   (hex)		Sony Mobile Communications AB
-387862     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
-
 18-31-BF   (hex)		ASUSTek COMPUTER INC.
 1831BF     (base 16)		ASUSTek COMPUTER INC.
 				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
@@ -116102,12 +116030,6 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
-1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-1C965A     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Wei Fang  Shan Dong  261205
-				CN
-
 00-0E-8F   (hex)		Sercomm Corporation.
 000E8F     (base 16)		Sercomm Corporation.
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
@@ -116120,35 +116042,23 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				Miao-Lih Hsuan    115
 				TW
 
-D0-C5-D8   (hex)		LATECOERE
-D0C5D8     (base 16)		LATECOERE
-				135 Rue de Périole, BP25211
-				Toulouse Cedex 5  31 Haute-Garonne  31079
-				FR
-
-DC-E0-EB   (hex)		Nanjing Aozheng Information Technology Co.Ltd
-DCE0EB     (base 16)		Nanjing Aozheng Information Technology Co.Ltd
-				#E1-453, Zidong Road #1,Qixia District
-				Nanjing  jiangsu  210000
+1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+1C965A     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Wei Fang  Shan Dong  261205
 				CN
 
-C8-E7-D8   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-C8E7D8     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr., Building 28, Cui Xi Fourth Road，Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
+D4-CA-6D   (hex)		Routerboard.com
+D4CA6D     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga    LV-1009
+				LV
 
-50-59-67   (hex)		Intent Solutions Inc
-505967     (base 16)		Intent Solutions Inc
-				730 Peachtree St NE, Suite 550
-				ATLANTA  GA  30308
-				US
-
-68-3A-1E   (hex)		Cisco Meraki
-683A1E     (base 16)		Cisco Meraki
-				500 Terry A. Francois Blvd
-				San Francisco    94158
-				US
+00-0C-42   (hex)		Routerboard.com
+000C42     (base 16)		Routerboard.com
+				Pernavas 46
+				Riga    LV-1009
+				LV
 
 A8-3E-0E   (hex)		HMD Global Oy
 A83E0E     (base 16)		HMD Global Oy
@@ -116168,11 +116078,17 @@ A83E0E     (base 16)		HMD Global Oy
 				Dongguan    523808
 				CN
 
-00-0D-82   (hex)		PHSNET SRLS
-000D82     (base 16)		PHSNET SRLS
-				Piazza Mariano Rumor, 18
-				Arcugnano  Vicenza  36057
-				IT
+B4-EC-02   (hex)		ALPS ELECTRIC CO.,LTD.
+B4EC02     (base 16)		ALPS ELECTRIC CO.,LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
+
+08-D4-6A   (hex)		LG Electronics (Mobile Communications)
+08D46A     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul    153-801
+				KR
 
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
@@ -117650,11 +117566,47 @@ D02516     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Shenzhen  Guangdong  518057
 				CN
 
+C8-E7-D8   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+C8E7D8     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr., Building 28, Cui Xi Fourth Road，Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 58-B1-0F   (hex)		Samsung Electronics Co.,Ltd
 58B10F     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+68-3A-1E   (hex)		Cisco Meraki
+683A1E     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+DC-E0-EB   (hex)		Nanjing Aozheng Information Technology Co.Ltd
+DCE0EB     (base 16)		Nanjing Aozheng Information Technology Co.Ltd
+				#E1-453, Zidong Road #1,Qixia District
+				Nanjing  jiangsu  210000
+				CN
+
+50-59-67   (hex)		Intent Solutions Inc
+505967     (base 16)		Intent Solutions Inc
+				730 Peachtree St NE, Suite 550
+				ATLANTA  GA  30308
+				US
+
+D0-C5-D8   (hex)		LATECOERE
+D0C5D8     (base 16)		LATECOERE
+				135 Rue de Périole, BP25211
+				Toulouse Cedex 5  31 Haute-Garonne  31079
+				FR
+
+2C-47-59   (hex)		Beijing MEGA preponderance Science & Technology Co. Ltd
+2C4759     (base 16)		Beijing MEGA preponderance Science & Technology Co. Ltd
+				Room 2201,No.8,Ruichuang International B Block,Wangjing East Road
+				Beijing    100102
+				CN
 
 BC-22-FB   (hex)		RF Industries
 BC22FB     (base 16)		RF Industries
@@ -117668,41 +117620,95 @@ BC22FB     (base 16)		RF Industries
 				San Jose  CA  94568
 				US
 
-2C-47-59   (hex)		Beijing MEGA preponderance Science & Technology Co. Ltd
-2C4759     (base 16)		Beijing MEGA preponderance Science & Technology Co. Ltd
-				Room 2201,No.8,Ruichuang International B Block,Wangjing East Road
-				Beijing    100102
-				CN
-
-D4-CA-6D   (hex)		Routerboard.com
-D4CA6D     (base 16)		Routerboard.com
-				Mikrotikls SIA
-				Riga    LV-1009
-				LV
-
-00-0C-42   (hex)		Routerboard.com
-000C42     (base 16)		Routerboard.com
-				Pernavas 46
-				Riga    LV-1009
-				LV
-
 DC-E3-05   (hex)		   ZAO NPK Rotek
 DCE305     (base 16)		   ZAO NPK Rotek
 				Prospekt Mira
 				Moscow    129223
 				RU
 
-B4-EC-02   (hex)		ALPS ELECTRIC CO.,LTD.
-B4EC02     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				Kakuda  Miyagi-Pref  981-1595
+00-0D-82   (hex)		PHSNET SRLS
+000D82     (base 16)		PHSNET SRLS
+				Piazza Mariano Rumor, 18
+				Arcugnano  Vicenza  36057
+				IT
+
+68-76-4F   (hex)		Sony Mobile Communications AB
+68764F     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
 				JP
 
-08-D4-6A   (hex)		LG Electronics (Mobile Communications)
-08D46A     (base 16)		LG Electronics (Mobile Communications)
-				60-39, Gasan-dong, Geumcheon-gu
-				Seoul    153-801
-				KR
+58-48-22   (hex)		Sony Mobile Communications AB
+584822     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+E0-63-E5   (hex)		Sony Mobile Communications AB
+E063E5     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+B4-52-7D   (hex)		Sony Mobile Communications AB
+B4527D     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+6C-0E-0D   (hex)		Sony Mobile Communications AB
+6C0E0D     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-24-EF   (hex)		Sony Mobile Communications AB
+0024EF     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-22-98   (hex)		Sony Mobile Communications AB
+002298     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-1F-E4   (hex)		Sony Mobile Communications AB
+001FE4     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-1D-28   (hex)		Sony Mobile Communications AB
+001D28     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-16-B8   (hex)		Sony Mobile Communications AB
+0016B8     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-1A-75   (hex)		Sony Mobile Communications AB
+001A75     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-0E-07   (hex)		Sony Mobile Communications AB
+000E07     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+38-78-62   (hex)		Sony Mobile Communications AB
+387862     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -119969,12 +119975,6 @@ F0FE6B     (base 16)		Shanghai High-Flying Electronics Technology Co., Ltd
 				Beijing  Beijing  100083
 				CN
 
-84-8E-DF   (hex)		Sony Mobile Communications AB
-848EDF     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
-
 CC-BD-D3   (hex)		Ultimaker B.V.
 CCBDD3     (base 16)		Ultimaker B.V.
 				Burgemeester Rozeveld van de Venlaan 11
@@ -120244,12 +120244,6 @@ A0FC6E     (base 16)		Telegrafia a.s.
 				Lomena 7
 				Kosice  Slovakia  040 01
 				
-
-44-D4-E0   (hex)		Sony Mobile Communications AB
-44D4E0     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 D0-FA-1D   (hex)		Qihoo  360  Technology Co.,Ltd
 D0FA1D     (base 16)		Qihoo  360  Technology Co.,Ltd
@@ -120844,12 +120838,6 @@ DC0575     (base 16)		SIEMENS ENERGY AUTOMATION
 				Berliner Str. 44
 				Frankfurt am Main  Hessen  60311
 				DE
-
-B4-52-7E   (hex)		Sony Mobile Communications AB
-B4527E     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 50-E1-4A   (hex)		Private
 50E14A     (base 16)		Private
@@ -139994,42 +139982,6 @@ D05349     (base 16)		Liteon Technology Corporation
 				Tokyo    141-0001
 				JP
 
-00-1C-A4   (hex)		Sony Mobile Communications AB
-001CA4     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-00-23-45   (hex)		Sony Mobile Communications AB
-002345     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  Skåne  22188
-				SE
-
-8C-64-22   (hex)		Sony Mobile Communications AB
-8C6422     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  221 88
-				SE
-
-90-C1-15   (hex)		Sony Mobile Communications AB
-90C115     (base 16)		Sony Mobile Communications AB
-				Mobilvägen 10
-				Lund    22181
-				SE
-
-84-00-D2   (hex)		Sony Mobile Communications AB
-8400D2     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22188
-				SE
-
-5C-B5-24   (hex)		Sony Mobile Communications AB
-5CB524     (base 16)		Sony Mobile Communications AB
-				Mobilvägen 10
-				Lund    22181
-				SE
-
 94-A1-A2   (hex)		AMPAK Technology, Inc.
 94A1A2     (base 16)		AMPAK Technology, Inc.
 				No.1,Jen Ai Road
@@ -140677,12 +140629,6 @@ C4E510     (base 16)		Mechatro, Inc.
 				760 North Mary Ave
 				Sunnyvale  CA  94085
 				US
-
-9C-5C-F9   (hex)		Sony Mobile Communications AB
-9C5CF9     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 88-A0-84   (hex)		Formation Data Systems
 88A084     (base 16)		Formation Data Systems
@@ -146816,12 +146762,6 @@ F89DBB     (base 16)		Tintri
 				Mountain View  CA  94070
 				US
 
-D4-38-9C   (hex)		Sony Mobile Communications AB
-D4389C     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
-
 10-49-63   (hex)		HARTING K.K.
 104963     (base 16)		HARTING K.K.
 				1-7-9, Shin-Yokohama, Kohoku-ku
@@ -147200,6 +147140,12 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				SUWON  KYUNGGI-DO  443-743
 				KR
 
+54-BF-64   (hex)		Dell Inc.
+54BF64     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 00-13-4F   (hex)		Rapidus Wireless Networks Inc.
 00134F     (base 16)		Rapidus Wireless Networks Inc.
 				47 - 14550 Morris Valley Road
@@ -147211,12 +147157,6 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
-
-54-BF-64   (hex)		Dell Inc.
-54BF64     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
 
 78-81-02   (hex)		Sercomm Corporation.
 788102     (base 16)		Sercomm Corporation.
@@ -147254,17 +147194,17 @@ C493D9     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-48-6D-BB   (hex)		Vestel Elektronik San ve Tic. A.Ş.
-486DBB     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
-				Organize san
-				Manisa  Turket  45030
-				TR
-
 48-8A-D2   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 488AD2     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
 				Shenzhen  Guangdong  518057
 				CN
+
+48-6D-BB   (hex)		Vestel Elektronik San ve Tic. A.Ş.
+486DBB     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
+				Organize san
+				Manisa  Turket  45030
+				TR
 
 70-54-B4   (hex)		Vestel Elektronik San ve Tic. A.Ş.
 7054B4     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
@@ -147302,8 +147242,80 @@ CC50E3     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
+5C-B5-24   (hex)		Sony Mobile Communications AB
+5CB524     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+84-00-D2   (hex)		Sony Mobile Communications AB
+8400D2     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+90-C1-15   (hex)		Sony Mobile Communications AB
+90C115     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+8C-64-22   (hex)		Sony Mobile Communications AB
+8C6422     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+B4-52-7E   (hex)		Sony Mobile Communications AB
+B4527E     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+44-D4-E0   (hex)		Sony Mobile Communications AB
+44D4E0     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+84-8E-DF   (hex)		Sony Mobile Communications AB
+848EDF     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
 DC-AF-68   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 DCAF68     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				Gaoxin 2 Road, Free Trade Zone,Weifang,Shandong,261205,P.R.China
 				Weifang  Shandong  261205
 				CN
+
+00-23-45   (hex)		Sony Mobile Communications AB
+002345     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-1C-A4   (hex)		Sony Mobile Communications AB
+001CA4     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+9C-5C-F9   (hex)		Sony Mobile Communications AB
+9C5CF9     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+D4-38-9C   (hex)		Sony Mobile Communications AB
+D4389C     (base 16)		Sony Mobile Communications AB
+				4-12-3 Higashi – Shinagaw
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+A0-19-B2   (hex)		IEEE Registration Authority
+A019B2     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
