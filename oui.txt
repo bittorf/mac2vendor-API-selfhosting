@@ -29198,6 +29198,18 @@ B0EB57     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+8C-15-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8C15C7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A4-BE-2B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A4BE2B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 60-FA-9D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 60FA9D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -29222,41 +29234,23 @@ DC9914     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Beijing    100053
 				CN
 
-8C-15-C7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-8C15C7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-A4-BE-2B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-A4BE2B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 7C-96-D2   (hex)		Fihonest communication co.,Ltd
 7C96D2     (base 16)		Fihonest communication co.,Ltd
 				The Frist Building ,ShangKeng Industrial Zone,  Changping Town
 				Dongguan  Guangdong  523560
 				CN
 
-40-C3-C6   (hex)		SnapRoute
-40C3C6     (base 16)		SnapRoute
-				3960 Freedom Circle, Suite 100
-				Santa Clara  CA  95054
+90-4C-81   (hex)		Hewlett Packard Enterprise
+904C81     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
 				US
 
-E8-9E-0C   (hex)		Private
-E89E0C     (base 16)		Private
-
-54-4E-45   (hex)		Private
-544E45     (base 16)		Private
-
-8C-81-26   (hex)		ARCOM
-8C8126     (base 16)		ARCOM
-				ZAC de la Loyère
-				FRAGNES LA LOYERE    71530
-				FR
+8C-35-79   (hex)		QDIQO Sp. z o.o.
+8C3579     (base 16)		QDIQO Sp. z o.o.
+				Stanisława Wyspiańskiego 11
+				Zielona Góra  lubuskie  65-036
+				PL
 
 34-E1-2D   (hex)		Intel Corporate
 34E12D     (base 16)		Intel Corporate
@@ -29264,14 +29258,74 @@ E89E0C     (base 16)		Private
 				Kulim  Kedah  09000
 				MY
 
-1C-7B-21   (hex)		Sony Mobile Communications Inc
-1C7B21     (base 16)		Sony Mobile Communications Inc
+8C-81-26   (hex)		ARCOM
+8C8126     (base 16)		ARCOM
+				ZAC de la Loyère
+				FRAGNES LA LOYERE    71530
+				FR
+
+30-39-26   (hex)		Sony Mobile Communications Inc
+303926     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+20-54-76   (hex)		Sony Mobile Communications Inc
+205476     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+B8-F9-34   (hex)		Sony Mobile Communications Inc
+B8F934     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+58-17-0C   (hex)		Sony Mobile Communications Inc
+58170C     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+6C-23-B9   (hex)		Sony Mobile Communications Inc
+6C23B9     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+24-21-AB   (hex)		Sony Mobile Communications Inc
+2421AB     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-18-13   (hex)		Sony Mobile Communications Inc
+001813     (base 16)		Sony Mobile Communications Inc
 				4-12-3 Higashi – Shinagawa
 				Shinagawa-ku  Tokyo  140-0002
 				JP
 
 A0-E4-53   (hex)		Sony Mobile Communications Inc
 A0E453     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+BC-6E-64   (hex)		Sony Mobile Communications Inc
+BC6E64     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-EB-2D   (hex)		Sony Mobile Communications Inc
+00EB2D     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+1C-7B-21   (hex)		Sony Mobile Communications Inc
+1C7B21     (base 16)		Sony Mobile Communications Inc
 				4-12-3 Higashi – Shinagawa
 				Shinagawa-ku  Tokyo  140-0002
 				JP
@@ -29294,6 +29348,24 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 				Seoul    KS013
 				KR
 
+A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+AC-FD-93   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+ACFD93     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+D4-21-22   (hex)		Sercomm Corporation.
+D42122     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
 00-13-8A   (hex)		Qingdao GoerTek Technology Co., Ltd.
 00138A     (base 16)		Qingdao GoerTek Technology Co., Ltd.
 				Room 605,Innovation Building,Hi-tech Industrial Park,
@@ -29310,66 +29382,6 @@ B8B7F1     (base 16)		Wistron Neweb Corporation
 2C4D79     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				No.268 Dongfang Road
 				Weifang  Shandong  261000
-				CN
-
-A4-53-85   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-A45385     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-AC-FD-93   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-ACFD93     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
-				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
-				Weifang  Shandong  261205
-				CN
-
-0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
-0CE0DC     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-10-8E-E0   (hex)		Samsung Electronics Co.,Ltd
-108EE0     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-68-E7-C2   (hex)		Samsung Electronics Co.,Ltd
-68E7C2     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-3C-57-6C   (hex)		Samsung Electronics Co.,Ltd
-3C576C     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D4-21-22   (hex)		Sercomm Corporation.
-D42122     (base 16)		Sercomm Corporation.
-				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
-				Miao-Lih Hsuan    115
-				TW
-
-F4-EE-14   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-F4EE14     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
-6C-59-40   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-6C5940     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
-1C-60-DE   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-1C60DE     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
 				CN
 
 A8-D4-98   (hex)		Avira Operations GmbH & Co. KG
@@ -29390,11 +29402,47 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				Santa Ana  CA  92707
 				US
 
-50-61-BF   (hex)		Cisco Systems, Inc
-5061BF     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+10-8E-E0   (hex)		Samsung Electronics Co.,Ltd
+108EE0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+68-E7-C2   (hex)		Samsung Electronics Co.,Ltd
+68E7C2     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+3C-57-6C   (hex)		Samsung Electronics Co.,Ltd
+3C576C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+0C-E0-DC   (hex)		Samsung Electronics Co.,Ltd
+0CE0DC     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+6C-59-40   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+6C5940     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+1C-60-DE   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+1C60DE     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+F4-EE-14   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+F4EE14     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 20-A6-0C   (hex)		Xiaomi Communications Co Ltd
 20A60C     (base 16)		Xiaomi Communications Co Ltd
@@ -29402,11 +29450,23 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+50-61-BF   (hex)		Cisco Systems, Inc
+5061BF     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 04-AB-18   (hex)		ELECOM CO.,LTD.
 04AB18     (base 16)		ELECOM CO.,LTD.
 				11F Tokyubancho Bldg. 6-2,
 				Chiyoda-ku  Tokyo  102-0081
 				JP
+
+4C-5E-0C   (hex)		Routerboard.com
+4C5E0C     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga    LV1009
+				LV
 
 00-26-BD   (hex)		JTEC Card &amp; Communication Co., Ltd
 0026BD     (base 16)		JTEC Card &amp; Communication Co., Ltd
@@ -29419,12 +29479,6 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				c/o Zurich University of Applied Sciences
 				CH-8401  Winterthur  
 				CH
-
-4C-5E-0C   (hex)		Routerboard.com
-4C5E0C     (base 16)		Routerboard.com
-				Mikrotikls SIA
-				Riga    LV1009
-				LV
 
 64-1C-67   (hex)		DIGIBRAS INDUSTRIA DO BRASILS/A
 641C67     (base 16)		DIGIBRAS INDUSTRIA DO BRASILS/A
@@ -29486,35 +29540,23 @@ D08A91     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
-90-4C-81   (hex)		Hewlett Packard Enterprise
-904C81     (base 16)		Hewlett Packard Enterprise
-				8000 Foothills Blvd.
-				Roseville  CA  95747
-				US
-
-8C-35-79   (hex)		QDIQO Sp. z o.o.
-8C3579     (base 16)		QDIQO Sp. z o.o.
-				Stanisława Wyspiańskiego 11
-				Zielona Góra  lubuskie  65-036
-				PL
-
 FC-52-8D   (hex)		Technicolor CH USA Inc.
 FC528D     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
 
-00-21-9E   (hex)		Sony Mobile Communications Inc
-00219E     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
+40-C3-C6   (hex)		SnapRoute
+40C3C6     (base 16)		SnapRoute
+				3960 Freedom Circle, Suite 100
+				Santa Clara  CA  95054
+				US
 
-28-3F-69   (hex)		Sony Mobile Communications Inc
-283F69     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
+E8-9E-0C   (hex)		Private
+E89E0C     (base 16)		Private
+
+54-4E-45   (hex)		Private
+544E45     (base 16)		Private
 
 00-90-CE   (hex)		 avateramedical Mechatronics GmbH
 0090CE     (base 16)		 avateramedical Mechatronics GmbH
@@ -29540,83 +29582,35 @@ EC3873     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-BC-6E-64   (hex)		Sony Mobile Communications Inc
-BC6E64     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-00-EB-2D   (hex)		Sony Mobile Communications Inc
-00EB2D     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-30-39-26   (hex)		Sony Mobile Communications Inc
-303926     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-20-54-76   (hex)		Sony Mobile Communications Inc
-205476     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-B8-F9-34   (hex)		Sony Mobile Communications Inc
-B8F934     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-58-17-0C   (hex)		Sony Mobile Communications Inc
-58170C     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-6C-23-B9   (hex)		Sony Mobile Communications Inc
-6C23B9     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-24-21-AB   (hex)		Sony Mobile Communications Inc
-2421AB     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-00-18-13   (hex)		Sony Mobile Communications Inc
-001813     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
 00-1E-45   (hex)		Sony Mobile Communications Inc
 001E45     (base 16)		Sony Mobile Communications Inc
 				4-12-3 Higashi – Shinagawa
 				Shinagawa-ku  Tokyo  140-0002
 				JP
 
-C4-B8-B4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-C4B8B4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+00-21-9E   (hex)		Sony Mobile Communications Inc
+00219E     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
 
-28-9E-FC   (hex)		Sagemcom Broadband SAS
-289EFC     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+28-3F-69   (hex)		Sony Mobile Communications Inc
+283F69     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
 
 E8-C5-7A   (hex)		Ufispace Co., LTD.
 E8C57A     (base 16)		Ufispace Co., LTD.
 				9F., No. 81 Jhongcheng Rd., Tucheng Dist.,
 				New Taipei    23674
 				TW
+
+C4-B8-B4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C4B8B4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 F8-99-10   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 F89910     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
@@ -29639,6 +29633,12 @@ F89910     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Shenzhen  Guangdong  518057
 				CN
 
+28-9E-FC   (hex)		Sagemcom Broadband SAS
+289EFC     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 84-C9-C6   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 84C9C6     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				SONGGANG
@@ -29656,6 +29656,12 @@ F89910     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				129, Samsung-ro, Youngtongl-Gu
 				Suwon  Gyeonggi-Do  16677
 				KR
+
+68-DD-26   (hex)		Shanghai Focus Vision Security Technology Co.,Ltd
+68DD26     (base 16)		Shanghai Focus Vision Security Technology Co.,Ltd
+				No.4888 Hunan Rd, Pudong New District
+				Shanghai  Shanghai  201317
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -86963,6 +86969,12 @@ D0EFC1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+78-2F-17   (hex)		Xlab Co.,Ltd
+782F17     (base 16)		Xlab Co.,Ltd
+				#401 4F, Achasan-ro, Seongdong-gu
+				SEOUL    04793
+				KR
+
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -88459,12 +88471,6 @@ B0027E     (base 16)		MULLER SERVICES
 				107 Boulevard Ney
 				PARIS  ILE DE FRANCE  75018
 				FR
-
-78-2F-17   (hex)		Xlab Co.,Ltd
-782F17     (base 16)		Xlab Co.,Ltd
-				#401 4F, Achasan-ro, Seongdong-gu
-				SEOUL    04793
-				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -102982,12 +102988,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				8F, No. 9, Park II Ave., Science-Based I
 				Hsin Chu    300
 				TW
-
-00-0C-8A   (hex)		Bose Corporation
-000C8A     (base 16)		Bose Corporation
-				Automotive Systems Division (ASD)
-				Stow  MA  01775-9102
-				US
 
 00-0C-8F   (hex)		Nergal s.r.l.
 000C8F     (base 16)		Nergal s.r.l.
@@ -118033,6 +118033,12 @@ B4527D     (base 16)		Sony Mobile Communications Inc
 				8F., No. 94, Baozhong Rd.
 				New Taipei City  Taiwan  231
 				TW
+
+00-0C-8A   (hex)		Bose Corporation
+000C8A     (base 16)		Bose Corporation
+				Automotive Systems Division (ASD)
+				Stow  MA  01775-9102
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -147739,3 +147745,9 @@ AC751D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				123-126, B Wing First Floor, Chintanmani Plaza, Mohan Studio Compound, Andheri-Kurla Road, Andheri East
 				Mumbai  Maharashtra   400099
 				IN
+
+E0-12-83   (hex)		 Shenzhen Fanzhuo Communication Technology Co., Lt
+E01283     (base 16)		 Shenzhen Fanzhuo Communication Technology Co., Lt
+				 No.1003 Kesi Road, Hi-Tech Park, 
+				Shenzhen  Nanshan District  2602-2603
+				CN
