@@ -59354,6 +59354,12 @@ CCF0FD     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				Puidoux  Outside the U.S or Canada  1070
 				CH
 
+C4-95-00   (hex)		Amazon Technologies Inc.
+C49500     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
