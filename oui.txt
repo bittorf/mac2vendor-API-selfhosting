@@ -29675,6 +29675,12 @@ D8912A     (base 16)		Zyxel Communications Corporation
 				Dallas  Texas  74244
 				US
 
+C4-FE-E2   (hex)		AMICCOM Electronics Corporation
+C4FEE2     (base 16)		AMICCOM Electronics Corporation
+				10F, No.18, Taiyuan St., Zhubei City
+				Hsinchu Country  Taiwan  30265
+				TW
+
 B4-4B-D6   (hex)		IEEE Registration Authority
 B44BD6     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -29687,17 +29693,17 @@ B44BD6     (base 16)		IEEE Registration Authority
 				Zhubei City  Hsinchu County  30265
 				TW
 
-C4-FE-E2   (hex)		AMICCOM Electronics Corporation
-C4FEE2     (base 16)		AMICCOM Electronics Corporation
-				10F, No.18, Taiyuan St., Zhubei City
-				Hsinchu Country  Taiwan  30265
-				TW
-
 EC-58-EA   (hex)		Ruckus Wireless
 EC58EA     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
+
+74-59-33   (hex)		Danal Entertainment
+745933     (base 16)		Danal Entertainment
+				9th Fl. Bundang First Tower, 55 Bundang-ro, Bundang-gu
+				Seongnam-si  Gyeonggi-do  13591
+				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -118129,6 +118135,12 @@ F460E2     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+00-51-ED   (hex)		LG Innotek
+0051ED     (base 16)		LG Innotek
+				26, Hanamsandan 5beon-ro
+				Gwangju  Gwangsan-gu  506-731
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
