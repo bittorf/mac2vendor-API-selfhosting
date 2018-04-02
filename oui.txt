@@ -29705,6 +29705,12 @@ EC58EA     (base 16)		Ruckus Wireless
 				Seongnam-si  Gyeonggi-do  13591
 				KR
 
+00-9D-6B   (hex)		Murata Manufacturing Co., Ltd.
+009D6B     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -59414,6 +59420,12 @@ E4D124     (base 16)		 Mojo Networks, Inc.
 				Mountain View  CA  94043
 				US
 
+28-3A-4D   (hex)		Cloud Network Technology (Samoa) Limited
+283A4D     (base 16)		Cloud Network Technology (Samoa) Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -88549,6 +88561,12 @@ E0735F     (base 16)		NUCOM
 				Arte, 21,5B
 				Madrid  Madrid  28033
 				ES
+
+B8-7C-6F   (hex)		NXP (China) Management Ltd.
+B87C6F     (base 16)		NXP (China) Management Ltd.
+				21F, BM InterContinental Business Center, 100 Yu Tong Road
+				Shanghai  Shanghai  200070
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -118147,6 +118165,18 @@ F460E2     (base 16)		Xiaomi Communications Co Ltd
 				26, Hanamsandan 5beon-ro
 				Gwangju  Gwangsan-gu  506-731
 				KR
+
+BC-30-D9   (hex)		Arcadyan Corporation
+BC30D9     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+F0-BC-C9   (hex)		PFU LIMITED
+F0BCC9     (base 16)		PFU LIMITED
+				Nu 98-2 Unoke
+				Kahoku-shi, Ishikawa    929-1192
+				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -147877,3 +147907,9 @@ A46191     (base 16)		NamJunSa
 				Utmarksvägen 33c
 				Gävle    80291
 				SE
+
+30-5D-A6   (hex)		ADVALY SYSTEM Inc.
+305DA6     (base 16)		ADVALY SYSTEM Inc.
+				7 KITA2 NISHI2 CYUO-KU
+				SAPPORO  HOKKAIDO  060-0002
+				JP
