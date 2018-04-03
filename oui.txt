@@ -58997,9 +58997,6 @@ E0BAB4     (base 16)		Arrcus, Inc
 				Wuhan  Hubei  430074
 				CN
 
-CC-3A-DF   (hex)		Private
-CC3ADF     (base 16)		Private
-
 60-4B-AA   (hex)		Private
 604BAA     (base 16)		Private
 
@@ -59437,6 +59434,9 @@ E4D124     (base 16)		 Mojo Networks, Inc.
 				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
 				Beijing  Beijing  100085
 				CN
+
+CC-3A-DF   (hex)		Private
+CC3ADF     (base 16)		Private
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -147710,12 +147710,6 @@ D469A5     (base 16)		Miura Systems Ltd.
 				High Wycombe  Buckinghamshire  HP143SX
 				GB
 
-D4-67-61   (hex)		United Gulf Gate Co.
-D46761     (base 16)		United Gulf Gate Co.
-				Office 20 - Qibla Tower
-				Qibla    0000
-				KW
-
 60-3D-26   (hex)		Technicolor CH USA Inc.
 603D26     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -147938,14 +147932,26 @@ A46191     (base 16)		NamJunSa
 				SAPPORO  HOKKAIDO  060-0002
 				JP
 
+40-A1-08   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+40A108     (base 16)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+				No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan
+				Wuhan  Hubei  430000
+				CN
+
 C0-03-80   (hex)		Juniper Networks
 C00380     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
 
-40-A1-08   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
-40A108     (base 16)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
-				No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan
-				Wuhan  Hubei  430000
-				CN
+D4-67-61   (hex)		United Gulf Gate Co.
+D46761     (base 16)		United Gulf Gate Co.
+				XonTel, Borj ALadel Tower, Fahad Al-Salem St Fl 21
+				Kuwait    0000
+				KW
+
+98-03-9B   (hex)		Mellanox Technologies, Inc.
+98039B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
