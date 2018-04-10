@@ -2249,12 +2249,6 @@ F42853     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
 				Shenzhen  Guangdong  518000
 				CN
 
-F0-76-1C   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-F0761C     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
-
 F4-28-33   (hex)		MMPC Inc.
 F42833     (base 16)		MMPC Inc.
 				#F313, KAIST-ICC, 193 Munjiro Yuseong-gu
@@ -2856,12 +2850,6 @@ CC3429     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 9C039E     (base 16)		Beijing Winchannel Software Technology Co., Ltd
 				8F, Block E, Dazhongsi Zhongkun Plaza No. A
 				Haidian District  BEIJING  100089
-				CN
-
-F8-A9-63   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-F8A963     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
 				CN
 
 48-A2-B7   (hex)		Kodofon JSC
@@ -21404,23 +21392,11 @@ C4282D     (base 16)		Embedded Intellect Pty Ltd
 				CEDEX  Paris  75512
 				FR
 
-B8-70-F4   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-B870F4     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
-				KUNSHAN  SUZHOU  215300
-				CN
-
 00-0F-B0   (hex)		COMPAL ELECTRONICS, INC.
 000FB0     (base 16)		COMPAL ELECTRONICS, INC.
 				581 Juikuang Road,Neihu,
 				Taipei    114
 				TW
-
-1C-75-08   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-1C7508     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
-				KUNSHAN  SUZHOU   215300 
-				CN
 
 38-29-DD   (hex)		ONvocal Inc
 3829DD     (base 16)		ONvocal Inc
@@ -29729,11 +29705,47 @@ FCB10D     (base 16)		Shenzhen Tian Kun Technology Co.,LTD.
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+88-DF-9E   (hex)		New H3C Technologies Co., Ltd
+88DF9E     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+2C-7C-E4   (hex)		Wuhan Tianyu Information Industry Co., Ltd.
+2C7CE4     (base 16)		Wuhan Tianyu Information Industry Co., Ltd.
+				HUST Industry Park, East-Lake Development Zone
+				Wuhan  Hubei  430223
+				CN
+
 34-27-92   (hex)		FREEBOX SAS
 342792     (base 16)		FREEBOX SAS
 				16 rue de la Ville l'Eveque
 				PARIS  IdF  75008
 				FR
+
+F8-A9-63   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+F8A963     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+B8-70-F4   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+B870F4     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU  215300
+				CN
+
+1C-75-08   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+1C7508     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU   215300 
+				CN
+
+F0-76-1C   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+F0761C     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -34030,12 +34042,6 @@ B86091     (base 16)		Onnet Technologies and Innovations LLC
 				1, 82/83 Street, New Industrial Area -II
 				Ajman  Ajman  52141
 				AE
-
-20-1A-06   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-201A06     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
 
 D4-CA-6E   (hex)		u-blox AG
 D4CA6E     (base 16)		u-blox AG
@@ -51194,42 +51200,6 @@ C05627     (base 16)		Belkin International Inc.
 				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
 				FR
 
-B8-88-E3   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-B888E3     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu, 
-				KUNSHAN   SUZHOU  215300
-				CN
-
-00-26-22   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-002622     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
-
-00-1E-EC   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-001EEC     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD Street
-				KUNSHAN CITY  SUZHOU PROVINCE  215300
-				CN
-
-DC-0E-A1   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-DC0EA1     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu, 
-				KUNSHAN   SUZHOU  215300
-				CN
-
-FC-45-96   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-FC4596     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				 NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON
-				KUNSHAN  SUZHOU  215300
-				CN
-
-20-89-84   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-208984     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone
-				KUNSHAN   SUZHOU   215300 
-				CN
-
 24-7C-4C   (hex)		Herman Miller
 247C4C     (base 16)		Herman Miller
 				Unit 2, 2/F The Factory, 1 Yip Fat Street
@@ -59466,6 +59436,54 @@ E0-62-67   (hex)		Xiaomi Communications Co Ltd
 E06267     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+58-03-FB   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+5803FB     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road
+				Hangzhou  Zhejiang  310052
+				CN
+
+20-1A-06   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+201A06     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+B8-88-E3   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+B888E3     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu, 
+				KUNSHAN   SUZHOU  215300
+				CN
+
+00-26-22   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+002622     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+00-1E-EC   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+001EEC     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street
+				KUNSHAN CITY  SUZHOU PROVINCE  215300
+				CN
+
+DC-0E-A1   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+DC0EA1     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu, 
+				KUNSHAN   SUZHOU  215300
+				CN
+
+FC-45-96   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+FC4596     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				 NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON
+				KUNSHAN  SUZHOU  215300
+				CN
+
+20-89-84   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+208984     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone
+				KUNSHAN   SUZHOU   215300 
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -80249,18 +80267,6 @@ A01B29     (base 16)		Sagemcom Broadband SAS
 				Rueil Malmaison Cedex  Hauts de Seine  92848
 				FR
 
-00-23-5A   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-00235A     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO 25, The 3rd street,
-				KuanShan  SUZHOU  215300
-				CN
-
-00-1B-38   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-001B38     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD AVENUE
-				KUNSHAN CITY  SUZHOU PROVINCE  215300
-				CN
-
 E4-6F-13   (hex)		D-Link International
 E46F13     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
@@ -88628,6 +88634,18 @@ A0D635     (base 16)		WBS Technology
 				München    80799
 				DE
 
+00-23-5A   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+00235A     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO 25, The 3rd street,
+				KuanShan  SUZHOU  215300
+				CN
+
+00-1B-38   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+001B38     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD AVENUE
+				KUNSHAN CITY  SUZHOU PROVINCE  215300
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -90301,12 +90319,6 @@ E48501     (base 16)		Geberit International AG
 				Schachenstrasse 77
 				Jona  SG  8645
 				CH
-
-1C-39-47   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-1C3947     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
 
 2C-AD-13   (hex)		SHENZHEN ZHILU TECHNOLOGY CO.,LTD
 2CAD13     (base 16)		SHENZHEN ZHILU TECHNOLOGY CO.,LTD
@@ -118250,6 +118262,18 @@ F0BCC9     (base 16)		PFU LIMITED
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+C0-D0-FF   (hex)		China Mobile IOT Company Limited
+C0D0FF     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area Chongqing,China
+				Chongqing  Chongqing  401336
+				CN
+
+1C-39-47   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+1C3947     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -126163,12 +126187,6 @@ A05DE7     (base 16)		DIRECTV, Inc.
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-70-5A-B6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-705AB6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
 
 00-3A-9A   (hex)		Cisco Systems, Inc
 003A9A     (base 16)		Cisco Systems, Inc
@@ -140000,12 +140018,6 @@ AA0000     (base 16)		DIGITAL EQUIPMENT CORPORATION
 				Rueil Malmaison Cedex  Hauts de Seine  92848
 				FR
 
-88-AE-1D   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-88AE1D     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD STREET KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
-
 5C-35-3B   (hex)		Compal Broadband Networks, Inc.
 5C353B     (base 16)		Compal Broadband Networks, Inc.
 				13F., No.1, Taiyuan 1st St.
@@ -148027,3 +148039,27 @@ A09351     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+70-5A-B6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+705AB6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+88-AE-1D   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+88AE1D     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD STREET KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+98-BB-99   (hex)		Phicomm (Sichuan) Co.,Ltd.
+98BB99     (base 16)		Phicomm (Sichuan) Co.,Ltd.
+				125 longquan street park road,longquan district,chengdu city
+				Sichuan  Chengdu  610015
+				CN
+
+88-3F-99   (hex)		Siemens AG
+883F99     (base 16)		Siemens AG
+				Werner-von-Siemens-Str. 48
+				Amberg    92224
+				DE
