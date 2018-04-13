@@ -29753,6 +29753,12 @@ EC6F0B     (base 16)		FADU, Inc.
 				Seoul    06153
 				KR
 
+10-62-E5   (hex)		Hewlett Packard
+1062E5     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -118345,6 +118351,12 @@ C0D0FF     (base 16)		China Mobile IOT Company Limited
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+74-1F-79   (hex)		YOUNGKOOK ELECTRONICS CO.,LTD
+741F79     (base 16)		YOUNGKOOK ELECTRONICS CO.,LTD
+				#810, Daewoo Frontier Valley 1,16-25, Dongbaekjungang-ro 16beon-gil, Giheung-gu
+				YONGIN  Gyeonggi-do  17015
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
