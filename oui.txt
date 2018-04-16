@@ -10832,12 +10832,6 @@ A8CE90     (base 16)		CVC
 				Pune  Maharashtra  411045
 				IN
 
-00-17-F3   (hex)		Harris Corparation
-0017F3     (base 16)		Harris Corparation
-				1025 West NASA Blvd
-				Melbourne  FL  32919
-				US
-
 00-17-F8   (hex)		Motech Industries Inc.
 0017F8     (base 16)		Motech Industries Inc.
 				6F, No. 248, Sec. 3, Pei-Shen Rd.,
@@ -29757,6 +29751,12 @@ EC6F0B     (base 16)		FADU, Inc.
 1062E5     (base 16)		Hewlett Packard
 				11445 Compaq Center Drive
 				Houston  TX  77070
+				US
+
+00-17-F3   (hex)		Harris Corporation
+0017F3     (base 16)		Harris Corporation
+				1025 West NASA Blvd
+				Melbourne  FL  32919
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -59522,6 +59522,18 @@ F8CC6E     (base 16)		DEPO Electronics Ltd
 				Seoul    KS013
 				KR
 
+48-2C-A0   (hex)		Xiaomi Communications Co Ltd
+482CA0     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+B8-69-F4   (hex)		Routerboard.com
+B869F4     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga  Riga  LV1009
+				LV
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -88706,6 +88718,24 @@ EC83D5     (base 16)		GIRD Systems Inc
 				KUNSHAN CITY  SUZHOU PROVINCE  215300
 				CN
 
+A4-E6-15   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
+				SHENZHEN  GUANGDONG  518057
+				CN
+
+00-BB-60   (hex)		Intel Corporate
+00BB60     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+7C-6D-A6   (hex)		Superwave Group LLC
+7C6DA6     (base 16)		Superwave Group LLC
+				poselok Krasnaya Zarya, dom 15
+				Vsevolozhskiy raiyon  Leningradskaya oblast  193149
+				RU
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -110009,12 +110039,6 @@ AA0003     (base 16)		DIGITAL EQUIPMENT CORPORATION
 				Mayfield Heights  OH  44124-6118
 				US
 
-00-00-C3   (hex)		HARRIS CORP COMPUTER SYS DIV
-0000C3     (base 16)		HARRIS CORP COMPUTER SYS DIV
-				M/S 75
-				MELBOURNE  FL  32919
-				US
-
 00-00-04   (hex)		XEROX CORPORATION
 000004     (base 16)		XEROX CORPORATION
 				M/S 105-50C
@@ -118346,17 +118370,29 @@ C0D0FF     (base 16)		China Mobile IOT Company Limited
 				Zapopan  Jalisco  45136
 				MX
 
+74-1F-79   (hex)		YOUNGKOOK ELECTRONICS CO.,LTD
+741F79     (base 16)		YOUNGKOOK ELECTRONICS CO.,LTD
+				#810, Daewoo Frontier Valley 1,16-25, Dongbaekjungang-ro 16beon-gil, Giheung-gu
+				YONGIN  Gyeonggi-do  17015
+				KR
+
 04-C3-E6   (hex)		IEEE Registration Authority
 04C3E6     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
 
-74-1F-79   (hex)		YOUNGKOOK ELECTRONICS CO.,LTD
-741F79     (base 16)		YOUNGKOOK ELECTRONICS CO.,LTD
-				#810, Daewoo Frontier Valley 1,16-25, Dongbaekjungang-ro 16beon-gil, Giheung-gu
-				YONGIN  Gyeonggi-do  17015
-				KR
+00-00-C3   (hex)		Harris Corporation
+0000C3     (base 16)		Harris Corporation
+				1025 West NASA Blvd
+				Melbourne  FL  32919
+				US
+
+B4-69-21   (hex)		Intel Corporate
+B46921     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -134660,12 +134696,6 @@ DC3350     (base 16)		TechSAT GmbH
 				San Jose  CA  95120
 				US
 
-00-06-EC   (hex)		Harris Corporation
-0006EC     (base 16)		Harris Corporation
-				1025 West NASA Blvd
-				Melbourne  FL  32919
-				US
-
 00-06-DF   (hex)		AIDONIC Corporation
 0006DF     (base 16)		AIDONIC Corporation
 				2-7-10 Otsuka, Bunkyo-ku,
@@ -148164,4 +148194,10 @@ F8-36-9B   (hex)		Texas Instruments
 F8369B     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+00-06-EC   (hex)		Harris Corporation
+0006EC     (base 16)		Harris Corporation
+				1025 West NASA Blvd
+				Melbourne  FL  32919
 				US
