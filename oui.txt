@@ -29759,6 +29759,30 @@ EC6F0B     (base 16)		FADU, Inc.
 				Melbourne  FL  32919
 				US
 
+3C-71-BF   (hex)		Espressif Inc.
+3C71BF     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+14-D1-69   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+14D169     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+BC-E2-65   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BCE265     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D0-16-B4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D016B4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -59504,12 +59528,6 @@ F8CC6E     (base 16)		DEPO Electronics Ltd
 				Krasnogorsk  Moscow region  143404
 				RU
 
-9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
-9C7F57     (base 16)		UNIC Memory Technology Co Ltd
-				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
-				Beijing    102208
-				CN
-
 80-6F-B0   (hex)		Texas Instruments
 806FB0     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -59533,6 +59551,24 @@ B869F4     (base 16)		Routerboard.com
 				Mikrotikls SIA
 				Riga  Riga  LV1009
 				LV
+
+9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
+9C7F57     (base 16)		UNIC Memory Technology Co Ltd
+				15/F, Building B, Truth Plaza, No.7 Zhichun Road
+				Beijing  Haidian District  102208
+				CN
+
+34-2E-B6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+342EB6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+90-2B-D2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+902BD2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -87737,12 +87773,6 @@ FC9DD8     (base 16)		Beijing TongTongYiLian Science and Technology Ltd.
 				Espoo  Finland  02610
 				FI
 
-AC-64-17   (hex)		Siemens AG - Industrial Automation - EWA
-AC6417     (base 16)		Siemens AG - Industrial Automation - EWA
-				Werner-von-Siemens Strasse 50
-				Amberg    92224
-				DE
-
 CC-5D-4E   (hex)		Zyxel Communications Corporation
 CC5D4E     (base 16)		Zyxel Communications Corporation
 				No. 6 Innovation Road II, Science Park
@@ -88735,6 +88765,18 @@ A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 				poselok Krasnaya Zarya, dom 15
 				Vsevolozhskiy raiyon  Leningradskaya oblast  193149
 				RU
+
+08-D5-9D   (hex)		Sagemcom Broadband SAS
+08D59D     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+AC-64-17   (hex)		Siemens AG
+AC6417     (base 16)		Siemens AG
+				Werner-von-Siemens Strasse 50
+				Amberg    92224
+				DE
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -115175,9 +115217,6 @@ D81FCC     (base 16)		Brocade Communications Systems, Inc.
 				San Jose  CA  95134
 				US
 
-00-20-67   (hex)		Private
-002067     (base 16)		Private
-
 00-60-DF   (hex)		Brocade Communications Systems, Inc.
 0060DF     (base 16)		Brocade Communications Systems, Inc.
 				130 Holger Way
@@ -118394,6 +118433,33 @@ B46921     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
+DC-8B-28   (hex)		Intel Corporate
+DC8B28     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+00-20-67   (hex)		Private
+002067     (base 16)		Private
+
+AC-92-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+34-12-F9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3412F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+4C-D1-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4CD1A1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -121090,12 +121156,6 @@ D42F23     (base 16)		Akenori PTE Ltd
 				176 Joo Chiat Road, #02-02
 				Singapore    427447
 				SG
-
-28-63-36   (hex)		Siemens AG - Industrial Automation - EWA
-286336     (base 16)		Siemens AG - Industrial Automation - EWA
-				Werner-von-Siemens Strasse 50
-				Amberg    92224
-				DE
 
 38-F0-98   (hex)		Vapor Stone Rail Systems
 38F098     (base 16)		Vapor Stone Rail Systems
@@ -148201,3 +148261,21 @@ F8369B     (base 16)		Texas Instruments
 				1025 West NASA Blvd
 				Melbourne  FL  32919
 				US
+
+28-63-36   (hex)		Siemens AG
+286336     (base 16)		Siemens AG
+				Werner-von-Siemens Strasse 50
+				Amberg    92224
+				DE
+
+34-79-16   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+347916     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+88-BF-E4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88BFE4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
