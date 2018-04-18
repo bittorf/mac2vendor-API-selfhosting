@@ -5339,12 +5339,6 @@ D4206D     (base 16)		HTC Corporation
 				College Station  Texas  77842
 				US
 
-00-B3-38   (hex)		Kontron Design Manufacturing Services (M) Sdn. Bhd
-00B338     (base 16)		Kontron Design Manufacturing Services (M) Sdn. Bhd
-				Plot 554, Lorong Perusahaan 4
-				Prai  Penang  13600
-				MY
-
 94-DE-0E   (hex)		SmartOptics AS
 94DE0E     (base 16)		SmartOptics AS
 				Stalfjaera 9
@@ -29782,6 +29776,18 @@ D016B4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+00-B3-38   (hex)		Kontron Asia Pacific Design Sdn. Bhd
+00B338     (base 16)		Kontron Asia Pacific Design Sdn. Bhd
+				Plot 554, Lorong Perusahaan 4
+				Prai Free Trade Zone  Prai, Penang  13600
+				MY
+
+00-B6-70   (hex)		Cisco Systems, Inc
+00B670     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -118439,9 +118445,6 @@ DC8B28     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-00-20-67   (hex)		Private
-002067     (base 16)		Private
-
 AC-92-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -118459,6 +118462,9 @@ AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+00-20-67   (hex)		Private
+002067     (base 16)		Private
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -126878,12 +126884,6 @@ DC3350     (base 16)		TechSAT GmbH
 				Tuningen  Baden-Württemberg  78609
 				DE
 
-00-24-AE   (hex)		Morpho
-0024AE     (base 16)		Morpho
-				18 chaussee Jules Cesar
-				OSNY    95520
-				FR
-
 00-24-A7   (hex)		Advanced Video Communications Inc.
 0024A7     (base 16)		Advanced Video Communications Inc.
 				633 W 5th Street
@@ -134394,12 +134394,6 @@ DC3350     (base 16)		TechSAT GmbH
 000645     (base 16)		Meisei Electric Co. Ltd.
 				249-1, Moriya-kou, Moriya
 				    302-0192
-				JP
-
-00-06-44   (hex)		neix,Inc
-000644     (base 16)		neix,Inc
-				KKS Higashi-Sapporo Bldg.
-				Shiroishi-ku, Sapporo-city  Hokkaido  003-0003
 				JP
 
 00-06-4B   (hex)		Alexon Co., Ltd.
@@ -148279,3 +148273,15 @@ F8369B     (base 16)		Texas Instruments
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+00-06-44   (hex)		NextGen Business Solutions, Inc
+000644     (base 16)		NextGen Business Solutions, Inc
+				KKS Higashi-Sapporo Bldg.3-5-3-24, Higashi-Sapporo
+				Shiroishi-ku, Sapporo-city  Hokkaido  003-0003
+				JP
+
+00-24-AE   (hex)		IDEMIA
+0024AE     (base 16)		IDEMIA
+				18 chaussee Jules Cesar
+				OSNY    95520
+				FR
