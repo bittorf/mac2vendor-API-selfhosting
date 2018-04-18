@@ -88754,12 +88754,6 @@ EC83D5     (base 16)		GIRD Systems Inc
 				KUNSHAN CITY  SUZHOU PROVINCE  215300
 				CN
 
-A4-E6-15   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
-				SHENZHEN  GUANGDONG  518057
-				CN
-
 00-BB-60   (hex)		Intel Corporate
 00BB60     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -88772,6 +88766,12 @@ A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 				Vsevolozhskiy raiyon  Leningradskaya oblast  193149
 				RU
 
+A4-E6-15   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
+				SHENZHEN  GUANGDONG  518057
+				CN
+
 08-D5-9D   (hex)		Sagemcom Broadband SAS
 08D59D     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
@@ -88783,6 +88783,12 @@ AC6417     (base 16)		Siemens AG
 				Werner-von-Siemens Strasse 50
 				Amberg    92224
 				DE
+
+5C-26-23   (hex)		WaveLynx Technologies Corporation
+5C2623     (base 16)		WaveLynx Technologies Corporation
+				100 Technology Drive, Building B, Ste 150
+				Broomfield  CO  80021
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -118445,6 +118451,9 @@ DC8B28     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
+00-20-67   (hex)		Private
+002067     (base 16)		Private
+
 AC-92-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -118462,9 +118471,6 @@ AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-00-20-67   (hex)		Private
-002067     (base 16)		Private
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
