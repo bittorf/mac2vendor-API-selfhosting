@@ -29789,6 +29789,12 @@ D016B4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				San Jose  CA  94568
 				US
 
+50-DC-FC   (hex)		ECOCOM
+50DCFC     (base 16)		ECOCOM
+				15ST,Block A,Fortune Plaza, No.7002 ShenNan Avenue, Futian District
+				Shenzhen  Guangdong  518040
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -78833,12 +78839,6 @@ A06A00     (base 16)		Verilink Corporation
 				BURLINGTON  MA  01803
 				US
 
-00-20-B5   (hex)		YASKAWA ELECTRIC CORPORATION
-0020B5     (base 16)		YASKAWA ELECTRIC CORPORATION
-				2-1 KUROSAKI-SHIROISHI
-				    
-				JP
-
 00-20-72   (hex)		WORKLINK INNOVATIONS
 002072     (base 16)		WORKLINK INNOVATIONS
 				2452 ARMSTRONG STREET
@@ -88789,6 +88789,18 @@ AC6417     (base 16)		Siemens AG
 				100 Technology Drive, Building B, Ste 150
 				Broomfield  CO  80021
 				US
+
+30-D1-6B   (hex)		Liteon Technology Corporation
+30D16B     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
+00-20-B5   (hex)		YASKAWA ELECTRIC CORPORATION
+0020B5     (base 16)		YASKAWA ELECTRIC CORPORATION
+				2-1 Kurosakishiroishi, Yahatanishi-ku,
+				Kitakyushu    806-0004
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -118471,6 +118483,12 @@ AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+70-0B-01   (hex)		Sagemcom Broadband SAS
+700B01     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -148291,3 +148309,15 @@ F8369B     (base 16)		Texas Instruments
 				18 chaussee Jules Cesar
 				OSNY    95520
 				FR
+
+50-2F-A8   (hex)		Cisco Systems, Inc
+502FA8     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+34-5A-BA   (hex)		tcloud intelligence
+345ABA     (base 16)		tcloud intelligence
+				Bao'an District, No. 400 Xiangshan Avenue
+				ShenZhen  GuangDong  518105
+				CN
