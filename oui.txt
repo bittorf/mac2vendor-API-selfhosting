@@ -59588,6 +59588,12 @@ B869F4     (base 16)		Routerboard.com
 				Dongguan    523808
 				CN
 
+44-65-7F   (hex)		Calix Inc.
+44657F     (base 16)		Calix Inc.
+				1035 North McDowell Boulevard
+				Petaluma  MN  94954
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
