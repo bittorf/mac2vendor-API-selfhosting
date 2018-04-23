@@ -59570,6 +59570,12 @@ B869F4     (base 16)		Routerboard.com
 				Riga  Riga  LV1009
 				LV
 
+9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
+9C7F57     (base 16)		UNIC Memory Technology Co Ltd
+				15/F, Building B, Truth Plaza, No.7 Zhichun Road
+				Beijing  Haidian District  102208
+				CN
+
 34-2E-B6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 342EB6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -59580,12 +59586,6 @@ B869F4     (base 16)		Routerboard.com
 902BD2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
-				CN
-
-9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
-9C7F57     (base 16)		UNIC Memory Technology Co Ltd
-				15/F, Building B, Truth Plaza, No.7 Zhichun Road
-				Beijing  Haidian District  102208
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -88760,12 +88760,6 @@ EC83D5     (base 16)		GIRD Systems Inc
 				KUNSHAN CITY  SUZHOU PROVINCE  215300
 				CN
 
-A4-E6-15   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
-				SHENZHEN  GUANGDONG  518057
-				CN
-
 00-BB-60   (hex)		Intel Corporate
 00BB60     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -88777,6 +88771,12 @@ A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 				poselok Krasnaya Zarya, dom 15
 				Vsevolozhskiy raiyon  Leningradskaya oblast  193149
 				RU
+
+A4-E6-15   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
+				SHENZHEN  GUANGDONG  518057
+				CN
 
 08-D5-9D   (hex)		Sagemcom Broadband SAS
 08D59D     (base 16)		Sagemcom Broadband SAS
@@ -88796,23 +88796,29 @@ AC6417     (base 16)		Siemens AG
 				Broomfield  CO  80021
 				US
 
-30-D1-6B   (hex)		Liteon Technology Corporation
-30D16B     (base 16)		Liteon Technology Corporation
-				4F, 90, Chien 1 Road
-				New Taipei City  Taiwan  23585
-				TW
-
 00-20-B5   (hex)		YASKAWA ELECTRIC CORPORATION
 0020B5     (base 16)		YASKAWA ELECTRIC CORPORATION
 				2-1 Kurosakishiroishi, Yahatanishi-ku,
 				Kitakyushu    806-0004
 				JP
 
+30-D1-6B   (hex)		Liteon Technology Corporation
+30D16B     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
 0C-CB-85   (hex)		Motorola Mobility LLC, a Lenovo Company
 0CCB85     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
 				US
+
+0C-9D-92   (hex)		ASUSTek COMPUTER INC.
+0C9D92     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -118475,6 +118481,9 @@ DC8B28     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
+00-20-67   (hex)		Private
+002067     (base 16)		Private
+
 AC-92-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -118492,9 +118501,6 @@ AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-00-20-67   (hex)		Private
-002067     (base 16)		Private
 
 70-0B-01   (hex)		Sagemcom Broadband SAS
 700B01     (base 16)		Sagemcom Broadband SAS
