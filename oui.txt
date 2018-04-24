@@ -16619,12 +16619,6 @@ A8CE90     (base 16)		CVC
 				    
 				IL
 
-00-04-9F   (hex)		Freescale Semiconductor
-00049F     (base 16)		Freescale Semiconductor
-				7700 West Parmer Lane
-				Austin  TX  78729
-				US
-
 00-04-A4   (hex)		NetEnabled, Inc.
 0004A4     (base 16)		NetEnabled, Inc.
 				1275 Kinnear Rd.
@@ -21379,12 +21373,6 @@ C4282D     (base 16)		Embedded Intellect Pty Ltd
 				Le Ponnant de Paris
 				CEDEX  Paris  75512
 				FR
-
-00-0F-B0   (hex)		COMPAL ELECTRONICS, INC.
-000FB0     (base 16)		COMPAL ELECTRONICS, INC.
-				581 Juikuang Road,Neihu,
-				Taipei    114
-				TW
 
 38-29-DD   (hex)		ONvocal Inc
 3829DD     (base 16)		ONvocal Inc
@@ -29800,6 +29788,36 @@ C08359     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+24-4C-E3   (hex)		Amazon Technologies Inc.
+244CE3     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno    89507
+				US
+
+48-98-CA   (hex)		Sichuan AI-Link Technology Co., Ltd.
+4898CA     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou,Industrial Park
+				Anzhou,Industrial Park  Sichuan  621000
+				CN
+
+20-E8-82   (hex)		zte corporation
+20E882     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+00-04-9F   (hex)		Freescale Semiconductor
+00049F     (base 16)		Freescale Semiconductor
+				2100 East  Elliot
+				Tempe  AZ  85284
+				US
+
+00-0F-B0   (hex)		Compal Electronics INC.
+000FB0     (base 16)		Compal Electronics INC.
+				No.8 , Nandong Road , PingZhen Dist.
+				Taoyuan   Taiwan   32455
+				TW
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -40831,12 +40849,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				1404, Mario-Tower, 222-12
 				Seoul    152-050
 				KR
-
-00-1A-31   (hex)		SCAN COIN Industries AB
-001A31     (base 16)		SCAN COIN Industries AB
-				Jagershillgatan 26
-				Malmö  Skåne  21375
-				SE
 
 00-1A-38   (hex)		Sanmina-SCI
 001A38     (base 16)		Sanmina-SCI
@@ -59570,12 +59582,6 @@ B869F4     (base 16)		Routerboard.com
 				Riga  Riga  LV1009
 				LV
 
-9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
-9C7F57     (base 16)		UNIC Memory Technology Co Ltd
-				15/F, Building B, Truth Plaza, No.7 Zhichun Road
-				Beijing  Haidian District  102208
-				CN
-
 34-2E-B6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 342EB6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -59588,11 +59594,35 @@ B869F4     (base 16)		Routerboard.com
 				Dongguan    523808
 				CN
 
+9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
+9C7F57     (base 16)		UNIC Memory Technology Co Ltd
+				15/F, Building B, Truth Plaza, No.7 Zhichun Road
+				Beijing  Haidian District  102208
+				CN
+
+C4-6E-7B   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+C46E7B     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,
+				Shenzhen  Guangdong  518000
+				CN
+
+28-D0-CB   (hex)		Cambridge Communication Systems Ltd
+28D0CB     (base 16)		Cambridge Communication Systems Ltd
+				Victory House, Vision Park, Chivers Way, Histon
+				Cambridge    CB24 9ZR
+				GB
+
 44-65-7F   (hex)		Calix Inc.
 44657F     (base 16)		Calix Inc.
 				1035 North McDowell Boulevard
 				Petaluma  MN  94954
 				US
+
+00-1A-31   (hex)		SCAN COIN AB
+001A31     (base 16)		SCAN COIN AB
+				Jagershillgatan 26
+				Malmö  Skåne  21375
+				SE
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -69556,12 +69586,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Malervej 10
 				Taastrup    2630
 				DK
-
-00-1B-84   (hex)		Scan Engineering Telecom
-001B84     (base 16)		Scan Engineering Telecom
-				Svobody str. 75
-				Voronezh    394030
-				RU
 
 00-1B-D1   (hex)		SOGESTMATIC
 001BD1     (base 16)		SOGESTMATIC
@@ -88826,6 +88850,18 @@ AC6417     (base 16)		Siemens AG
 				Taipei  Taiwan  112
 				TW
 
+80-A7-96   (hex)		Neurotek LLC
+80A796     (base 16)		Neurotek LLC
+				3180 18th St, Ste 200
+				San Francisco  CA  94110
+				US
+
+00-1B-84   (hex)		Scan Engineering Telecom
+001B84     (base 16)		Scan Engineering Telecom
+				Svobody str. 75
+				Voronezh    394030
+				RU
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -91782,12 +91818,6 @@ E0E631     (base 16)		SNB TECHNOLOGIES LIMITED
 3051F8     (base 16)		BYK-Gardner GmbH
 				Lausitzer Strasse 8
 				Geretsried  Bavarian  82538
-				DE
-
-94-C3-E4   (hex)		SCA Schucker Gmbh & Co KG
-94C3E4     (base 16)		SCA Schucker Gmbh & Co KG
-				Gewerbestrasse 52
-				Bretten    75015
 				DE
 
 FC-19-D0   (hex)		Cloud Vision Networks Technology Co.,Ltd.
@@ -110219,12 +110249,6 @@ CC33BB     (base 16)		Sagemcom Broadband SAS
 				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
 				FR
 
-00-02-3F   (hex)		COMPAL ELECTRONICS, INC.
-00023F     (base 16)		COMPAL ELECTRONICS, INC.
-				581, Juikuang Rd.,
-				    
-				TW
-
 38-3B-C8   (hex)		2Wire Inc
 383BC8     (base 16)		2Wire Inc
 				1764 Automation Parkway
@@ -114911,12 +114935,6 @@ EC42B4     (base 16)		ADC Corporation
 				Piscataway  NJ  08554
 				US
 
-6C-F9-D2   (hex)		Chengdu Goods for the Road Electronic Technology C
-6CF9D2     (base 16)		Chengdu Goods for the Road Electronic Technology C
-				High - West West West Center Road on the 4th
-				 Chengdu   Sichuan  611731
-				CN
-
 64-16-66   (hex)		Nest Labs Inc.
 641666     (base 16)		Nest Labs Inc.
 				3400 Hillview Ave.
@@ -118487,9 +118505,6 @@ DC8B28     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-00-20-67   (hex)		Private
-002067     (base 16)		Private
-
 AC-92-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -118508,6 +118523,9 @@ AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+00-20-67   (hex)		Private
+002067     (base 16)		Private
+
 70-0B-01   (hex)		Sagemcom Broadband SAS
 700B01     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
@@ -118519,6 +118537,54 @@ AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
 				US
+
+40-17-E2   (hex)		INTAI TECHNOLOGY CORP.
+4017E2     (base 16)		INTAI TECHNOLOGY CORP.
+				No.9, JINGKE RD.,NANTUN DIST.
+				TAICHUNG CITY    40852
+				TW
+
+C0-48-FB   (hex)		Shenzhen JingHanDa Electronics Co.Ltd
+C048FB     (base 16)		Shenzhen JingHanDa Electronics Co.Ltd
+				5th Floor,No 4 ,Road 1,ShangXue Technology industrial Park,LongGang district,ShenZhen,GuangDong,China
+				ShenZhen  GuangDong  518129
+				CN
+
+24-7E-51   (hex)		zte corporation
+247E51     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+E8-B5-41   (hex)		zte corporation
+E8B541     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+94-C3-E4   (hex)		Atlas Copco IAS GmbH
+94C3E4     (base 16)		Atlas Copco IAS GmbH
+				Gewerbestr. 52
+				Bretten-Goelshausen    75015
+				DE
+
+00-02-3F   (hex)		Compal Electronics INC.
+00023F     (base 16)		Compal Electronics INC.
+				No.8 , Nandong Road , PingZhen Dist.
+				Taoyuan   Taiwan   32455
+				TW
+
+6C-F9-D2   (hex)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
+6CF9D2     (base 16)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
+				High - West West West Center Road on the 4th
+				 Chengdu   Sichuan  611731
+				CN
+
+78-52-4A   (hex)		Ensenso GmbH
+78524A     (base 16)		Ensenso GmbH
+				Gundelfingerstr. 2
+				Freiburg    79108
+				DE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -148340,14 +148406,20 @@ F8369B     (base 16)		Texas Instruments
 				OSNY    95520
 				FR
 
+34-5A-BA   (hex)		tcloud intelligence
+345ABA     (base 16)		tcloud intelligence
+				Bao'an District, No. 400 Xiangshan Avenue
+				ShenZhen  GuangDong  518105
+				CN
+
 50-2F-A8   (hex)		Cisco Systems, Inc
 502FA8     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
 
-34-5A-BA   (hex)		tcloud intelligence
-345ABA     (base 16)		tcloud intelligence
-				Bao'an District, No. 400 Xiangshan Avenue
-				ShenZhen  GuangDong  518105
-				CN
+68-A8-E1   (hex)		Wacom Co.,Ltd.
+68A8E1     (base 16)		Wacom Co.,Ltd.
+				Sumitomo Fudosan Shinjuku Grand Tower 31F,8-17-1
+				Nishi-shinjuku,Shinjuku-ku  Tokyo  160-6131
+				JP
