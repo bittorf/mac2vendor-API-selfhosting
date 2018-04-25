@@ -59582,6 +59582,12 @@ B869F4     (base 16)		Routerboard.com
 				Riga  Riga  LV1009
 				LV
 
+9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
+9C7F57     (base 16)		UNIC Memory Technology Co Ltd
+				15/F, Building B, Truth Plaza, No.7 Zhichun Road
+				Beijing  Haidian District  102208
+				CN
+
 34-2E-B6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 342EB6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -59592,12 +59598,6 @@ B869F4     (base 16)		Routerboard.com
 902BD2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
-				CN
-
-9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
-9C7F57     (base 16)		UNIC Memory Technology Co Ltd
-				15/F, Building B, Truth Plaza, No.7 Zhichun Road
-				Beijing  Haidian District  102208
 				CN
 
 C4-6E-7B   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
@@ -59623,6 +59623,12 @@ C46E7B     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
 				Jagershillgatan 26
 				Malmö  Skåne  21375
 				SE
+
+70-4F-08   (hex)		Shenzhen Huisheng Information Technology Co., Ltd.
+704F08     (base 16)		Shenzhen Huisheng Information Technology Co., Ltd.
+				 Room 4A-205, Software Industry Base, Yuehai St
+				Nanshan District, Shenzhen  Guangdong  518000
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -88790,6 +88796,12 @@ EC83D5     (base 16)		GIRD Systems Inc
 				KUNSHAN CITY  SUZHOU PROVINCE  215300
 				CN
 
+A4-E6-15   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
+				SHENZHEN  GUANGDONG  518057
+				CN
+
 00-BB-60   (hex)		Intel Corporate
 00BB60     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -88801,12 +88813,6 @@ EC83D5     (base 16)		GIRD Systems Inc
 				poselok Krasnaya Zarya, dom 15
 				Vsevolozhskiy raiyon  Leningradskaya oblast  193149
 				RU
-
-A4-E6-15   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
-				SHENZHEN  GUANGDONG  518057
-				CN
 
 08-D5-9D   (hex)		Sagemcom Broadband SAS
 08D59D     (base 16)		Sagemcom Broadband SAS
@@ -118505,6 +118511,9 @@ DC8B28     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
+00-20-67   (hex)		Private
+002067     (base 16)		Private
+
 AC-92-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -118522,9 +118531,6 @@ AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-00-20-67   (hex)		Private
-002067     (base 16)		Private
 
 70-0B-01   (hex)		Sagemcom Broadband SAS
 700B01     (base 16)		Sagemcom Broadband SAS
@@ -118584,6 +118590,12 @@ E8B541     (base 16)		zte corporation
 78524A     (base 16)		Ensenso GmbH
 				Gundelfingerstr. 2
 				Freiburg    79108
+				DE
+
+E0-AF-4F   (hex)		Deutsche Telekom AG
+E0AF4F     (base 16)		Deutsche Telekom AG
+				Friedrich-Ebert-Allee 140
+				Bonn    53113
 				DE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -148406,20 +148418,26 @@ F8369B     (base 16)		Texas Instruments
 				OSNY    95520
 				FR
 
-34-5A-BA   (hex)		tcloud intelligence
-345ABA     (base 16)		tcloud intelligence
-				Bao'an District, No. 400 Xiangshan Avenue
-				ShenZhen  GuangDong  518105
-				CN
-
 50-2F-A8   (hex)		Cisco Systems, Inc
 502FA8     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
 
+34-5A-BA   (hex)		tcloud intelligence
+345ABA     (base 16)		tcloud intelligence
+				Bao'an District, No. 400 Xiangshan Avenue
+				ShenZhen  GuangDong  518105
+				CN
+
 68-A8-E1   (hex)		Wacom Co.,Ltd.
 68A8E1     (base 16)		Wacom Co.,Ltd.
 				Sumitomo Fudosan Shinjuku Grand Tower 31F,8-17-1
 				Nishi-shinjuku,Shinjuku-ku  Tokyo  160-6131
 				JP
+
+E8-A7-88   (hex)		XIAMEN LEELEN TECHNOLOGY CO., LTD
+E8A788     (base 16)		XIAMEN LEELEN TECHNOLOGY CO., LTD
+				65 Sunban South Rd., Jimei North Industrial Zone, 
+				Xiamen   Fujian  361021
+				CN
