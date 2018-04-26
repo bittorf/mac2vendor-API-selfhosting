@@ -59588,12 +59588,6 @@ B869F4     (base 16)		Routerboard.com
 				Riga  Riga  LV1009
 				LV
 
-9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
-9C7F57     (base 16)		UNIC Memory Technology Co Ltd
-				15/F, Building B, Truth Plaza, No.7 Zhichun Road
-				Beijing  Haidian District  102208
-				CN
-
 34-2E-B6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 342EB6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -59604,6 +59598,12 @@ B869F4     (base 16)		Routerboard.com
 902BD2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+9C-7F-57   (hex)		UNIC Memory Technology Co Ltd
+9C7F57     (base 16)		UNIC Memory Technology Co Ltd
+				15/F, Building B, Truth Plaza, No.7 Zhichun Road
+				Beijing  Haidian District  102208
 				CN
 
 C4-6E-7B   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
@@ -88802,12 +88802,6 @@ EC83D5     (base 16)		GIRD Systems Inc
 				KUNSHAN CITY  SUZHOU PROVINCE  215300
 				CN
 
-A4-E6-15   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
-				SHENZHEN  GUANGDONG  518057
-				CN
-
 00-BB-60   (hex)		Intel Corporate
 00BB60     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -88819,6 +88813,12 @@ A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 				poselok Krasnaya Zarya, dom 15
 				Vsevolozhskiy raiyon  Leningradskaya oblast  193149
 				RU
+
+A4-E6-15   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+A4E615     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
+				SHENZHEN  GUANGDONG  518057
+				CN
 
 08-D5-9D   (hex)		Sagemcom Broadband SAS
 08D59D     (base 16)		Sagemcom Broadband SAS
@@ -118517,9 +118517,6 @@ DC8B28     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-00-20-67   (hex)		Private
-002067     (base 16)		Private
-
 AC-92-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -118537,6 +118534,9 @@ AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+00-20-67   (hex)		Private
+002067     (base 16)		Private
 
 70-0B-01   (hex)		Sagemcom Broadband SAS
 700B01     (base 16)		Sagemcom Broadband SAS
@@ -118568,11 +118568,17 @@ C048FB     (base 16)		Shenzhen JingHanDa Electronics Co.Ltd
 				shenzhen  guangdong  518057
 				CN
 
-E8-B5-41   (hex)		zte corporation
-E8B541     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
+6C-F9-D2   (hex)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
+6CF9D2     (base 16)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
+				High - West West West Center Road on the 4th
+				 Chengdu   Sichuan  611731
 				CN
+
+78-52-4A   (hex)		Ensenso GmbH
+78524A     (base 16)		Ensenso GmbH
+				Gundelfingerstr. 2
+				Freiburg    79108
+				DE
 
 94-C3-E4   (hex)		Atlas Copco IAS GmbH
 94C3E4     (base 16)		Atlas Copco IAS GmbH
@@ -118586,17 +118592,11 @@ E8B541     (base 16)		zte corporation
 				Taoyuan   Taiwan   32455
 				TW
 
-6C-F9-D2   (hex)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
-6CF9D2     (base 16)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
-				High - West West West Center Road on the 4th
-				 Chengdu   Sichuan  611731
+E8-B5-41   (hex)		zte corporation
+E8B541     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
 				CN
-
-78-52-4A   (hex)		Ensenso GmbH
-78524A     (base 16)		Ensenso GmbH
-				Gundelfingerstr. 2
-				Freiburg    79108
-				DE
 
 E0-AF-4F   (hex)		Deutsche Telekom AG
 E0AF4F     (base 16)		Deutsche Telekom AG
@@ -148430,17 +148430,17 @@ F8369B     (base 16)		Texas Instruments
 				OSNY    95520
 				FR
 
-50-2F-A8   (hex)		Cisco Systems, Inc
-502FA8     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 34-5A-BA   (hex)		tcloud intelligence
 345ABA     (base 16)		tcloud intelligence
 				Bao'an District, No. 400 Xiangshan Avenue
 				ShenZhen  GuangDong  518105
 				CN
+
+50-2F-A8   (hex)		Cisco Systems, Inc
+502FA8     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 68-A8-E1   (hex)		Wacom Co.,Ltd.
 68A8E1     (base 16)		Wacom Co.,Ltd.
@@ -148453,3 +148453,9 @@ E8A788     (base 16)		XIAMEN LEELEN TECHNOLOGY CO., LTD
 				65 Sunban South Rd., Jimei North Industrial Zone, 
 				Xiamen   Fujian  361021
 				CN
+
+24-05-88   (hex)		Google, Inc.
+240588     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
