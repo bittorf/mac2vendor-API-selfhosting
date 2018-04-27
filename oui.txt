@@ -22238,12 +22238,6 @@ D059E4     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-00-0B-3B   (hex)		devolo AG
-000B3B     (base 16)		devolo AG
-				Sonnenweg 11
-				Aachen  NRW  52070
-				DE
-
 00-1D-20   (hex)		Comtrend Corporation
 001D20     (base 16)		Comtrend Corporation
 				3F-1 10 LANE 609 CHUNG HSIN ROAD, SEC 5, SAN CHUNG CITY, TAIPEI TAIWAN 241
@@ -29824,6 +29818,18 @@ C08359     (base 16)		IEEE Registration Authority
 				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
 				Hong Kong  KOWLOON  999077
 				HK
+
+A4-56-CC   (hex)		Technicolor CH USA Inc.
+A456CC     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+00-0B-3B   (hex)		devolo AG
+000B3B     (base 16)		devolo AG
+				Charlottenburger Allee 67
+				Aachen  NRW  52068
+				DE
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -59636,6 +59642,24 @@ C46E7B     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
 				Nanshan District, Shenzhen  Guangdong  518000
 				CN
 
+F0-9F-FC   (hex)		SHARP Corporation
+F09FFC     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
+
+30-42-A1   (hex)		ilumisys Inc. DBA Toggled
+3042A1     (base 16)		ilumisys Inc. DBA Toggled
+				1820 E. Big Beaver Road
+				Troy  MI  48083
+				US
+
+20-DE-88   (hex)		IC Realtime LLC
+20DE88     (base 16)		IC Realtime LLC
+				3050 N Andrews Ave Ext.
+				Pompano Beach  FL  33064
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -81263,12 +81287,6 @@ F40E22     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-BC-F2-AF   (hex)		devolo AG
-BCF2AF     (base 16)		devolo AG
-				Charlottenburger Allee 60
-				Aachen    52068
-				DE
-
 02-70-B3   (hex)		DATA RECALL LTD.
 0270B3     (base 16)		DATA RECALL LTD.
 				SONDES PLACE
@@ -88874,6 +88892,24 @@ AC6417     (base 16)		Siemens AG
 				Voronezh    394030
 				RU
 
+0C-96-E6   (hex)		Cloud Network Technology (Samoa) Limited
+0C96E6     (base 16)		Cloud Network Technology (Samoa) Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
+88-35-C1   (hex)		OI ELECTRIC CO.,LTD
+8835C1     (base 16)		OI ELECTRIC CO.,LTD
+				7-3-16 KIKUNA
+				YOKOHAMA  KANAGAWA-KEN  222-0011
+				JP
+
+BC-F2-AF   (hex)		devolo AG
+BCF2AF     (base 16)		devolo AG
+				Charlottenburger Allee 67
+				Aachen  NRW  52068
+				DE
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -90181,12 +90217,6 @@ B49D0B     (base 16)		BQ
 				#D1104, Salarpuria Serenity, 41A,
 				Bangalore  Karnataka  560068
 				IN
-
-30-D3-2D   (hex)		devolo AG
-30D32D     (base 16)		devolo AG
-				Charlottenburger Allee 60
-				Aachen  NRW  52068
-				DE
 
 CC-79-4A   (hex)		BLU Products Inc.
 CC794A     (base 16)		BLU Products Inc.
@@ -111149,12 +111179,6 @@ A80600     (base 16)		Samsung Electronics Co.,Ltd
 				Taipei Hsien    241
 				TW
 
-F4-06-8D   (hex)		devolo AG
-F4068D     (base 16)		devolo AG
-				Charlottenburger Allee 60
-				Aachen  NRW  52068
-				DE
-
 00-0B-CA   (hex)		DATAVAN TC
 000BCA     (base 16)		DATAVAN TC
 				4FL,#120-12,Chung Shan Rd, Sec.3
@@ -118608,6 +118632,24 @@ E0AF4F     (base 16)		Deutsche Telekom AG
 8C41F4     (base 16)		IPmotion GmbH
 				Ludwig-Rinn-Straße 8-16
 				Heuchelheim  Hessen  35452
+				DE
+
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+F4-06-8D   (hex)		devolo AG
+F4068D     (base 16)		devolo AG
+				Charlottenburger Allee 67
+				Aachen  NRW  52068
+				DE
+
+30-D3-2D   (hex)		devolo AG
+30D32D     (base 16)		devolo AG
+				Charlottenburger Allee 67
+				Aachen  NRW  52068
 				DE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -148459,3 +148501,21 @@ E8A788     (base 16)		XIAMEN LEELEN TECHNOLOGY CO., LTD
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
 				US
+
+98-AE-71   (hex)		VVDN Technologies Pvt Ltd
+98AE71     (base 16)		VVDN Technologies Pvt Ltd
+				B-22, Sec-34 , Info-city -I
+				Gurugram  Haryana  122001
+				IN
+
+58-2D-34   (hex)		Qingping Electronics (Suzhou) Co., Ltd
+582D34     (base 16)		Qingping Electronics (Suzhou) Co., Ltd
+				Room 304, A3 Building, NO.88 Dongchang Road, Suzhou Industrial Park
+				Suzhou  Jiangsu Province  215028
+				CN
+
+B8-BE-F4   (hex)		devolo AG
+B8BEF4     (base 16)		devolo AG
+				Charlottenburger Allee 67
+				Aachen  NRW  52068
+				DE
