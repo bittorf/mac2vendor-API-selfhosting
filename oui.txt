@@ -29825,6 +29825,12 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Aachen  NRW  52068
 				DE
 
+88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
+889F6F     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 00-90-93   (hex)		EIZO Corporation
 009093     (base 16)		EIZO Corporation
 				153 Shimokashiwano
@@ -59642,11 +59648,23 @@ C46E7B     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
 				Nanshan District, Shenzhen  Guangdong  518000
 				CN
 
-F0-9F-FC   (hex)		SHARP Corporation
-F09FFC     (base 16)		SHARP Corporation
-				1 Takumi-cho, Sakai-ku
-				Sakai City  Osaka  590-8522
-				JP
+BC-A5-8B   (hex)		Samsung Electronics Co.,Ltd
+BCA58B     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+70-FD-46   (hex)		Samsung Electronics Co.,Ltd
+70FD46     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D0-7F-A0   (hex)		Samsung Electronics Co.,Ltd
+D07FA0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 30-42-A1   (hex)		ilumisys Inc. DBA Toggled
 3042A1     (base 16)		ilumisys Inc. DBA Toggled
@@ -59659,6 +59677,12 @@ F09FFC     (base 16)		SHARP Corporation
 				3050 N Andrews Ave Ext.
 				Pompano Beach  FL  33064
 				US
+
+F0-9F-FC   (hex)		SHARP Corporation
+F09FFC     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -88909,6 +88933,18 @@ BCF2AF     (base 16)		devolo AG
 				Charlottenburger Allee 67
 				Aachen  NRW  52068
 				DE
+
+A4-D9-90   (hex)		Samsung Electronics Co.,Ltd
+A4D990     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+5C-63-C9   (hex)		Intellithings Ltd.
+5C63C9     (base 16)		Intellithings Ltd.
+				Hanehoshet 10
+				Tel Aviv  Israel  6971072
+				IL
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -118628,6 +118664,12 @@ E0AF4F     (base 16)		Deutsche Telekom AG
 				Heuchelheim  Hessen  35452
 				DE
 
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
 F4-06-8D   (hex)		devolo AG
 F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
@@ -118640,17 +118682,41 @@ F4068D     (base 16)		devolo AG
 				Aachen  NRW  52068
 				DE
 
-3C-89-94   (hex)		BSkyB Ltd
-3C8994     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 00-0F-15   (hex)		Icotera A/S
 000F15     (base 16)		Icotera A/S
 				Vibeholms Allé 16
 				Brøndby    2605
 				DK
+
+A8-5A-F3   (hex)		Shanghai Siflower Communication Technology Co., Ltd
+A85AF3     (base 16)		Shanghai Siflower Communication Technology Co., Ltd
+				 Rm. 408, No. 84, Lane 887. Zhangjiang Hi-Tech Park. Zuchongzhi Rd. Shanghai, China
+				Shanghai  Shanghai  201210
+				CN
+
+4C-36-4E   (hex)		Panasonic Corporation  Connected Solutions Company
+4C364E     (base 16)		Panasonic Corporation  Connected Solutions Company
+				4-1-62 Minoshima, Hakata-ku
+				Fukuoka-shi  Fukuoka  812-8531
+				JP
+
+14-96-E5   (hex)		Samsung Electronics Co.,Ltd
+1496E5     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+80-CE-B9   (hex)		Samsung Electronics Co.,Ltd
+80CEB9     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+CC-21-19   (hex)		Samsung Electronics Co.,Ltd
+CC2119     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -148496,12 +148562,6 @@ E8A788     (base 16)		XIAMEN LEELEN TECHNOLOGY CO., LTD
 				Mountain View  CA  94043
 				US
 
-98-AE-71   (hex)		VVDN Technologies Pvt Ltd
-98AE71     (base 16)		VVDN Technologies Pvt Ltd
-				B-22, Sec-34 , Info-city -I
-				Gurugram  Haryana  122001
-				IN
-
 58-2D-34   (hex)		Qingping Electronics (Suzhou) Co., Ltd
 582D34     (base 16)		Qingping Electronics (Suzhou) Co., Ltd
 				Room 304, A3 Building, NO.88 Dongchang Road, Suzhou Industrial Park
@@ -148514,14 +148574,32 @@ B8BEF4     (base 16)		devolo AG
 				Aachen  NRW  52068
 				DE
 
+30-23-03   (hex)		Belkin International Inc.
+302303     (base 16)		Belkin International Inc.
+				12045 East Waterfront Drive
+				Playa Vista    90094
+				US
+
+98-AE-71   (hex)		VVDN Technologies Pvt Ltd
+98AE71     (base 16)		VVDN Technologies Pvt Ltd
+				B-22, Sec-34 , Info-city -I
+				Gurugram  Haryana  122001
+				IN
+
 34-BA-75   (hex)		Everest Networks, Inc
 34BA75     (base 16)		Everest Networks, Inc
 				2933 Bunker Hill Ln., Suite 100
 				Santa Clara  CA  95054
 				US
 
-30-23-03   (hex)		Belkin International Inc.
-302303     (base 16)		Belkin International Inc.
-				12045 East Waterfront Drive
-				Playa Vista    90094
-				US
+00-B5-D0   (hex)		Samsung Electronics Co.,Ltd
+00B5D0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+8C-83-E1   (hex)		Samsung Electronics Co.,Ltd
+8C83E1     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
