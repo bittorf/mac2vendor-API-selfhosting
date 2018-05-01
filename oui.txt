@@ -59690,6 +59690,12 @@ F09FFC     (base 16)		SHARP Corporation
 				KYOTO  KYOTO  601-8501
 				JP
 
+14-37-19   (hex)		PT Prakarsa Visi Valutama
+143719     (base 16)		PT Prakarsa Visi Valutama
+				Jl. Cideng Timur No.11D
+				Jakarta Pusat  Indonesia  10130
+				ID
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -68961,12 +68967,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 001E87     (base 16)		Realease Limited
 				15/F, Morrison Commercial Building
 				WanChai    
-				HK
-
-00-1E-80   (hex)		Last Mile Ltd.
-001E80     (base 16)		Last Mile Ltd.
-				12/F VIP Commercial Centre
-				Tsimshatsui    
 				HK
 
 00-1E-FC   (hex)		JSC MASSA-K
@@ -88951,6 +88951,12 @@ A4D990     (base 16)		Samsung Electronics Co.,Ltd
 				Hanehoshet 10
 				Tel Aviv  Israel  6971072
 				IL
+
+00-1E-80   (hex)		Icotera A/S
+001E80     (base 16)		Icotera A/S
+				12/F VIP Commercial Centre
+				Tsimshatsui    
+				HK
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
