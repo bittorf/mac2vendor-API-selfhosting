@@ -29825,17 +29825,17 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Aachen  NRW  52068
 				DE
 
-88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
-889F6F     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 00-90-93   (hex)		EIZO Corporation
 009093     (base 16)		EIZO Corporation
 				153 Shimokashiwano
 				Hakusan  Ishikawa  924-8856
 				JP
+
+88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
+889F6F     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -59666,6 +59666,12 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+F0-9F-FC   (hex)		SHARP Corporation
+F09FFC     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
+
 30-42-A1   (hex)		ilumisys Inc. DBA Toggled
 3042A1     (base 16)		ilumisys Inc. DBA Toggled
 				1820 E. Big Beaver Road
@@ -59678,10 +59684,10 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				Pompano Beach  FL  33064
 				US
 
-F0-9F-FC   (hex)		SHARP Corporation
-F09FFC     (base 16)		SHARP Corporation
-				1 Takumi-cho, Sakai-ku
-				Sakai City  Osaka  590-8522
+58-2F-40   (hex)		Nintendo Co.,Ltd
+582F40     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
 				JP
 
 58-46-E1   (hex)		Baxter International Inc
@@ -118664,12 +118670,6 @@ E0AF4F     (base 16)		Deutsche Telekom AG
 				Heuchelheim  Hessen  35452
 				DE
 
-3C-89-94   (hex)		BSkyB Ltd
-3C8994     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 F4-06-8D   (hex)		devolo AG
 F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
@@ -118682,11 +118682,11 @@ F4068D     (base 16)		devolo AG
 				Aachen  NRW  52068
 				DE
 
-00-0F-15   (hex)		Icotera A/S
-000F15     (base 16)		Icotera A/S
-				Vibeholms Allé 16
-				Brøndby    2605
-				DK
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
 
 A8-5A-F3   (hex)		Shanghai Siflower Communication Technology Co., Ltd
 A85AF3     (base 16)		Shanghai Siflower Communication Technology Co., Ltd
@@ -118699,6 +118699,12 @@ A85AF3     (base 16)		Shanghai Siflower Communication Technology Co., Ltd
 				4-1-62 Minoshima, Hakata-ku
 				Fukuoka-shi  Fukuoka  812-8531
 				JP
+
+00-0F-15   (hex)		Icotera A/S
+000F15     (base 16)		Icotera A/S
+				Vibeholms Allé 16
+				Brøndby    2605
+				DK
 
 14-96-E5   (hex)		Samsung Electronics Co.,Ltd
 1496E5     (base 16)		Samsung Electronics Co.,Ltd
@@ -118717,6 +118723,18 @@ CC2119     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+48-88-1E   (hex)		EthoSwitch LLC
+48881E     (base 16)		EthoSwitch LLC
+				1298 Evans Road
+				Wall Township   NJ  07719
+				US
+
+08-90-BA   (hex)		Danlaw Inc
+0890BA     (base 16)		Danlaw Inc
+				23700 research Dr.
+				Farmington Hills    48335
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -148603,3 +148621,9 @@ B8BEF4     (base 16)		devolo AG
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+E4-FC-82   (hex)		Juniper Networks
+E4FC82     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
