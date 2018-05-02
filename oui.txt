@@ -29837,6 +29837,12 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Gumi  Gyeongbuk  730-350
 				KR
 
+E0-49-ED   (hex)		Audeze LLC
+E049ED     (base 16)		Audeze LLC
+				3410 S Susan st
+				Santa Ana  CA  92704
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -88954,9 +88960,9 @@ A4D990     (base 16)		Samsung Electronics Co.,Ltd
 
 00-1E-80   (hex)		Icotera A/S
 001E80     (base 16)		Icotera A/S
-				12/F VIP Commercial Centre
-				Tsimshatsui    
-				HK
+				Vibeholms Allé 16
+				Brøndby    2605
+				DK
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -118706,12 +118712,6 @@ A85AF3     (base 16)		Shanghai Siflower Communication Technology Co., Ltd
 				Fukuoka-shi  Fukuoka  812-8531
 				JP
 
-00-0F-15   (hex)		Icotera A/S
-000F15     (base 16)		Icotera A/S
-				Vibeholms Allé 16
-				Brøndby    2605
-				DK
-
 14-96-E5   (hex)		Samsung Electronics Co.,Ltd
 1496E5     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -118741,6 +118741,12 @@ CC2119     (base 16)		Samsung Electronics Co.,Ltd
 				23700 research Dr.
 				Farmington Hills    48335
 				US
+
+00-0F-15   (hex)		Icotera A/S
+000F15     (base 16)		Icotera A/S
+				Vibeholms Allé 16
+				Brøndby    2605
+				DK
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
