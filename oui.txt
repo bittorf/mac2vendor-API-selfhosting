@@ -29825,22 +29825,28 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Aachen  NRW  52068
 				DE
 
-00-90-93   (hex)		EIZO Corporation
-009093     (base 16)		EIZO Corporation
-				153 Shimokashiwano
-				Hakusan  Ishikawa  924-8856
-				JP
-
 88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
 889F6F     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
 
+00-90-93   (hex)		EIZO Corporation
+009093     (base 16)		EIZO Corporation
+				153 Shimokashiwano
+				Hakusan  Ishikawa  924-8856
+				JP
+
 E0-49-ED   (hex)		Audeze LLC
 E049ED     (base 16)		Audeze LLC
 				3410 S Susan st
 				Santa Ana  CA  92704
+				US
+
+9C-F6-DD   (hex)		IEEE Registration Authority
+9CF6DD     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -59672,12 +59678,6 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-F0-9F-FC   (hex)		SHARP Corporation
-F09FFC     (base 16)		SHARP Corporation
-				1 Takumi-cho, Sakai-ku
-				Sakai City  Osaka  590-8522
-				JP
-
 30-42-A1   (hex)		ilumisys Inc. DBA Toggled
 3042A1     (base 16)		ilumisys Inc. DBA Toggled
 				1820 E. Big Beaver Road
@@ -59690,10 +59690,10 @@ F09FFC     (base 16)		SHARP Corporation
 				Pompano Beach  FL  33064
 				US
 
-58-2F-40   (hex)		Nintendo Co.,Ltd
-582F40     (base 16)		Nintendo Co.,Ltd
-				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
-				KYOTO  KYOTO  601-8501
+F0-9F-FC   (hex)		SHARP Corporation
+F09FFC     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
 				JP
 
 14-37-19   (hex)		PT Prakarsa Visi Valutama
@@ -59701,6 +59701,18 @@ F09FFC     (base 16)		SHARP Corporation
 				Jl. Cideng Timur No.11D
 				Jakarta Pusat  Indonesia  10130
 				ID
+
+58-2F-40   (hex)		Nintendo Co.,Ltd
+582F40     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+6C-6C-D3   (hex)		Cisco Systems, Inc
+6C6CD3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -118682,6 +118694,12 @@ E0AF4F     (base 16)		Deutsche Telekom AG
 				Heuchelheim  Hessen  35452
 				DE
 
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
 F4-06-8D   (hex)		devolo AG
 F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
@@ -118693,12 +118711,6 @@ F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
 				Aachen  NRW  52068
 				DE
-
-3C-89-94   (hex)		BSkyB Ltd
-3C8994     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
 
 A8-5A-F3   (hex)		Shanghai Siflower Communication Technology Co., Ltd
 A85AF3     (base 16)		Shanghai Siflower Communication Technology Co., Ltd
