@@ -29825,28 +29825,28 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Aachen  NRW  52068
 				DE
 
-88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
-889F6F     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 00-90-93   (hex)		EIZO Corporation
 009093     (base 16)		EIZO Corporation
 				153 Shimokashiwano
 				Hakusan  Ishikawa  924-8856
 				JP
 
-E0-49-ED   (hex)		Audeze LLC
-E049ED     (base 16)		Audeze LLC
-				3410 S Susan st
-				Santa Ana  CA  92704
-				US
+88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
+889F6F     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 9C-F6-DD   (hex)		IEEE Registration Authority
 9CF6DD     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+E0-49-ED   (hex)		Audeze LLC
+E049ED     (base 16)		Audeze LLC
+				3410 S Susan st
+				Santa Ana  CA  92704
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -35326,12 +35326,6 @@ C02973     (base 16)		Audyssey Laboratories Inc.
 				110 E. 9th Street, Suite C700
 				Los Angeles  CA  90079
 				US
-
-30-16-8D   (hex)		ProLon
-30168D     (base 16)		ProLon
-				1989 Michelin
-				Laval  Quebec  H7L5B7
-				CA
 
 B4-51-F9   (hex)		NB Software
 B451F9     (base 16)		NB Software
@@ -59678,6 +59672,12 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+F0-9F-FC   (hex)		SHARP Corporation
+F09FFC     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
+
 30-42-A1   (hex)		ilumisys Inc. DBA Toggled
 3042A1     (base 16)		ilumisys Inc. DBA Toggled
 				1820 E. Big Beaver Road
@@ -59689,12 +59689,6 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				3050 N Andrews Ave Ext.
 				Pompano Beach  FL  33064
 				US
-
-F0-9F-FC   (hex)		SHARP Corporation
-F09FFC     (base 16)		SHARP Corporation
-				1 Takumi-cho, Sakai-ku
-				Sakai City  Osaka  590-8522
-				JP
 
 14-37-19   (hex)		PT Prakarsa Visi Valutama
 143719     (base 16)		PT Prakarsa Visi Valutama
@@ -59713,6 +59707,12 @@ F09FFC     (base 16)		SHARP Corporation
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+30-16-8D   (hex)		ProLon
+30168D     (base 16)		ProLon
+				17510 rue Charles, Suite 100
+				Mirabel  Quebec   J7J 1X9
+				CA
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -118694,12 +118694,6 @@ E0AF4F     (base 16)		Deutsche Telekom AG
 				Heuchelheim  Hessen  35452
 				DE
 
-3C-89-94   (hex)		BSkyB Ltd
-3C8994     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 F4-06-8D   (hex)		devolo AG
 F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
@@ -118711,6 +118705,12 @@ F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
 				Aachen  NRW  52068
 				DE
+
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
 
 A8-5A-F3   (hex)		Shanghai Siflower Communication Technology Co., Ltd
 A85AF3     (base 16)		Shanghai Siflower Communication Technology Co., Ltd
@@ -118759,6 +118759,12 @@ CC2119     (base 16)		Samsung Electronics Co.,Ltd
 				Vibeholms Allé 16
 				Brøndby    2605
 				DK
+
+4C-11-59   (hex)		Vision Information & Communications
+4C1159     (base 16)		Vision Information & Communications
+				151, Ulseong-gil
+				Pyeongtaek-si  Gyeonggi-do  17823
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -132055,12 +132061,6 @@ DC3350     (base 16)		TechSAT GmbH
 				459-9,KASAN-DONG,KUMCHON-GU,
 				SEOUL    153-023
 				KR
-
-00-12-4F   (hex)		Pentair Thermal Management
-00124F     (base 16)		Pentair Thermal Management
-				11004 - 174 St.
-				Edmonton  Alberta  T5S 2P3
-				CA
 
 00-12-4A   (hex)		Dedicated Devices, Inc.
 00124A     (base 16)		Dedicated Devices, Inc.
@@ -148651,3 +148651,9 @@ E4FC82     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
+
+00-12-4F   (hex)		nVent
+00124F     (base 16)		nVent
+				11004 - 174 St.
+				Edmonton  Alberta  T5S 2P3
+				CA
