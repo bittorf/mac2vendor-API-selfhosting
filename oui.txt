@@ -88976,6 +88976,12 @@ A4D990     (base 16)		Samsung Electronics Co.,Ltd
 				Brøndby    2605
 				DK
 
+DC-F7-19   (hex)		Cisco Systems, Inc
+DCF719     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -148654,6 +148660,6 @@ E4FC82     (base 16)		Juniper Networks
 
 00-12-4F   (hex)		nVent
 00124F     (base 16)		nVent
-				11004 - 174 St.
-				Edmonton  Alberta  T5S 2P3
-				CA
+				1665 Utica Avenue, Suite 700
+				St Louis Park  MN  55416
+				US
