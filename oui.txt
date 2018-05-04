@@ -29849,6 +29849,12 @@ E049ED     (base 16)		Audeze LLC
 				Santa Ana  CA  92704
 				US
 
+40-62-EA   (hex)		China Mobile Group Device Co.,Ltd.
+4062EA     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -88970,17 +88976,17 @@ A4D990     (base 16)		Samsung Electronics Co.,Ltd
 				Tel Aviv  Israel  6971072
 				IL
 
-00-1E-80   (hex)		Icotera A/S
-001E80     (base 16)		Icotera A/S
-				Vibeholms Allé 16
-				Brøndby    2605
-				DK
-
 DC-F7-19   (hex)		Cisco Systems, Inc
 DCF719     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+00-1E-80   (hex)		Icotera A/S
+001E80     (base 16)		Icotera A/S
+				Vibeholms Allé 16
+				Brøndby    2605
+				DK
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
