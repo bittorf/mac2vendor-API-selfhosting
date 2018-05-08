@@ -29825,6 +29825,12 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Aachen  NRW  52068
 				DE
 
+00-90-93   (hex)		EIZO Corporation
+009093     (base 16)		EIZO Corporation
+				153 Shimokashiwano
+				Hakusan  Ishikawa  924-8856
+				JP
+
 88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
 889F6F     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -29836,12 +29842,6 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
-
-00-90-93   (hex)		EIZO Corporation
-009093     (base 16)		EIZO Corporation
-				153 Shimokashiwano
-				Hakusan  Ishikawa  924-8856
-				JP
 
 E0-49-ED   (hex)		Audeze LLC
 E049ED     (base 16)		Audeze LLC
@@ -29865,6 +29865,12 @@ E049ED     (base 16)		Audeze LLC
 14E9B2     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
+				CN
+
+A4-35-23   (hex)		Guangdong Donyan Network Technologies Co.,Ltd.
+A43523     (base 16)		Guangdong Donyan Network Technologies Co.,Ltd.
+				No.6,Kejizhong Road,Chuangye Building,Hi-tech Zone
+				Shantou  Guangdong  515000
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -59690,12 +59696,6 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-F0-9F-FC   (hex)		SHARP Corporation
-F09FFC     (base 16)		SHARP Corporation
-				1 Takumi-cho, Sakai-ku
-				Sakai City  Osaka  590-8522
-				JP
-
 30-42-A1   (hex)		ilumisys Inc. DBA Toggled
 3042A1     (base 16)		ilumisys Inc. DBA Toggled
 				1820 E. Big Beaver Road
@@ -59707,6 +59707,12 @@ F09FFC     (base 16)		SHARP Corporation
 				3050 N Andrews Ave Ext.
 				Pompano Beach  FL  33064
 				US
+
+F0-9F-FC   (hex)		SHARP Corporation
+F09FFC     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
 
 14-37-19   (hex)		PT Prakarsa Visi Valutama
 143719     (base 16)		PT Prakarsa Visi Valutama
@@ -89029,6 +89035,12 @@ DCF719     (base 16)		Cisco Systems, Inc
 				30 N Gould Street STE 4004
 				Sheridan  WY  82801
 				US
+
+E0-0E-E1   (hex)		We Corporation Inc.
+E00EE1     (base 16)		We Corporation Inc.
+				201, 33, Deokcheon-ro, Manan-gu
+				Anyang-si  Gyeonggi-do  14088
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -118748,6 +118760,12 @@ E0AF4F     (base 16)		Deutsche Telekom AG
 				Heuchelheim  Hessen  35452
 				DE
 
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
 F4-06-8D   (hex)		devolo AG
 F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
@@ -118759,12 +118777,6 @@ F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
 				Aachen  NRW  52068
 				DE
-
-3C-89-94   (hex)		BSkyB Ltd
-3C8994     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
 
 A8-5A-F3   (hex)		Shanghai Siflower Communication Technology Co., Ltd
 A85AF3     (base 16)		Shanghai Siflower Communication Technology Co., Ltd
@@ -148717,3 +148729,9 @@ E4FC82     (base 16)		Juniper Networks
 				1665 Utica Avenue, Suite 700
 				St Louis Park  MN  55416
 				US
+
+18-93-7F   (hex)		AMPAK Technology, Inc.
+18937F     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
