@@ -2201,12 +2201,6 @@ B47C29     (base 16)		Shenzhen Guzidi Technology Co.,Ltd
 				Taoyuan Hsien  Chungli  320
 				TW
 
-DC-39-79   (hex)		Skyport Systems
-DC3979     (base 16)		Skyport Systems
-				280 Hope Street
-				Mountain View  CA  94041
-				US
-
 EC-1D-7F   (hex)		zte corporation
 EC1D7F     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -29825,12 +29819,6 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Aachen  NRW  52068
 				DE
 
-00-90-93   (hex)		EIZO Corporation
-009093     (base 16)		EIZO Corporation
-				153 Shimokashiwano
-				Hakusan  Ishikawa  924-8856
-				JP
-
 88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
 889F6F     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -29842,6 +29830,12 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+00-90-93   (hex)		EIZO Corporation
+009093     (base 16)		EIZO Corporation
+				153 Shimokashiwano
+				Hakusan  Ishikawa  924-8856
+				JP
 
 E0-49-ED   (hex)		Audeze LLC
 E049ED     (base 16)		Audeze LLC
@@ -29871,6 +29865,18 @@ A4-35-23   (hex)		Guangdong Donyan Network Technologies Co.,Ltd.
 A43523     (base 16)		Guangdong Donyan Network Technologies Co.,Ltd.
 				No.6,Kejizhong Road,Chuangye Building,Hi-tech Zone
 				Shantou  Guangdong  515000
+				CN
+
+DC-39-79   (hex)		Cisco Systems, Inc
+DC3979     (base 16)		Cisco Systems, Inc
+				280 Hope Street
+				Mountain View  CA  94041
+				US
+
+04-40-A9   (hex)		New H3C Technologies Co., Ltd
+0440A9     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -53567,12 +53573,6 @@ C411E0     (base 16)		Bull Group Co., Ltd
 				Beijing    100191
 				CN
 
-1C-25-E1   (hex)		China Mobile IOT Company Limited
-1C25E1     (base 16)		China Mobile IOT Company Limited
-				NO.8 Yu Ma Road, NanAn Area Chongqing,China
-				Chongqing  Chongqing  401336
-				CN
-
 C0-F6-36   (hex)		Hangzhou Kuaiyue Technologies, Ltd.
 C0F636     (base 16)		Hangzhou Kuaiyue Technologies, Ltd.
 				Dongguan Hitech Park, Building 1-805, 288 Qiuyi Rd, Bingjiang District
@@ -59696,6 +59696,12 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+F0-9F-FC   (hex)		SHARP Corporation
+F09FFC     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
+
 30-42-A1   (hex)		ilumisys Inc. DBA Toggled
 3042A1     (base 16)		ilumisys Inc. DBA Toggled
 				1820 E. Big Beaver Road
@@ -59707,12 +59713,6 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				3050 N Andrews Ave Ext.
 				Pompano Beach  FL  33064
 				US
-
-F0-9F-FC   (hex)		SHARP Corporation
-F09FFC     (base 16)		SHARP Corporation
-				1 Takumi-cho, Sakai-ku
-				Sakai City  Osaka  590-8522
-				JP
 
 14-37-19   (hex)		PT Prakarsa Visi Valutama
 143719     (base 16)		PT Prakarsa Visi Valutama
@@ -59749,6 +59749,18 @@ E85D86     (base 16)		CHANG YOW TECHNOLOGIES INTERNATIONAL CO.,LTD.
 				 No 88 Shuren 6th St Wufong District
 				Taichung    413
 				TW
+
+1C-25-E1   (hex)		China Mobile IOT Company Limited
+1C25E1     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
+
+AC-54-74   (hex)		China Mobile IOT Company Limited
+AC5474     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -115877,12 +115889,6 @@ E8361D     (base 16)		Sense Labs, Inc.
 				Cambridge  MA  02139
 				US
 
-A0-95-0C   (hex)		China Mobile IOTCompany Limited
-A0950C     (base 16)		China Mobile IOTCompany Limited
-				No.8,Yuma Road, Chayuanxinqu
-				Chongqing    401130
-				CN
-
 EC-F8-EB   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 ECF8EB     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
@@ -116113,12 +116119,6 @@ D4AD2D     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-E4-2D-7B   (hex)		China Mobile IOT Company Limited
-E42D7B     (base 16)		China Mobile IOT Company Limited
-				NO.8 Yu Ma Road, NanAn Area Chongqing,China
-				Chongqing  Chongqing  401336
-				CN
 
 04-EC-BB   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 04ECBB     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -116715,12 +116715,6 @@ D4-FC-13   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 D4FC13     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
-				CN
-
-B0-53-65   (hex)		China Mobile IOT Company Limited
-B05365     (base 16)		China Mobile IOT Company Limited
-				NO.8 Yu Ma Road, NanAn Area Chongqing,China
-				Chongqing  Chongqing  401336
 				CN
 
 1C-96-5A   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
@@ -118613,12 +118607,6 @@ F0BCC9     (base 16)		PFU LIMITED
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-C0-D0-FF   (hex)		China Mobile IOT Company Limited
-C0D0FF     (base 16)		China Mobile IOT Company Limited
-				NO.8 Yu Ma Road, NanAn Area Chongqing,China
-				Chongqing  Chongqing  401336
-				CN
-
 1C-39-47   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
 1C3947     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
 				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
@@ -118760,12 +118748,6 @@ E0AF4F     (base 16)		Deutsche Telekom AG
 				Heuchelheim  Hessen  35452
 				DE
 
-3C-89-94   (hex)		BSkyB Ltd
-3C8994     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 F4-06-8D   (hex)		devolo AG
 F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
@@ -118777,6 +118759,12 @@ F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
 				Aachen  NRW  52068
 				DE
+
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
 
 A8-5A-F3   (hex)		Shanghai Siflower Communication Technology Co., Ltd
 A85AF3     (base 16)		Shanghai Siflower Communication Technology Co., Ltd
@@ -118837,6 +118825,36 @@ B4A94F     (base 16)		MERCURY CORPORATION
 				90, Gajaeul-ro, Seo-gu
 				INCHEON    22830
 				KR
+
+E4-2D-7B   (hex)		China Mobile IOT Company Limited
+E42D7B     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
+
+B0-53-65   (hex)		China Mobile IOT Company Limited
+B05365     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
+
+C0-D0-FF   (hex)		China Mobile IOT Company Limited
+C0D0FF     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
+
+A0-95-0C   (hex)		China Mobile IOT Company Limited
+A0950C     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
+
+58-D5-6E   (hex)		D-Link International
+58D56E     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -144773,12 +144791,6 @@ D8C8E9     (base 16)		Phicomm (Shanghai) Co., Ltd.
 				Shanghai  Shanghai  201616
 				CN
 
-64-F8-8A   (hex)		China Mobile IOT Company Limited
-64F88A     (base 16)		China Mobile IOT Company Limited
-				NO.8 Yu Ma Road, NanAn Area Chongqing,China
-				Chongqing  Chongqing  401336
-				CN
-
 6C-49-C1   (hex)		o2ones Co., Ltd.
 6C49C1     (base 16)		o2ones Co., Ltd.
 				503 Glory Tower, 3-10, Gumi-ro 9beon-gil, Bundang-gu
@@ -145129,12 +145141,6 @@ F00FEC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Unnam 1 gil, 3 
 				Seocho-gu  Seoul  06778
 				KR
-
-C0-98-DA   (hex)		China Mobile IOT Company Limited
-C098DA     (base 16)		China Mobile IOT Company Limited
-				NO.8 Yu Ma Road, NanAn Area Chongqing,China
-				Chongqing  Chongqing  401336
-				CN
 
 94-9F-3E   (hex)		Sonos, Inc.
 949F3E     (base 16)		Sonos, Inc.
@@ -148729,6 +148735,18 @@ E4FC82     (base 16)		Juniper Networks
 				1665 Utica Avenue, Suite 700
 				St Louis Park  MN  55416
 				US
+
+64-F8-8A   (hex)		China Mobile IOT Company Limited
+64F88A     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
+
+C0-98-DA   (hex)		China Mobile IOT Company Limited
+C098DA     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
 
 18-93-7F   (hex)		AMPAK Technology, Inc.
 18937F     (base 16)		AMPAK Technology, Inc.
