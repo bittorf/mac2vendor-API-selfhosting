@@ -29879,6 +29879,18 @@ DC3979     (base 16)		Cisco Systems, Inc
 				Hangzhou  Zhejiang  310052
 				CN
 
+D4-74-1B   (hex)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
+D4741B     (base 16)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
+				No.1 Gaojiayuan,Chaoyang District,Beijing,China
+				Beijing  Beijing  100015
+				CN
+
+B4-DD-D0   (hex)		Continental Automotive Hungary Kft
+B4DDD0     (base 16)		Continental Automotive Hungary Kft
+				Napmátka u. 6.
+				Budapest  Pest  H-1106
+				HU
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -59696,12 +59708,6 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-F0-9F-FC   (hex)		SHARP Corporation
-F09FFC     (base 16)		SHARP Corporation
-				1 Takumi-cho, Sakai-ku
-				Sakai City  Osaka  590-8522
-				JP
-
 30-42-A1   (hex)		ilumisys Inc. DBA Toggled
 3042A1     (base 16)		ilumisys Inc. DBA Toggled
 				1820 E. Big Beaver Road
@@ -59713,6 +59719,12 @@ F09FFC     (base 16)		SHARP Corporation
 				3050 N Andrews Ave Ext.
 				Pompano Beach  FL  33064
 				US
+
+F0-9F-FC   (hex)		SHARP Corporation
+F09FFC     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
 
 14-37-19   (hex)		PT Prakarsa Visi Valutama
 143719     (base 16)		PT Prakarsa Visi Valutama
@@ -59750,14 +59762,14 @@ E85D86     (base 16)		CHANG YOW TECHNOLOGIES INTERNATIONAL CO.,LTD.
 				Taichung    413
 				TW
 
-1C-25-E1   (hex)		China Mobile IOT Company Limited
-1C25E1     (base 16)		China Mobile IOT Company Limited
+AC-54-74   (hex)		China Mobile IOT Company Limited
+AC5474     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
 				Chongqing  Chongqing  401336
 				CN
 
-AC-54-74   (hex)		China Mobile IOT Company Limited
-AC5474     (base 16)		China Mobile IOT Company Limited
+1C-25-E1   (hex)		China Mobile IOT Company Limited
+1C25E1     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
 				Chongqing  Chongqing  401336
 				CN
@@ -118856,6 +118868,18 @@ A0950C     (base 16)		China Mobile IOT Company Limited
 				Singapore  Singapore  609917
 				SG
 
+28-3E-76   (hex)		Common Networks
+283E76     (base 16)		Common Networks
+				1390 Market St. Suite 820
+				San Francisco  CA  94102
+				US
+
+48-F0-27   (hex)		Chengdu newifi Co.,Ltd
+48F027     (base 16)		Chengdu newifi Co.,Ltd
+				C11 Building 2001,No.219 ,2nd Tianhua Road,Hi-tech zone
+				Chengdu  Sichuan  610000
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -148736,6 +148760,12 @@ E4FC82     (base 16)		Juniper Networks
 				St Louis Park  MN  55416
 				US
 
+18-93-7F   (hex)		AMPAK Technology, Inc.
+18937F     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
+
 64-F8-8A   (hex)		China Mobile IOT Company Limited
 64F88A     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
@@ -148747,9 +148777,3 @@ C098DA     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
 				Chongqing  Chongqing  401336
 				CN
-
-18-93-7F   (hex)		AMPAK Technology, Inc.
-18937F     (base 16)		AMPAK Technology, Inc.
-				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
-				Hsinchu  Taiwan ROC.  30352 
-				TW
