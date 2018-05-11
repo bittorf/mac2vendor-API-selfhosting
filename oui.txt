@@ -19700,12 +19700,6 @@ A8CE90     (base 16)		CVC
 				IRVINE  CA  92718
 				US
 
-00-20-3D   (hex)		Honeywell ECC
-00203D     (base 16)		Honeywell ECC
-				1985 Douglas Drive
-				Golden Valley  MN  55422
-				US
-
 00-20-19   (hex)		OHLER GMBH
 002019     (base 16)		OHLER GMBH
 				MAYBACHSTRASE 30
@@ -29895,6 +29889,12 @@ D4741B     (base 16)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
 3009F9     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+00-20-3D   (hex)		Honeywell Environmental & Combustion Controls
+00203D     (base 16)		Honeywell Environmental & Combustion Controls
+				1985 Douglas Drive
+				Golden Valley  MN  55422
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -50417,12 +50417,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				VIENNA  VA  22182-3964
 				US
 
-00-40-84   (hex)		HONEYWELL ACS
-004084     (base 16)		HONEYWELL ACS
-				
-				Fort Washington  PA  19034
-				US
-
 00-40-B8   (hex)		IDEA ASSOCIATES
 0040B8     (base 16)		IDEA ASSOCIATES
 				29 DUNHAM ROAD
@@ -59714,12 +59708,6 @@ D07FA0     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-F0-9F-FC   (hex)		SHARP Corporation
-F09FFC     (base 16)		SHARP Corporation
-				1 Takumi-cho, Sakai-ku
-				Sakai City  Osaka  590-8522
-				JP
-
 30-42-A1   (hex)		ilumisys Inc. DBA Toggled
 3042A1     (base 16)		ilumisys Inc. DBA Toggled
 				1820 E. Big Beaver Road
@@ -59731,6 +59719,12 @@ F09FFC     (base 16)		SHARP Corporation
 				3050 N Andrews Ave Ext.
 				Pompano Beach  FL  33064
 				US
+
+F0-9F-FC   (hex)		SHARP Corporation
+F09FFC     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
 
 14-37-19   (hex)		PT Prakarsa Visi Valutama
 143719     (base 16)		PT Prakarsa Visi Valutama
@@ -59768,14 +59762,14 @@ E85D86     (base 16)		CHANG YOW TECHNOLOGIES INTERNATIONAL CO.,LTD.
 				Taichung    413
 				TW
 
-1C-25-E1   (hex)		China Mobile IOT Company Limited
-1C25E1     (base 16)		China Mobile IOT Company Limited
+AC-54-74   (hex)		China Mobile IOT Company Limited
+AC5474     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
 				Chongqing  Chongqing  401336
 				CN
 
-AC-54-74   (hex)		China Mobile IOT Company Limited
-AC5474     (base 16)		China Mobile IOT Company Limited
+1C-25-E1   (hex)		China Mobile IOT Company Limited
+1C25E1     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
 				Chongqing  Chongqing  401336
 				CN
@@ -59785,6 +59779,18 @@ AC5474     (base 16)		China Mobile IOT Company Limited
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+00-40-84   (hex)		Honeywell International HPS
+004084     (base 16)		Honeywell International HPS
+				
+				Fort Washington  PA  19034
+				US
+
+7C-24-0C   (hex)		Telechips, Inc.
+7C240C     (base 16)		Telechips, Inc.
+				19F~23F,Luther Bldg.42, Olympic-ro 35da-gil, Songpa-gu,
+				Seoul  Seoul  05510
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -148778,6 +148784,12 @@ E4FC82     (base 16)		Juniper Networks
 				St Louis Park  MN  55416
 				US
 
+18-93-7F   (hex)		AMPAK Technology, Inc.
+18937F     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
+
 64-F8-8A   (hex)		China Mobile IOT Company Limited
 64F88A     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
@@ -148789,12 +148801,6 @@ C098DA     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
 				Chongqing  Chongqing  401336
 				CN
-
-18-93-7F   (hex)		AMPAK Technology, Inc.
-18937F     (base 16)		AMPAK Technology, Inc.
-				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
-				Hsinchu  Taiwan ROC.  30352 
-				TW
 
 A8-01-6D   (hex)		Aiwa Corporation
 A8016D     (base 16)		Aiwa Corporation
