@@ -29810,12 +29810,6 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Aachen  NRW  52068
 				DE
 
-00-90-93   (hex)		EIZO Corporation
-009093     (base 16)		EIZO Corporation
-				153 Shimokashiwano
-				Hakusan  Ishikawa  924-8856
-				JP
-
 88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
 889F6F     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -29827,6 +29821,12 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+00-90-93   (hex)		EIZO Corporation
+009093     (base 16)		EIZO Corporation
+				153 Shimokashiwano
+				Hakusan  Ishikawa  924-8856
+				JP
 
 E0-49-ED   (hex)		Audeze LLC
 E049ED     (base 16)		Audeze LLC
@@ -29852,10 +29852,10 @@ E049ED     (base 16)		Audeze LLC
 				Wuhan  Hubei  430074
 				CN
 
-A4-35-23   (hex)		Guangdong Donyan Network Technologies Co.,Ltd.
-A43523     (base 16)		Guangdong Donyan Network Technologies Co.,Ltd.
-				No.6,Kejizhong Road,Chuangye Building,Hi-tech Zone
-				Shantou  Guangdong  515000
+D4-74-1B   (hex)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
+D4741B     (base 16)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
+				No.1 Gaojiayuan,Chaoyang District,Beijing,China
+				Beijing  Beijing  100015
 				CN
 
 B4-DD-D0   (hex)		Continental Automotive Hungary Kft
@@ -29864,10 +29864,16 @@ B4DDD0     (base 16)		Continental Automotive Hungary Kft
 				Budapest  Pest  H-1106
 				HU
 
-DC-39-79   (hex)		Cisco Systems, Inc
-DC3979     (base 16)		Cisco Systems, Inc
-				280 Hope Street
-				Mountain View  CA  94041
+A4-35-23   (hex)		Guangdong Donyan Network Technologies Co.,Ltd.
+A43523     (base 16)		Guangdong Donyan Network Technologies Co.,Ltd.
+				No.6,Kejizhong Road,Chuangye Building,Hi-tech Zone
+				Shantou  Guangdong  515000
+				CN
+
+30-09-F9   (hex)		IEEE Registration Authority
+3009F9     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 04-40-A9   (hex)		New H3C Technologies Co., Ltd
@@ -29876,16 +29882,10 @@ DC3979     (base 16)		Cisco Systems, Inc
 				Hangzhou  Zhejiang  310052
 				CN
 
-D4-74-1B   (hex)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
-D4741B     (base 16)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
-				No.1 Gaojiayuan,Chaoyang District,Beijing,China
-				Beijing  Beijing  100015
-				CN
-
-30-09-F9   (hex)		IEEE Registration Authority
-3009F9     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
+DC-39-79   (hex)		Cisco Systems, Inc
+DC3979     (base 16)		Cisco Systems, Inc
+				280 Hope Street
+				Mountain View  CA  94041
 				US
 
 00-20-3D   (hex)		Honeywell Environmental & Combustion Controls
@@ -29896,6 +29896,18 @@ D4741B     (base 16)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
 
 FC-C2-33   (hex)		Private
 FCC233     (base 16)		Private
+
+80-B6-24   (hex)		IVS
+80B624     (base 16)		IVS
+				807-809 , Woorim E-biz center, 35, Gwangnaru-ro 6-gil
+				Seoul  Seongdong-gu  04799
+				KR
+
+DC-F5-05   (hex)		AzureWave Technology Inc.
+DCF505     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -59813,6 +59825,18 @@ CCF0FD     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				REDMOND  WA  98052
 				US
 
+18-D7-17   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+18D717     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+0C-9A-42   (hex)		FN-LINK TECHNOLOGY LIMITED
+0C9A42     (base 16)		FN-LINK TECHNOLOGY LIMITED
+				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
+				SHENZHEN  GUANGDONG  518100
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -89121,6 +89145,12 @@ F8-5E-3C   (hex)		SHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD
 F85E3C     (base 16)		SHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD
 				4F,Bldg A2,Hedian Industrial Park,NO.8 Shijing Rd,Guanlan,Longhua District,ShenZhen,China
 				shengzhen    518110
+				CN
+
+7C-03-AB   (hex)		Xiaomi Communications Co Ltd
+7C03AB     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -118954,6 +118984,12 @@ A89A93     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+14-C6-97   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+14C697     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
