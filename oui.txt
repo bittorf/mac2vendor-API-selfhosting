@@ -4991,12 +4991,6 @@ E0EF25     (base 16)		Lintes Technology Co., Ltd.
 				 New Taipei City     23511
 				TW
 
-CC-EE-D9   (hex)		VAHLE DETO GmbH
-CCEED9     (base 16)		VAHLE DETO GmbH
-				Gewerbepark Süd 11
-				Kufstein  Tirol  6330
-				AT
-
 64-5E-BE   (hex)		Yahoo! JAPAN
 645EBE     (base 16)		Yahoo! JAPAN
 				Midtown Tower
@@ -29920,6 +29914,18 @@ FCC233     (base 16)		Private
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+5C-FB-7C   (hex)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+5CFB7C     (base 16)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+				3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+CC-EE-D9   (hex)		VAHLE Automation GmbH
+CCEED9     (base 16)		VAHLE Automation GmbH
+				Egerbach 12a
+				Kufstein   Schwoich Tirol  6334
+				AT
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -59867,12 +59873,6 @@ CCF0FD     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				Dongguan    523808
 				CN
 
-0C-53-31   (hex)		ETH Zurich
-0C5331     (base 16)		ETH Zurich
-				Dept. Computer Science, Universitätstr. 6
-				Zurich  ZH  8092
-				CH
-
 F4-63-1F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 F4631F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -59885,11 +59885,29 @@ F4631F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+0C-53-31   (hex)		ETH Zurich
+0C5331     (base 16)		ETH Zurich
+				Dept. Computer Science, Universitätstr. 6
+				Zurich  ZH  8092
+				CH
+
 EC-84-B4   (hex)		CIG SHANGHAI CO LTD
 EC84B4     (base 16)		CIG SHANGHAI CO LTD
 				5th Floor, Building 8 No 2388 Chenhang Road
 				SHANGHAI    201114
 				CN
+
+EC-B3-13   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+ECB313     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
+
+8C-FE-74   (hex)		Ruckus Wireless
+8CFE74     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -89230,6 +89248,18 @@ B08BCF     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+34-E5-EC   (hex)		Palo Alto Networks
+34E5EC     (base 16)		Palo Alto Networks
+				3000 Tannery Way
+				Santa Clara  CA  95054
+				US
+
+44-22-F1   (hex)		S.FAC, INC
+4422F1     (base 16)		S.FAC, INC
+				Bldg A203  Techno2 ro 187
+				Yuseong-Gu  Daejeon  34025
+				KR
 
 18-AC-9E   (hex)		ITEL MOBILE LIMITED
 18AC9E     (base 16)		ITEL MOBILE LIMITED
