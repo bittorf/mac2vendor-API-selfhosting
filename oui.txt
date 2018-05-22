@@ -89285,6 +89285,18 @@ B08BCF     (base 16)		Cisco Systems, Inc
 				Hong Kong  KOWLOON  999077
 				HK
 
+A0-28-33   (hex)		IEEE Registration Authority
+A02833     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+94-9B-2C   (hex)		Extreme Networks, Inc.
+949B2C     (base 16)		Extreme Networks, Inc.
+				6480 Via Del Oro
+				San Jose    95119
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -119157,6 +119169,12 @@ B0-90-7E   (hex)		Cisco Systems, Inc
 B0907E     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+48-4A-E9   (hex)		Hewlett Packard Enterprise
+484AE9     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
