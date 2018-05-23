@@ -12926,12 +12926,6 @@ A8CE90     (base 16)		CVC
 				Seoul    137-070
 				KR
 
-00-26-54   (hex)		3Com Corporation
-002654     (base 16)		3Com Corporation
-				5353 Betsy Ross Drive
-				Santa Clara  California  95054-1162
-				US
-
 00-0F-D0   (hex)		ASTRI
 000FD0     (base 16)		ASTRI
 				18/F Tower 6, Gateway, 9 Canton Rd
@@ -15392,12 +15386,6 @@ A8CE90     (base 16)		CVC
 				    
 				DE
 
-00-07-3A   (hex)		Inventel Systemes
-00073A     (base 16)		Inventel Systemes
-				35, rue Toumefort
-				    
-				FR
-
 00-07-34   (hex)		ONStor, Inc.
 000734     (base 16)		ONStor, Inc.
 				130-B Knowles Drive
@@ -15996,12 +15984,6 @@ A8CE90     (base 16)		CVC
 0006B1     (base 16)		Sonicwall
 				1160 Bordeaux Dr.
 				Sunnyvale  CA  94089
-				US
-
-00-04-75   (hex)		3 Com Corporation
-000475     (base 16)		3 Com Corporation
-				5400 Bayfront Plaza
-				Santa Clara  CA  95052
 				US
 
 00-04-6F   (hex)		Digitel S/A Industria Eletronica
@@ -18140,12 +18122,6 @@ A8CE90     (base 16)		CVC
 				GERMANTOWN  MD  20874
 				US
 
-00-50-04   (hex)		3COM CORPORATION
-005004     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
 00-50-72   (hex)		CORVIS CORPORATION
 005072     (base 16)		CORVIS CORPORATION
 				8320 GUILFORD ROAD
@@ -19832,12 +19808,6 @@ A8CE90     (base 16)		CVC
 				BOCA RATON  FL  33487
 				US
 
-00-A0-D1   (hex)		INVENTEC CORPORATION
-00A0D1     (base 16)		INVENTEC CORPORATION
-				INVENTEC BUILDING
-				TAIWAN  TAIWAN  R.O.C.
-				TW
-
 00-A0-AE   (hex)		NUCOM SYSTEMS, INC.
 00A0AE     (base 16)		NUCOM SYSTEMS, INC.
 				9F-6, NO 4, LANE
@@ -20035,12 +20005,6 @@ A8CE90     (base 16)		CVC
 				NO. 18, PEI YUAN ROAD
 				TAIWAN  TAIWAN  R.O.C.
 				TW
-
-00-20-AF   (hex)		3COM CORPORATION
-0020AF     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
 
 00-20-48   (hex)		Marconi Communications
 002048     (base 16)		Marconi Communications
@@ -22855,12 +22819,6 @@ E80959     (base 16)		Guoguang Electric Co.,Ltd
 				LOCALITA' BOSCHETTO
 				67100 L'AQUILA    
 				IT
-
-00-1E-33   (hex)		INVENTEC Corporation
-001E33     (base 16)		INVENTEC Corporation
-				Inventec Building, 66 Hou-Kang Street
-				Taipei    111
-				TW
 
 00-1A-29   (hex)		Johnson Outdoors Marine Electronics d/b/a Minnkota
 001A29     (base 16)		Johnson Outdoors Marine Electronics d/b/a Minnkota
@@ -29938,6 +29896,48 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				54 - 56 , Avenue Hoche
 				Paris    75008
 				FR
+
+00-26-54   (hex)		3COM
+002654     (base 16)		3COM
+				5353 Betsy Ross Drive
+				Santa Clara  California  95054-1162
+				US
+
+00-50-04   (hex)		3COM
+005004     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-20-AF   (hex)		3COM
+0020AF     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-04-75   (hex)		3COM
+000475     (base 16)		3COM
+				5400 Bayfront Plaza
+				Santa Clara  CA  95052
+				US
+
+00-07-3A   (hex)		INVENTEL
+00073A     (base 16)		INVENTEL
+				35, rue Toumefort
+				    
+				FR
+
+00-A0-D1   (hex)		INVENTEC CORPORATION
+00A0D1     (base 16)		INVENTEC CORPORATION
+				INVENTEC BUILDING
+				TAIWAN  TAIWAN  R.O.C.
+				TW
+
+00-1E-33   (hex)		INVENTEC CORPORATION
+001E33     (base 16)		INVENTEC CORPORATION
+				Inventec Building, 66 Hou-Kang Street
+				Taipei    111
+				TW
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -40190,12 +40190,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				HAYES  Middlesex  UB3 3BA
 				GB
 
-00-1B-6E   (hex)		Anue Systems, Inc.
-001B6E     (base 16)		Anue Systems, Inc.
-				9111 Jollyville Road
-				Austin  TX  78759
-				US
-
 00-1B-67   (hex)		Cisco Systems Inc
 001B67     (base 16)		Cisco Systems Inc
 				The Stella Building
@@ -45011,12 +45005,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Praha 5    15000
 				CZ
 
-00-0A-5E   (hex)		3COM Corporation
-000A5E     (base 16)		3COM Corporation
-				5400 Bayfront Plaza
-				Santa Clara  CA  95052-8145
-				US
-
 00-0A-52   (hex)		AsiaRF Ltd.
 000A52     (base 16)		AsiaRF Ltd.
 				3F, No.176, Yongzhen Road
@@ -45436,12 +45424,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Byk-Gulden - Str. 22
 				    
 				DE
-
-02-60-8C   (hex)		3COM CORPORATION
-02608C     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
 
 00-07-D0   (hex)		Automat Engenharia de Automação Ltda.
 0007D0     (base 16)		Automat Engenharia de Automação Ltda.
@@ -46071,12 +46053,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 000692     (base 16)		Intruvert Networks, Inc.
 				Suite 102
 				San Jose  CA  95131
-				US
-
-00-06-8C   (hex)		3COM CORPORATION
-00068C     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
 				US
 
 00-06-85   (hex)		NetNearU Corporation
@@ -47129,12 +47105,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Santa Clara  CA  95054
 				US
 
-00-01-03   (hex)		3COM CORPORATION
-000103     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
 00-06-2B   (hex)		INTRASERVER TECHNOLOGY
 00062B     (base 16)		INTRASERVER TECHNOLOGY
 				SEVEN OCTOBER HILL RD.
@@ -47296,12 +47266,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Box 808
 				Lulea    97125
 				SE
-
-00-30-1E   (hex)		3COM EUROPE LTD.
-00301E     (base 16)		3COM EUROPE LTD.
-				BOUNDARY WAY
-				  UNITED  KINGDOM
-				GB
 
 00-30-4D   (hex)		ESI
 00304D     (base 16)		ESI
@@ -47512,12 +47476,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				DEVICE CO., LTD.
 				FUZHOU  FUJIAN,  CHINA 350002
 				CN
-
-00-D0-96   (hex)		3COM EUROPE LTD.
-00D096     (base 16)		3COM EUROPE LTD.
-				BOUNDARY WAY
-				  UNITED  KINGDOM
-				GB
 
 00-D0-03   (hex)		COMDA ENTERPRISES CORP.
 00D003     (base 16)		COMDA ENTERPRISES CORP.
@@ -48413,12 +48371,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				SAN JOSE  CA  95119
 				US
 
-00-50-99   (hex)		3COM EUROPE, LTD.
-005099     (base 16)		3COM EUROPE, LTD.
-				BOUNDARY WAY
-				HERTS. HP2 7YU    
-				GB
-
 00-50-A4   (hex)		IO TECH, INC.
 0050A4     (base 16)		IO TECH, INC.
 				25971 CANNON ROAD
@@ -48532,12 +48484,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				ELECTRONICS & COMM DIVISION
 				Kangdong-Gu  Seoul 134-050  
 				KR
-
-00-90-04   (hex)		3COM EUROPE LTD.
-009004     (base 16)		3COM EUROPE LTD.
-				3COM CENTRE, BOUNDARY WAY
-				HERTS.  HP2 7YU    
-				GB
 
 00-90-E1   (hex)		TELENA S.P.A.
 0090E1     (base 16)		TELENA S.P.A.
@@ -51053,12 +50999,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				FT. LAUDERDALE  FL  33310-9148
 				US
 
-08-00-4E   (hex)		3COM EUROPE LTD.
-08004E     (base 16)		3COM EUROPE LTD.
-				3COM CENTRE
-				  UNITED  KINGDOM
-				GB
-
 08-00-4A   (hex)		BANYAN SYSTEMS INC.
 08004A     (base 16)		BANYAN SYSTEMS INC.
 				135 FLANDERS ROAD
@@ -52825,12 +52765,6 @@ AC620D     (base 16)		Jabil Circuit(Wuxi) Co.,Ltd
 				Lot J9, J10 Export Processing Zone
 				Wuxi City  Jiangsu  214028
 				CN
-
-00-8C-FA   (hex)		INVENTEC Corporation
-008CFA     (base 16)		INVENTEC Corporation
-				No. 255, Jen-Ho Road Sec. 2, 33547,
-				Tachi  Taoyuan  33547
-				TW
 
 00-08-B9   (hex)		Kaonmedia CO., LTD.
 0008B9     (base 16)		Kaonmedia CO., LTD.
@@ -59927,6 +59861,78 @@ ECB313     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				tosimaku  tokyo  170-0013
 				JP
 
+DC-37-57   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+00-90-04   (hex)		3COM EUROPE LTD
+009004     (base 16)		3COM EUROPE LTD
+				3COM CENTRE, BOUNDARY WAY
+				HERTS.  HP2 7YU    
+				GB
+
+00-50-99   (hex)		3COM EUROPE LTD
+005099     (base 16)		3COM EUROPE LTD
+				BOUNDARY WAY
+				HERTS. HP2 7YU    
+				GB
+
+08-00-4E   (hex)		3COM EUROPE LTD
+08004E     (base 16)		3COM EUROPE LTD
+				3COM CENTRE
+				  UNITED  KINGDOM
+				GB
+
+00-D0-96   (hex)		3COM EUROPE LTD
+00D096     (base 16)		3COM EUROPE LTD
+				BOUNDARY WAY
+				  UNITED  KINGDOM
+				GB
+
+00-30-1E   (hex)		3COM EUROPE LTD
+00301E     (base 16)		3COM EUROPE LTD
+				BOUNDARY WAY
+				  UNITED  KINGDOM
+				GB
+
+00-0A-5E   (hex)		3COM
+000A5E     (base 16)		3COM
+				5400 Bayfront Plaza
+				Santa Clara  CA  95052-8145
+				US
+
+00-06-8C   (hex)		3COM
+00068C     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-01-03   (hex)		3COM
+000103     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+02-60-8C   (hex)		3COM
+02608C     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-8C-FA   (hex)		INVENTEC CORPORATION
+008CFA     (base 16)		INVENTEC CORPORATION
+				No. 255, Jen-Ho Road Sec. 2, 33547,
+				Tachi  Taoyuan  33547
+				TW
+
+00-1B-6E   (hex)		Keysight Technologies, Inc.
+001B6E     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -62383,12 +62389,6 @@ A49F85     (base 16)		Lyve Minds, Inc
 				10001 N. De Anza Blvd, Ste 300
 				Cupertino  CA  95014
 				US
-
-7C-D3-0A   (hex)		INVENTEC Corporation
-7CD30A     (base 16)		INVENTEC Corporation
-				Inventec Building, 66 Hou-Kang Street
-				Taipei    111
-				TW
 
 34-81-C4   (hex)		AVM GmbH
 3481C4     (base 16)		AVM GmbH
@@ -70010,12 +70010,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				George Town,   Cayman Islands  00000
 				KY
 
-00-1A-C5   (hex)		BreakingPoint Systems, Inc.
-001AC5     (base 16)		BreakingPoint Systems, Inc.
-				3900 N. Capital of Texas Hwy
-				Austin  TX  78746
-				US
-
 00-1A-BB   (hex)		Fontal Technology Incorporation
 001ABB     (base 16)		Fontal Technology Incorporation
 				Rm.522, Bldg. 52, 195, Sec. 4, ChungHsing Rd., Chutung
@@ -77450,12 +77444,6 @@ A06A00     (base 16)		Verilink Corporation
 				SAN JOSE  CA  95134
 				US
 
-00-50-DA   (hex)		3COM CORPORATION
-0050DA     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
 00-50-F9   (hex)		Sensormatic Electronics LLC
 0050F9     (base 16)		Sensormatic Electronics LLC
 				1501 Yamato Rd
@@ -77706,12 +77694,6 @@ A06A00     (base 16)		Verilink Corporation
 001026     (base 16)		ACCELERATED NETWORKS, INC.
 				31238 VIA COLINAS, UNIT
 				WESTLAKE VILLAGE  CA  91362
-				US
-
-00-10-4B   (hex)		3COM CORPORATION
-00104B     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
 				US
 
 00-06-29   (hex)		IBM Corp
@@ -78230,12 +78212,6 @@ A06A00     (base 16)		Verilink Corporation
 				SAN DIEGO  CA  92121
 				US
 
-00-E0-5C   (hex)		Panasonic Healthcare Co., Ltd.
-00E05C     (base 16)		Panasonic Healthcare Co., Ltd.
-				 2131-1 Minamikata
-				Toon City  Ehime  
-				JP
-
 00-E0-87   (hex)		LeCroy - Networking Productions Division
 00E087     (base 16)		LeCroy - Networking Productions Division
 				25 BURLINGTON MALL ROAD
@@ -78506,12 +78482,6 @@ A06A00     (base 16)		Verilink Corporation
 				D-30165 HANNOVER    
 				DE
 
-00-60-97   (hex)		3COM CORPORATION
-006097     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
 00-60-E3   (hex)		ARBIN INSTRUMENTS
 0060E3     (base 16)		ARBIN INSTRUMENTS
 				3206 LONGMIRE DRIVE
@@ -78637,12 +78607,6 @@ A06A00     (base 16)		Verilink Corporation
 				
 				  231  
 				JP
-
-00-60-08   (hex)		3COM CORPORATION
-006008     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
 
 00-60-EF   (hex)		FLYTECH TECHNOLOGY CO., LTD.
 0060EF     (base 16)		FLYTECH TECHNOLOGY CO., LTD.
@@ -78949,12 +78913,6 @@ A06A00     (base 16)		Verilink Corporation
 				58 DITTON WALK
 				CAMBRIDGE CB5 8QE    
 				GB
-
-00-A0-24   (hex)		3COM CORPORATION
-00A024     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
 
 00-A0-8B   (hex)		ASTON ELECTRONIC DESIGNS LTD.
 00A08B     (base 16)		ASTON ELECTRONIC DESIGNS LTD.
@@ -80083,12 +80041,6 @@ A06A00     (base 16)		Verilink Corporation
 				Stuttgarter Straße 45-51
 				Neckartenzlingen    D-72654
 				DE
-
-00-60-8C   (hex)		3COM CORPORATION
-00608C     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
 
 00-80-4E   (hex)		APEX COMPUTER COMPANY
 00804E     (base 16)		APEX COMPUTER COMPANY
@@ -89296,6 +89248,66 @@ A02833     (base 16)		IEEE Registration Authority
 				6480 Via Del Oro
 				San Jose    95119
 				US
+
+74-34-00   (hex)		MTG Co., Ltd.
+743400     (base 16)		MTG Co., Ltd.
+				MTG No. 2 HIKARI Bldg., 4-13 Honjindori
+				Nakamura-ku, Nagoya  Aichi  453-0041
+				JP
+
+00-60-97   (hex)		3COM
+006097     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-50-DA   (hex)		3COM
+0050DA     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-10-4B   (hex)		3COM
+00104B     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-60-08   (hex)		3COM
+006008     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-A0-24   (hex)		3COM
+00A024     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-60-8C   (hex)		3COM
+00608C     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+7C-D3-0A   (hex)		INVENTEC CORPORATION
+7CD30A     (base 16)		INVENTEC CORPORATION
+				Inventec Building, 66 Hou-Kang Street
+				Taipei    111
+				TW
+
+00-1A-C5   (hex)		Keysight Technologies, Inc.
+001AC5     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
+00-E0-5C   (hex)		PHC Corporation
+00E05C     (base 16)		PHC Corporation
+				2-38-5 Nishishimbashi
+				Minato-ku  Tokyo  105-8433
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -100802,12 +100814,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Bedford  Bedfordshire  MK44 1LQ
 				GB
 
-00-18-49   (hex)		Pigeon Point Systems LLC
-001849     (base 16)		Pigeon Point Systems LLC
-				2191 S. El Camino Real
-				Oceanside  CA  95054
-				US
-
 00-17-C7   (hex)		MARA Systems Consulting AB
 0017C7     (base 16)		MARA Systems Consulting AB
 				Instrumentvägen 45
@@ -105467,12 +105473,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				California  MD  20619
 				US
 
-00-05-1A   (hex)		3COM EUROPE LTD.
-00051A     (base 16)		3COM EUROPE LTD.
-				3COM CENTRE
-				  UNITED  KINGDOM
-				GB
-
 00-05-10   (hex)		Infinite Shanghai Communication Terminals Ltd.
 000510     (base 16)		Infinite Shanghai Communication Terminals Ltd.
 				777 Chungiao Road, Pudong
@@ -106097,12 +106097,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Fremont  CA  94538
 				US
 
-00-04-0B   (hex)		3COM EUROPE LTD.
-00040B     (base 16)		3COM EUROPE LTD.
-				BOUNDARY WAY
-				  UNITED  KINGDOM
-				GB
-
 00-04-04   (hex)		Makino Milling Machine Co., Ltd.
 000404     (base 16)		Makino Milling Machine Co., Ltd.
 				4023 Nakatsu, Aikawa-machi
@@ -106125,12 +106119,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 000477     (base 16)		Scalant Systems, Inc.
 				2040 Martin Avenue
 				Santa Clara  CA  95050
-				US
-
-00-04-76   (hex)		3 Com Corporation
-000476     (base 16)		3 Com Corporation
-				5400 Bayfront Plaza
-				Santa Clara  CA  95052
 				US
 
 00-04-69   (hex)		Innocom, Inc.
@@ -106515,12 +106503,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 000112     (base 16)		Shark Multimedia Inc.
 				48890 Milmont Drive  #101-D
 				Fremont  CA  94538
-				US
-
-00-01-02   (hex)		3COM CORPORATION
-000102     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
 				US
 
 00-01-15   (hex)		EXTRATECH CORPORATION
@@ -107261,12 +107243,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-00-D0-D8   (hex)		3Com Corporation
-00D0D8     (base 16)		3Com Corporation
-				2133 LEGHORN STREET
-				MOUNTAIN VIEW  CA  94043
-				US
-
 00-D0-6B   (hex)		SR TELECOM INC.
 00D06B     (base 16)		SR TELECOM INC.
 				8150 Trans Canada Highway
@@ -107991,12 +107967,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 001003     (base 16)		IMATRON, INC.
 				389 OYSTER POINT BLVD.
 				SO. SAN FRANCISCO  CA  94080
-				US
-
-00-10-5A   (hex)		3COM CORPORATION
-00105A     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
 				US
 
 00-10-A9   (hex)		ADHOC TECHNOLOGIES
@@ -112111,12 +112081,6 @@ E42F56     (base 16)		OptoMET GmbH
 				POSTFACH 1341
 				    
 				DE
-
-00-26-6C   (hex)		INVENTEC Corporation
-00266C     (base 16)		INVENTEC Corporation
-				Inventec Building, 66 Hou-Kang Street Shih-Lin District,
-				Taipei    111
-				TW
 
 00-1E-25   (hex)		INTEK DIGITAL
 001E25     (base 16)		INTEK DIGITAL
@@ -119177,6 +119141,54 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Roseville  CA  95747
 				US
 
+00-05-1A   (hex)		3COM EUROPE LTD
+00051A     (base 16)		3COM EUROPE LTD
+				3COM CENTRE
+				  UNITED  KINGDOM
+				GB
+
+00-04-0B   (hex)		3COM EUROPE LTD
+00040B     (base 16)		3COM EUROPE LTD
+				BOUNDARY WAY
+				  UNITED  KINGDOM
+				GB
+
+00-10-5A   (hex)		3COM
+00105A     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-D0-D8   (hex)		3COM
+00D0D8     (base 16)		3COM
+				2133 LEGHORN STREET
+				MOUNTAIN VIEW  CA  94043
+				US
+
+00-01-02   (hex)		3COM
+000102     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-04-76   (hex)		3COM
+000476     (base 16)		3COM
+				5400 Bayfront Plaza
+				Santa Clara  CA  95052
+				US
+
+00-26-6C   (hex)		INVENTEC CORPORATION
+00266C     (base 16)		INVENTEC CORPORATION
+				Inventec Building, 66 Hou-Kang Street Shih-Lin District,
+				Taipei    111
+				TW
+
+00-18-49   (hex)		nVent, Schroff GmbH
+001849     (base 16)		nVent, Schroff GmbH
+				Langenalber Strasse 96-100
+				Straubenhardt    75334
+				DE
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -121327,12 +121339,6 @@ D855A3     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
-
-80-09-02   (hex)		Keysight Technologies, Inc.
-800902     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
-				US
 
 68-72-DC   (hex)		CETORY.TV Company Limited
 6872DC     (base 16)		CETORY.TV Company Limited
@@ -134542,12 +134548,6 @@ DC3350     (base 16)		TechSAT GmbH
 				KAKiYA Building 2F
 				Yokohama  Kanagawa  222-0033
 				JP
-
-02-C0-8C   (hex)		3COM CORPORATION
-02C08C     (base 16)		3COM CORPORATION
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
 
 00-08-7B   (hex)		RTX Telecom A/S
 00087B     (base 16)		RTX Telecom A/S
@@ -149104,3 +149104,27 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				21F.,No.88,Sec.2,Zhongxiao E.Rd.,Golden Tower,
 				TAIPEI    100
 				TW
+
+64-62-8A   (hex)		evon GmbH
+64628A     (base 16)		evon GmbH
+				Frank-Stronach-Straße 8
+				Gleisdorf  Styria  8200
+				AT
+
+24-21-24   (hex)		Nokia
+242124     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+02-C0-8C   (hex)		3COM
+02C08C     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+80-09-02   (hex)		Keysight Technologies, Inc.
+800902     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
