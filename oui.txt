@@ -29897,18 +29897,6 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Paris    75008
 				FR
 
-00-20-AF   (hex)		3COM
-0020AF     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
-00-04-75   (hex)		3COM
-000475     (base 16)		3COM
-				5400 Bayfront Plaza
-				Santa Clara  CA  95052
-				US
-
 00-07-3A   (hex)		INVENTEL
 00073A     (base 16)		INVENTEL
 				35, rue Toumefort
@@ -29927,16 +29915,28 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Taipei    111
 				TW
 
-00-26-54   (hex)		3COM
-002654     (base 16)		3COM
-				5353 Betsy Ross Drive
-				Santa Clara  California  95054-1162
-				US
-
 00-50-04   (hex)		3COM
 005004     (base 16)		3COM
 				5400 BAYFRONT PLAZA
 				SANTA CLARA  CA  95052
+				US
+
+00-20-AF   (hex)		3COM
+0020AF     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-04-75   (hex)		3COM
+000475     (base 16)		3COM
+				5400 Bayfront Plaza
+				Santa Clara  CA  95052
+				US
+
+00-26-54   (hex)		3COM
+002654     (base 16)		3COM
+				5353 Betsy Ross Drive
+				Santa Clara  California  95054-1162
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -59861,12 +59861,6 @@ ECB313     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				tosimaku  tokyo  170-0013
 				JP
 
-DC-37-57   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-				Phase 3, Bayan Lepas FIZ
-				Bayan Lepas  Penang  11900
-				MY
-
 00-90-04   (hex)		3COM EUROPE LTD
 009004     (base 16)		3COM EUROPE LTD
 				3COM CENTRE, BOUNDARY WAY
@@ -59915,16 +59909,16 @@ DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				SANTA CLARA  CA  95052
 				US
 
+DC-37-57   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
 02-60-8C   (hex)		3COM
 02608C     (base 16)		3COM
 				5400 BAYFRONT PLAZA
 				SANTA CLARA  CA  95052
-				US
-
-00-1B-6E   (hex)		Keysight Technologies, Inc.
-001B6E     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
 				US
 
 00-8C-FA   (hex)		INVENTEC CORPORATION
@@ -59932,6 +59926,12 @@ DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				No. 255, Jen-Ho Road Sec. 2, 33547,
 				Tachi  Taoyuan  33547
 				TW
+
+00-1B-6E   (hex)		Keysight Technologies, Inc.
+001B6E     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
 
 C4-23-A2   (hex)		PT. Emsonic Indonesia
 C423A2     (base 16)		PT. Emsonic Indonesia
@@ -89261,6 +89261,30 @@ A02833     (base 16)		IEEE Registration Authority
 				San Jose    95119
 				US
 
+7C-D3-0A   (hex)		INVENTEC CORPORATION
+7CD30A     (base 16)		INVENTEC CORPORATION
+				Inventec Building, 66 Hou-Kang Street
+				Taipei    111
+				TW
+
+00-1A-C5   (hex)		Keysight Technologies, Inc.
+001AC5     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
+00-E0-5C   (hex)		PHC Corporation
+00E05C     (base 16)		PHC Corporation
+				2-38-5 Nishishimbashi
+				Minato-ku  Tokyo  105-8433
+				JP
+
+00-60-97   (hex)		3COM
+006097     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
 00-50-DA   (hex)		3COM
 0050DA     (base 16)		3COM
 				5400 BAYFRONT PLAZA
@@ -89291,34 +89315,22 @@ A02833     (base 16)		IEEE Registration Authority
 				SANTA CLARA  CA  95052
 				US
 
-7C-D3-0A   (hex)		INVENTEC CORPORATION
-7CD30A     (base 16)		INVENTEC CORPORATION
-				Inventec Building, 66 Hou-Kang Street
-				Taipei    111
-				TW
-
-00-1A-C5   (hex)		Keysight Technologies, Inc.
-001AC5     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
-				US
-
-00-E0-5C   (hex)		PHC Corporation
-00E05C     (base 16)		PHC Corporation
-				2-38-5 Nishishimbashi
-				Minato-ku  Tokyo  105-8433
-				JP
-
 74-34-00   (hex)		MTG Co., Ltd.
 743400     (base 16)		MTG Co., Ltd.
 				MTG No. 2 HIKARI Bldg., 4-13 Honjindori
 				Nakamura-ku, Nagoya  Aichi  453-0041
 				JP
 
-00-60-97   (hex)		3COM
-006097     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
+60-35-C0   (hex)		SFR
+6035C0     (base 16)		SFR
+				12 rue jean-philippe Rameau CS 80001
+				La plaine saint denis   FRANCE  93634
+				FR
+
+20-D8-0B   (hex)		Juniper Networks
+20D80B     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -119153,6 +119165,12 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Roseville  CA  95747
 				US
 
+00-10-5A   (hex)		3COM
+00105A     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
 00-D0-D8   (hex)		3COM
 00D0D8     (base 16)		3COM
 				2133 LEGHORN STREET
@@ -119177,6 +119195,12 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Taipei    111
 				TW
 
+00-18-49   (hex)		nVent, Schroff GmbH
+001849     (base 16)		nVent, Schroff GmbH
+				Langenalber Strasse 96-100
+				Straubenhardt    75334
+				DE
+
 00-05-1A   (hex)		3COM EUROPE LTD
 00051A     (base 16)		3COM EUROPE LTD
 				3COM CENTRE
@@ -119188,18 +119212,6 @@ B0907E     (base 16)		Cisco Systems, Inc
 				BOUNDARY WAY
 				  UNITED  KINGDOM
 				GB
-
-00-10-5A   (hex)		3COM
-00105A     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
-00-18-49   (hex)		nVent, Schroff GmbH
-001849     (base 16)		nVent, Schroff GmbH
-				Langenalber Strasse 96-100
-				Straubenhardt    75334
-				DE
 
 9C-0C-DF   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 9C0CDF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -149123,17 +149135,17 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				TAIPEI    100
 				TW
 
-24-21-24   (hex)		Nokia
-242124     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 64-62-8A   (hex)		evon GmbH
 64628A     (base 16)		evon GmbH
 				Frank-Stronach-Straße 8
 				Gleisdorf  Styria  8200
 				AT
+
+24-21-24   (hex)		Nokia
+242124     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 80-09-02   (hex)		Keysight Technologies, Inc.
 800902     (base 16)		Keysight Technologies, Inc.
