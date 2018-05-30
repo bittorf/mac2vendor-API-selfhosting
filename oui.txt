@@ -29897,18 +29897,6 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Paris    75008
 				FR
 
-00-20-AF   (hex)		3COM
-0020AF     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
-00-04-75   (hex)		3COM
-000475     (base 16)		3COM
-				5400 Bayfront Plaza
-				Santa Clara  CA  95052
-				US
-
 00-07-3A   (hex)		INVENTEL
 00073A     (base 16)		INVENTEL
 				35, rue Toumefort
@@ -29927,22 +29915,28 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Taipei    111
 				TW
 
-00-26-54   (hex)		3COM
-002654     (base 16)		3COM
-				5353 Betsy Ross Drive
-				Santa Clara  California  95054-1162
-				US
-
 00-50-04   (hex)		3COM
 005004     (base 16)		3COM
 				5400 BAYFRONT PLAZA
 				SANTA CLARA  CA  95052
 				US
 
-CC-C5-E5   (hex)		Dell Inc.
-CCC5E5     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
+00-20-AF   (hex)		3COM
+0020AF     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-04-75   (hex)		3COM
+000475     (base 16)		3COM
+				5400 Bayfront Plaza
+				Santa Clara  CA  95052
+				US
+
+00-26-54   (hex)		3COM
+002654     (base 16)		3COM
+				5353 Betsy Ross Drive
+				Santa Clara  California  95054-1162
 				US
 
 10-A2-4E   (hex)		GOLD3LINK ELECTRONICS CO., LTD
@@ -29950,6 +29944,12 @@ CCC5E5     (base 16)		Dell Inc.
 				No.90,Sec.1,Com Lin Rd,Taipei 114,Taiwan,R.O.C
 				Taipei  Taiwan  114
 				TW
+
+CC-C5-E5   (hex)		Dell Inc.
+CCC5E5     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 E8-6A-64   (hex)		LCFC(HeFei) Electronics Technology co., ltd
 E86A64     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
@@ -59891,12 +59891,6 @@ ECB313     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				tosimaku  tokyo  170-0013
 				JP
 
-DC-37-57   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-				Phase 3, Bayan Lepas FIZ
-				Bayan Lepas  Penang  11900
-				MY
-
 00-90-04   (hex)		3COM EUROPE LTD
 009004     (base 16)		3COM EUROPE LTD
 				3COM CENTRE, BOUNDARY WAY
@@ -59945,16 +59939,16 @@ DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				SANTA CLARA  CA  95052
 				US
 
+DC-37-57   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
 02-60-8C   (hex)		3COM
 02608C     (base 16)		3COM
 				5400 BAYFRONT PLAZA
 				SANTA CLARA  CA  95052
-				US
-
-00-1B-6E   (hex)		Keysight Technologies, Inc.
-001B6E     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
 				US
 
 00-8C-FA   (hex)		INVENTEC CORPORATION
@@ -59975,6 +59969,12 @@ B4CB57     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+00-1B-6E   (hex)		Keysight Technologies, Inc.
+001B6E     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
 BC-B2-2B   (hex)		EM-Tech
 BCB22B     (base 16)		EM-Tech
 				40, Changwon-daero 1144beon-gil
@@ -59987,17 +59987,17 @@ BCB22B     (base 16)		EM-Tech
 				NEW TAIPEI  TAIWAN  23585
 				TW
 
-C8-BA-E9   (hex)		QDIS
-C8BAE9     (base 16)		QDIS
-				#512, Buliding B, 168 GaSanDigital 1st, GeumChun-Gu
-				SEOUL    08507
-				KR
-
 B8-6A-97   (hex)		Edgecore Networks Corporation
 B86A97     (base 16)		Edgecore Networks Corporation
 				1 Creation RD 3.
 				Hsinchu    30077
 				TW
+
+C8-BA-E9   (hex)		QDIS
+C8BAE9     (base 16)		QDIS
+				#512, Buliding B, 168 GaSanDigital 1st, GeumChun-Gu
+				SEOUL    08507
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -119231,6 +119231,12 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Roseville  CA  95747
 				US
 
+00-10-5A   (hex)		3COM
+00105A     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
 00-D0-D8   (hex)		3COM
 00D0D8     (base 16)		3COM
 				2133 LEGHORN STREET
@@ -119255,6 +119261,12 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Taipei    111
 				TW
 
+00-18-49   (hex)		nVent, Schroff GmbH
+001849     (base 16)		nVent, Schroff GmbH
+				Langenalber Strasse 96-100
+				Straubenhardt    75334
+				DE
+
 00-05-1A   (hex)		3COM EUROPE LTD
 00051A     (base 16)		3COM EUROPE LTD
 				3COM CENTRE
@@ -119266,18 +119278,6 @@ B0907E     (base 16)		Cisco Systems, Inc
 				BOUNDARY WAY
 				  UNITED  KINGDOM
 				GB
-
-00-10-5A   (hex)		3COM
-00105A     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
-00-18-49   (hex)		nVent, Schroff GmbH
-001849     (base 16)		nVent, Schroff GmbH
-				Langenalber Strasse 96-100
-				Straubenhardt    75334
-				DE
 
 9C-0C-DF   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 9C0CDF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -149260,3 +149260,15 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.1-6, Shenwan Industrial Park, Shenwan Town
 				Zhongshan  Guangdong  528462
 				CN
+
+54-C3-3E   (hex)		Ciena Corporation
+54C33E     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+00-A5-BF   (hex)		Cisco Systems, Inc
+00A5BF     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
