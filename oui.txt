@@ -63855,6 +63855,13 @@ A8D236     (base 16)		Lightware Visual Engineering
 				KR
 
 84-E7-14   (hex)		Liang Herng Enterprise,Co.Ltd.
+84E714     ((hex)		Technonia
+6C8686     (base 16)		Technonia
+				#1101, Hanshin IT Tower 235
+				  Seoul  152-768
+				KR
+
+84-E7-14   (hex)		Liang Herng Enterprise,Co.Ltd.
 84E714     (base 16)		Liang Herng Enterprise,Co.Ltd.
 				1FL,No.27,KweiYang Street,Sanchung District,New Taipei City,Taiwan,R.O.C. 
 				New Taipei City    241
@@ -89321,6 +89328,30 @@ A02833     (base 16)		IEEE Registration Authority
 				San Jose    95119
 				US
 
+7C-D3-0A   (hex)		INVENTEC CORPORATION
+7CD30A     (base 16)		INVENTEC CORPORATION
+				Inventec Building, 66 Hou-Kang Street
+				Taipei    111
+				TW
+
+00-1A-C5   (hex)		Keysight Technologies, Inc.
+001AC5     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
+00-E0-5C   (hex)		PHC Corporation
+00E05C     (base 16)		PHC Corporation
+				2-38-5 Nishishimbashi
+				Minato-ku  Tokyo  105-8433
+				JP
+
+00-60-97   (hex)		3COM
+006097     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
 00-50-DA   (hex)		3COM
 0050DA     (base 16)		3COM
 				5400 BAYFRONT PLAZA
@@ -89351,35 +89382,11 @@ A02833     (base 16)		IEEE Registration Authority
 				SANTA CLARA  CA  95052
 				US
 
-7C-D3-0A   (hex)		INVENTEC CORPORATION
-7CD30A     (base 16)		INVENTEC CORPORATION
-				Inventec Building, 66 Hou-Kang Street
-				Taipei    111
-				TW
-
-00-1A-C5   (hex)		Keysight Technologies, Inc.
-001AC5     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
-				US
-
-00-E0-5C   (hex)		PHC Corporation
-00E05C     (base 16)		PHC Corporation
-				2-38-5 Nishishimbashi
-				Minato-ku  Tokyo  105-8433
-				JP
-
 74-34-00   (hex)		MTG Co., Ltd.
 743400     (base 16)		MTG Co., Ltd.
 				MTG No. 2 HIKARI Bldg., 4-13 Honjindori
 				Nakamura-ku, Nagoya  Aichi  453-0041
 				JP
-
-00-60-97   (hex)		3COM
-006097     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
 
 20-D8-0B   (hex)		Juniper Networks
 20D80B     (base 16)		Juniper Networks
@@ -149231,17 +149238,17 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				TAIPEI    100
 				TW
 
-24-21-24   (hex)		Nokia
-242124     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 64-62-8A   (hex)		evon GmbH
 64628A     (base 16)		evon GmbH
 				Frank-Stronach-Straße 8
 				Gleisdorf  Styria  8200
 				AT
+
+24-21-24   (hex)		Nokia
+242124     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 80-09-02   (hex)		Keysight Technologies, Inc.
 800902     (base 16)		Keysight Technologies, Inc.
@@ -149289,4 +149296,10 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 8834FE     (base 16)		Bosch Automotive Products (Suzhou) Co. Ltd
 				No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China
 				Suzhou  Jiangsu  215021
+				CN
+
+04-BC-87   (hex)		Shenzhen JustLink Technology Co., LTD
+04BC87     (base 16)		Shenzhen JustLink Technology Co., LTD
+				Room 5002,The 2nd Unit  of  the   Building  East,   Laobing   Building, No.3012  Xingye Road,Baoan District
+				Shenzhen  Guangdong Province  518101
 				CN
