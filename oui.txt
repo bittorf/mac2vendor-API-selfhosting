@@ -29969,6 +29969,18 @@ E86A64     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
 				Sungnam-si  Kyunggi-do  463-870
 				KR
 
+D8-7D-7F   (hex)		Sagemcom Broadband SAS
+D87D7F     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+A4-ED-43   (hex)		IEEE Registration Authority
+A4ED43     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -63849,13 +63861,6 @@ A8D236     (base 16)		Lightware Visual Engineering
 				HU
 
 6C-86-86   (hex)		Technonia
-6C8686     (base 16)		Technonia
-				#1101, Hanshin IT Tower 235
-				  Seoul  152-768
-				KR
-
-84-E7-14   (hex)		Liang Herng Enterprise,Co.Ltd.
-84E714     ((hex)		Technonia
 6C8686     (base 16)		Technonia
 				#1101, Hanshin IT Tower 235
 				  Seoul  152-768
