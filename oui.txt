@@ -29981,6 +29981,18 @@ A4ED43     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+48-5F-99   (hex)		Cloud Network Technology (Samoa) Limited
+485F99     (base 16)		Cloud Network Technology (Samoa) Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
+C0-40-04   (hex)		Medicaroid Corporation
+C04004     (base 16)		Medicaroid Corporation
+				1-6-4, Minatojima-minamimachi, Chuo-ku
+				Kobe    650-0047
+				JP
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60015,6 +60027,18 @@ B86A97     (base 16)		Edgecore Networks Corporation
 94298D     (base 16)		Shanghai AdaptComm Technology Co., Ltd.
 				3rd Floor, Building 14, No. 518 Xinzhuan Road, Songjiang District,
 				Shanghai    201600
+				CN
+
+EC-79-F2   (hex)		Startel
+EC79F2     (base 16)		Startel
+				Xi Chuang Industrial Park，Second industrial district of Guan Long Village，Xili town ，Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+28-31-66   (hex)		vivo Mobile Communication Co., Ltd.
+283166     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -119327,6 +119351,12 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Wuhan  CN/Hubei  430000
 				CN
 
+88-F7-BF   (hex)		vivo Mobile Communication Co., Ltd.
+88F7BF     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -149297,14 +149327,20 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				San Jose  CA  94568
 				US
 
+04-BC-87   (hex)		Shenzhen JustLink Technology Co., LTD
+04BC87     (base 16)		Shenzhen JustLink Technology Co., LTD
+				Room 5002,The 2nd Unit  of  the   Building  East,   Laobing   Building, No.3012  Xingye Road,Baoan District
+				Shenzhen  Guangdong Province  518101
+				CN
+
 88-34-FE   (hex)		Bosch Automotive Products (Suzhou) Co. Ltd
 8834FE     (base 16)		Bosch Automotive Products (Suzhou) Co. Ltd
 				No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China
 				Suzhou  Jiangsu  215021
 				CN
 
-04-BC-87   (hex)		Shenzhen JustLink Technology Co., LTD
-04BC87     (base 16)		Shenzhen JustLink Technology Co., LTD
-				Room 5002,The 2nd Unit  of  the   Building  East,   Laobing   Building, No.3012  Xingye Road,Baoan District
-				Shenzhen  Guangdong Province  518101
-				CN
+18-C2-BF   (hex)		BUFFALO.INC
+18C2BF     (base 16)		BUFFALO.INC
+				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
+				Nagoya  Aichi Pref.  460-8315
+				JP
