@@ -30005,6 +30005,12 @@ C04004     (base 16)		Medicaroid Corporation
 				San Diego  CA  92121
 				US
 
+7C-69-6B   (hex)		Atmosic Technologies
+7C696B     (base 16)		Atmosic Technologies
+				12930 Saratoga Ave, Suite B6
+				Saratoga  CA  95070
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -119374,6 +119380,18 @@ B0907E     (base 16)		Cisco Systems, Inc
 				605 Fifth Ave. S
 				Seattle  WA  98104-3892
 				US
+
+F8-D9-B8   (hex)		Open Mesh, Inc.
+F8D9B8     (base 16)		Open Mesh, Inc.
+				111 SW 5th Ave, #1150
+				Portland  OR  97204
+				US
+
+5C-D2-0B   (hex)		Yytek Co., Ltd.
+5CD20B     (base 16)		Yytek Co., Ltd.
+				No.1 Bao Sheng South Road, Room 401, Ao Bei Technology Park, Ling Zhi Center
+				Beijing    100192
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
