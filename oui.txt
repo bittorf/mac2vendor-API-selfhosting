@@ -30035,6 +30035,42 @@ C8D9D2     (base 16)		Hewlett Packard
 				Houston  TX  77070
 				US
 
+54-10-31   (hex)		SMARTO
+541031     (base 16)		SMARTO
+				25 QUAI GALLIENI
+				SURESNES  HAUT DE SEINE  92150
+				FR
+
+54-27-8D   (hex)		NXP (China) Management Ltd.
+54278D     (base 16)		NXP (China) Management Ltd.
+				21F, BM InterContinental Business Center, 100 Yu Tong Road
+				Shanghai  Shanghai  200070
+				CN
+
+DC-41-E5   (hex)		Shenzhen Zhixin Data Service Co., Ltd.
+DC41E5     (base 16)		Shenzhen Zhixin Data Service Co., Ltd.
+				 Baoyuan Road F518 Fashion Creative Park F3 Blg208
+				Baoan District, Shenzhen  Guangdong  518101
+				CN
+
+B0-BE-76   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+B0BE76     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+D8-0D-17   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+D80D17     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+CC-08-FB   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+CC08FB     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60107,6 +60143,24 @@ AC8674     (base 16)		Open Mesh, Inc.
 				San Jose  CA  95131
 				US
 
+18-1D-EA   (hex)		Intel Corporate
+181DEA     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+F0-D7-DC   (hex)		Wesine (Wuhan) Technology Co., Ltd.
+F0D7DC     (base 16)		Wesine (Wuhan) Technology Co., Ltd.
+				10th Floor, Building 2, SBI Venture Street, Hongshan District
+				Wuhan  Hubei  430074
+				CN
+
+44-E4-EE   (hex)		Wistron Neweb Corporation
+44E4EE     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -89530,6 +89584,18 @@ D003DF     (base 16)		Samsung Electronics Co.,Ltd
 				129, Samsung-ro, Youngtongl-Gu
 				Suwon  Gyeonggi-Do  16677
 				KR
+
+4C-1B-86   (hex)		Arcadyan Corporation
+4C1B86     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+18-56-80   (hex)		Intel Corporate
+185680     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119477,17 +119543,17 @@ F8D9B8     (base 16)		Open Mesh, Inc.
 				Portland  OR  97204
 				US
 
-74-83-C2   (hex)		Ubiquiti Networks Inc.
-7483C2     (base 16)		Ubiquiti Networks Inc.
-				2580 Orchard Pkwy
-				San Jose  CA  95131
-				US
+28-6D-CD   (hex)		Beijing Winner Microelectronics Co.,Ltd. 
+286DCD     (base 16)		Beijing Winner Microelectronics Co.,Ltd. 
+				Floor 18, YinDu Building, No.67 FuCheng Road, HaiDian District
+				Beijing    100142
+				CN
 
-C0-84-7D   (hex)		AMPAK Technology, Inc.
-C0847D     (base 16)		AMPAK Technology, Inc.
-				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
-				Hsinchu  Taiwan ROC.  30352 
-				TW
+44-A4-66   (hex)		GROUPE LDLC
+44A466     (base 16)		GROUPE LDLC
+				Groupe LDLC - 2 rue des Erables
+				LIMONEST  Rhone  69760
+				FR
 
 E8-1C-BA   (hex)		Fortinet, Inc.
 E81CBA     (base 16)		Fortinet, Inc.
@@ -119500,6 +119566,18 @@ E81CBA     (base 16)		Fortinet, Inc.
 				1-1, Samsungjeonja-ro
 				Hwaseong-si  Gyeonggi-do  18448
 				KR
+
+74-83-C2   (hex)		Ubiquiti Networks Inc.
+7483C2     (base 16)		Ubiquiti Networks Inc.
+				2580 Orchard Pkwy
+				San Jose  CA  95131
+				US
+
+C0-84-7D   (hex)		AMPAK Technology, Inc.
+C0847D     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -149524,3 +149602,27 @@ ECC40D     (base 16)		Nintendo Co.,Ltd
 				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
 				KYOTO  KYOTO  601-8501
 				JP
+
+B0-2A-43   (hex)		Google, Inc.
+B02A43     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+BC-AF-91   (hex)		TE Connectivity Sensor Solutions
+BCAF91     (base 16)		TE Connectivity Sensor Solutions
+				4 rue Gaye-Marie, CS 83163
+				Toulouse    31027
+				FR
+
+5C-C9-99   (hex)		New H3C Technologies Co., Ltd
+5CC999     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+74-05-A5   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+7405A5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
