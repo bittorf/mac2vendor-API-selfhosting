@@ -30035,12 +30035,6 @@ C8D9D2     (base 16)		Hewlett Packard
 				Houston  TX  77070
 				US
 
-54-10-31   (hex)		SMARTO
-541031     (base 16)		SMARTO
-				25 QUAI GALLIENI
-				SURESNES  HAUT DE SEINE  92150
-				FR
-
 54-27-8D   (hex)		NXP (China) Management Ltd.
 54278D     (base 16)		NXP (China) Management Ltd.
 				21F, BM InterContinental Business Center, 100 Yu Tong Road
@@ -30070,6 +30064,18 @@ CC08FB     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
 				Shenzhen  Guangdong  518057
 				CN
+
+54-10-31   (hex)		SMARTO
+541031     (base 16)		SMARTO
+				25 QUAI GALLIENI
+				SURESNES  HAUT DE SEINE  92150
+				FR
+
+C4-74-F8   (hex)		Hot Pepper, Inc.
+C474F8     (base 16)		Hot Pepper, Inc.
+				5151 California Ave., Suite 100, 
+				Irvine     92617
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -149625,4 +149631,16 @@ BCAF91     (base 16)		TE Connectivity Sensor Solutions
 7405A5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
 				Shenzhen  Guangdong  518057
+				CN
+
+98-3B-8F   (hex)		Intel Corporate
+983B8F     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+BC-3F-4E   (hex)		Teleepoch Ltd
+BC3F4E     (base 16)		Teleepoch Ltd
+				No.13 Langshan Rd,HiTech Park,Nanshan District
+				Shenzhen  Guangdong  518000
 				CN
