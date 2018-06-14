@@ -30089,6 +30089,18 @@ BC3865     (base 16)		JWCNETWORKS
 				Seoul    08506
 				KR
 
+1C-42-7D   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+1C427D     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+50-29-F5   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+5029F5     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -89519,30 +89531,6 @@ A02833     (base 16)		IEEE Registration Authority
 				San Jose    95119
 				US
 
-7C-D3-0A   (hex)		INVENTEC CORPORATION
-7CD30A     (base 16)		INVENTEC CORPORATION
-				Inventec Building, 66 Hou-Kang Street
-				Taipei    111
-				TW
-
-00-1A-C5   (hex)		Keysight Technologies, Inc.
-001AC5     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
-				US
-
-00-E0-5C   (hex)		PHC Corporation
-00E05C     (base 16)		PHC Corporation
-				2-38-5 Nishishimbashi
-				Minato-ku  Tokyo  105-8433
-				JP
-
-00-60-97   (hex)		3COM
-006097     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
 00-50-DA   (hex)		3COM
 0050DA     (base 16)		3COM
 				5400 BAYFRONT PLAZA
@@ -89573,11 +89561,35 @@ A02833     (base 16)		IEEE Registration Authority
 				SANTA CLARA  CA  95052
 				US
 
+7C-D3-0A   (hex)		INVENTEC CORPORATION
+7CD30A     (base 16)		INVENTEC CORPORATION
+				Inventec Building, 66 Hou-Kang Street
+				Taipei    111
+				TW
+
+00-1A-C5   (hex)		Keysight Technologies, Inc.
+001AC5     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
+00-E0-5C   (hex)		PHC Corporation
+00E05C     (base 16)		PHC Corporation
+				2-38-5 Nishishimbashi
+				Minato-ku  Tokyo  105-8433
+				JP
+
 74-34-00   (hex)		MTG Co., Ltd.
 743400     (base 16)		MTG Co., Ltd.
 				MTG No. 2 HIKARI Bldg., 4-13 Honjindori
 				Nakamura-ku, Nagoya  Aichi  453-0041
 				JP
+
+00-60-97   (hex)		3COM
+006097     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
 
 20-D8-0B   (hex)		Juniper Networks
 20D80B     (base 16)		Juniper Networks
@@ -149549,17 +149561,17 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				TAIPEI    100
 				TW
 
-64-62-8A   (hex)		evon GmbH
-64628A     (base 16)		evon GmbH
-				Frank-Stronach-Straße 8
-				Gleisdorf  Styria  8200
-				AT
-
 24-21-24   (hex)		Nokia
 242124     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+64-62-8A   (hex)		evon GmbH
+64628A     (base 16)		evon GmbH
+				Frank-Stronach-Straße 8
+				Gleisdorf  Styria  8200
+				AT
 
 80-09-02   (hex)		Keysight Technologies, Inc.
 800902     (base 16)		Keysight Technologies, Inc.
@@ -149591,6 +149603,12 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Zhongshan  Guangdong  528462
 				CN
 
+88-34-FE   (hex)		Bosch Automotive Products (Suzhou) Co. Ltd
+8834FE     (base 16)		Bosch Automotive Products (Suzhou) Co. Ltd
+				No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China
+				Suzhou  Jiangsu  215021
+				CN
+
 54-C3-3E   (hex)		Ciena Corporation
 54C33E     (base 16)		Ciena Corporation
 				7035 Ridge Road
@@ -149609,22 +149627,16 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Shenzhen  Guangdong Province  518101
 				CN
 
-88-34-FE   (hex)		Bosch Automotive Products (Suzhou) Co. Ltd
-8834FE     (base 16)		Bosch Automotive Products (Suzhou) Co. Ltd
-				No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China
-				Suzhou  Jiangsu  215021
-				CN
-
 18-C2-BF   (hex)		BUFFALO.INC
 18C2BF     (base 16)		BUFFALO.INC
 				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
 				Nagoya  Aichi Pref.  460-8315
 				JP
 
-70-03-7E   (hex)		Technicolor CH USA Inc.
-70037E     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
+D4-AB-82   (hex)		ARRIS Group, Inc.
+D4AB82     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
 				US
 
 C4-4F-33   (hex)		Espressif Inc.
@@ -149633,10 +149645,10 @@ C44F33     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-D4-AB-82   (hex)		ARRIS Group, Inc.
-D4AB82     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
+70-03-7E   (hex)		Technicolor CH USA Inc.
+70037E     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
 				US
 
 14-59-C0   (hex)		NETGEAR
@@ -149651,11 +149663,17 @@ D4AB82     (base 16)		ARRIS Group, Inc.
 				Morrisvilee  NC  27560
 				US
 
-EC-C4-0D   (hex)		Nintendo Co.,Ltd
-ECC40D     (base 16)		Nintendo Co.,Ltd
-				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
-				KYOTO  KYOTO  601-8501
-				JP
+5C-C9-99   (hex)		New H3C Technologies Co., Ltd
+5CC999     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+74-05-A5   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+7405A5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 B0-2A-43   (hex)		Google, Inc.
 B02A43     (base 16)		Google, Inc.
@@ -149669,23 +149687,17 @@ BCAF91     (base 16)		TE Connectivity Sensor Solutions
 				Toulouse    31027
 				FR
 
-5C-C9-99   (hex)		New H3C Technologies Co., Ltd
-5CC999     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
-				CN
+EC-C4-0D   (hex)		Nintendo Co.,Ltd
+ECC40D     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
 
 98-3B-8F   (hex)		Intel Corporate
 983B8F     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
-
-74-05-A5   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-7405A5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
 
 BC-3F-4E   (hex)		Teleepoch Ltd
 BC3F4E     (base 16)		Teleepoch Ltd
