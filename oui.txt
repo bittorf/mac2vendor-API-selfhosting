@@ -29897,18 +29897,6 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Paris    75008
 				FR
 
-00-20-AF   (hex)		3COM
-0020AF     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
-00-04-75   (hex)		3COM
-000475     (base 16)		3COM
-				5400 Bayfront Plaza
-				Santa Clara  CA  95052
-				US
-
 00-07-3A   (hex)		INVENTEL
 00073A     (base 16)		INVENTEL
 				35, rue Toumefort
@@ -29927,22 +29915,28 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Taipei    111
 				TW
 
-00-26-54   (hex)		3COM
-002654     (base 16)		3COM
-				5353 Betsy Ross Drive
-				Santa Clara  California  95054-1162
-				US
-
 00-50-04   (hex)		3COM
 005004     (base 16)		3COM
 				5400 BAYFRONT PLAZA
 				SANTA CLARA  CA  95052
 				US
 
-CC-C5-E5   (hex)		Dell Inc.
-CCC5E5     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
+00-20-AF   (hex)		3COM
+0020AF     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-04-75   (hex)		3COM
+000475     (base 16)		3COM
+				5400 Bayfront Plaza
+				Santa Clara  CA  95052
+				US
+
+00-26-54   (hex)		3COM
+002654     (base 16)		3COM
+				5353 Betsy Ross Drive
+				Santa Clara  California  95054-1162
 				US
 
 10-A2-4E   (hex)		GOLD3LINK ELECTRONICS CO., LTD
@@ -29951,16 +29945,16 @@ CCC5E5     (base 16)		Dell Inc.
 				Taipei  Taiwan  114
 				TW
 
+CC-C5-E5   (hex)		Dell Inc.
+CCC5E5     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 E8-6A-64   (hex)		LCFC(HeFei) Electronics Technology co., ltd
 E86A64     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
 				YunGu Road 3188-1
 				Hefei  Anhui  230000
-				CN
-
-0C-2A-86   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-0C2A86     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
 				CN
 
 04-09-A5   (hex)		HFR, Inc.
@@ -29968,6 +29962,12 @@ E86A64     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
 				5F, Hana EZ Tower
 				Sungnam-si  Kyunggi-do  463-870
 				KR
+
+0C-2A-86   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+0C2A86     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
 
 D8-7D-7F   (hex)		Sagemcom Broadband SAS
 D87D7F     (base 16)		Sagemcom Broadband SAS
@@ -30095,17 +30095,17 @@ C474F8     (base 16)		Hot Pepper, Inc.
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-BC-38-65   (hex)		JWCNETWORKS
-BC3865     (base 16)		JWCNETWORKS
-				114, Gasan digital 2-ro, Geumcheon-gu,
-				Seoul    08506
-				KR
-
 8C-FC-A0   (hex)		Shenzhen Smart Device Technology Co., LTD.
 8CFCA0     (base 16)		Shenzhen Smart Device Technology Co., LTD.
 				SSMEC Building,Gao Xin Nan First Avenue Hi-Tech Park South,Nanshan
 				Shenzhen  GuangDong  518057
 				CN
+
+BC-38-65   (hex)		JWCNETWORKS
+BC3865     (base 16)		JWCNETWORKS
+				114, Gasan digital 2-ro, Geumcheon-gu,
+				Seoul    08506
+				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -53501,12 +53501,6 @@ C81FBE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				MianYang  SiChuan  PRC 621000
 				CN
 
-E4-1D-2D   (hex)		Mellanox Technologies, Inc.
-E41D2D     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 B8-00-18   (hex)		Htel
 B80018     (base 16)		Htel
 				Dunchon-dearo, Jungwon-gu
@@ -60017,12 +60011,6 @@ ECB313     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				tosimaku  tokyo  170-0013
 				JP
 
-DC-37-57   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-				Phase 3, Bayan Lepas FIZ
-				Bayan Lepas  Penang  11900
-				MY
-
 00-90-04   (hex)		3COM EUROPE LTD
 009004     (base 16)		3COM EUROPE LTD
 				3COM CENTRE, BOUNDARY WAY
@@ -60071,16 +60059,16 @@ DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				SANTA CLARA  CA  95052
 				US
 
+DC-37-57   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
 02-60-8C   (hex)		3COM
 02608C     (base 16)		3COM
 				5400 BAYFRONT PLAZA
 				SANTA CLARA  CA  95052
-				US
-
-00-1B-6E   (hex)		Keysight Technologies, Inc.
-001B6E     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
 				US
 
 00-8C-FA   (hex)		INVENTEC CORPORATION
@@ -60101,6 +60089,12 @@ B4CB57     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+00-1B-6E   (hex)		Keysight Technologies, Inc.
+001B6E     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
 BC-B2-2B   (hex)		EM-Tech
 BCB22B     (base 16)		EM-Tech
 				40, Changwon-daero 1144beon-gil
@@ -60113,17 +60107,17 @@ BCB22B     (base 16)		EM-Tech
 				NEW TAIPEI  TAIWAN  23585
 				TW
 
-C8-BA-E9   (hex)		QDIS
-C8BAE9     (base 16)		QDIS
-				#512, Buliding B, 168 GaSanDigital 1st, GeumChun-Gu
-				SEOUL    08507
-				KR
-
 B8-6A-97   (hex)		Edgecore Networks Corporation
 B86A97     (base 16)		Edgecore Networks Corporation
 				1 Creation RD 3.
 				Hsinchu    30077
 				TW
+
+C8-BA-E9   (hex)		QDIS
+C8BAE9     (base 16)		QDIS
+				#512, Buliding B, 168 GaSanDigital 1st, GeumChun-Gu
+				SEOUL    08507
+				KR
 
 94-29-8D   (hex)		Shanghai AdaptComm Technology Co., Ltd.
 94298D     (base 16)		Shanghai AdaptComm Technology Co., Ltd.
@@ -60203,12 +60197,6 @@ F0D7DC     (base 16)		Wesine (Wuhan) Technology Co., Ltd.
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-30-0A-60   (hex)		IEEE Registration Authority
-300A60     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 2C-79-D7   (hex)		Sagemcom Broadband SAS
 2C79D7     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
@@ -60221,11 +60209,35 @@ F0D7DC     (base 16)		Wesine (Wuhan) Technology Co., Ltd.
 				Beijing    100085
 				CN
 
+30-0A-60   (hex)		IEEE Registration Authority
+300A60     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 04-CF-8C   (hex)		XIAOMI Electronics,CO.,LTD
 04CF8C     (base 16)		XIAOMI Electronics,CO.,LTD
 				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
 				Beijing  Beijing  100085
 				CN
+
+B0-AE-25   (hex)		Varikorea
+B0AE25     (base 16)		Varikorea
+				#505 kolon digital tower aston, gasan, geumcheon
+				seoul    08502
+				KR
+
+E8-93-63   (hex)		Nokia
+E89363     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+E4-1D-2D   (hex)		Mellanox Technologies, Inc.
+E41D2D     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -83612,18 +83624,6 @@ B4A984     (base 16)		Symantec Corporation
 				Piscataway  NJ  08554
 				US
 
-24-8A-07   (hex)		Mellanox Technologies, Inc.
-248A07     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
-00-25-8B   (hex)		Mellanox Technologies, Inc.
-00258B     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 3C-2D-B7   (hex)		Texas Instruments
 3C2DB7     (base 16)		Texas Instruments
 				12500 TI Boulevard, MS 8723
@@ -84685,12 +84685,6 @@ F0219D     (base 16)		Cal-Comp Electronics & Communications Company Ltd.
 				NO.1199 Bin An Road,Binjiang District,HangZhou,P.R.China
 				HangZhou  ZheJiang  310053
 				CN
-
-EC-0D-9A   (hex)		Mellanox Technologies, Inc.
-EC0D9A     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
 
 00-00-64   (hex)		Yokogawa Digital Computer Corporation
 000064     (base 16)		Yokogawa Digital Computer Corporation
@@ -86623,12 +86617,6 @@ D49CF4     (base 16)		Palo Alto Networks
 				32 Xuanwumen West Street,Xicheng District
 				Beijing    100053
 				CN
-
-50-6B-4B   (hex)		Mellanox Technologies, Inc.
-506B4B     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
 
 F8-C1-20   (hex)		Xi'an Link-Science Technology Co.,Ltd
 F8C120     (base 16)		Xi'an Link-Science Technology Co.,Ltd
@@ -89543,30 +89531,6 @@ A02833     (base 16)		IEEE Registration Authority
 				San Jose    95119
 				US
 
-7C-D3-0A   (hex)		INVENTEC CORPORATION
-7CD30A     (base 16)		INVENTEC CORPORATION
-				Inventec Building, 66 Hou-Kang Street
-				Taipei    111
-				TW
-
-00-1A-C5   (hex)		Keysight Technologies, Inc.
-001AC5     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
-				US
-
-00-E0-5C   (hex)		PHC Corporation
-00E05C     (base 16)		PHC Corporation
-				2-38-5 Nishishimbashi
-				Minato-ku  Tokyo  105-8433
-				JP
-
-00-60-97   (hex)		3COM
-006097     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
 00-50-DA   (hex)		3COM
 0050DA     (base 16)		3COM
 				5400 BAYFRONT PLAZA
@@ -89597,11 +89561,35 @@ A02833     (base 16)		IEEE Registration Authority
 				SANTA CLARA  CA  95052
 				US
 
+7C-D3-0A   (hex)		INVENTEC CORPORATION
+7CD30A     (base 16)		INVENTEC CORPORATION
+				Inventec Building, 66 Hou-Kang Street
+				Taipei    111
+				TW
+
+00-1A-C5   (hex)		Keysight Technologies, Inc.
+001AC5     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
+00-E0-5C   (hex)		PHC Corporation
+00E05C     (base 16)		PHC Corporation
+				2-38-5 Nishishimbashi
+				Minato-ku  Tokyo  105-8433
+				JP
+
 74-34-00   (hex)		MTG Co., Ltd.
 743400     (base 16)		MTG Co., Ltd.
 				MTG No. 2 HIKARI Bldg., 4-13 Honjindori
 				Nakamura-ku, Nagoya  Aichi  453-0041
 				JP
+
+00-60-97   (hex)		3COM
+006097     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
 
 20-D8-0B   (hex)		Juniper Networks
 20D80B     (base 16)		Juniper Networks
@@ -89673,6 +89661,36 @@ D003DF     (base 16)		Samsung Electronics Co.,Ltd
 20AD56     (base 16)		Continental Automotive Systems Inc.
 				21440 W. Lake Cook Rd.
 				Deer Park  IL  60010
+				US
+
+18-38-AE   (hex)		CONSPIN SOLUTION
+1838AE     (base 16)		CONSPIN SOLUTION
+				2F, Geonwoong Bldg. 109, Gwanak-ro, Gwanak-gu
+				Seoul    08833
+				KR
+
+00-25-8B   (hex)		Mellanox Technologies, Inc.
+00258B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+24-8A-07   (hex)		Mellanox Technologies, Inc.
+248A07     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+EC-0D-9A   (hex)		Mellanox Technologies, Inc.
+EC0D9A     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+50-6B-4B   (hex)		Mellanox Technologies, Inc.
+506B4B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -113078,18 +113096,6 @@ DC1A01     (base 16)		Ecoliv Technology ( Shenzhen ) Ltd.
 				Shenzhen  Guangdong  518109
 				CN
 
-7C-FE-90   (hex)		Mellanox Technologies, Inc.
-7CFE90     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
-00-02-C9   (hex)		Mellanox Technologies, Inc.
-0002C9     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 D0-5F-B8   (hex)		Texas Instruments
 D05FB8     (base 16)		Texas Instruments
 				12500 TI BLVD
@@ -119501,6 +119507,12 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Roseville  CA  95747
 				US
 
+00-10-5A   (hex)		3COM
+00105A     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
 00-D0-D8   (hex)		3COM
 00D0D8     (base 16)		3COM
 				2133 LEGHORN STREET
@@ -119525,6 +119537,12 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Taipei    111
 				TW
 
+00-18-49   (hex)		nVent, Schroff GmbH
+001849     (base 16)		nVent, Schroff GmbH
+				Langenalber Strasse 96-100
+				Straubenhardt    75334
+				DE
+
 00-05-1A   (hex)		3COM EUROPE LTD
 00051A     (base 16)		3COM EUROPE LTD
 				3COM CENTRE
@@ -119536,18 +119554,6 @@ B0907E     (base 16)		Cisco Systems, Inc
 				BOUNDARY WAY
 				  UNITED  KINGDOM
 				GB
-
-00-10-5A   (hex)		3COM
-00105A     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
-00-18-49   (hex)		nVent, Schroff GmbH
-001849     (base 16)		nVent, Schroff GmbH
-				Langenalber Strasse 96-100
-				Straubenhardt    75334
-				DE
 
 9C-0C-DF   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 9C0CDF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -119591,11 +119597,11 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Seattle  WA  98104-3892
 				US
 
-54-6A-D8   (hex)		Elster Water Metering Limited
-546AD8     (base 16)		Elster Water Metering Limited
-				Mas des Cavaliers II, 471 Rue Charles Nungesser 
-				Mauguio    34130
-				FR
+5C-D2-0B   (hex)		Yytek Co., Ltd.
+5CD20B     (base 16)		Yytek Co., Ltd.
+				No.1 Bao Sheng South Road, Room 401, Ao Bei Technology Park, Ling Zhi Center
+				Beijing    100192
+				CN
 
 18-62-E4   (hex)		Texas Instruments
 1862E4     (base 16)		Texas Instruments
@@ -119609,41 +119615,17 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Dallas  TX  75243
 				US
 
-5C-D2-0B   (hex)		Yytek Co., Ltd.
-5CD20B     (base 16)		Yytek Co., Ltd.
-				No.1 Bao Sheng South Road, Room 401, Ao Bei Technology Park, Ling Zhi Center
-				Beijing    100192
-				CN
-
-74-83-C2   (hex)		Ubiquiti Networks Inc.
-7483C2     (base 16)		Ubiquiti Networks Inc.
-				2580 Orchard Pkwy
-				San Jose  CA  95131
-				US
-
-C0-84-7D   (hex)		AMPAK Technology, Inc.
-C0847D     (base 16)		AMPAK Technology, Inc.
-				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
-				Hsinchu  Taiwan ROC.  30352 
-				TW
+54-6A-D8   (hex)		Elster Water Metering Limited
+546AD8     (base 16)		Elster Water Metering Limited
+				Mas des Cavaliers II, 471 Rue Charles Nungesser 
+				Mauguio    34130
+				FR
 
 F8-D9-B8   (hex)		Open Mesh, Inc.
 F8D9B8     (base 16)		Open Mesh, Inc.
 				111 SW 5th Ave Ste1150
 				Portland  OR  97204
 				US
-
-E8-1C-BA   (hex)		Fortinet, Inc.
-E81CBA     (base 16)		Fortinet, Inc.
-				899 Kifer Road
-				Sunnyvale    94086
-				US
-
-00-72-04   (hex)		Samsung Electronics Co., Ltd. ARTIK
-007204     (base 16)		Samsung Electronics Co., Ltd. ARTIK
-				1-1, Samsungjeonja-ro
-				Hwaseong-si  Gyeonggi-do  18448
-				KR
 
 28-6D-CD   (hex)		Beijing Winner Microelectronics Co.,Ltd. 
 286DCD     (base 16)		Beijing Winner Microelectronics Co.,Ltd. 
@@ -119657,6 +119639,30 @@ E81CBA     (base 16)		Fortinet, Inc.
 				LIMONEST  Rhone  69760
 				FR
 
+E8-1C-BA   (hex)		Fortinet, Inc.
+E81CBA     (base 16)		Fortinet, Inc.
+				899 Kifer Road
+				Sunnyvale    94086
+				US
+
+00-72-04   (hex)		Samsung Electronics Co., Ltd. ARTIK
+007204     (base 16)		Samsung Electronics Co., Ltd. ARTIK
+				1-1, Samsungjeonja-ro
+				Hwaseong-si  Gyeonggi-do  18448
+				KR
+
+74-83-C2   (hex)		Ubiquiti Networks Inc.
+7483C2     (base 16)		Ubiquiti Networks Inc.
+				2580 Orchard Pkwy
+				San Jose  CA  95131
+				US
+
+C0-84-7D   (hex)		AMPAK Technology, Inc.
+C0847D     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
+
 80-D0-65   (hex)		CKS Corporation
 80D065     (base 16)		CKS Corporation
 				1-24-11 Akebono
@@ -119667,6 +119673,24 @@ E81CBA     (base 16)		Fortinet, Inc.
 04EB40     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+7C-0C-F6   (hex)		Guangdong Huiwei High-tech Co., Ltd.
+7C0CF6     (base 16)		Guangdong Huiwei High-tech Co., Ltd.
+				E Block No. 1 in Ecological Area in Puzhai NewArea
+				Fengshun County, Meizhou  Guangdong province  514000
+				CN
+
+00-02-C9   (hex)		Mellanox Technologies, Inc.
+0002C9     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+7C-FE-90   (hex)		Mellanox Technologies, Inc.
+7CFE90     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -143507,12 +143531,6 @@ D0FF50     (base 16)		Texas Instruments
 				Shenzhen  Guangdong  518125
 				CN
 
-F4-52-14   (hex)		Mellanox Technologies, Inc.
-F45214     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 68-9E-19   (hex)		Texas Instruments
 689E19     (base 16)		Texas Instruments
 				12500 TI BLVD
@@ -149345,12 +149363,6 @@ D46761     (base 16)		United Gulf Gate Co.
 				Kuwait    0000
 				KW
 
-98-03-9B   (hex)		Mellanox Technologies, Inc.
-98039B     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 F8-27-2E   (hex)		Mercku
 F8272E     (base 16)		Mercku
 				509 Beaver Creek Rd.
@@ -149585,17 +149597,17 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				TAIPEI    100
 				TW
 
-64-62-8A   (hex)		evon GmbH
-64628A     (base 16)		evon GmbH
-				Frank-Stronach-Straße 8
-				Gleisdorf  Styria  8200
-				AT
-
 24-21-24   (hex)		Nokia
 242124     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+64-62-8A   (hex)		evon GmbH
+64628A     (base 16)		evon GmbH
+				Frank-Stronach-Straße 8
+				Gleisdorf  Styria  8200
+				AT
 
 80-09-02   (hex)		Keysight Technologies, Inc.
 800902     (base 16)		Keysight Technologies, Inc.
@@ -149627,6 +149639,12 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Zhongshan  Guangdong  528462
 				CN
 
+88-34-FE   (hex)		Bosch Automotive Products (Suzhou) Co. Ltd
+8834FE     (base 16)		Bosch Automotive Products (Suzhou) Co. Ltd
+				No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China
+				Suzhou  Jiangsu  215021
+				CN
+
 54-C3-3E   (hex)		Ciena Corporation
 54C33E     (base 16)		Ciena Corporation
 				7035 Ridge Road
@@ -149645,22 +149663,16 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Shenzhen  Guangdong Province  518101
 				CN
 
-88-34-FE   (hex)		Bosch Automotive Products (Suzhou) Co. Ltd
-8834FE     (base 16)		Bosch Automotive Products (Suzhou) Co. Ltd
-				No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China
-				Suzhou  Jiangsu  215021
-				CN
-
 18-C2-BF   (hex)		BUFFALO.INC
 18C2BF     (base 16)		BUFFALO.INC
 				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
 				Nagoya  Aichi Pref.  460-8315
 				JP
 
-70-03-7E   (hex)		Technicolor CH USA Inc.
-70037E     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
+D4-AB-82   (hex)		ARRIS Group, Inc.
+D4AB82     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
 				US
 
 C4-4F-33   (hex)		Espressif Inc.
@@ -149669,10 +149681,10 @@ C44F33     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-D4-AB-82   (hex)		ARRIS Group, Inc.
-D4AB82     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
+70-03-7E   (hex)		Technicolor CH USA Inc.
+70037E     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
 				US
 
 14-59-C0   (hex)		NETGEAR
@@ -149687,11 +149699,17 @@ D4AB82     (base 16)		ARRIS Group, Inc.
 				Morrisvilee  NC  27560
 				US
 
-EC-C4-0D   (hex)		Nintendo Co.,Ltd
-ECC40D     (base 16)		Nintendo Co.,Ltd
-				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
-				KYOTO  KYOTO  601-8501
-				JP
+5C-C9-99   (hex)		New H3C Technologies Co., Ltd
+5CC999     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+74-05-A5   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+7405A5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 B0-2A-43   (hex)		Google, Inc.
 B02A43     (base 16)		Google, Inc.
@@ -149705,23 +149723,17 @@ BCAF91     (base 16)		TE Connectivity Sensor Solutions
 				Toulouse    31027
 				FR
 
-5C-C9-99   (hex)		New H3C Technologies Co., Ltd
-5CC999     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
-				CN
+EC-C4-0D   (hex)		Nintendo Co.,Ltd
+ECC40D     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
 
 98-3B-8F   (hex)		Intel Corporate
 983B8F     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
-
-74-05-A5   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-7405A5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
 
 BC-3F-4E   (hex)		Teleepoch Ltd
 BC3F4E     (base 16)		Teleepoch Ltd
@@ -149733,4 +149745,22 @@ BC3F4E     (base 16)		Teleepoch Ltd
 00EABD     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+C8-47-82   (hex)		Areson Technology Corp.
+C84782     (base 16)		Areson Technology Corp.
+				11F., No. 646, Sec. 5, Chongxin Rd., Sanchong District
+				New Taipei City    24158
+				TW
+
+98-03-9B   (hex)		Mellanox Technologies, Inc.
+98039B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+F4-52-14   (hex)		Mellanox Technologies, Inc.
+F45214     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
 				US
