@@ -60221,24 +60221,6 @@ F0D7DC     (base 16)		Wesine (Wuhan) Technology Co., Ltd.
 				Beijing    100085
 				CN
 
-B0-AE-25   (hex)		Varikorea
-B0AE25     (base 16)		Varikorea
-				#505 kolon digital tower aston, gasan, geumcheon
-				seoul    08502
-				KR
-
-E8-93-63   (hex)		Nokia
-E89363     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-E4-1D-2D   (hex)		Mellanox Technologies, Inc.
-E41D2D     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 C4-FD-E6   (hex)		DRTECH
 C4FDE6     (base 16)		DRTECH
 				29, Dunchon-daero 541beon-gil, Jungwon-gu
@@ -60256,6 +60238,24 @@ C4FDE6     (base 16)		DRTECH
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+E8-93-63   (hex)		Nokia
+E89363     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+E4-1D-2D   (hex)		Mellanox Technologies, Inc.
+E41D2D     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+B0-AE-25   (hex)		Varikorea
+B0AE25     (base 16)		Varikorea
+				#505 kolon digital tower aston, gasan, geumcheon
+				seoul    08502
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -119710,6 +119710,12 @@ E81CBA     (base 16)		Fortinet, Inc.
 				350 Oakmead Parkway, Suite 100
 				Sunnyvale  CA  94085
 				US
+
+28-39-26   (hex)		CyberTAN Technology Inc.
+283926     (base 16)		CyberTAN Technology Inc.
+				99 Park Ave III, Hsinchu Science Park
+				Hsinchu    308
+				TW
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
