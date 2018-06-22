@@ -30107,6 +30107,12 @@ BC3865     (base 16)		JWCNETWORKS
 				Shenzhen  GuangDong  518057
 				CN
 
+E8-1A-58   (hex)		TECHNOLOGIC SYSTEMS
+E81A58     (base 16)		TECHNOLOGIC SYSTEMS
+				16525 E Laser Dr
+				Fountain Hills  AZ  85268-6534
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -89549,30 +89555,6 @@ A02833     (base 16)		IEEE Registration Authority
 				San Jose    95119
 				US
 
-7C-D3-0A   (hex)		INVENTEC CORPORATION
-7CD30A     (base 16)		INVENTEC CORPORATION
-				Inventec Building, 66 Hou-Kang Street
-				Taipei    111
-				TW
-
-00-1A-C5   (hex)		Keysight Technologies, Inc.
-001AC5     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
-				US
-
-00-E0-5C   (hex)		PHC Corporation
-00E05C     (base 16)		PHC Corporation
-				2-38-5 Nishishimbashi
-				Minato-ku  Tokyo  105-8433
-				JP
-
-00-60-97   (hex)		3COM
-006097     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
 00-50-DA   (hex)		3COM
 0050DA     (base 16)		3COM
 				5400 BAYFRONT PLAZA
@@ -89603,11 +89585,35 @@ A02833     (base 16)		IEEE Registration Authority
 				SANTA CLARA  CA  95052
 				US
 
+7C-D3-0A   (hex)		INVENTEC CORPORATION
+7CD30A     (base 16)		INVENTEC CORPORATION
+				Inventec Building, 66 Hou-Kang Street
+				Taipei    111
+				TW
+
+00-1A-C5   (hex)		Keysight Technologies, Inc.
+001AC5     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
+00-E0-5C   (hex)		PHC Corporation
+00E05C     (base 16)		PHC Corporation
+				2-38-5 Nishishimbashi
+				Minato-ku  Tokyo  105-8433
+				JP
+
 74-34-00   (hex)		MTG Co., Ltd.
 743400     (base 16)		MTG Co., Ltd.
 				MTG No. 2 HIKARI Bldg., 4-13 Honjindori
 				Nakamura-ku, Nagoya  Aichi  453-0041
 				JP
+
+00-60-97   (hex)		3COM
+006097     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
 
 20-D8-0B   (hex)		Juniper Networks
 20D80B     (base 16)		Juniper Networks
@@ -89710,6 +89716,24 @@ EC0D9A     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100
 				Sunnyvale  CA  94085
 				US
+
+48-87-2D   (hex)		SHEN ZHEN DA XIA LONG QUE TECHNOLOGY CO.,LTD
+48872D     (base 16)		SHEN ZHEN DA XIA LONG QUE TECHNOLOGY CO.,LTD
+				Room 511, Building C,  Yuxing Technology Park, Gushu Second Road, Bao’an District
+				SHEN ZHEN  GUANG DONG  518000
+				CN
+
+78-7D-53   (hex)		Aerohive Networks Inc.
+787D53     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+E0-45-6D   (hex)		China Mobile Group Device Co.,Ltd.
+E0456D     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -149794,3 +149818,9 @@ CC988B     (base 16)		SONY Visual Products Inc.
 				2-10-1 Osaki
 				Shinagawa-ku  Tokyo  141-8610
 				JP
+
+BC-F3-10   (hex)		Aerohive Networks Inc.
+BCF310     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
