@@ -60263,6 +60263,12 @@ B0AE25     (base 16)		Varikorea
 				seoul    08502
 				KR
 
+C0-74-AD   (hex)		Grandstream Networks, Inc.
+C074AD     (base 16)		Grandstream Networks, Inc.
+				1297 Beacon Street
+				Brookline  MA  02446
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -149830,3 +149836,9 @@ BCF310     (base 16)		Aerohive Networks Inc.
 				1011 McCarthy Blvd
 				Milpitas  CA  95035
 				US
+
+9C-A5-25   (hex)		Shandong USR IOT Technology Limited
+9CA525     (base 16)		Shandong USR IOT Technology Limited
+				Floor 11,Building 1,No.1166 Xinluo  Street,Gaoxin District,Jinan,Shandong,250101,China
+				Jinan  Shandong  250101
+				CN
