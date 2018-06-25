@@ -89717,12 +89717,6 @@ EC0D9A     (base 16)		Mellanox Technologies, Inc.
 				Sunnyvale  CA  94085
 				US
 
-48-87-2D   (hex)		SHEN ZHEN DA XIA LONG QUE TECHNOLOGY CO.,LTD
-48872D     (base 16)		SHEN ZHEN DA XIA LONG QUE TECHNOLOGY CO.,LTD
-				Room 511, Building C,  Yuxing Technology Park, Gushu Second Road, Bao’an District
-				SHEN ZHEN  GUANG DONG  518000
-				CN
-
 78-7D-53   (hex)		Aerohive Networks Inc.
 787D53     (base 16)		Aerohive Networks Inc.
 				1011 McCarthy Blvd
@@ -89733,6 +89727,12 @@ E0-45-6D   (hex)		China Mobile Group Device Co.,Ltd.
 E0456D     (base 16)		China Mobile Group Device Co.,Ltd.
 				32 Xuanwumen West Street,Xicheng District
 				Beijing    100053
+				CN
+
+48-87-2D   (hex)		SHEN ZHEN DA XIA LONG QUE TECHNOLOGY CO.,LTD
+48872D     (base 16)		SHEN ZHEN DA XIA LONG QUE TECHNOLOGY CO.,LTD
+				Room 511, Building C,  Yuxing Technology Park, Gushu Second Road, Bao’an District
+				SHEN ZHEN  GUANG DONG  518000
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -119740,6 +119740,12 @@ E81CBA     (base 16)		Fortinet, Inc.
 				99 Park Ave III, Hsinchu Science Park
 				Hsinchu    308
 				TW
+
+F0-95-F1   (hex)		Carl Zeiss AG
+F095F1     (base 16)		Carl Zeiss AG
+				Carl-Zeiss-Straße 22
+				Oberkochen    73447
+				DE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
