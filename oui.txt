@@ -60269,6 +60269,12 @@ C074AD     (base 16)		Grandstream Networks, Inc.
 				Brookline  MA  02446
 				US
 
+44-00-49   (hex)		Amazon Technologies Inc.
+440049     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -119746,6 +119752,18 @@ E81CBA     (base 16)		Fortinet, Inc.
 				99 Park Ave III, Hsinchu Science Park
 				Hsinchu    308
 				TW
+
+F0-54-94   (hex)		Honeywell Connected Building
+F05494     (base 16)		Honeywell Connected Building
+				1985 DOUGLAS DRIVE
+				Golden Valley  MN  55422
+				US
+
+30-E3-D6   (hex)		Spotify USA Inc.
+30E3D6     (base 16)		Spotify USA Inc.
+				45 West 18th Street
+				New York  NY  10011
+				US
 
 F0-95-F1   (hex)		Carl Zeiss AG
 F095F1     (base 16)		Carl Zeiss AG
