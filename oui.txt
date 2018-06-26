@@ -149860,3 +149860,9 @@ BCF310     (base 16)		Aerohive Networks Inc.
 				Floor 11,Building 1,No.1166 Xinluo  Street,Gaoxin District,Jinan,Shandong,250101,China
 				Jinan  Shandong  250101
 				CN
+
+C0-BF-A7   (hex)		Juniper Networks
+C0BFA7     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
