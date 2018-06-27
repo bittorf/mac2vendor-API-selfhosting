@@ -30113,6 +30113,36 @@ E81A58     (base 16)		TECHNOLOGIC SYSTEMS
 				Fountain Hills  AZ  85268-6534
 				US
 
+4C-56-9D   (hex)		Apple, Inc.
+4C569D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+14-C2-13   (hex)		Apple, Inc.
+14C213     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+38-53-9C   (hex)		Apple, Inc.
+38539C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+58-E6-BA   (hex)		Apple, Inc.
+58E6BA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+2C-CA-0C   (hex)		WITHUS PLANET
+2CCA0C     (base 16)		WITHUS PLANET
+				1604, O'BIZTOWER, Pyeong Chon, 126, Beolmal-ro, Dongan-gu
+				Anyang-si  Gyeonggi-do  14057
+				KR
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60263,16 +60293,40 @@ B0AE25     (base 16)		Varikorea
 				seoul    08502
 				KR
 
+44-00-49   (hex)		Amazon Technologies Inc.
+440049     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
 C0-74-AD   (hex)		Grandstream Networks, Inc.
 C074AD     (base 16)		Grandstream Networks, Inc.
 				1297 Beacon Street
 				Brookline  MA  02446
 				US
 
-44-00-49   (hex)		Amazon Technologies Inc.
-440049     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
+D8-1C-79   (hex)		Apple, Inc.
+D81C79     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+8C-FE-57   (hex)		Apple, Inc.
+8CFE57     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C0-A6-00   (hex)		Apple, Inc.
+C0A600     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+74-B5-87   (hex)		Apple, Inc.
+74B587     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -89746,6 +89800,48 @@ E0456D     (base 16)		China Mobile Group Device Co.,Ltd.
 				Room 511, Building C,  Yuxing Technology Park, Gushu Second Road, Bao’an District
 				SHEN ZHEN  GUANG DONG  518000
 				CN
+
+F8-38-80   (hex)		Apple, Inc.
+F83880     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+24-1B-7A   (hex)		Apple, Inc.
+241B7A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+40-26-19   (hex)		Apple, Inc.
+402619     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+BC-FE-D9   (hex)		Apple, Inc.
+BCFED9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-82-23   (hex)		Apple, Inc.
+808223     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E4-B2-FB   (hex)		Apple, Inc.
+E4B2FB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+38-B4-D3   (hex)		BSH Hausgeraete GmbH
+38B4D3     (base 16)		BSH Hausgeraete GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119770,6 +119866,36 @@ F095F1     (base 16)		Carl Zeiss AG
 				Carl-Zeiss-Straße 22
 				Oberkochen    73447
 				DE
+
+20-B0-01   (hex)		Technicolor
+20B001     (base 16)		Technicolor
+				Prins Boudewijnlaan 47
+				Edegem - Belgium    B-2650
+				BE
+
+90-E1-7B   (hex)		Apple, Inc.
+90E17B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+18-81-0E   (hex)		Apple, Inc.
+18810E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+60-8C-4A   (hex)		Apple, Inc.
+608C4A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A4-D9-31   (hex)		Apple, Inc.
+A4D931     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -149865,4 +149991,16 @@ C0-BF-A7   (hex)		Juniper Networks
 C0BFA7     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
+				US
+
+6C-E8-5C   (hex)		Apple, Inc.
+6CE85C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+FC-B6-D8   (hex)		Apple, Inc.
+FCB6D8     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
