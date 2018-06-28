@@ -30155,6 +30155,12 @@ B41D2B     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Piscataway  NJ  08554
 				US
 
+0C-BF-74   (hex)		Morse Micro
+0CBF74     (base 16)		Morse Micro
+				113 / 2-4 Cornwallis Street
+				Eveleigh  NSW  2015
+				AU
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60341,6 +60347,18 @@ C0A600     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+04-91-62   (hex)		Microchip Technology Inc.
+049162     (base 16)		Microchip Technology Inc.
+				2355 W. Chandler Blvd.
+				Chandler  AZ  85224
+				US
+
+98-18-88   (hex)		Cisco Meraki
+981888     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -89813,6 +89831,18 @@ E0456D     (base 16)		China Mobile Group Device Co.,Ltd.
 				SHEN ZHEN  GUANG DONG  518000
 				CN
 
+E4-B2-FB   (hex)		Apple, Inc.
+E4B2FB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+38-B4-D3   (hex)		BSH Hausgeraete GmbH
+38B4D3     (base 16)		BSH Hausgeraete GmbH
+				Im Gewerbepark B10
+				Regensburg    93059
+				DE
+
 F8-38-80   (hex)		Apple, Inc.
 F83880     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -89842,18 +89872,6 @@ BCFED9     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
-
-E4-B2-FB   (hex)		Apple, Inc.
-E4B2FB     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-38-B4-D3   (hex)		BSH Hausgeraete GmbH
-38B4D3     (base 16)		BSH Hausgeraete GmbH
-				Im Gewerbepark B10
-				Regensburg    93059
-				DE
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119879,12 +119897,6 @@ F095F1     (base 16)		Carl Zeiss AG
 				Oberkochen    73447
 				DE
 
-A4-D9-31   (hex)		Apple, Inc.
-A4D931     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 90-E1-7B   (hex)		Apple, Inc.
 90E17B     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -119903,6 +119915,12 @@ A4D931     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+A4-D9-31   (hex)		Apple, Inc.
+A4D931     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 18-A7-F1   (hex)		Qingdao Haier Technology Co.,Ltd
 18A7F1     (base 16)		Qingdao Haier Technology Co.,Ltd
 				Building A01,Haier Information Park, No.1 Haier Road,
@@ -119914,6 +119932,18 @@ A4D931     (base 16)		Apple, Inc.
 				Prins Boudewijnlaan 47
 				Edegem - Belgium    B-2650
 				BE
+
+94-4F-4C   (hex)		Sound United LLC
+944F4C     (base 16)		Sound United LLC
+				One Viper Way
+				Vista  CA  92081
+				US
+
+00-D6-FE   (hex)		Cisco Systems, Inc
+00D6FE     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -150011,11 +150041,11 @@ C0BFA7     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-6C-E8-5C   (hex)		Apple, Inc.
-6CE85C     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
+14-69-A2   (hex)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
+1469A2     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
+				NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY, 
+				CHENGDU  SICHUAN  611330
+				CN
 
 FC-B6-D8   (hex)		Apple, Inc.
 FCB6D8     (base 16)		Apple, Inc.
@@ -150023,8 +150053,8 @@ FCB6D8     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-14-69-A2   (hex)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
-1469A2     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
-				NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY, 
-				CHENGDU  SICHUAN  611330
-				CN
+6C-E8-5C   (hex)		Apple, Inc.
+6CE85C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
