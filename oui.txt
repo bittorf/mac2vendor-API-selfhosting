@@ -30161,6 +30161,30 @@ B41D2B     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Eveleigh  NSW  2015
 				AU
 
+90-0E-B3   (hex)		Shenzhen Amediatech Technology Co., Ltd.
+900EB3     (base 16)		Shenzhen Amediatech Technology Co., Ltd.
+				2th floor, block A, building B, Minsheng Industrial Zone, Longhua District
+				Shenzhen  Guangdong  518109
+				CN
+
+BC-26-C7   (hex)		Cisco Systems, Inc
+BC26C7     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+FC-8F-7D   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+FC8F7D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
+
+84-7F-3D   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+847F3D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60323,6 +60347,24 @@ C074AD     (base 16)		Grandstream Networks, Inc.
 				Brookline  MA  02446
 				US
 
+04-91-62   (hex)		Microchip Technology Inc.
+049162     (base 16)		Microchip Technology Inc.
+				2355 W. Chandler Blvd.
+				Chandler  AZ  85224
+				US
+
+98-18-88   (hex)		Cisco Meraki
+981888     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+74-B5-87   (hex)		Apple, Inc.
+74B587     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 D8-1C-79   (hex)		Apple, Inc.
 D81C79     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -60341,23 +60383,35 @@ C0A600     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-74-B5-87   (hex)		Apple, Inc.
-74B587     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
+00-AD-24   (hex)		D-Link International
+00AD24     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
 
-04-91-62   (hex)		Microchip Technology Inc.
-049162     (base 16)		Microchip Technology Inc.
-				2355 W. Chandler Blvd.
-				Chandler  AZ  85224
-				US
+CC-D4-A1   (hex)		MitraStar Technology Corp.
+CCD4A1     (base 16)		MitraStar Technology Corp.
+				No. 6, Innovation Road II,
+				Hsinchu    300
+				TW
 
-98-18-88   (hex)		Cisco Meraki
-981888     (base 16)		Cisco Meraki
-				500 Terry A. Francois Blvd
-				San Francisco    94158
-				US
+08-BA-5F   (hex)		Qingdao Hisense Electronics Co.,Ltd.
+08BA5F     (base 16)		Qingdao Hisense Electronics Co.,Ltd.
+				Qianwangang Roard 218
+				Qingdao  Shandong  266510
+				CN
+
+54-06-8B   (hex)		Ningbo Deli Kebei Technology Co.LTD
+54068B     (base 16)		Ningbo Deli Kebei Technology Co.LTD
+				zone 2nd , 301#, Road Xuxiake, Ninghai yuelong district
+				ningbo  Zhejiang  315600
+				CN
+
+54-9F-AE   (hex)		iBASE Gaming Inc
+549FAE     (base 16)		iBASE Gaming Inc
+				2F., No.542-17, Zhongzheng Rd
+				Xinzhuang Dist., New Taipei City    24255
+				TW
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -89872,6 +89926,18 @@ BCFED9     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+D4-BD-1E   (hex)		5VT Technologies,Taiwan LTd.
+D4BD1E     (base 16)		5VT Technologies,Taiwan LTd.
+				6F,No.19-9,SanChong Rd.,Nangang Dist,
+				Taipei    11501
+				TW
+
+10-DF-FC   (hex)		Siemens AG
+10DFFC     (base 16)		Siemens AG
+				Siemensstrasse 10
+				Regensburg    93055
+				DE
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119944,6 +120010,30 @@ A4D931     (base 16)		Apple, Inc.
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+BC-5E-A1   (hex)		PsiKick, Inc.
+BC5EA1     (base 16)		PsiKick, Inc.
+				2348 Walsh Ave
+				Santa Clara  CA  95051
+				US
+
+BC-9B-68   (hex)		Technicolor CH USA Inc.
+BC9B68     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+24-BE-18   (hex)		DADOUTEK COMPANY LIMITED
+24BE18     (base 16)		DADOUTEK COMPANY LIMITED
+				14/F, Wilson Logistics Centre,No.24-28 Kung Yip St
+				Kwai Chung  New Territories  000
+				CN
+
+74-9D-79   (hex)		Sercomm Corporation.
+749D79     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
