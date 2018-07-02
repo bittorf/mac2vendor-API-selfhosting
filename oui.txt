@@ -30185,6 +30185,18 @@ FC8F7D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				Bayan Lepas  Penang  11900
 				MY
 
+CC-BB-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+CCBBFE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+20-28-3E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20283E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -52646,12 +52658,6 @@ E45D75     (base 16)		Samsung Electronics Co.,Ltd
 				Hod Hasharon  Hod Hasharon  4501309
 				IL
 
-80-0D-D7   (hex)		Latticework, Inc
-800DD7     (base 16)		Latticework, Inc
-				333 Cobalt Way, Suite 108
-				Sunnyvale  CA  94085
-				US
-
 40-2E-28   (hex)		MiXTelematics
 402E28     (base 16)		MiXTelematics
 				Blaauwklip Office Park 2
@@ -60412,6 +60418,24 @@ CCD4A1     (base 16)		MitraStar Technology Corp.
 				2F., No.542-17, Zhongzheng Rd
 				Xinzhuang Dist., New Taipei City    24255
 				TW
+
+80-0D-D7   (hex)		Latticework, Inc
+800DD7     (base 16)		Latticework, Inc
+				2210 O'Toole Ave, Suite 250
+				San Jose  CA  95131
+				US
+
+68-8F-2E   (hex)		Hitron Technologies. Inc
+688F2E     (base 16)		Hitron Technologies. Inc
+				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu  Taiwan  300
+				TW
+
+80-69-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+806933     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -89885,6 +89909,18 @@ E0456D     (base 16)		China Mobile Group Device Co.,Ltd.
 				SHEN ZHEN  GUANG DONG  518000
 				CN
 
+BC-FE-D9   (hex)		Apple, Inc.
+BCFED9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-82-23   (hex)		Apple, Inc.
+808223     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 E4-B2-FB   (hex)		Apple, Inc.
 E4B2FB     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -89915,18 +89951,6 @@ F83880     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-BC-FE-D9   (hex)		Apple, Inc.
-BCFED9     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-80-82-23   (hex)		Apple, Inc.
-808223     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 D4-BD-1E   (hex)		5VT Technologies,Taiwan LTd.
 D4BD1E     (base 16)		5VT Technologies,Taiwan LTd.
 				6F,No.19-9,SanChong Rd.,Nangang Dist,
@@ -89938,6 +89962,24 @@ D4BD1E     (base 16)		5VT Technologies,Taiwan LTd.
 				Siemensstrasse 10
 				Regensburg    93055
 				DE
+
+1C-59-9B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1C599B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+80-7D-14   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+807D14     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+7C-C3-85   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7CC385     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119963,6 +120005,12 @@ F095F1     (base 16)		Carl Zeiss AG
 				Oberkochen    73447
 				DE
 
+A4-D9-31   (hex)		Apple, Inc.
+A4D931     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 90-E1-7B   (hex)		Apple, Inc.
 90E17B     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -119977,12 +120025,6 @@ F095F1     (base 16)		Carl Zeiss AG
 
 60-8C-4A   (hex)		Apple, Inc.
 608C4A     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-A4-D9-31   (hex)		Apple, Inc.
-A4D931     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -120034,6 +120076,42 @@ BC9B68     (base 16)		Technicolor CH USA Inc.
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
 				Miao-Lih Hsuan    115
 				TW
+
+74-BF-C0   (hex)		CANON INC.
+74BFC0     (base 16)		CANON INC.
+				30-2 Shimomaruko 3-chome,
+				Ohta-ku  Tokyo  146-8501
+				JP
+
+00-F4-8D   (hex)		Liteon Technology Corporation
+00F48D     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
+70-19-2F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70192F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+70-D3-13   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70D313     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+F0-63-F9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+9C-1D-36   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C1D36     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -150148,3 +150226,9 @@ FCB6D8     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+70-2E-D9   (hex)		Guangzhou Shiyuan Electronics Co., Ltd.
+702ED9     (base 16)		Guangzhou Shiyuan Electronics Co., Ltd.
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Gunagzhou  Guangdong  510530
+				CN
