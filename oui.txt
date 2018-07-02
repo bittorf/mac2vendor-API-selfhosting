@@ -30161,18 +30161,6 @@ B41D2B     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Eveleigh  NSW  2015
 				AU
 
-90-0E-B3   (hex)		Shenzhen Amediatech Technology Co., Ltd.
-900EB3     (base 16)		Shenzhen Amediatech Technology Co., Ltd.
-				2th floor, block A, building B, Minsheng Industrial Zone, Longhua District
-				Shenzhen  Guangdong  518109
-				CN
-
-BC-26-C7   (hex)		Cisco Systems, Inc
-BC26C7     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 FC-8F-7D   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 FC8F7D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				SONGGANG
@@ -30184,6 +30172,18 @@ FC8F7D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
 				MY
+
+90-0E-B3   (hex)		Shenzhen Amediatech Technology Co., Ltd.
+900EB3     (base 16)		Shenzhen Amediatech Technology Co., Ltd.
+				2th floor, block A, building B, Minsheng Industrial Zone, Longhua District
+				Shenzhen  Guangdong  518109
+				CN
+
+BC-26-C7   (hex)		Cisco Systems, Inc
+BC26C7     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 CC-BB-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 CCBBFE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -120112,6 +120112,12 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+00-B7-71   (hex)		Cisco Systems, Inc
+00B771     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
