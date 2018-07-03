@@ -30161,18 +30161,6 @@ B41D2B     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Eveleigh  NSW  2015
 				AU
 
-FC-8F-7D   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-FC8F7D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-				SONGGANG
-				SHENZHEN  GUANGDONG  518105
-				CN
-
-84-7F-3D   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-847F3D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-				Phase 3, Bayan Lepas FIZ
-				Bayan Lepas  Penang  11900
-				MY
-
 90-0E-B3   (hex)		Shenzhen Amediatech Technology Co., Ltd.
 900EB3     (base 16)		Shenzhen Amediatech Technology Co., Ltd.
 				2th floor, block A, building B, Minsheng Industrial Zone, Longhua District
@@ -30185,6 +30173,12 @@ BC26C7     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+FC-8F-7D   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+FC8F7D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
+
 CC-BB-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 CCBBFE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -30195,6 +30189,18 @@ CCBBFE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 20283E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+84-7F-3D   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+847F3D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+0C-41-01   (hex)		Ruichi Auto Technology (Guangzhou) Co., Ltd.
+0C4101     (base 16)		Ruichi Auto Technology (Guangzhou) Co., Ltd.
+				No. 171 Haibin Road, Nansha District, Guangzhou, China
+				Guangzhou  Guangdong Province  511400
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -89909,18 +89915,6 @@ E0456D     (base 16)		China Mobile Group Device Co.,Ltd.
 				SHEN ZHEN  GUANG DONG  518000
 				CN
 
-BC-FE-D9   (hex)		Apple, Inc.
-BCFED9     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-80-82-23   (hex)		Apple, Inc.
-808223     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 E4-B2-FB   (hex)		Apple, Inc.
 E4B2FB     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -89947,6 +89941,18 @@ F83880     (base 16)		Apple, Inc.
 
 40-26-19   (hex)		Apple, Inc.
 402619     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+BC-FE-D9   (hex)		Apple, Inc.
+BCFED9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-82-23   (hex)		Apple, Inc.
+808223     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -89980,6 +89986,12 @@ D4BD1E     (base 16)		5VT Technologies,Taiwan LTd.
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+38-30-F9   (hex)		LG Electronics (Mobile Communications)
+3830F9     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul    153-801
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -120005,12 +120017,6 @@ F095F1     (base 16)		Carl Zeiss AG
 				Oberkochen    73447
 				DE
 
-A4-D9-31   (hex)		Apple, Inc.
-A4D931     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 90-E1-7B   (hex)		Apple, Inc.
 90E17B     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -120025,6 +120031,12 @@ A4D931     (base 16)		Apple, Inc.
 
 60-8C-4A   (hex)		Apple, Inc.
 608C4A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A4-D9-31   (hex)		Apple, Inc.
+A4D931     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -120053,12 +120065,6 @@ A4D931     (base 16)		Apple, Inc.
 				San Jose  CA  94568
 				US
 
-BC-5E-A1   (hex)		PsiKick, Inc.
-BC5EA1     (base 16)		PsiKick, Inc.
-				2348 Walsh Ave
-				Santa Clara  CA  95051
-				US
-
 BC-9B-68   (hex)		Technicolor CH USA Inc.
 BC9B68     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -120076,6 +120082,12 @@ BC9B68     (base 16)		Technicolor CH USA Inc.
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
 				Miao-Lih Hsuan    115
 				TW
+
+BC-5E-A1   (hex)		PsiKick, Inc.
+BC5EA1     (base 16)		PsiKick, Inc.
+				2348 Walsh Ave
+				Santa Clara  CA  95051
+				US
 
 74-BF-C0   (hex)		CANON INC.
 74BFC0     (base 16)		CANON INC.
@@ -120118,6 +120130,12 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+14-EF-CF   (hex)		SCHREDER
+14EFCF     (base 16)		SCHREDER
+				Rue Lusambo 67
+				Brussels    1190
+				BE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
