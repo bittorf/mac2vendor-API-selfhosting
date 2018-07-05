@@ -30203,6 +30203,9 @@ F0A225     (base 16)		Private
 				DongGuan City  Guangdong  523520
 				CN
 
+F8-C2-49   (hex)		Private
+F8C249     (base 16)		Private
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
