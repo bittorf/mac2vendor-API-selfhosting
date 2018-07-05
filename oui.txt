@@ -30068,12 +30068,6 @@ CC08FB     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				SURESNES  HAUT DE SEINE  92150
 				FR
 
-00-B4-F5   (hex)		DongGuan Siyoto Electronics Co., Ltd       
-00B4F5     (base 16)		DongGuan Siyoto Electronics Co., Ltd       
-				Hecheng Industrial District, QiaoTou Town, DongGuan City,Guangdong,China
-				DongGuan     523520
-				CN
-
 C4-74-F8   (hex)		Hot Pepper, Inc.
 C474F8     (base 16)		Hot Pepper, Inc.
 				5151 California Ave., Suite 100, 
@@ -30202,6 +30196,12 @@ CCBBFE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 
 F0-A2-25   (hex)		Private
 F0A225     (base 16)		Private
+
+00-B4-F5   (hex)		DongGuan Siyoto Electronics Co., Ltd       
+00B4F5     (base 16)		DongGuan Siyoto Electronics Co., Ltd       
+				Hecheng Industrial District, QiaoTou Town
+				DongGuan City  Guangdong  523520
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -60443,6 +60443,24 @@ CCD4A1     (base 16)		MitraStar Technology Corp.
 				Dongguan    523808
 				CN
 
+84-32-6F   (hex)		AVA Electronics Co., Ltd.
+84326F     (base 16)		AVA Electronics Co., Ltd.
+				Science town luogang district guangzhou city branch bead road 232 profit people park 301, building 2
+				guangzhou   guangdong  510000
+				CN
+
+E0-5D-5C   (hex)		Oy Everon Ab
+E05D5C     (base 16)		Oy Everon Ab
+				Teräskatu 8
+				Turku    20520
+				FI
+
+C8-9C-13   (hex)		Inspiremobile
+C89C13     (base 16)		Inspiremobile
+				Rm1412, Daeryung Techno-Town, 15th, 401 , Simin-daero, Dongan-gu
+				Anyang-si  Gyeonggi-do  14057
+				KR
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -89915,18 +89933,6 @@ E0456D     (base 16)		China Mobile Group Device Co.,Ltd.
 				SHEN ZHEN  GUANG DONG  518000
 				CN
 
-BC-FE-D9   (hex)		Apple, Inc.
-BCFED9     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-80-82-23   (hex)		Apple, Inc.
-808223     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 E4-B2-FB   (hex)		Apple, Inc.
 E4B2FB     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -89953,6 +89959,18 @@ F83880     (base 16)		Apple, Inc.
 
 40-26-19   (hex)		Apple, Inc.
 402619     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+BC-FE-D9   (hex)		Apple, Inc.
+BCFED9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-82-23   (hex)		Apple, Inc.
+808223     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -120017,12 +120035,6 @@ F095F1     (base 16)		Carl Zeiss AG
 				Oberkochen    73447
 				DE
 
-A4-D9-31   (hex)		Apple, Inc.
-A4D931     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 90-E1-7B   (hex)		Apple, Inc.
 90E17B     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -120037,6 +120049,12 @@ A4D931     (base 16)		Apple, Inc.
 
 60-8C-4A   (hex)		Apple, Inc.
 608C4A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A4-D9-31   (hex)		Apple, Inc.
+A4D931     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -120065,12 +120083,6 @@ A4D931     (base 16)		Apple, Inc.
 				San Jose  CA  94568
 				US
 
-BC-5E-A1   (hex)		PsiKick, Inc.
-BC5EA1     (base 16)		PsiKick, Inc.
-				2348 Walsh Ave
-				Santa Clara  CA  95051
-				US
-
 BC-9B-68   (hex)		Technicolor CH USA Inc.
 BC9B68     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -120088,6 +120100,12 @@ BC9B68     (base 16)		Technicolor CH USA Inc.
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
 				Miao-Lih Hsuan    115
 				TW
+
+BC-5E-A1   (hex)		PsiKick, Inc.
+BC5EA1     (base 16)		PsiKick, Inc.
+				2348 Walsh Ave
+				Santa Clara  CA  95051
+				US
 
 74-BF-C0   (hex)		CANON INC.
 74BFC0     (base 16)		CANON INC.
@@ -120136,6 +120154,12 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Rue Lusambo 67
 				Brussels    1190
 				BE
+
+10-B9-F7   (hex)		Niko-Servodan
+10B9F7     (base 16)		Niko-Servodan
+				Stenager 5
+				Sønderborg    6400
+				DK
 
 54-80-28   (hex)		Hewlett Packard Enterprise
 548028     (base 16)		Hewlett Packard Enterprise
