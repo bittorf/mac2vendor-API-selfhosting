@@ -30206,6 +30206,12 @@ F0A225     (base 16)		Private
 F8-C2-49   (hex)		Private
 F8C249     (base 16)		Private
 
+34-DA-C1   (hex)		SAE Technologies Development(Dongguan) Co., Ltd.
+34DAC1     (base 16)		SAE Technologies Development(Dongguan) Co., Ltd.
+				Winnerway Industrial Area,Nancheng
+				Dongguan City  Guangdong Province  523087
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60446,6 +60452,12 @@ CCD4A1     (base 16)		MitraStar Technology Corp.
 				Dongguan    523808
 				CN
 
+C8-9C-13   (hex)		Inspiremobile
+C89C13     (base 16)		Inspiremobile
+				Rm1412, Daeryung Techno-Town, 15th, 401 , Simin-daero, Dongan-gu
+				Anyang-si  Gyeonggi-do  14057
+				KR
+
 84-32-6F   (hex)		AVA Electronics Co., Ltd.
 84326F     (base 16)		AVA Electronics Co., Ltd.
 				Science town luogang district guangzhou city branch bead road 232 profit people park 301, building 2
@@ -60458,10 +60470,22 @@ E05D5C     (base 16)		Oy Everon Ab
 				Turku    20520
 				FI
 
-C8-9C-13   (hex)		Inspiremobile
-C89C13     (base 16)		Inspiremobile
-				Rm1412, Daeryung Techno-Town, 15th, 401 , Simin-daero, Dongan-gu
-				Anyang-si  Gyeonggi-do  14057
+78-47-E3   (hex)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
+7847E3     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
+				NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY, 
+				CHENGDU  SICHUAN  611330
+				CN
+
+6C-9B-C0   (hex)		Chemoptics Inc.
+6C9BC0     (base 16)		Chemoptics Inc.
+				261, Techno 2-ro, Yuseong-gu
+				Daejeon    34026
+				KR
+
+A8-23-FE   (hex)		LG Electronics
+A823FE     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
 				KR
 
 58-46-E1   (hex)		Baxter International Inc
@@ -90013,6 +90037,12 @@ D4BD1E     (base 16)		5VT Technologies,Taiwan LTd.
 				60-39, Gasan-dong, Geumcheon-gu
 				Seoul    153-801
 				KR
+
+8C-85-E6   (hex)		Cleondris GmbH
+8C85E6     (base 16)		Cleondris GmbH
+				Zuercherstrasse 42
+				Uitikon  ZH  8142
+				CH
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -120170,6 +120200,18 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Roseville  CA  95747
 				US
 
+10-5B-AD   (hex)		Mega Well Limited
+105BAD     (base 16)		Mega Well Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
+70-5D-CC   (hex)		EFM Networks
+705DCC     (base 16)		EFM Networks
+				6F, Benposra II 1197-1 Bojeong Giheung Gu
+				Yong In  Kyunggi do  446913
+				KR
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -143942,12 +143984,6 @@ A48269     (base 16)		Datrium, Inc.
 				Mountlake Terrace  WA  98043
 				US
 
-00-18-DA   (hex)		AMBER wireless GmbH
-0018DA     (base 16)		AMBER wireless GmbH
-				Rudi-Schillings-Str. 31
-				Trier    54296
-				DE
-
 EC-24-B8   (hex)		Texas Instruments
 EC24B8     (base 16)		Texas Instruments
 				12500 TI BLVD
@@ -150289,3 +150325,9 @@ FCB6D8     (base 16)		Apple, Inc.
 				2525 Speakman Drive
 				Mississauga  Ontario  L5K 1B1
 				CA
+
+00-18-DA   (hex)		Würth Elektronik eiSos GmbH & Co. KG
+0018DA     (base 16)		Würth Elektronik eiSos GmbH & Co. KG
+				Max-Eyth-Straße 1
+				Waldenburg    74638
+				DE
