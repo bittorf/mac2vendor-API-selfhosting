@@ -150331,3 +150331,9 @@ FCB6D8     (base 16)		Apple, Inc.
 				Max-Eyth-Straße 1
 				Waldenburg    74638
 				DE
+
+E4-B9-7A   (hex)		Dell Inc.
+E4B97A     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
