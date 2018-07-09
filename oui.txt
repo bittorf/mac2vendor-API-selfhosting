@@ -60488,6 +60488,12 @@ A823FE     (base 16)		LG Electronics
 				Pyeongtaek-si  Gyeonggi-do  451-713
 				KR
 
+C0-78-78   (hex)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+C07878     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+				Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC
+				Zhuhai  Guangdong  519180
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -120188,17 +120194,17 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Brussels    1190
 				BE
 
-10-B9-F7   (hex)		Niko-Servodan
-10B9F7     (base 16)		Niko-Servodan
-				Stenager 5
-				Sønderborg    6400
-				DK
-
 54-80-28   (hex)		Hewlett Packard Enterprise
 548028     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
 				US
+
+10-B9-F7   (hex)		Niko-Servodan
+10B9F7     (base 16)		Niko-Servodan
+				Stenager 5
+				Sønderborg    6400
+				DK
 
 10-5B-AD   (hex)		Mega Well Limited
 105BAD     (base 16)		Mega Well Limited
@@ -120211,6 +120217,12 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				6F, Benposra II 1197-1 Bojeong Giheung Gu
 				Yong In  Kyunggi do  446913
 				KR
+
+44-07-0B   (hex)		Google, Inc.
+44070B     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -133123,12 +133135,6 @@ DC3350     (base 16)		TechSAT GmbH
 				1001 Hyundai Parisian,
 				Yangchun-Gu  Seoul  158-050
 				KR
-
-00-14-1D   (hex)		LTi DRIVES GmbH
-00141D     (base 16)		LTi DRIVES GmbH
-				Gewerbestrasse 5-9
-				Lahnau  Hessen  35633
-				DE
 
 00-14-11   (hex)		Deutschmann Automation GmbH & Co. KG
 001411     (base 16)		Deutschmann Automation GmbH & Co. KG
@@ -150332,8 +150338,20 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
+A4-FC-77   (hex)		Mega Well Limited
+A4FC77     (base 16)		Mega Well Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
 E4-B9-7A   (hex)		Dell Inc.
 E4B97A     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+00-14-1D   (hex)		LTI-Motion GmbH
+00141D     (base 16)		LTI-Motion GmbH
+				Gewerbestrasse 5-9
+				Lahnau  Hessen  35633
+				DE
