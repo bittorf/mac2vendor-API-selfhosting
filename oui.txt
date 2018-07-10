@@ -30218,6 +30218,12 @@ F8C249     (base 16)		Private
 				Hong Kong  NT  000000
 				HK
 
+48-A6-B8   (hex)		Sonos, Inc.
+48A6B8     (base 16)		Sonos, Inc.
+				614 Chapala St
+				Santa Barbara  CA  93101
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
