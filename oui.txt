@@ -30212,6 +30212,12 @@ F8C249     (base 16)		Private
 				Dongguan City  Guangdong Province  523087
 				CN
 
+60-CE-92   (hex)		The Refined Industry Company Limited
+60CE92     (base 16)		The Refined Industry Company Limited
+				7/F Sun King Factory Bldg,1 - 7 Shing Chuen Road, Shatin, NT
+				Hong Kong  NT  000000
+				HK
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -120224,6 +120230,12 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Mountain View  CA  94043
 				US
 
+B8-78-26   (hex)		Nintendo Co.,Ltd
+B87826     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -125491,12 +125503,6 @@ B01C91     (base 16)		Elim Co
 				4F Gagu Plaza B/D 81-9, jeongja-dong, Jangan-gu, 
 				Suwon city  Gyeonggi-Do  440-300 
 				KR
-
-0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
-0CA2F4     (base 16)		Chameleon Technology (UK) Limited
-				Winters Barn, Haggs Farm Business Park
-				Harrogate  North Yorkshire  HG3 1EQ
-				GB
 
 84-6A-ED   (hex)		Wireless Tsukamoto.,co.LTD
 846AED     (base 16)		Wireless Tsukamoto.,co.LTD
@@ -150355,3 +150361,9 @@ E4B97A     (base 16)		Dell Inc.
 				Gewerbestrasse 5-9
 				Lahnau  Hessen  35633
 				DE
+
+0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
+0CA2F4     (base 16)		Chameleon Technology (UK) Limited
+				Gardner House,  Hornbeam Park Avenue
+				Hornbeam Park  Harrogate  HG2 8NA
+				GB
