@@ -30224,6 +30224,18 @@ F8C249     (base 16)		Private
 				Santa Barbara  CA  93101
 				US
 
+B4-77-48   (hex)		Shenzhen Neoway Technology Co.,Ltd.
+B47748     (base 16)		Shenzhen Neoway Technology Co.,Ltd.
+				4F-2#,Lian Jian Science & Industry Park,Huarong Road,Dalang Street,Longhua District
+				Shenzhen  Guangdong  518000
+				CN
+
+A8-3F-A1   (hex)		IEEE Registration Authority
+A83FA1     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60511,6 +60523,18 @@ F4DBE6     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+E0-46-E5   (hex)		Gosuncn Technology Group Co., Ltd.
+E046E5     (base 16)		Gosuncn Technology Group Co., Ltd.
+				6F, 2819 KaiChuang Blvd., Science Town, Huangpu District
+				Guangzhou City   Guangdong  510530
+				CN
+
+30-13-89   (hex)		Siemens AG, Automations & Drives,
+301389     (base 16)		Siemens AG, Automations & Drives,
+				Systems Engineering
+				FÃ¼rth  Deutschlang  90766
+				DE
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -120254,12 +120278,6 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Mountain View  CA  94043
 				US
 
-B8-78-26   (hex)		Nintendo Co.,Ltd
-B87826     (base 16)		Nintendo Co.,Ltd
-				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
-				KYOTO  KYOTO  601-8501
-				JP
-
 30-29-52   (hex)		Hillstone Networks Inc
 302952     (base 16)		Hillstone Networks Inc
 				North Olympic Science & Technology Park Building #20， Floor #5, SouthBaosheng
@@ -120277,6 +120295,24 @@ D41243     (base 16)		AMPAK Technology, Inc.
 				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
 				Hsinchu  Taiwan ROC.  30352 
 				TW
+
+B8-78-26   (hex)		Nintendo Co.,Ltd
+B87826     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+F8-50-1C   (hex)		Tianjin Geneuo Technology Co.,Ltd
+F8501C     (base 16)		Tianjin Geneuo Technology Co.,Ltd
+				Technology Avenue South JingHai Economic Development Area,Tianjin China
+				Tianjin    301609
+				CN
+
+90-E7-10   (hex)		New H3C Technologies Co., Ltd
+90E710     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
