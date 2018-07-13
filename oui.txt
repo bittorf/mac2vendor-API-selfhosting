@@ -30236,6 +30236,12 @@ A83FA1     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+B8-31-B5   (hex)		Microsoft Corporation
+B831B5     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -120266,17 +120272,17 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Brussels    1190
 				BE
 
-10-B9-F7   (hex)		Niko-Servodan
-10B9F7     (base 16)		Niko-Servodan
-				Stenager 5
-				Sønderborg    6400
-				DK
-
 54-80-28   (hex)		Hewlett Packard Enterprise
 548028     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
 				US
+
+10-B9-F7   (hex)		Niko-Servodan
+10B9F7     (base 16)		Niko-Servodan
+				Stenager 5
+				Sønderborg    6400
+				DK
 
 10-5B-AD   (hex)		Mega Well Limited
 105BAD     (base 16)		Mega Well Limited
@@ -150440,17 +150446,17 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
-E4-B9-7A   (hex)		Dell Inc.
-E4B97A     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 A4-FC-77   (hex)		Mega Well Limited
 A4FC77     (base 16)		Mega Well Limited
 				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
 				Chongqing  Chongqing  401332
 				CN
+
+E4-B9-7A   (hex)		Dell Inc.
+E4B97A     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
 0CA2F4     (base 16)		Chameleon Technology (UK) Limited
