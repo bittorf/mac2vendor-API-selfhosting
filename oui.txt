@@ -60524,12 +60524,6 @@ C07878     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Zhuhai  Guangdong  519180
 				CN
 
-F4-DB-E6   (hex)		Cisco Systems, Inc
-F4DBE6     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 E0-46-E5   (hex)		Gosuncn Technology Group Co., Ltd.
 E046E5     (base 16)		Gosuncn Technology Group Co., Ltd.
 				6F, 2819 KaiChuang Blvd., Science Town, Huangpu District
@@ -60541,6 +60535,36 @@ E046E5     (base 16)		Gosuncn Technology Group Co., Ltd.
 				Systems Engineering
 				FÃ¼rth  Deutschlang  90766
 				DE
+
+F4-DB-E6   (hex)		Cisco Systems, Inc
+F4DBE6     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+DC-F4-01   (hex)		Dell Inc.
+DCF401     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+F4-95-1B   (hex)		Hefei Radio Communication Technology Co., Ltd 
+F4951B     (base 16)		Hefei Radio Communication Technology Co., Ltd 
+				 No.108, YinXing Road, High-tech Development Zone 
+				Hefei  Anhui  230088
+				CN
+
+D0-92-FA   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+D092FA     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+E8-5A-D1   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+E85AD1     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -90127,6 +90151,12 @@ A41194     (base 16)		Lenovo
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+EC-F6-BD   (hex)		SNCF MOBILITÉS
+ECF6BD     (base 16)		SNCF MOBILITÉS
+				9 rue Jean-Philippe Rameau 
+				SAINT-DENIS    93200
+				FR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -120338,6 +120368,18 @@ F8501C     (base 16)		Tianjin Geneuo Technology Co.,Ltd
 				Hangzhou  Zhejiang  310052
 				CN
 
+10-C7-53   (hex)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+10C753     (base 16)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+				No.218 Qianwangang Road
+				Qingdao  Shangdong  266510
+				CN
+
+6C-38-45   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+6C3845     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -150481,3 +150523,9 @@ F4D108     (base 16)		Intel Corporate
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+24-84-98   (hex)		Beijing Jiaoda Microunion Tech.Co.,Ltd.
+248498     (base 16)		Beijing Jiaoda Microunion Tech.Co.,Ltd.
+				4-5/F,89 Building, First Section No.44 Gaoliangqiao Xie Street, Haidian District, Beijing, China
+				Beijing  Beijing  100044
+				CN
