@@ -120380,6 +120380,12 @@ F8501C     (base 16)		Tianjin Geneuo Technology Co.,Ltd
 				Wuhan  Hubei  430074
 				CN
 
+BC-93-25   (hex)		Ningbo Joyson Preh Car Connect Co.,Ltd.  
+BC9325     (base 16)		Ningbo Joyson Preh Car Connect Co.,Ltd.  
+				No. 99, Qingyi Road
+				Ningbo   Zhejiang  315040
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -150488,17 +150494,17 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
-A4-FC-77   (hex)		Mega Well Limited
-A4FC77     (base 16)		Mega Well Limited
-				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
-				Chongqing  Chongqing  401332
-				CN
-
 E4-B9-7A   (hex)		Dell Inc.
 E4B97A     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+A4-FC-77   (hex)		Mega Well Limited
+A4FC77     (base 16)		Mega Well Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
 
 0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
 0CA2F4     (base 16)		Chameleon Technology (UK) Limited
