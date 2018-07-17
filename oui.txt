@@ -150535,3 +150535,9 @@ F4D108     (base 16)		Intel Corporate
 				4-5/F,89 Building, First Section No.44 Gaoliangqiao Xie Street, Haidian District, Beijing, China
 				Beijing  Beijing  100044
 				CN
+
+1C-FD-08   (hex)		IEEE Registration Authority
+1CFD08     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
