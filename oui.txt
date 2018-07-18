@@ -120386,6 +120386,12 @@ BC9325     (base 16)		Ningbo Joyson Preh Car Connect Co.,Ltd.
 				Ningbo   Zhejiang  315040
 				CN
 
+2C-61-04   (hex)		SHENZHEN FENGLIAN TECHNOLOGY CO., LTD.
+2C6104     (base 16)		SHENZHEN FENGLIAN TECHNOLOGY CO., LTD.
+				ORIENTAL CYBERPORT, HIGHTECH 6 ROAD
+				SHENZHEN  GUANGDONG  518057
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
