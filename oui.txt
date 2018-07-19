@@ -30242,6 +30242,12 @@ B831B5     (base 16)		Microsoft Corporation
 				REDMOND  WA  98052
 				US
 
+04-6B-25   (hex)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
+046B25     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
+				NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY, 
+				CHENGDU  SICHUAN  611330
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60542,12 +60548,6 @@ F4DBE6     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-DC-F4-01   (hex)		Dell Inc.
-DCF401     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 F4-95-1B   (hex)		Hefei Radio Communication Technology Co., Ltd 
 F4951B     (base 16)		Hefei Radio Communication Technology Co., Ltd 
 				 No.108, YinXing Road, High-tech Development Zone 
@@ -60564,6 +60564,24 @@ E8-5A-D1   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 E85AD1     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
+				CN
+
+DC-F4-01   (hex)		Dell Inc.
+DCF401     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+6C-2C-DC   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+6C2CDC     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+				7F,Block A,Skyworth Building,
+				Shenzhen  Guangdong  518057
+				CN
+
+BC-75-96   (hex)		Beijing Broadwit Technology Co., Ltd.
+BC7596     (base 16)		Beijing Broadwit Technology Co., Ltd.
+				Beijing Changping District Beijing International Information Industry Base Jizhida Building 3rd Floor Southeast
+				Beijing  Beijing  10000
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -90157,6 +90175,12 @@ ECF6BD     (base 16)		SNCF MOBILITÉS
 				9 rue Jean-Philippe Rameau 
 				SAINT-DENIS    93200
 				FR
+
+E0-79-5E   (hex)		Wuxi Xiaohu Technology Co.,Ltd.
+E0795E     (base 16)		Wuxi Xiaohu Technology Co.,Ltd.
+				FL.2, Building A10, 777 West Jianzhu Road, Binhu District
+				Wuxi  Jiangsu Province  214000
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -120302,17 +120326,17 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Brussels    1190
 				BE
 
-54-80-28   (hex)		Hewlett Packard Enterprise
-548028     (base 16)		Hewlett Packard Enterprise
-				8000 Foothills Blvd.
-				Roseville  CA  95747
-				US
-
 10-B9-F7   (hex)		Niko-Servodan
 10B9F7     (base 16)		Niko-Servodan
 				Stenager 5
 				Sønderborg    6400
 				DK
+
+54-80-28   (hex)		Hewlett Packard Enterprise
+548028     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 10-5B-AD   (hex)		Mega Well Limited
 105BAD     (base 16)		Mega Well Limited
@@ -120390,6 +120414,18 @@ BC9325     (base 16)		Ningbo Joyson Preh Car Connect Co.,Ltd.
 2C6104     (base 16)		SHENZHEN FENGLIAN TECHNOLOGY CO., LTD.
 				ORIENTAL CYBERPORT, HIGHTECH 6 ROAD
 				SHENZHEN  GUANGDONG  518057
+				CN
+
+90-C5-4A   (hex)		vivo Mobile Communication Co., Ltd.
+90C54A     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+E0-13-B5   (hex)		vivo Mobile Communication Co., Ltd.
+E013B5     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -150500,17 +150536,17 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
-E4-B9-7A   (hex)		Dell Inc.
-E4B97A     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 A4-FC-77   (hex)		Mega Well Limited
 A4FC77     (base 16)		Mega Well Limited
 				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
 				Chongqing  Chongqing  401332
 				CN
+
+E4-B9-7A   (hex)		Dell Inc.
+E4B97A     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
 0CA2F4     (base 16)		Chameleon Technology (UK) Limited
@@ -150546,4 +150582,28 @@ F4D108     (base 16)		Intel Corporate
 1CFD08     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+0C-1C-19   (hex)		LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD
+0C1C19     (base 16)		LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD
+				Building B, No. 42 Xingye Road, Phoenix First Industrial Zone, Fuyong, Baoan District
+				Shenzhen  Guangdong  518103
+				CN
+
+20-1F-31   (hex)		Inteno Broadband Technology AB
+201F31     (base 16)		Inteno Broadband Technology AB
+				Stensätravägen 13
+				Skärholmen  SE  127 39 
+				SE
+
+00-7C-2D   (hex)		Samsung Electronics Co.,Ltd
+007C2D     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+78-35-A0   (hex)		Zurn Industries LLC
+7835A0     (base 16)		Zurn Industries LLC
+				1747 Commerce Way
+				Paso Robles  CA  93446
 				US
