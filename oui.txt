@@ -60548,6 +60548,12 @@ F4DBE6     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+DC-F4-01   (hex)		Dell Inc.
+DCF401     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 F4-95-1B   (hex)		Hefei Radio Communication Technology Co., Ltd 
 F4951B     (base 16)		Hefei Radio Communication Technology Co., Ltd 
 				 No.108, YinXing Road, High-tech Development Zone 
@@ -60565,12 +60571,6 @@ E85AD1     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
-
-DC-F4-01   (hex)		Dell Inc.
-DCF401     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
 
 6C-2C-DC   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 6C2CDC     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
@@ -90181,6 +90181,12 @@ E0795E     (base 16)		Wuxi Xiaohu Technology Co.,Ltd.
 				FL.2, Building A10, 777 West Jianzhu Road, Binhu District
 				Wuxi  Jiangsu Province  214000
 				CN
+
+F4-39-09   (hex)		Hewlett Packard
+F43909     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -120326,17 +120332,17 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Brussels    1190
 				BE
 
-10-B9-F7   (hex)		Niko-Servodan
-10B9F7     (base 16)		Niko-Servodan
-				Stenager 5
-				Sønderborg    6400
-				DK
-
 54-80-28   (hex)		Hewlett Packard Enterprise
 548028     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
 				US
+
+10-B9-F7   (hex)		Niko-Servodan
+10B9F7     (base 16)		Niko-Servodan
+				Stenager 5
+				Sønderborg    6400
+				DK
 
 10-5B-AD   (hex)		Mega Well Limited
 105BAD     (base 16)		Mega Well Limited
@@ -150536,17 +150542,17 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
-A4-FC-77   (hex)		Mega Well Limited
-A4FC77     (base 16)		Mega Well Limited
-				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
-				Chongqing  Chongqing  401332
-				CN
-
 E4-B9-7A   (hex)		Dell Inc.
 E4B97A     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+A4-FC-77   (hex)		Mega Well Limited
+A4FC77     (base 16)		Mega Well Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
 
 0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
 0CA2F4     (base 16)		Chameleon Technology (UK) Limited
