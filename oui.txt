@@ -30248,6 +30248,12 @@ B831B5     (base 16)		Microsoft Corporation
 				CHENGDU  SICHUAN  611330
 				CN
 
+E8-AD-A6   (hex)		Sagemcom Broadband SAS
+E8ADA6     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60548,12 +60554,6 @@ F4DBE6     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-DC-F4-01   (hex)		Dell Inc.
-DCF401     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 F4-95-1B   (hex)		Hefei Radio Communication Technology Co., Ltd 
 F4951B     (base 16)		Hefei Radio Communication Technology Co., Ltd 
 				 No.108, YinXing Road, High-tech Development Zone 
@@ -60571,6 +60571,12 @@ E85AD1     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
+
+DC-F4-01   (hex)		Dell Inc.
+DCF401     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 6C-2C-DC   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 6C2CDC     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
@@ -120332,17 +120338,17 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Brussels    1190
 				BE
 
-54-80-28   (hex)		Hewlett Packard Enterprise
-548028     (base 16)		Hewlett Packard Enterprise
-				8000 Foothills Blvd.
-				Roseville  CA  95747
-				US
-
 10-B9-F7   (hex)		Niko-Servodan
 10B9F7     (base 16)		Niko-Servodan
 				Stenager 5
 				Sønderborg    6400
 				DK
+
+54-80-28   (hex)		Hewlett Packard Enterprise
+548028     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 10-5B-AD   (hex)		Mega Well Limited
 105BAD     (base 16)		Mega Well Limited
@@ -150542,17 +150548,17 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
-E4-B9-7A   (hex)		Dell Inc.
-E4B97A     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 A4-FC-77   (hex)		Mega Well Limited
 A4FC77     (base 16)		Mega Well Limited
 				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
 				Chongqing  Chongqing  401332
 				CN
+
+E4-B9-7A   (hex)		Dell Inc.
+E4B97A     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
 0CA2F4     (base 16)		Chameleon Technology (UK) Limited
@@ -150584,12 +150590,6 @@ F4D108     (base 16)		Intel Corporate
 				Beijing  Beijing  100044
 				CN
 
-1C-FD-08   (hex)		IEEE Registration Authority
-1CFD08     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 0C-1C-19   (hex)		LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD
 0C1C19     (base 16)		LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD
 				Building B, No. 42 Xingye Road, Phoenix First Industrial Zone, Fuyong, Baoan District
@@ -150607,6 +150607,12 @@ F4D108     (base 16)		Intel Corporate
 				129, Samsung-ro, Youngtongl-Gu
 				Suwon  Gyeonggi-Do  16677
 				KR
+
+1C-FD-08   (hex)		IEEE Registration Authority
+1CFD08     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 78-35-A0   (hex)		Zurn Industries LLC
 7835A0     (base 16)		Zurn Industries LLC
