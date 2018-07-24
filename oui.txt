@@ -20816,12 +20816,6 @@ A8CE90     (base 16)		CVC
 				RICHARDSON  TX  75081
 				
 
-00-00-BD   (hex)		MITSUBISHI CABLE COMPANY
-0000BD     (base 16)		MITSUBISHI CABLE COMPANY
-				520 MADISON AVENUE
-				NEW YORK  NY  10022
-				US
-
 00-00-37   (hex)		OXFORD METRICS LIMITED
 000037     (base 16)		OXFORD METRICS LIMITED
 				UNIT 8, 7 WEST WAY,
@@ -30253,6 +30247,18 @@ E8ADA6     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+00-00-BD   (hex)		Mitsubishi Cable Industries, Ltd. / Ryosei Systems
+0000BD     (base 16)		Mitsubishi Cable Industries, Ltd. / Ryosei Systems
+				 8, NISHINO-CHO, HIGASHI-MUKOJIMA
+				AMAGASAKI  HYOGO  660-0856
+				JP
+
+70-6D-15   (hex)		Cisco Systems, Inc
+706D15     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -60500,12 +60506,6 @@ C89C13     (base 16)		Inspiremobile
 				Anyang-si  Gyeonggi-do  14057
 				KR
 
-84-32-6F   (hex)		AVA Electronics Co., Ltd.
-84326F     (base 16)		AVA Electronics Co., Ltd.
-				Science town luogang district guangzhou city branch bead road 232 profit people park 301, building 2
-				guangzhou   guangdong  510000
-				CN
-
 E0-5D-5C   (hex)		Oy Everon Ab
 E05D5C     (base 16)		Oy Everon Ab
 				Teräskatu 8
@@ -60601,6 +60601,18 @@ CC7286     (base 16)		Xi'an Fengyu Information Technology Co., Ltd.
 				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
 				Taipei  Taiwan  112
 				TW
+
+84-32-6F   (hex)		GUANGZHOU AVA ELECTRONICS TECHNOLOGY CO.,LTD 
+84326F     (base 16)		GUANGZHOU AVA ELECTRONICS TECHNOLOGY CO.,LTD 
+				Science town luogang district guangzhou city branch bead road 232 profit people park 301, building 2
+				guangzhou   guangdong  510000
+				CN
+
+00-B8-B3   (hex)		Cisco Systems, Inc
+00B8B3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -90200,17 +90212,17 @@ E0795E     (base 16)		Wuxi Xiaohu Technology Co.,Ltd.
 				Wuxi  Jiangsu Province  214000
 				CN
 
-F4-39-09   (hex)		Hewlett Packard
-F43909     (base 16)		Hewlett Packard
-				11445 Compaq Center Drive
-				Houston  TX  77070
-				US
-
 D0-B6-0A   (hex)		Xingluo Technology Company  Limited
 D0B60A     (base 16)		Xingluo Technology Company  Limited
 				28F, Building A, Aerospace Science And Technology Square, Nanshan District
 				ShenZhen  GuangDong   518067
 				CN
+
+F4-39-09   (hex)		Hewlett Packard
+F43909     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -91417,12 +91429,6 @@ BC9C31     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-90-C9-9B   (hex)		Recore Systems
-90C99B     (base 16)		Recore Systems
-				Capitool 5
-				Enschede  Overijssel  7521 PL
-				NL
 
 5C-B5-59   (hex)		CNEX Labs
 5CB559     (base 16)		CNEX Labs
@@ -120356,17 +120362,17 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Brussels    1190
 				BE
 
-54-80-28   (hex)		Hewlett Packard Enterprise
-548028     (base 16)		Hewlett Packard Enterprise
-				8000 Foothills Blvd.
-				Roseville  CA  95747
-				US
-
 10-B9-F7   (hex)		Niko-Servodan
 10B9F7     (base 16)		Niko-Servodan
 				Stenager 5
 				Sønderborg    6400
 				DK
+
+54-80-28   (hex)		Hewlett Packard Enterprise
+548028     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 10-5B-AD   (hex)		Mega Well Limited
 105BAD     (base 16)		Mega Well Limited
@@ -120469,6 +120475,12 @@ E013B5     (base 16)		vivo Mobile Communication Co., Ltd.
 				Kibutz Magal
 				Kibutz Magal    38845
 				IL
+
+90-C9-9B   (hex)		Tesorion Nederland B.V.
+90C99B     (base 16)		Tesorion Nederland B.V.
+				Auke Vleerstraat 6-D
+				Enschede    7521 PG
+				NL
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
