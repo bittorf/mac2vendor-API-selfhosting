@@ -5597,12 +5597,6 @@ E0ED1A     (base 16)		vastriver Technology Co., Ltd
 				Izhevsk  Udmurt Republic  426000
 				RU
 
-D8-96-85   (hex)		GoPro
-D89685     (base 16)		GoPro
-				3000 Clearview Way
-				San Mateo  CA  94402
-				US
-
 08-A1-2B   (hex)		ShenZhen EZL Technology Co., Ltd
 08A12B     (base 16)		ShenZhen EZL Technology Co., Ltd
 				RM21B, Building 2, China Phoenix Building,
@@ -30242,23 +30236,17 @@ B831B5     (base 16)		Microsoft Corporation
 				CHENGDU  SICHUAN  611330
 				CN
 
-E8-AD-A6   (hex)		Sagemcom Broadband SAS
-E8ADA6     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 00-00-BD   (hex)		Mitsubishi Cable Industries, Ltd. / Ryosei Systems
 0000BD     (base 16)		Mitsubishi Cable Industries, Ltd. / Ryosei Systems
 				 8, NISHINO-CHO, HIGASHI-MUKOJIMA
 				AMAGASAKI  HYOGO  660-0856
 				JP
 
-70-6D-15   (hex)		Cisco Systems, Inc
-706D15     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+E8-AD-A6   (hex)		Sagemcom Broadband SAS
+E8ADA6     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 84-E5-D8   (hex)		Guangdong UNIPOE IoT Technology Co.,Ltd.
 84E5D8     (base 16)		Guangdong UNIPOE IoT Technology Co.,Ltd.
@@ -30283,6 +30271,18 @@ E8ADA6     (base 16)		Sagemcom Broadband SAS
 				256 Yang Guang Street, Neihu
 				Taipei  Taiwan  11491
 				TW
+
+70-6D-15   (hex)		Cisco Systems, Inc
+706D15     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+D8-96-85   (hex)		GoPro
+D89685     (base 16)		GoPro
+				3000 Clearview Way
+				San Mateo  CA  94402
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -60578,12 +60578,6 @@ F4DBE6     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-DC-F4-01   (hex)		Dell Inc.
-DCF401     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 F4-95-1B   (hex)		Hefei Radio Communication Technology Co., Ltd 
 F4951B     (base 16)		Hefei Radio Communication Technology Co., Ltd 
 				 No.108, YinXing Road, High-tech Development Zone 
@@ -60601,6 +60595,12 @@ E85AD1     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
+
+DC-F4-01   (hex)		Dell Inc.
+DCF401     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 BC-75-96   (hex)		Beijing Broadwit Technology Co., Ltd.
 BC7596     (base 16)		Beijing Broadwit Technology Co., Ltd.
@@ -92444,12 +92444,6 @@ AC3870     (base 16)		Lenovo Mobile Communication Technology Ltd.
 				Shenzhen  Guangdong  518055
 				CN
 
-F4-DD-9E   (hex)		GoPro
-F4DD9E     (base 16)		GoPro
-				3000 Clearview Way
-				San Mateo  CA  94402
-				US
-
 40-B3-CD   (hex)		Chiyoda Electronics Co.,Ltd.
 40B3CD     (base 16)		Chiyoda Electronics Co.,Ltd.
 				1-3-11 Nishiki-cho
@@ -93210,12 +93204,6 @@ FC19D0     (base 16)		Cloud Vision Networks Technology Co.,Ltd.
 20E791     (base 16)		Siemens Healthcare Diagnostics, Inc
 				2 Edgewater Drive
 				Norwood  MA  02062
-				US
-
-D4-D9-19   (hex)		GoPro
-D4D919     (base 16)		GoPro
-				3000 Clearview Way
-				San Mateo  CA  94402
 				US
 
 A4-9F-89   (hex)		Shanghai Rui Rui Communication Technology Co.Ltd.
@@ -120152,12 +120140,6 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Seattle  WA  98104-3892
 				US
 
-54-6A-D8   (hex)		Elster Water Metering Limited
-546AD8     (base 16)		Elster Water Metering Limited
-				Mas des Cavaliers II, 471 Rue Charles Nungesser 
-				Mauguio    34130
-				FR
-
 18-62-E4   (hex)		Texas Instruments
 1862E4     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -120517,6 +120499,30 @@ E013B5     (base 16)		vivo Mobile Communication Co., Ltd.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+F4-DD-9E   (hex)		GoPro
+F4DD9E     (base 16)		GoPro
+				3000 Clearview Way
+				San Mateo  CA  94402
+				US
+
+D4-D9-19   (hex)		GoPro
+D4D919     (base 16)		GoPro
+				3000 Clearview Way
+				San Mateo  CA  94402
+				US
+
+50-A0-A4   (hex)		Nokia
+50A0A4     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+54-6A-D8   (hex)		Elster Water Metering
+546AD8     (base 16)		Elster Water Metering
+				Mas des Cavaliers II, 471 Rue Charles Nungesser 
+				Mauguio    34130
+				FR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -150626,17 +150632,17 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
-E4-B9-7A   (hex)		Dell Inc.
-E4B97A     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 A4-FC-77   (hex)		Mega Well Limited
 A4FC77     (base 16)		Mega Well Limited
 				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
 				Chongqing  Chongqing  401332
 				CN
+
+E4-B9-7A   (hex)		Dell Inc.
+E4B97A     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
 0CA2F4     (base 16)		Chameleon Technology (UK) Limited
@@ -150668,12 +150674,6 @@ F4D108     (base 16)		Intel Corporate
 				Beijing  Beijing  100044
 				CN
 
-1C-FD-08   (hex)		IEEE Registration Authority
-1CFD08     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 0C-1C-19   (hex)		LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD
 0C1C19     (base 16)		LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD
 				Building B, No. 42 Xingye Road, Phoenix First Industrial Zone, Fuyong, Baoan District
@@ -150691,6 +150691,12 @@ F4D108     (base 16)		Intel Corporate
 				129, Samsung-ro, Youngtongl-Gu
 				Suwon  Gyeonggi-Do  16677
 				KR
+
+1C-FD-08   (hex)		IEEE Registration Authority
+1CFD08     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 78-35-A0   (hex)		Zurn Industries LLC
 7835A0     (base 16)		Zurn Industries LLC
@@ -150715,3 +150721,15 @@ A89042     (base 16)		Beijing Wanwei Intelligent Technology Co., Ltd.
 				Room 616, Section 1, Cuicing, No. 1 Shanyuan Street, Haidian District
 				Beijing  Beijing  100000
 				CN
+
+2C-A0-2F   (hex)		Veroguard Systems Pty Ltd
+2CA02F     (base 16)		Veroguard Systems Pty Ltd
+				PO Box 5003
+				Clayton  VIC  3168
+				AU
+
+E4-3C-80   (hex)		University of Oklahoma
+E43C80     (base 16)		University of Oklahoma
+				Advanced Radar Research Center
+				Norman  OK  73019
+				US
