@@ -150733,3 +150733,9 @@ E43C80     (base 16)		University of Oklahoma
 				Advanced Radar Research Center
 				Norman  OK  73019
 				US
+
+B0-33-A6   (hex)		Juniper Networks
+B033A6     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
