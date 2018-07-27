@@ -30278,12 +30278,6 @@ D89685     (base 16)		GoPro
 				San Mateo  CA  94402
 				US
 
-B8-2C-A0   (hex)		Resideo
-B82CA0     (base 16)		Resideo
-				3400 Intertech Drive
-				Brookfield  WI  53025
-				US
-
 80-FB-F0   (hex)		Quectel Wireless Solutions Co., Ltd.
 80FBF0     (base 16)		Quectel Wireless Solutions Co., Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -30307,6 +30301,12 @@ B82CA0     (base 16)		Resideo
 				10F, No.119, JIANKANG RD.,ZHINGHE DIST,
 				NEW TAIPEI CITY    23585
 				TW
+
+B8-2C-A0   (hex)		Resideo
+B82CA0     (base 16)		Resideo
+				2 Corporate Center Dr.
+				Melville  NY  11747
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -60662,12 +60662,6 @@ A8BC9C     (base 16)		Cloud Light Technology Limited
 				Hong Kong    00000
 				HK
 
-00-D0-2D   (hex)		Resideo
-00D02D     (base 16)		Resideo
-				165 EILEEN WAY
-				SYOSSET  NY  11791
-				US
-
 0C-B4-A4   (hex)		Xintai Automobile Intelligent Network Technology
 0CB4A4     (base 16)		Xintai Automobile Intelligent Network Technology
 				Room3703E Changfu Jinmao Building，Shihua Road
@@ -60697,6 +60691,24 @@ A887B3     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+00-D0-2D   (hex)		Resideo
+00D02D     (base 16)		Resideo
+				2 Corporate Center Dr.
+				Melville  NY  11747
+				US
+
+10-12-B4   (hex)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
+1012B4     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
+				NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY, 
+				CHENGDU  SICHUAN  611330
+				CN
+
+3C-9B-D6   (hex)		Vizio, Inc
+3C9BD6     (base 16)		Vizio, Inc
+				39 Tesla
+				Irvine  CA  92618
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -90296,17 +90308,17 @@ E0795E     (base 16)		Wuxi Xiaohu Technology Co.,Ltd.
 				Wuxi  Jiangsu Province  214000
 				CN
 
-D0-B6-0A   (hex)		Xingluo Technology Company  Limited
-D0B60A     (base 16)		Xingluo Technology Company  Limited
-				28F, Building A, Aerospace Science And Technology Square, Nanshan District
-				ShenZhen  GuangDong   518067
-				CN
-
 F4-39-09   (hex)		Hewlett Packard
 F43909     (base 16)		Hewlett Packard
 				11445 Compaq Center Drive
 				Houston  TX  77070
 				US
+
+D0-B6-0A   (hex)		Xingluo Technology Company  Limited
+D0B60A     (base 16)		Xingluo Technology Company  Limited
+				28F, Building A, Aerospace Science And Technology Square, Nanshan District
+				ShenZhen  GuangDong   518067
+				CN
 
 00-42-79   (hex)		Sunitec Enterprise Co.,Ltd
 004279     (base 16)		Sunitec Enterprise Co.,Ltd
@@ -120446,17 +120458,17 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Brussels    1190
 				BE
 
-10-B9-F7   (hex)		Niko-Servodan
-10B9F7     (base 16)		Niko-Servodan
-				Stenager 5
-				Sønderborg    6400
-				DK
-
 54-80-28   (hex)		Hewlett Packard Enterprise
 548028     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
 				US
+
+10-B9-F7   (hex)		Niko-Servodan
+10B9F7     (base 16)		Niko-Servodan
+				Stenager 5
+				Sønderborg    6400
+				DK
 
 10-5B-AD   (hex)		Mega Well Limited
 105BAD     (base 16)		Mega Well Limited
@@ -120584,24 +120596,6 @@ D4D919     (base 16)		GoPro
 				San Mateo  CA  94402
 				US
 
-50-A0-A4   (hex)		Nokia
-50A0A4     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-54-6A-D8   (hex)		Elster Water Metering
-546AD8     (base 16)		Elster Water Metering
-				Mas des Cavaliers II, 471 Rue Charles Nungesser 
-				Mauguio    34130
-				FR
-
-D4-32-60   (hex)		GoPro
-D43260     (base 16)		GoPro
-				3000 Clearview Way
-				San Mateo  CA  94402
-				US
-
 D8-A9-8B   (hex)		Texas Instruments
 D8A98B     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -120620,6 +120614,18 @@ B07E11     (base 16)		Texas Instruments
 				Bangpakong  Chachoengsao  24180
 				TH
 
+50-A0-A4   (hex)		Nokia
+50A0A4     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+54-6A-D8   (hex)		Elster Water Metering
+546AD8     (base 16)		Elster Water Metering
+				Mas des Cavaliers II, 471 Rue Charles Nungesser 
+				Mauguio    34130
+				FR
+
 A4-50-46   (hex)		Xiaomi Communications Co Ltd
 A45046     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
@@ -120631,6 +120637,18 @@ A45046     (base 16)		Xiaomi Communications Co Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+D4-32-60   (hex)		GoPro
+D43260     (base 16)		GoPro
+				3000 Clearview Way
+				San Mateo  CA  94402
+				US
+
+50-DB-3F   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+50DB3F     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -150883,3 +150901,9 @@ DCF756     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+10-81-B4   (hex)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
+1081B4     (base 16)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
+				No. 39, Jian Shan Road
+				Changsha  Hunan  410205
+				CN
