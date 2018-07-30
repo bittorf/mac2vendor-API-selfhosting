@@ -60692,11 +60692,11 @@ A887B3     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-00-D0-2D   (hex)		Resideo
-00D02D     (base 16)		Resideo
-				2 Corporate Center Dr.
-				Melville  NY  11747
-				US
+70-BB-E9   (hex)		Xiaomi Communications Co Ltd
+70BBE9     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 10-12-B4   (hex)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 1012B4     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
@@ -60708,6 +60708,12 @@ A887B3     (base 16)		Samsung Electronics Co.,Ltd
 3C9BD6     (base 16)		Vizio, Inc
 				39 Tesla
 				Irvine  CA  92618
+				US
+
+00-D0-2D   (hex)		Resideo
+00D02D     (base 16)		Resideo
+				2 Corporate Center Dr.
+				Melville  NY  11747
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -120650,6 +120656,12 @@ D43260     (base 16)		GoPro
 				SHENZHEN  GUANGDONG  518105
 				CN
 
+78-70-52   (hex)		Welotec GmbH
+787052     (base 16)		Welotec GmbH
+				zum Hagenbach 7
+				Laer  NRW  48366
+				DE
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -150884,6 +150896,12 @@ B033A6     (base 16)		Juniper Networks
 				Dallas  TX  75243
 				US
 
+10-81-B4   (hex)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
+1081B4     (base 16)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
+				No. 39, Jian Shan Road
+				Changsha  Hunan  410205
+				CN
+
 F4-7D-EF   (hex)		Samsung Electronics Co.,Ltd
 F47DEF     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -150902,8 +150920,8 @@ DCF756     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-10-81-B4   (hex)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
-1081B4     (base 16)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
-				No. 39, Jian Shan Road
-				Changsha  Hunan  410205
+64-F8-1C   (hex)		Huawei Technologies Co., Ltd.
+64F81C     (base 16)		Huawei Technologies Co., Ltd.
+				 Bantian, Longgang District, Shenzhen, 518129, P.R.C
+				Shenzhen  GUANGDONG Province  518000
 				CN
