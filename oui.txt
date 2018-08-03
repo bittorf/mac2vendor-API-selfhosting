@@ -60776,6 +60776,12 @@ F0AF85     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
+B8-9A-9A   (hex)		Xin Shi Jia Technology (Beijing) Co.,Ltd
+B89A9A     (base 16)		Xin Shi Jia Technology (Beijing) Co.,Ltd
+				Room 1002, A Tower, Zhongguancun E World Wealth Center, No.11, Zhongguancun Street, Haidian District, Beijing City
+				Beijing  Beijing  100190
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -90432,6 +90438,12 @@ FC-AE-34   (hex)		ARRIS Group, Inc.
 FCAE34     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
+				US
+
+3C-2C-30   (hex)		Dell Inc.
+3C2C30     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -120787,6 +120799,12 @@ E0A509     (base 16)		Bitmain Technologies Inc
 				Building 25, North Olympic Science & Technology Park, Baosheng South Road, Haidian District, Beijing, China
 				Beijing  BEIJING  CHINA
 				CN
+
+3C-37-86   (hex)		NETGEAR
+3C3786     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
