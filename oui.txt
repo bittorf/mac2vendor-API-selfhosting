@@ -30326,17 +30326,17 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-00-D8-61   (hex)		Micro-Star INTL CO., LTD.
-00D861     (base 16)		Micro-Star INTL CO., LTD.
-				No.69, Lide St.,
-				New Taipei City  Taiwan  235
-				TW
-
 6C-A9-28   (hex)		HMD Global Oy
 6CA928     (base 16)		HMD Global Oy
 				Karaportti 2
 				Espoo    02610
 				FI
+
+00-D8-61   (hex)		Micro-Star INTL CO., LTD.
+00D861     (base 16)		Micro-Star INTL CO., LTD.
+				No.69, Lide St.,
+				New Taipei City  Taiwan  235
+				TW
 
 04-33-85   (hex)		Nanchang BlackShark Co.,Ltd.
 043385     (base 16)		Nanchang BlackShark Co.,Ltd.
@@ -60796,6 +60796,12 @@ C02250     (base 16)		Koss Corporation
 				4129 N. Port Washington Ave.
 				Milwaukee  WI  53212
 				US
+
+10-9E-3A   (hex)		Zhejiang Tmall Technology Co., Ltd.
+109E3A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
+				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
+				Shenzhen  Guangdong  518000
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -120839,6 +120845,12 @@ DCDA80     (base 16)		New H3C Technologies Co., Ltd
 F0-4F-7C   (hex)		Private
 F04F7C     (base 16)		Private
 
+0C-FE-5D   (hex)		IEEE Registration Authority
+0CFE5D     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -151138,3 +151150,9 @@ AC1585     (base 16)		silergy corp
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
 				US
+
+C8-2E-47   (hex)		Suzhou SmartChip Semiconductor Co., LTD
+C82E47     (base 16)		Suzhou SmartChip Semiconductor Co., LTD
+				9A,Science Plaza,1355 JinJiHu Avenue, Suzhou Industrial Park,
+				Suzhou   Jiangsu  215021
+				CN
