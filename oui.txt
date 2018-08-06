@@ -26525,9 +26525,6 @@ C4F312     (base 16)		Texas Instruments
 				San Jose  CA  95134
 				US
 
-A0-D8-6F   (hex)		Private
-A0D86F     (base 16)		Private
-
 38-90-A5   (hex)		Cisco Systems, Inc
 3890A5     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -26575,9 +26572,6 @@ E4A7C5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				181
 				GUMI  KYUNGBUK  730-030
 				KR
-
-48-D3-5D   (hex)		Private
-48D35D     (base 16)		Private
 
 50-0F-80   (hex)		Cisco Systems, Inc
 500F80     (base 16)		Cisco Systems, Inc
@@ -30332,17 +30326,29 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+00-D8-61   (hex)		Micro-Star INTL CO., LTD.
+00D861     (base 16)		Micro-Star INTL CO., LTD.
+				No.69, Lide St.,
+				New Taipei City  Taiwan  235
+				TW
+
 6C-A9-28   (hex)		HMD Global Oy
 6CA928     (base 16)		HMD Global Oy
 				Karaportti 2
 				Espoo    02610
 				FI
 
-00-D8-61   (hex)		Micro-Star INTL CO., LTD.
-00D861     (base 16)		Micro-Star INTL CO., LTD.
-				No.69, Lide St.,
-				New Taipei City  Taiwan  235
-				TW
+04-33-85   (hex)		Nanchang BlackShark Co.,Ltd.
+043385     (base 16)		Nanchang BlackShark Co.,Ltd.
+				Room 319, Jiaoqiao Town Office Building, Economic and Technical development zone, Nanchang City, Jiangxi Province.
+				Nanchang    330013
+				CN
+
+48-D3-5D   (hex)		Private
+48D35D     (base 16)		Private
+
+A0-D8-6F   (hex)		Private
+A0D86F     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -55703,9 +55709,6 @@ ECC06A     (base 16)		PowerChord Group Limited
 				Annandale  NSW  2000
 				AU
 
-C0-22-50   (hex)		Private
-C02250     (base 16)		Private
-
 00-94-A1   (hex)		F5 Networks, Inc.
 0094A1     (base 16)		F5 Networks, Inc.
 				401 Elliott Ave. W.
@@ -60781,6 +60784,18 @@ B89A9A     (base 16)		Xin Shi Jia Technology (Beijing) Co.,Ltd
 				Room 1002, A Tower, Zhongguancun E World Wealth Center, No.11, Zhongguancun Street, Haidian District, Beijing City
 				Beijing  Beijing  100190
 				CN
+
+D4-C9-4B   (hex)		Motorola Mobility LLC, a Lenovo Company
+D4C94B     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+C0-22-50   (hex)		Koss Corporation
+C02250     (base 16)		Koss Corporation
+				4129 N. Port Washington Ave.
+				Milwaukee  WI  53212
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -87080,9 +87095,6 @@ BC5451     (base 16)		Samsung Electronics Co.,Ltd
 				Piscataway  NJ  08554
 				US
 
-AC-F8-5C   (hex)		Private
-ACF85C     (base 16)		Private
-
 A0-39-EE   (hex)		Sagemcom Broadband SAS
 A039EE     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
@@ -90445,6 +90457,9 @@ FCAE34     (base 16)		ARRIS Group, Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+AC-F8-5C   (hex)		Private
+ACF85C     (base 16)		Private
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -117185,9 +117200,6 @@ F06E0B     (base 16)		Microsoft Corporation
 				Oslo    0612
 				NO
 
-F0-4F-7C   (hex)		Private
-F04F7C     (base 16)		Private
-
 0C-B2-B7   (hex)		Texas Instruments
 0CB2B7     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -120805,6 +120817,27 @@ E0A509     (base 16)		Bitmain Technologies Inc
 				350 East Plumeria Drive
 				San Jose  CA  95134
 				US
+
+9C-69-37   (hex)		Qorvo Utrecht B.V.
+9C6937     (base 16)		Qorvo Utrecht B.V.
+				Leidseveer 10
+				Utrecht  Utrecht  3511SB
+				NL
+
+DC-DA-80   (hex)		New H3C Technologies Co., Ltd
+DCDA80     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+60-1D-91   (hex)		Motorola Mobility LLC, a Lenovo Company
+601D91     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+F0-4F-7C   (hex)		Private
+F04F7C     (base 16)		Private
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -151098,4 +151131,10 @@ AC-15-85   (hex)		silergy corp
 AC1585     (base 16)		silergy corp
 				Oleander  Way，802 West  Bay  Road，P.O. BOX    32052
 				Grand   Cayman  KYI-1208，Cayman Islands    32052
+				US
+
+3C-8D-20   (hex)		Google, Inc.
+3C8D20     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
 				US
