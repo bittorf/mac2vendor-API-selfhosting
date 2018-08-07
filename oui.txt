@@ -30326,17 +30326,17 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-6C-A9-28   (hex)		HMD Global Oy
-6CA928     (base 16)		HMD Global Oy
-				Karaportti 2
-				Espoo    02610
-				FI
-
 00-D8-61   (hex)		Micro-Star INTL CO., LTD.
 00D861     (base 16)		Micro-Star INTL CO., LTD.
 				No.69, Lide St.,
 				New Taipei City  Taiwan  235
 				TW
+
+6C-A9-28   (hex)		HMD Global Oy
+6CA928     (base 16)		HMD Global Oy
+				Karaportti 2
+				Espoo    02610
+				FI
 
 04-33-85   (hex)		Nanchang BlackShark Co.,Ltd.
 043385     (base 16)		Nanchang BlackShark Co.,Ltd.
@@ -30344,11 +30344,11 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				Nanchang    330013
 				CN
 
-48-D3-5D   (hex)		Private
-48D35D     (base 16)		Private
-
 A0-D8-6F   (hex)		Private
 A0D86F     (base 16)		Private
+
+48-D3-5D   (hex)		Private
+48D35D     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -60803,6 +60803,24 @@ C02250     (base 16)		Koss Corporation
 				Shenzhen  Guangdong  518000
 				CN
 
+2C-1C-F6   (hex)		Alien Green LLC
+2C1CF6     (base 16)		Alien Green LLC
+				A. Kazbegi Ave., No24g, apt 227
+				Tbilisi  Tbilisi  0160
+				GE
+
+E4-38-8C   (hex)		Digital Products Limited
+E4388C     (base 16)		Digital Products Limited
+				53 Clark Road
+				Rothesay  New Brunswick  E2E 2K9
+				CA
+
+18-1E-95   (hex)		AuVerte
+181E95     (base 16)		AuVerte
+				14 Riverview Road
+				Niantic  CT  06357
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -90466,6 +90484,18 @@ FCAE34     (base 16)		ARRIS Group, Inc.
 
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
+
+6C-2B-59   (hex)		Dell Inc.
+6C2B59     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+0C-D0-F8   (hex)		Cisco Systems, Inc
+0CD0F8     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
