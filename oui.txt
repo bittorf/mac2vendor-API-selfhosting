@@ -30326,17 +30326,17 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-00-D8-61   (hex)		Micro-Star INTL CO., LTD.
-00D861     (base 16)		Micro-Star INTL CO., LTD.
-				No.69, Lide St.,
-				New Taipei City  Taiwan  235
-				TW
-
 6C-A9-28   (hex)		HMD Global Oy
 6CA928     (base 16)		HMD Global Oy
 				Karaportti 2
 				Espoo    02610
 				FI
+
+00-D8-61   (hex)		Micro-Star INTL CO., LTD.
+00D861     (base 16)		Micro-Star INTL CO., LTD.
+				No.69, Lide St.,
+				New Taipei City  Taiwan  235
+				TW
 
 04-33-85   (hex)		Nanchang BlackShark Co.,Ltd.
 043385     (base 16)		Nanchang BlackShark Co.,Ltd.
@@ -90493,6 +90493,12 @@ ACF85C     (base 16)		Private
 
 0C-D0-F8   (hex)		Cisco Systems, Inc
 0CD0F8     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+70-0B-4F   (hex)		Cisco Systems, Inc
+700B4F     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
