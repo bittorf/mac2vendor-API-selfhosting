@@ -30350,6 +30350,18 @@ A0D86F     (base 16)		Private
 48-D3-5D   (hex)		Private
 48D35D     (base 16)		Private
 
+D8-F2-CA   (hex)		Intel Corporate
+D8F2CA     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+B4-C6-2E   (hex)		Molex CMS
+B4C62E     (base 16)		Molex CMS
+				2222 Wellington Court
+				Lisle  IL  60532
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -90503,6 +90515,12 @@ ACF85C     (base 16)		Private
 				San Jose  CA  94568
 				US
 
+10-2C-6B   (hex)		AMPAK Technology, Inc.
+102C6B     (base 16)		AMPAK Technology, Inc.
+				3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu, Taiwan (R.O.C.)
+				Hsinchu  Taiwan ROC.  30352
+				TW
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -110276,12 +110294,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				CHAMPAIGN  IL  61821
 				US
 
-00-A0-68   (hex)		BHP LIMITED
-00A068     (base 16)		BHP LIMITED
-				GPO BOX 86A
-				    
-				AU
-
 00-A0-B3   (hex)		ZYKRONIX
 00A0B3     (base 16)		ZYKRONIX
 				7248 SOUTH TUCSON WAY
@@ -120885,6 +120897,12 @@ F04F7C     (base 16)		Private
 0CFE5D     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+00-A0-68   (hex)		BHP LIMITED
+00A068     (base 16)		BHP LIMITED
+				1500 Post Oak Boulevard #11.08 B
+				Houston  TX  77056-3030
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -151192,3 +151210,9 @@ C82E47     (base 16)		Suzhou SmartChip Semiconductor Co., LTD
 				9A,Science Plaza,1355 JinJiHu Avenue, Suzhou Industrial Park,
 				Suzhou   Jiangsu  215021
 				CN
+
+FC-77-74   (hex)		Intel Corporate
+FC7774     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
