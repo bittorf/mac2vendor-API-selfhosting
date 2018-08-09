@@ -151228,3 +151228,9 @@ FC7774     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+B4-0B-78   (hex)		Brusa Elektronik AG
+B40B78     (base 16)		Brusa Elektronik AG
+				Neudorf 14
+				Sennwald  St. Gallen  9466
+				CH
