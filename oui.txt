@@ -30326,17 +30326,17 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-6C-A9-28   (hex)		HMD Global Oy
-6CA928     (base 16)		HMD Global Oy
-				Karaportti 2
-				Espoo    02610
-				FI
-
 00-D8-61   (hex)		Micro-Star INTL CO., LTD.
 00D861     (base 16)		Micro-Star INTL CO., LTD.
 				No.69, Lide St.,
 				New Taipei City  Taiwan  235
 				TW
+
+6C-A9-28   (hex)		HMD Global Oy
+6CA928     (base 16)		HMD Global Oy
+				Karaportti 2
+				Espoo    02610
+				FI
 
 04-33-85   (hex)		Nanchang BlackShark Co.,Ltd.
 043385     (base 16)		Nanchang BlackShark Co.,Ltd.
@@ -30361,6 +30361,12 @@ B4C62E     (base 16)		Molex CMS
 				2222 Wellington Court
 				Lisle  IL  60532
 				US
+
+B8-25-9A   (hex)		Thalmic Labs 
+B8259A     (base 16)		Thalmic Labs 
+				24 Charles Street West 
+				Kitchener   Ontario   N2G 1H2
+				CA
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
