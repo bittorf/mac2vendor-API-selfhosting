@@ -30326,17 +30326,17 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-00-D8-61   (hex)		Micro-Star INTL CO., LTD.
-00D861     (base 16)		Micro-Star INTL CO., LTD.
-				No.69, Lide St.,
-				New Taipei City  Taiwan  235
-				TW
-
 6C-A9-28   (hex)		HMD Global Oy
 6CA928     (base 16)		HMD Global Oy
 				Karaportti 2
 				Espoo    02610
 				FI
+
+00-D8-61   (hex)		Micro-Star INTL CO., LTD.
+00D861     (base 16)		Micro-Star INTL CO., LTD.
+				No.69, Lide St.,
+				New Taipei City  Taiwan  235
+				TW
 
 04-33-85   (hex)		Nanchang BlackShark Co.,Ltd.
 043385     (base 16)		Nanchang BlackShark Co.,Ltd.
@@ -60839,6 +60839,12 @@ E4388C     (base 16)		Digital Products Limited
 				Milpitas    95035
 				US
 
+1C-54-9E   (hex)		Universal Electronics, Inc.
+1C549E     (base 16)		Universal Electronics, Inc.
+				201 E. Sandpointe Ave
+				Santa Ana  CA  92707
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -90503,6 +90509,12 @@ FCAE34     (base 16)		ARRIS Group, Inc.
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
+10-2C-6B   (hex)		AMPAK Technology, Inc.
+102C6B     (base 16)		AMPAK Technology, Inc.
+				3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu, Taiwan (R.O.C.)
+				Hsinchu  Taiwan ROC.  30352
+				TW
+
 6C-2B-59   (hex)		Dell Inc.
 6C2B59     (base 16)		Dell Inc.
 				One Dell Way
@@ -90520,12 +90532,6 @@ ACF85C     (base 16)		Private
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-10-2C-6B   (hex)		AMPAK Technology, Inc.
-102C6B     (base 16)		AMPAK Technology, Inc.
-				3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu, Taiwan (R.O.C.)
-				Hsinchu  Taiwan ROC.  30352
-				TW
 
 20-79-18   (hex)		Intel Corporate
 207918     (base 16)		Intel Corporate
@@ -120916,6 +120922,12 @@ F04F7C     (base 16)		Private
 				1500 Post Oak Boulevard #11.08 B
 				Houston  TX  77056-3030
 				US
+
+50-8C-F5   (hex)		China Mobile Group Device Co.,Ltd.
+508CF5     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
