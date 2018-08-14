@@ -90533,6 +90533,12 @@ ACF85C     (base 16)		Private
 				Kulim  Kedah  09000
 				MY
 
+D8-CE-3A   (hex)		Xiaomi Communications Co Ltd
+D8CE3A     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
 18-FE-34   (hex)		Espressif Inc.
 18FE34     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
@@ -90549,12 +90555,6 @@ ACF85C     (base 16)		Private
 600194     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
-				CN
-
-D8-CE-3A   (hex)		Xiaomi Communications Co Ltd
-D8CE3A     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 2C-3A-E8   (hex)		Espressif Inc.
@@ -120982,6 +120982,12 @@ A047D7     (base 16)		Best IT World (India) Pvt Ltd
 				9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT
 				SHEN ZHEN  GUANG DONG  518000
 				CN
+
+98-F9-C7   (hex)		IEEE Registration Authority
+98F9C7     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
