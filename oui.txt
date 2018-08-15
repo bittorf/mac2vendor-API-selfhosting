@@ -30332,16 +30332,22 @@ B8259A     (base 16)		Thalmic Labs
 				Kitchener   Ontario   N2G 1H2
 				CA
 
-54-5A-A6   (hex)		Espressif Inc.
-545AA6     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
+40-B3-0E   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+40B30E     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
 
-24-0A-C4   (hex)		Espressif Inc.
-240AC4     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
+04-CE-7E   (hex)		NXP France Semiconductors France
+04CE7E     (base 16)		NXP France Semiconductors France
+				Parc les Algorithmes,Saint Aubin
+				Gif sur Yvette    91193
+				FR
+
+A4-0C-66   (hex)		Shenzhen Colorful Yugong Technology and Development Co., Ltd.
+A40C66     (base 16)		Shenzhen Colorful Yugong Technology and Development Co., Ltd.
+				13F, Central Business Tower, No.88 Fuhua First Rd., Futian District, Shenzhen, Guangdong, China
+				Shenzhen  Guangdong  518000
 				CN
 
 D8-A0-1D   (hex)		Espressif Inc.
@@ -30374,22 +30380,16 @@ B4E62D     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-40-B3-0E   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-40B30E     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-				Phase 3, Bayan Lepas FIZ
-				Bayan Lepas  Penang  11900
-				MY
+54-5A-A6   (hex)		Espressif Inc.
+545AA6     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
-04-CE-7E   (hex)		NXP France Semiconductors France
-04CE7E     (base 16)		NXP France Semiconductors France
-				Parc les Algorithmes,Saint Aubin
-				Gif sur Yvette    91193
-				FR
-
-A4-0C-66   (hex)		Shenzhen Colorful Yugong Technology and Development Co., Ltd.
-A40C66     (base 16)		Shenzhen Colorful Yugong Technology and Development Co., Ltd.
-				13F, Central Business Tower, No.88 Fuhua First Rd., Futian District, Shenzhen, Guangdong, China
-				Shenzhen  Guangdong  518000
+24-0A-C4   (hex)		Espressif Inc.
+240AC4     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -60881,6 +60881,12 @@ A020A6     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
+54-9B-72   (hex)		Ericsson AB
+549B72     (base 16)		Ericsson AB
+				Torshamnsgatan 36
+				Stockholm    SE-164 80
+				SE
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -90533,12 +90539,6 @@ ACF85C     (base 16)		Private
 				Kulim  Kedah  09000
 				MY
 
-D8-CE-3A   (hex)		Xiaomi Communications Co Ltd
-D8CE3A     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
 18-FE-34   (hex)		Espressif Inc.
 18FE34     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
@@ -90555,6 +90555,12 @@ D8CE3A     (base 16)		Xiaomi Communications Co Ltd
 600194     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
+				CN
+
+D8-CE-3A   (hex)		Xiaomi Communications Co Ltd
+D8CE3A     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 2C-3A-E8   (hex)		Espressif Inc.
