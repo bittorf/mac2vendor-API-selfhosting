@@ -60941,6 +60941,12 @@ F82D7C     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+A0-A3-B8   (hex)		WISCLOUD
+A0A3B8     (base 16)		WISCLOUD
+				Tech Park Xia Sha
+				Hangzhou  Zhejiang  310000
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
