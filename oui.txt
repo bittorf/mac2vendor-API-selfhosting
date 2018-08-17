@@ -121097,22 +121097,16 @@ A047D7     (base 16)		Best IT World (India) Pvt Ltd
 				Austin  TX  78735
 				US
 
+04-F9-D9   (hex)		Speaker Electronic(Jiashan) Co.,Ltd
+04F9D9     (base 16)		Speaker Electronic(Jiashan) Co.,Ltd
+				No. 8 Development Zone Road, Huimin Sub-district
+				 Jiashan  Zhejiang  314112
+				CN
+
 B0-C3-87   (hex)		GOEFER, Inc.
 B0C387     (base 16)		GOEFER, Inc.
 				118 N. Market St.
 				Frederick  MD  21701
-				US
-
-38-F9-D3   (hex)		Apple, Inc.
-38F9D3     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-44-E6-6E   (hex)		Apple, Inc.
-44E66E     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
 				US
 
 E8-36-17   (hex)		Apple, Inc.
@@ -121129,6 +121123,18 @@ E83617     (base 16)		Apple, Inc.
 
 C0-9A-D0   (hex)		Apple, Inc.
 C09AD0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+38-F9-D3   (hex)		Apple, Inc.
+38F9D3     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+44-E6-6E   (hex)		Apple, Inc.
+44E66E     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
