@@ -60929,6 +60929,12 @@ A020A6     (base 16)		Espressif Inc.
 				Stockholm    SE-164 80
 				SE
 
+DC-08-0F   (hex)		Apple, Inc.
+DC080F     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 F8-2D-7C   (hex)		Apple, Inc.
 F82D7C     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -60937,12 +60943,6 @@ F82D7C     (base 16)		Apple, Inc.
 
 9C-64-8B   (hex)		Apple, Inc.
 9C648B     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-14-D0-0D   (hex)		Apple, Inc.
-14D00D     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -60959,8 +60959,8 @@ A0A3B8     (base 16)		WISCLOUD
 				Hangzhou  Zhejiang  310000
 				CN
 
-DC-08-0F   (hex)		Apple, Inc.
-DC080F     (base 16)		Apple, Inc.
+14-D0-0D   (hex)		Apple, Inc.
+14D00D     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -60970,6 +60970,12 @@ DC080F     (base 16)		Apple, Inc.
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+34-93-42   (hex)		TTE Corporation
+349342     (base 16)		TTE Corporation
+				7/F, Building 22E 22 Science Park East Avenue Hong Kong Science Park Shatin, N.T.
+				Hong Kong    999077
+				HK
 
 48-E6-95   (hex)		Insigma Inc
 48E695     (base 16)		Insigma Inc
@@ -60989,11 +60995,11 @@ F80DF1     (base 16)		Sontex SA
 				sonceboz  Bern  2605
 				CH
 
-34-93-42   (hex)		TTE Corporation
-349342     (base 16)		TTE Corporation
-				7/F, Building 22E 22 Science Park East Avenue Hong Kong Science Park Shatin, N.T.
-				Hong Kong    999077
-				HK
+9C-8C-D8   (hex)		Hewlett Packard Enterprise
+9C8CD8     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -90647,12 +90653,6 @@ ACF85C     (base 16)		Private
 				Kulim  Kedah  09000
 				MY
 
-D8-CE-3A   (hex)		Xiaomi Communications Co Ltd
-D8CE3A     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
 18-FE-34   (hex)		Espressif Inc.
 18FE34     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
@@ -90669,6 +90669,18 @@ D8CE3A     (base 16)		Xiaomi Communications Co Ltd
 600194     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
+				CN
+
+D8-CE-3A   (hex)		Xiaomi Communications Co Ltd
+D8CE3A     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+B8-C7-4A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+B8C74A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
 				CN
 
 2C-3A-E8   (hex)		Espressif Inc.
@@ -90695,17 +90707,11 @@ BCDDC2     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-CC-D3-C1   (hex)		Vestel Elektronik San ve Tic. A.Ş.
-CCD3C1     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
-				Organize san
-				Manisa  Turket  45030
-				TR
-
-B8-C7-4A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-B8C74A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
+FC-18-3C   (hex)		Apple, Inc.
+FC183C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 C0-E8-62   (hex)		Apple, Inc.
 C0E862     (base 16)		Apple, Inc.
@@ -90719,14 +90725,14 @@ EC2CE2     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+CC-D3-C1   (hex)		Vestel Elektronik San ve Tic. A.Ş.
+CCD3C1     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
+				Organize san
+				Manisa  Turket  45030
+				TR
+
 64-C7-53   (hex)		Apple, Inc.
 64C753     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-FC-18-3C   (hex)		Apple, Inc.
-FC183C     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -121121,6 +121127,12 @@ F04F7C     (base 16)		Private
 				Beijing    100053
 				CN
 
+0C-95-41   (hex)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
+0C9541     (base 16)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
+				9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT
+				SHEN ZHEN  GUANG DONG  518000
+				CN
+
 A0-47-D7   (hex)		Best IT World (India) Pvt Ltd
 A047D7     (base 16)		Best IT World (India) Pvt Ltd
 				87, Mistry Complex,, Midc Cross Road A, Andheri-East
@@ -121133,17 +121145,23 @@ A047D7     (base 16)		Best IT World (India) Pvt Ltd
 				Shanghai  Shanghai  201203
 				CN
 
-0C-95-41   (hex)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
-0C9541     (base 16)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
-				9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT
-				SHEN ZHEN  GUANG DONG  518000
-				CN
-
 98-F9-C7   (hex)		IEEE Registration Authority
 98F9C7     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+08-6B-D7   (hex)		Silicon Laboratories
+086BD7     (base 16)		Silicon Laboratories
+				7000 W. William Cannon Dr.
+				Austin  TX  78735
+				US
+
+04-F9-D9   (hex)		Speaker Electronic(Jiashan) Co.,Ltd
+04F9D9     (base 16)		Speaker Electronic(Jiashan) Co.,Ltd
+				No. 8 Development Zone Road, Huimin Sub-district
+				 Jiashan  Zhejiang  314112
+				CN
 
 B0-C3-87   (hex)		GOEFER, Inc.
 B0C387     (base 16)		GOEFER, Inc.
@@ -121151,28 +121169,10 @@ B0C387     (base 16)		GOEFER, Inc.
 				Frederick  MD  21701
 				US
 
-38-F9-D3   (hex)		Apple, Inc.
-38F9D3     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-44-E6-6E   (hex)		Apple, Inc.
-44E66E     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 E8-36-17   (hex)		Apple, Inc.
 E83617     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
-				US
-
-08-6B-D7   (hex)		Silicon Laboratories
-086BD7     (base 16)		Silicon Laboratories
-				7000 W. William Cannon Dr.
-				Austin  TX  78735
 				US
 
 34-42-62   (hex)		Apple, Inc.
@@ -121187,16 +121187,16 @@ C09AD0     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-04-F9-D9   (hex)		Speaker Electronic(Jiashan) Co.,Ltd
-04F9D9     (base 16)		Speaker Electronic(Jiashan) Co.,Ltd
-				No. 8 Development Zone Road, Huimin Sub-district
-				 Jiashan  Zhejiang  314112
-				CN
+38-F9-D3   (hex)		Apple, Inc.
+38F9D3     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
-10-C5-95   (hex)		Lenovo
-10C595     (base 16)		Lenovo
-				1009 Think Place
-				Morrisvilee  NC  27560
+44-E6-6E   (hex)		Apple, Inc.
+44E66E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 44-28-A3   (hex)		Jiangsu fulian  Communication Technology Co., Ltd.
@@ -121204,6 +121204,12 @@ C09AD0     (base 16)		Apple, Inc.
 				The south of lanling road, yongan new district
 				Danyang   Jiangsu  212300
 				CN
+
+10-C5-95   (hex)		Lenovo
+10C595     (base 16)		Lenovo
+				1009 Think Place
+				Morrisvilee  NC  27560
+				US
 
 F8-0F-6F   (hex)		Cisco Systems, Inc
 F80F6F     (base 16)		Cisco Systems, Inc
@@ -151505,14 +151511,8 @@ B40B78     (base 16)		Brusa Elektronik AG
 				Kirkland  WA  98033
 				US
 
-24-B2-DE   (hex)		Espressif Inc.
-24B2DE     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-68-C6-3A   (hex)		Espressif Inc.
-68C63A     (base 16)		Espressif Inc.
+AC-D0-74   (hex)		Espressif Inc.
+ACD074     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
@@ -151529,14 +151529,20 @@ C44F33     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-AC-D0-74   (hex)		Espressif Inc.
-ACD074     (base 16)		Espressif Inc.
+30-AE-A4   (hex)		Espressif Inc.
+30AEA4     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
 
-30-AE-A4   (hex)		Espressif Inc.
-30AEA4     (base 16)		Espressif Inc.
+24-B2-DE   (hex)		Espressif Inc.
+24B2DE     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+68-C6-3A   (hex)		Espressif Inc.
+68C63A     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
@@ -151553,18 +151559,6 @@ C01B23     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-58-6B-14   (hex)		Apple, Inc.
-586B14     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-94-B0-1F   (hex)		Apple, Inc.
-94B01F     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 94-F6-D6   (hex)		Apple, Inc.
 94F6D6     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -151573,6 +151567,18 @@ C01B23     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 
 40-BC-60   (hex)		Apple, Inc.
 40BC60     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+58-6B-14   (hex)		Apple, Inc.
+586B14     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+94-B0-1F   (hex)		Apple, Inc.
+94B01F     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -151600,3 +151606,9 @@ E82C6D     (base 16)		SmartRG, Inc.
 				78th km Old National Road Athens-Corinth 
 				Corinth     20100
 				GR
+
+7C-89-C1   (hex)		Palo Alto Networks
+7C89C1     (base 16)		Palo Alto Networks
+				3000 Tannery Way
+				Santa Clara  CA  95054
+				US
