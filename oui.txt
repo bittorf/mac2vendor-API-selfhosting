@@ -30434,6 +30434,12 @@ A48CC0     (base 16)		JLG Industries, Inc.
 				Hagerstown  MD  21742
 				US
 
+CC-75-E2   (hex)		ARRIS Group, Inc.
+CC75E2     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61001,6 +61007,24 @@ F80DF1     (base 16)		Sontex SA
 				Roseville  CA  95747
 				US
 
+88-D2-11   (hex)		Eko Devices, Inc.
+88D211     (base 16)		Eko Devices, Inc.
+				2600 10th St Ste 260
+				Berkeley  CA  94710-2597
+				US
+
+1C-F2-9A   (hex)		Google, Inc.
+1CF29A     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+94-54-DF   (hex)		YST CORP.
+9454DF     (base 16)		YST CORP.
+				A-1407, 767, Sinsu-ro, Suji-gu,
+				Yongin-si  Gyeonggi-do  16827
+				KR
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -90742,6 +90766,30 @@ CCD3C1     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
 				11445 Compaq Center Drive
 				Houston  TX  77070
 				US
+
+B8-C2-27   (hex)		PSTec
+B8C227     (base 16)		PSTec
+				#80, Hwanggeum 3-ro 7beon-gil, Yangchon-eup
+				Gimpo-si  Gyeonggi-do  10048
+				KR
+
+A8-F5-DD   (hex)		ARRIS Group, Inc.
+A8F5DD     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+44-D3-AD   (hex)		Shenzhen TINNO Mobile Technology Corp.
+44D3AD     (base 16)		Shenzhen TINNO Mobile Technology Corp.
+				4/F, H-3 Building, Qiao Cheng Eastern Industrial Park, Overseas Chinese Town, Shenzhen 
+				Shenzhen   guangdong  518053
+				CN
+
+4C-E5-AE   (hex)		BEEBOXES TECHNOLOGY LIMITED
+4CE5AE     (base 16)		BEEBOXES TECHNOLOGY LIMITED
+				23A,JingYuan Arts Center, No.3 GuangQu Road,ChaoYang District,
+				Beijing    100124
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -121223,6 +121271,12 @@ F80F6F     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+18-2A-44   (hex)		HIROSE ELECTRONIC SYSTEM
+182A44     (base 16)		HIROSE ELECTRONIC SYSTEM
+				1-9-6 Ebisuminami
+				Shibuya  Tokyo  150-0022
+				JP
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -151611,4 +151665,16 @@ E82C6D     (base 16)		SmartRG, Inc.
 7C89C1     (base 16)		Palo Alto Networks
 				3000 Tannery Way
 				Santa Clara  CA  95054
+				US
+
+94-8F-CF   (hex)		ARRIS Group, Inc.
+948FCF     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+74-8A-0D   (hex)		ARRIS Group, Inc.
+748A0D     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
 				US
