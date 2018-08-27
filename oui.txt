@@ -61031,6 +61031,12 @@ F80DF1     (base 16)		Sontex SA
 				Roseville  CA  95747
 				US
 
+74-F7-37   (hex)		KCE
+74F737     (base 16)		KCE
+				5F KCE B/D,34,Annam-ro 369beon-gil,Bupyoung-gu
+				Incheon    21312
+				KR
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -90813,6 +90819,12 @@ FCBE7B     (base 16)		vivo Mobile Communication Co., Ltd.
 7CBC84     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+44-1C-12   (hex)		Technicolor CH USA Inc.
+441C12     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -121295,16 +121307,22 @@ F80F6F     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+B4-0F-B3   (hex)		vivo Mobile Communication Co., Ltd.
+B40FB3     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
 18-2A-44   (hex)		HIROSE ELECTRONIC SYSTEM
 182A44     (base 16)		HIROSE ELECTRONIC SYSTEM
 				1-9-6 Ebisuminami
 				Shibuya  Tokyo  150-0022
 				JP
 
-B4-0F-B3   (hex)		vivo Mobile Communication Co., Ltd.
-B40FB3     (base 16)		vivo Mobile Communication Co., Ltd.
-				#283,BBK Road
-				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+9C-82-75   (hex)		Yichip Microelectronics (Hangzhou) Co.,Ltd
+9C8275     (base 16)		Yichip Microelectronics (Hangzhou) Co.,Ltd
+				Room 401, Building 15, No.498 Guoshoujing Road, Pudong Software Park
+				Shanghai    200120
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -151714,3 +151732,9 @@ E82C6D     (base 16)		SmartRG, Inc.
 				2-7-3 Marunouchi Chiyoda-ku
 				Tokyo    100-8310
 				JP
+
+5C-CB-CA   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+5CCBCA     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+				19-22# Building, Star-net Science Plaza, Juyuanzhou,
+				FUZHOU  FUJIAN  350002
+				CN
