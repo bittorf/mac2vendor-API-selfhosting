@@ -30446,6 +30446,12 @@ EC5C68     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 				Chongqing  Chongqing  401332
 				CN
 
+44-EC-CE   (hex)		Juniper Networks
+44ECCE     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61037,6 +61043,18 @@ F80DF1     (base 16)		Sontex SA
 				Incheon    21312
 				KR
 
+8C-18-50   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+8C1850     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District
+				Hangzhou  Hangzhou  310000
+				CN
+
+78-0E-D1   (hex)		TRUMPF Werkzeugmaschinen GmbH+Co.KG
+780ED1     (base 16)		TRUMPF Werkzeugmaschinen GmbH+Co.KG
+				Johann-Maus-Straße 2
+				Ditzingen    71254
+				DE
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -86057,12 +86075,6 @@ F8FF0B     (base 16)		Electronic Technology Inc.
 				Seongnam-si  Gyeonggi-do  463-875
 				KR
 
-00-09-3A   (hex)		Molex
-00093A     (base 16)		Molex
-				5224 Katrine Avenue
-				Downers Grove  IL  60515
-				US
-
 98-AA-FC   (hex)		IEEE Registration Authority
 98AAFC     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -90825,6 +90837,12 @@ FCBE7B     (base 16)		vivo Mobile Communication Co., Ltd.
 441C12     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
+				US
+
+00-09-3A   (hex)		Molex CMS
+00093A     (base 16)		Molex CMS
+				5224 Katrine Avenue
+				Downers Grove  IL  60515
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -149129,12 +149147,6 @@ E81367     (base 16)		AIRSOUND Inc.
 				Beijing  Beijing  100085
 				CN
 
-F8-2F-08   (hex)		Molex
-F82F08     (base 16)		Molex
-				2222 Wellington Court
-				Lisle  IL  60532
-				US
-
 68-26-2A   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 68262A     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
@@ -151727,14 +151739,26 @@ E82C6D     (base 16)		SmartRG, Inc.
 				San Diego  CA  92121
 				US
 
+5C-CB-CA   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+5CCBCA     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+				19-22# Building, Star-net Science Plaza, Juyuanzhou,
+				FUZHOU  FUJIAN  350002
+				CN
+
 28-E9-8E   (hex)		Mitsubishi Electric Corporation
 28E98E     (base 16)		Mitsubishi Electric Corporation
 				2-7-3 Marunouchi Chiyoda-ku
 				Tokyo    100-8310
 				JP
 
-5C-CB-CA   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
-5CCBCA     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
-				19-22# Building, Star-net Science Plaza, Juyuanzhou,
-				FUZHOU  FUJIAN  350002
-				CN
+3C-28-6D   (hex)		Google, Inc.
+3C286D     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+F8-2F-08   (hex)		Molex CMS
+F82F08     (base 16)		Molex CMS
+				2222 Wellington Court
+				Lisle  IL  60532
+				US
