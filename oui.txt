@@ -30506,6 +30506,12 @@ F4C7C8     (base 16)		Kelvin Inc.
 				Shenzhen  Guangdong  518104
 				CN
 
+CC-35-5A   (hex)		SecuGen Corporation
+CC355A     (base 16)		SecuGen Corporation
+				2065 Martin Ave, Suite 108
+				Santa Clara  CA  95050
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61139,17 +61145,17 @@ E4D3AA     (base 16)		FUJITSU CONNECTED TECHNOLOGIES LIMITED
 				Kawasaki  Kanagawa  2118588
 				JP
 
-BC-E7-96   (hex)		Wireless CCTV Ltd
-BCE796     (base 16)		Wireless CCTV Ltd
-				charles Babbage house
-				Rochdale  Greater Manchester  ol164nw
-				GB
-
 B0-02-47   (hex)		AMPAK Technology, Inc.
 B00247     (base 16)		AMPAK Technology, Inc.
 				3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu
 				Hsinchu  Taiwan ROC.  30352
 				TW
+
+BC-E7-96   (hex)		Wireless CCTV Ltd
+BCE796     (base 16)		Wireless CCTV Ltd
+				charles Babbage house
+				Rochdale  Greater Manchester  ol164nw
+				GB
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
