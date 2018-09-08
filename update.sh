@@ -14,7 +14,7 @@ NEW=0
 ALL=0
 CARRIAGE_RETURN="$( printf '\r' )"
 
-if test -e "$FILE" || wget -O "$FILE" "$URL"; then
+if test -e "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 	# 3C-D9-2B   (hex)                Hewlett Packard
 	# 3CD92B     (base 16)            Hewlett Packard
 	#                                 11445 Compaq Center Drive
