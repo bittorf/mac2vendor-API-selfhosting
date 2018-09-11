@@ -30494,12 +30494,6 @@ F4C7C8     (base 16)		Kelvin Inc.
 				San Jose  CA  94568
 				US
 
-94-A4-0C   (hex)		Diehl Metering GmbH
-94A40C     (base 16)		Diehl Metering GmbH
-				Industriestraße 13
-				Ansbach    91522
-				DE
-
 94-E0-D6   (hex)		China Dragon Technology Limited
 94E0D6     (base 16)		China Dragon Technology Limited
 				B4 Bldg.Haoshan 1st Industry Park,
@@ -30510,6 +30504,36 @@ CC-35-5A   (hex)		SecuGen Corporation
 CC355A     (base 16)		SecuGen Corporation
 				2065 Martin Ave, Suite 108
 				Santa Clara  CA  95050
+				US
+
+D0-51-57   (hex)		LEAX Arkivator Telecom
+D05157     (base 16)		LEAX Arkivator Telecom
+				NanShan District YueHaiMen Street
+				ShenZhen  GuangDong  518061
+				CN
+
+94-A4-0C   (hex)		Diehl Metering GmbH
+94A40C     (base 16)		Diehl Metering GmbH
+				Industriestrasse 13
+				Ansbach    91522
+				DE
+
+8C-AE-DB   (hex)		NAG LLC
+8CAEDB     (base 16)		NAG LLC
+				Predelnaya st 57/2
+				Ekaterinburg  Sverdlovskaya oblast   620161
+				RU
+
+B0-D5-68   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
+B0D568     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
+				F6,M6,Maqueling, High-tech park, Nanshan district
+				Shenzhen  Guangdong  518057
+				CN
+
+DC-EB-69   (hex)		Technicolor CH USA Inc.
+DCEB69     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -61157,6 +61181,24 @@ BCE796     (base 16)		Wireless CCTV Ltd
 				Rochdale  Greater Manchester  ol164nw
 				GB
 
+70-5E-55   (hex)		Realme Chongqing MobileTelecommunications Corp Ltd
+705E55     (base 16)		Realme Chongqing MobileTelecommunications Corp Ltd
+				No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing.
+				Chongqing  China  401120
+				CN
+
+D4-67-D3   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+D467D3     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+48-E3-C3   (hex)		JENOPTIK Advanced Systems GmbH
+48E3C3     (base 16)		JENOPTIK Advanced Systems GmbH
+				Feldstrasse 155
+				Wedel  Schleswig-Holstein  22880
+				DE
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -91018,6 +91060,18 @@ D8A6FD     (base 16)		Ghost Locomotion
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+0C-EC-84   (hex)		Shenzhen TINNO Mobile Technology Corp.
+0CEC84     (base 16)		Shenzhen TINNO Mobile Technology Corp.
+				4/F, H-3 Building, Qiao Cheng Eastern Industrial Park, Overseas Chinese Town, Shenzhen 
+				Shenzhen   guangdong  518053
+				CN
+
+9C-DB-07   (hex)		Thum+Mahr GmbH
+9CDB07     (base 16)		Thum+Mahr GmbH
+				Heinrich-Hertz-Strasse 1-3
+				Monheim am Rhein  NRW  40789
+				DE
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -121553,6 +121607,24 @@ F00EBF     (base 16)		ZettaHash Inc.
 				Chiyoda-ku  Tokyo  101-0052
 				JP
 
+30-4A-26   (hex)		Shenzhen Trolink Technology CO, LTD
+304A26     (base 16)		Shenzhen Trolink Technology CO, LTD
+				201 B building 4 shijie, Chashu industry 505 block, Baoan airport Sanwei community, Hangcheng street Baoan area.
+				Shenzhen  GuangDong  518000
+				CN
+
+A4-12-32   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+A41232     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+78-B2-13   (hex)		DWnet Technologies(Suzhou) Corporation
+78B213     (base 16)		DWnet Technologies(Suzhou) Corporation
+				No.8,Tangzhuang Road, Suzhou Industrial Park, Jiangsu, China
+				Suzhou    21500
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -152001,4 +152073,10 @@ B447F5     (base 16)		Earda Technologies co Ltd
 380B3C     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+5C-41-5A   (hex)		Amazon.com, LLC
+5C415A     (base 16)		Amazon.com, LLC
+				1200 12th Ave. South, Suite 1200
+				Seattle    98144
 				US
