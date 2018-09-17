@@ -30506,11 +30506,17 @@ CC355A     (base 16)		SecuGen Corporation
 				Santa Clara  CA  95050
 				US
 
-D0-51-57   (hex)		LEAX Arkivator Telecom
-D05157     (base 16)		LEAX Arkivator Telecom
-				NanShan District YueHaiMen Street
-				ShenZhen  GuangDong  518061
+B0-D5-68   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
+B0D568     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
+				F6,M6,Maqueling, High-tech park, Nanshan district
+				Shenzhen  Guangdong  518057
 				CN
+
+DC-EB-69   (hex)		Technicolor CH USA Inc.
+DCEB69     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
 
 94-A4-0C   (hex)		Diehl Metering GmbH
 94A40C     (base 16)		Diehl Metering GmbH
@@ -30524,17 +30530,11 @@ D05157     (base 16)		LEAX Arkivator Telecom
 				Ekaterinburg  Sverdlovskaya oblast   620161
 				RU
 
-B0-D5-68   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
-B0D568     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
-				F6,M6,Maqueling, High-tech park, Nanshan district
-				Shenzhen  Guangdong  518057
+D0-51-57   (hex)		LEAX Arkivator Telecom
+D05157     (base 16)		LEAX Arkivator Telecom
+				NanShan District YueHaiMen Street
+				ShenZhen  GuangDong  518061
 				CN
-
-DC-EB-69   (hex)		Technicolor CH USA Inc.
-DCEB69     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -152079,4 +152079,10 @@ B447F5     (base 16)		Earda Technologies co Ltd
 5C415A     (base 16)		Amazon.com, LLC
 				1200 12th Ave. South, Suite 1200
 				Seattle    98144
+				US
+
+28-80-88   (hex)		NETGEAR
+288088     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
 				US
