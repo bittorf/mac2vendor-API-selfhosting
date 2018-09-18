@@ -30506,18 +30506,6 @@ CC355A     (base 16)		SecuGen Corporation
 				Santa Clara  CA  95050
 				US
 
-B0-D5-68   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
-B0D568     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
-				F6,M6,Maqueling, High-tech park, Nanshan district
-				Shenzhen  Guangdong  518057
-				CN
-
-DC-EB-69   (hex)		Technicolor CH USA Inc.
-DCEB69     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
 94-A4-0C   (hex)		Diehl Metering GmbH
 94A40C     (base 16)		Diehl Metering GmbH
 				Industriestrasse 13
@@ -30529,6 +30517,18 @@ DCEB69     (base 16)		Technicolor CH USA Inc.
 				Predelnaya st 57/2
 				Ekaterinburg  Sverdlovskaya oblast   620161
 				RU
+
+B0-D5-68   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
+B0D568     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
+				F6,M6,Maqueling, High-tech park, Nanshan district
+				Shenzhen  Guangdong  518057
+				CN
+
+DC-EB-69   (hex)		Technicolor CH USA Inc.
+DCEB69     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
 
 D0-51-57   (hex)		LEAX Arkivator Telecom
 D05157     (base 16)		LEAX Arkivator Telecom
@@ -61199,6 +61199,12 @@ D467D3     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				Wedel  Schleswig-Holstein  22880
 				DE
 
+84-EB-3E   (hex)		Vivint Smart Home
+84EB3E     (base 16)		Vivint Smart Home
+				4931 N. 300 W.
+				Provo  UT  84604
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -91072,6 +91078,18 @@ D8A6FD     (base 16)		Ghost Locomotion
 				Heinrich-Hertz-Strasse 1-3
 				Monheim am Rhein  NRW  40789
 				DE
+
+38-D9-A5   (hex)		Mikotek Information Inc. 
+38D9A5     (base 16)		Mikotek Information Inc. 
+				3F, No. 20, Aly. 18, Ln. 478, Ruiguang Rd.
+				Taipei    114
+				TW
+
+04-07-2E   (hex)		VTech Electronics Ltd.
+04072E     (base 16)		VTech Electronics Ltd.
+				23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road
+				Tai Po, N.T.    NA
+				HK
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -152085,4 +152103,10 @@ B447F5     (base 16)		Earda Technologies co Ltd
 288088     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
+				US
+
+D8-3A-F5   (hex)		Wideband Labs LLC
+D83AF5     (base 16)		Wideband Labs LLC
+				1027 S Main Street, STE 330
+				Joplin  MO  64801
 				US
