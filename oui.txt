@@ -2135,12 +2135,6 @@ D48F33     (base 16)		Microsoft Corporation
 				Dongguan City  Guangdong  86
 				CN
 
-34-02-9B   (hex)		CloudBerry Technologies Private Limited
-34029B     (base 16)		CloudBerry Technologies Private Limited
-				209, S.C.O. - 11, SECTOR 7
-				CHANDIGARH  Punjab  160019
-				IN
-
 70-AF-25   (hex)		Nishiyama Industry Co.,LTD.
 70AF25     (base 16)		Nishiyama Industry Co.,LTD.
 				177-2
@@ -30500,18 +30494,6 @@ CC355A     (base 16)		SecuGen Corporation
 				Santa Clara  CA  95050
 				US
 
-94-A4-0C   (hex)		Diehl Metering GmbH
-94A40C     (base 16)		Diehl Metering GmbH
-				Industriestrasse 13
-				Ansbach    91522
-				DE
-
-8C-AE-DB   (hex)		NAG LLC
-8CAEDB     (base 16)		NAG LLC
-				Predelnaya st 57/2
-				Ekaterinburg  Sverdlovskaya oblast   620161
-				RU
-
 B0-D5-68   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
 B0D568     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
 				F6,M6,Maqueling, High-tech park, Nanshan district
@@ -30523,6 +30505,18 @@ DCEB69     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
+
+94-A4-0C   (hex)		Diehl Metering GmbH
+94A40C     (base 16)		Diehl Metering GmbH
+				Industriestrasse 13
+				Ansbach    91522
+				DE
+
+8C-AE-DB   (hex)		NAG LLC
+8CAEDB     (base 16)		NAG LLC
+				Predelnaya st 57/2
+				Ekaterinburg  Sverdlovskaya oblast   620161
+				RU
 
 D0-51-57   (hex)		LEAX Arkivator Telecom
 D05157     (base 16)		LEAX Arkivator Telecom
@@ -30542,11 +30536,35 @@ D05157     (base 16)		LEAX Arkivator Telecom
 				Niepruszewo    64-320
 				PL
 
+FC-2B-B2   (hex)		Actiontec Electronics, Inc
+FC2BB2     (base 16)		Actiontec Electronics, Inc
+				760 North Mary Ave
+				Sunnyvale  CA  94085
+				US
+
 44-1A-FA   (hex)		New H3C Technologies Co., Ltd
 441AFA     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+00-4E-35   (hex)		Hewlett Packard Enterprise
+004E35     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
+50-00-84   (hex)		Siemens Canada
+500084     (base 16)		Siemens Canada
+				300 Applewood Crescent
+				Concord  Ontario  L4K 5C7
+				CA
+
+34-02-9B   (hex)		Plexonics Technologies LImited
+34029B     (base 16)		Plexonics Technologies LImited
+				1st Floor, 181/23 Industrial Area Phase 1
+				Chandigarh  Punjab  160002
+				IN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -61217,6 +61235,12 @@ D467D3     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				Provo  UT  84604
 				US
 
+CC-70-ED   (hex)		Cisco Systems, Inc
+CC70ED     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -91097,11 +91121,11 @@ D8A6FD     (base 16)		Ghost Locomotion
 				Taipei    114
 				TW
 
-04-07-2E   (hex)		VTech Electronics Ltd.
-04072E     (base 16)		VTech Electronics Ltd.
-				23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road
-				Tai Po, N.T.    NA
-				HK
+E0-9F-2A   (hex)		Iton Technology Corp. 
+E09F2A     (base 16)		Iton Technology Corp. 
+				Room 1302, Block A, Building 4，Huangge Road, Longgang District
+				Shenzhen   Guangdong   518116
+				CN
 
 48-FD-A3   (hex)		Xiaomi Communications Co Ltd
 48FDA3     (base 16)		Xiaomi Communications Co Ltd
@@ -91121,11 +91145,23 @@ D8A6FD     (base 16)		Ghost Locomotion
 				San Jose  CA  94568
 				US
 
-E0-9F-2A   (hex)		Iton Technology Corp. 
-E09F2A     (base 16)		Iton Technology Corp. 
-				Room 1302, Block A, Building 4，Huangge Road, Longgang District
-				Shenzhen   Guangdong   518116
-				CN
+04-07-2E   (hex)		VTech Electronics Ltd.
+04072E     (base 16)		VTech Electronics Ltd.
+				23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road
+				Tai Po, N.T.    NA
+				HK
+
+68-4F-64   (hex)		Dell Inc.
+684F64     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+48-4A-30   (hex)		George Robotics Limited
+484A30     (base 16)		George Robotics Limited
+				Salisbury House, Station Road
+				Cambridge    CB1 2LA
+				GB
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -121690,6 +121726,12 @@ D4B761     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou,Industrial Park
 				Anzhou,Industrial Park  Sichuan  621000
 				CN
+
+CC-9E-A2   (hex)		Amazon Technologies Inc.
+CC9EA2     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno    89507
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
