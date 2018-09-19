@@ -2966,12 +2966,6 @@ B424E7     (base 16)		Codetek Technology Co.,Ltd
 				New Taipei City    23148
 				TW
 
-24-93-CA   (hex)		Voxtronic Technology Computer-Systeme GmbH
-2493CA     (base 16)		Voxtronic Technology Computer-Systeme GmbH
-				Jochen-Rindt-Straße 15
-				Vienna    1230
-				AT
-
 68-8A-B5   (hex)		EDP Servicos
 688AB5     (base 16)		EDP Servicos
 				Rua Castilho, número 165, 5º andar
@@ -30534,6 +30528,24 @@ D0-51-57   (hex)		LEAX Arkivator Telecom
 D05157     (base 16)		LEAX Arkivator Telecom
 				NanShan District YueHaiMen Street
 				ShenZhen  GuangDong  518061
+				CN
+
+24-93-CA   (hex)		Voxtronic Austria
+2493CA     (base 16)		Voxtronic Austria
+				Modecenterstrasse 17  Objekt 1
+				Vienna    1110
+				AT
+
+90-7E-30   (hex)		LARS
+907E30     (base 16)		LARS
+				Swierkowa 14
+				Niepruszewo    64-320
+				PL
+
+44-1A-FA   (hex)		New H3C Technologies Co., Ltd
+441AFA     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -91091,6 +91103,30 @@ D8A6FD     (base 16)		Ghost Locomotion
 				Tai Po, N.T.    NA
 				HK
 
+48-FD-A3   (hex)		Xiaomi Communications Co Ltd
+48FDA3     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+7C-03-5E   (hex)		Xiaomi Communications Co Ltd
+7C035E     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+00-32-17   (hex)		Cisco Systems, Inc
+003217     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+E0-9F-2A   (hex)		Iton Technology Corp. 
+E09F2A     (base 16)		Iton Technology Corp. 
+				Room 1302, Block A, Building 4，Huangge Road, Longgang District
+				Shenzhen   Guangdong   518116
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -121643,6 +121679,18 @@ A41232     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				Suzhou    21500
 				CN
 
+4C-E1-9E   (hex)		TECNO MOBILE LIMITED
+4CE19E     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
+D4-B7-61   (hex)		Sichuan AI-Link Technology Co., Ltd.
+D4B761     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou,Industrial Park
+				Anzhou,Industrial Park  Sichuan  621000
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -152099,14 +152147,26 @@ B447F5     (base 16)		Earda Technologies co Ltd
 				Seattle    98144
 				US
 
-28-80-88   (hex)		NETGEAR
-288088     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
+BC-3E-07   (hex)		Hitron Technologies. Inc
+BC3E07     (base 16)		Hitron Technologies. Inc
+				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu  Taiwan  300
+				TW
+
+44-FE-3B   (hex)		Arcadyan Corporation
+44FE3B     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
 
 D8-3A-F5   (hex)		Wideband Labs LLC
 D83AF5     (base 16)		Wideband Labs LLC
 				1027 S Main Street, STE 330
 				Joplin  MO  64801
+				US
+
+28-80-88   (hex)		NETGEAR
+288088     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
 				US
