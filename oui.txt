@@ -2870,12 +2870,6 @@ BC2D98     (base 16)		ThinGlobal LLC
 				Winter Park  FL  32789
 				US
 
-18-1B-EB   (hex)		Actiontec Electronics, Inc
-181BEB     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 CC-74-98   (hex)		Filmetrics Inc.
 CC7498     (base 16)		Filmetrics Inc.
 				3560 Dunhill Street, #100
@@ -4370,12 +4364,6 @@ F49466     (base 16)		CountMax,  ltd
 				New Taipei City  Taiwan  23586
 				TW
 
-F8-E4-FB   (hex)		Actiontec Electronics, Inc
-F8E4FB     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 58-87-E2   (hex)		Shenzhen Coship Electronics Co., Ltd.
 5887E2     (base 16)		Shenzhen Coship Electronics Co., Ltd.
 				Rainbow Bldg., North, Hi-Tech Industrial Park
@@ -5434,12 +5422,6 @@ E4AFA1     (base 16)		HES-SO
 				Elstree Aerodrome
 				Hertfordshire    WD6 3AW
 				GB
-
-20-76-00   (hex)		Actiontec Electronics, Inc
-207600     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
 
 84-D3-2A   (hex)		IEEE 1905.1
 84D32A     (base 16)		IEEE 1905.1
@@ -9097,12 +9079,6 @@ A8CE90     (base 16)		CVC
 				KOLONDIGITAL TOWER ASTON 201, 505-14
 				SEOUL    KSXX 0022
 				KR
-
-00-1F-90   (hex)		Actiontec Electronics, Inc
-001F90     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
 
 00-1F-8F   (hex)		Shanghai Bellmann Digital Source Co.,Ltd.
 001F8F     (base 16)		Shanghai Bellmann Digital Source Co.,Ltd.
@@ -25970,12 +25946,6 @@ E86D65     (base 16)		AUDIO MOBIL Elektronik GmbH
 				Braunau am Inn - Ranshofen    5282
 				AT
 
-E8-6F-F2   (hex)		Actiontec Electronics, Inc
-E86FF2     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 00-01-6D   (hex)		CarrierComm Inc.
 00016D     (base 16)		CarrierComm Inc.
 				2231 Rutherford, Suite 110
@@ -30494,18 +30464,6 @@ CC355A     (base 16)		SecuGen Corporation
 				Santa Clara  CA  95050
 				US
 
-B0-D5-68   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
-B0D568     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
-				F6,M6,Maqueling, High-tech park, Nanshan district
-				Shenzhen  Guangdong  518057
-				CN
-
-DC-EB-69   (hex)		Technicolor CH USA Inc.
-DCEB69     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
 94-A4-0C   (hex)		Diehl Metering GmbH
 94A40C     (base 16)		Diehl Metering GmbH
 				Industriestrasse 13
@@ -30518,29 +30476,29 @@ DCEB69     (base 16)		Technicolor CH USA Inc.
 				Ekaterinburg  Sverdlovskaya oblast   620161
 				RU
 
+B0-D5-68   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
+B0D568     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
+				F6,M6,Maqueling, High-tech park, Nanshan district
+				Shenzhen  Guangdong  518057
+				CN
+
+DC-EB-69   (hex)		Technicolor CH USA Inc.
+DCEB69     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
 D0-51-57   (hex)		LEAX Arkivator Telecom
 D05157     (base 16)		LEAX Arkivator Telecom
 				NanShan District YueHaiMen Street
 				ShenZhen  GuangDong  518061
 				CN
 
-24-93-CA   (hex)		Voxtronic Austria
-2493CA     (base 16)		Voxtronic Austria
-				Modecenterstrasse 17  Objekt 1
-				Vienna    1110
-				AT
-
 90-7E-30   (hex)		LARS
 907E30     (base 16)		LARS
 				Swierkowa 14
 				Niepruszewo    64-320
 				PL
-
-FC-2B-B2   (hex)		Actiontec Electronics, Inc
-FC2BB2     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
 
 44-1A-FA   (hex)		New H3C Technologies Co., Ltd
 441AFA     (base 16)		New H3C Technologies Co., Ltd
@@ -30554,6 +30512,36 @@ FC2BB2     (base 16)		Actiontec Electronics, Inc
 				Roseville  CA  95747
 				US
 
+24-93-CA   (hex)		Voxtronic Austria
+2493CA     (base 16)		Voxtronic Austria
+				Modecenterstrasse 17  Objekt 1
+				Vienna    1110
+				AT
+
+00-1F-90   (hex)		Actiontec Electronics, Inc
+001F90     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+20-76-00   (hex)		Actiontec Electronics, Inc
+207600     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+F8-E4-FB   (hex)		Actiontec Electronics, Inc
+F8E4FB     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+18-1B-EB   (hex)		Actiontec Electronics, Inc
+181BEB     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
 50-00-84   (hex)		Siemens Canada
 500084     (base 16)		Siemens Canada
 				300 Applewood Crescent
@@ -30565,6 +30553,18 @@ FC2BB2     (base 16)		Actiontec Electronics, Inc
 				1st Floor, 181/23 Industrial Area Phase 1
 				Chandigarh  Punjab  160002
 				IN
+
+E8-6F-F2   (hex)		Actiontec Electronics, Inc
+E86FF2     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+FC-2B-B2   (hex)		Actiontec Electronics, Inc
+FC2BB2     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -37098,12 +37098,6 @@ D8-E3-AE   (hex)		CIRTEC MEDICAL SYSTEMS
 D8E3AE     (base 16)		CIRTEC MEDICAL SYSTEMS
 				101B Cooper Court
 				Los Gatos  CA  95032
-				US
-
-A8-39-44   (hex)		Actiontec Electronics, Inc
-A83944     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
 				US
 
 FC-1F-C0   (hex)		EURECAM
@@ -52295,12 +52289,6 @@ E874E6     (base 16)		ADB Broadband Italia
 				MILANO    20126
 				IT
 
-00-24-7B   (hex)		Actiontec Electronics, Inc
-00247B     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 68-9C-5E   (hex)		AcSiP Technology Corp.
 689C5E     (base 16)		AcSiP Technology Corp.
 				3F., No.22, Dalin Rd.
@@ -56394,12 +56382,6 @@ A013CB     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 040973     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
-				US
-
-70-F2-20   (hex)		Actiontec Electronics, Inc
-70F220     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
 				US
 
 4C-C2-06   (hex)		Somfy
@@ -61241,6 +61223,24 @@ CC70ED     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+A8-39-44   (hex)		Actiontec Electronics, Inc
+A83944     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-24-7B   (hex)		Actiontec Electronics, Inc
+00247B     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+70-F2-20   (hex)		Actiontec Electronics, Inc
+70F220     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -63377,12 +63377,6 @@ F82441     (base 16)		Yeelink
 				Namdong-gu  Incheon  405-846
 				KR
 
-70-F1-96   (hex)		Actiontec Electronics, Inc
-70F196     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 6C-6E-FE   (hex)		Core Logic Inc.
 6C6EFE     (base 16)		Core Logic Inc.
 				11th Fl., 1-B U-SPACE Bldg.
@@ -64908,12 +64902,6 @@ C47DCC     (base 16)		Zebra Technologies Inc
 64535D     (base 16)		Frauscher Sensortechnik
 				Gewerbestraße 1
 				St. Marienkirchen  Upper Austria  4774
-				US
-
-10-5F-06   (hex)		Actiontec Electronics, Inc
-105F06     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
 				US
 
 84-17-15   (hex)		GP Electronics (HK) Ltd.
@@ -70470,12 +70458,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 001EA2     (base 16)		Symx Systems, Inc.
 				6320 NW 84th Avenue
 				Miami  Florida  33166
-				US
-
-00-1E-A7   (hex)		Actiontec Electronics, Inc
-001EA7     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
 				US
 
 00-1E-A1   (hex)		Brunata a/s
@@ -82316,12 +82298,6 @@ A4526F     (base 16)		ADB Broadband Italia
 				Taoyuan  Taoyuan County  33067
 				TW
 
-00-26-B8   (hex)		Actiontec Electronics, Inc
-0026B8     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 00-30-F1   (hex)		Accton Technology Corp
 0030F1     (base 16)		Accton Technology Corp
 				No. 1, Creation Rd. IV
@@ -91121,11 +91097,11 @@ D8A6FD     (base 16)		Ghost Locomotion
 				Taipei    114
 				TW
 
-E0-9F-2A   (hex)		Iton Technology Corp. 
-E09F2A     (base 16)		Iton Technology Corp. 
-				Room 1302, Block A, Building 4，Huangge Road, Longgang District
-				Shenzhen   Guangdong   518116
-				CN
+04-07-2E   (hex)		VTech Electronics Ltd.
+04072E     (base 16)		VTech Electronics Ltd.
+				23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road
+				Tai Po, N.T.    NA
+				HK
 
 48-FD-A3   (hex)		Xiaomi Communications Co Ltd
 48FDA3     (base 16)		Xiaomi Communications Co Ltd
@@ -91145,11 +91121,17 @@ E09F2A     (base 16)		Iton Technology Corp.
 				San Jose  CA  94568
 				US
 
-04-07-2E   (hex)		VTech Electronics Ltd.
-04072E     (base 16)		VTech Electronics Ltd.
-				23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road
-				Tai Po, N.T.    NA
-				HK
+E0-9F-2A   (hex)		Iton Technology Corp. 
+E09F2A     (base 16)		Iton Technology Corp. 
+				Room 1302, Block A, Building 4，Huangge Road, Longgang District
+				Shenzhen   Guangdong   518116
+				CN
+
+48-4A-30   (hex)		George Robotics Limited
+484A30     (base 16)		George Robotics Limited
+				Salisbury House, Station Road
+				Cambridge    CB1 2LA
+				GB
 
 68-4F-64   (hex)		Dell Inc.
 684F64     (base 16)		Dell Inc.
@@ -91157,11 +91139,35 @@ E09F2A     (base 16)		Iton Technology Corp.
 				Round Rock  TX  78682
 				US
 
-48-4A-30   (hex)		George Robotics Limited
-484A30     (base 16)		George Robotics Limited
-				Salisbury House, Station Road
-				Cambridge    CB1 2LA
-				GB
+50-AD-92   (hex)		NX Technologies
+50AD92     (base 16)		NX Technologies
+				5F(OS Building), 57, Daeril-2gil, Beomseo-eup
+				Ulsan    44922
+				KR
+
+00-1E-A7   (hex)		Actiontec Electronics, Inc
+001EA7     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+10-5F-06   (hex)		Actiontec Electronics, Inc
+105F06     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+70-F1-96   (hex)		Actiontec Electronics, Inc
+70F196     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-26-B8   (hex)		Actiontec Electronics, Inc
+0026B8     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -95514,12 +95520,6 @@ C8C791     (base 16)		Zero1.tv GmbH
 7CFE28     (base 16)		Salutron Inc.
 				40979 Encyclopedia Circle
 				Fremont  CA  94538
-				US
-
-10-9F-A9   (hex)		Actiontec Electronics, Inc
-109FA9     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
 				US
 
 C0-A3-64   (hex)		3D Systems Massachusetts
@@ -112892,12 +112892,6 @@ F0842F     (base 16)		ADB Broadband Italia
 				Taoyuan City    330
 				TW
 
-00-20-E0   (hex)		Actiontec Electronics, Inc
-0020E0     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave.
-				Sunnyvale.  CA  94085
-				US
-
 00-04-E3   (hex)		Accton Technology Corp
 0004E3     (base 16)		Accton Technology Corp
 				No. 1 Creation Rd. III,
@@ -121733,6 +121727,42 @@ CC9EA2     (base 16)		Amazon Technologies Inc.
 				Reno    89507
 				US
 
+4C-21-8C   (hex)		Panasonic India Private limited
+4C218C     (base 16)		Panasonic India Private limited
+				12th floor, Ambience tower, Ambience Island
+				Gurgaon  Haryana  122002
+				IN
+
+44-B4-33   (hex)		tide.co.,ltd
+44B433     (base 16)		tide.co.,ltd
+				9F Kapeul GreatValley A-dong, Digitalro 9-ghil 32, Geumcheon-gu
+				seoul  seoul  ASIKRKS006
+				KR
+
+D4-3A-2E   (hex)		SHENZHEN MTC CO LTD
+D43A2E     (base 16)		SHENZHEN MTC CO LTD
+				5th Floor, 3rd Building, SHENZHEN MTC Industrial Park, XiaLilang Rd, Nanwan Street, Long’gang District
+				Shenzhen  Guangdong  518100
+				CN
+
+10-9F-A9   (hex)		Actiontec Electronics, Inc
+109FA9     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-20-E0   (hex)		Actiontec Electronics, Inc
+0020E0     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+AC-43-30   (hex)		Versa Networks
+AC4330     (base 16)		Versa Networks
+				6001 America center Drive, Suite 400
+				San Jose  CA  95070
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -121779,12 +121809,6 @@ A0F895     (base 16)		Shenzhen TINNO Mobile Technology Corp.
 2CFD37     (base 16)		Blue Calypso, Inc.
 				101 West Renner RD Suite 280
 				Richardson  TX  75082
-				US
-
-0C-61-27   (hex)		Actiontec Electronics, Inc
-0C6127     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
 				US
 
 00-1B-11   (hex)		D-Link Corporation
@@ -123950,12 +123974,6 @@ D4EC86     (base 16)		LinkedHope Intelligent Technologies Co., Ltd
 				Redmond  Washington  98052
 				FI
 
-A0-A3-E2   (hex)		Actiontec Electronics, Inc
-A0A3E2     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 54-09-8D   (hex)		deister electronic GmbH
 54098D     (base 16)		deister electronic GmbH
 				Hermann-Bahlsen-Str. 11
@@ -124428,12 +124446,6 @@ D42F23     (base 16)		Akenori PTE Ltd
 400107     (base 16)		Arista Corp
 				40675 Encyclopedia Circle
 				Fremont  CA  94538
-				US
-
-4C-8B-30   (hex)		Actiontec Electronics, Inc
-4C8B30     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
 				US
 
 08-05-CD   (hex)		DongGuang EnMai Electronic Product Co.Ltd.
@@ -126863,12 +126875,6 @@ D8337F     (base 16)		Office FA.com Co.,Ltd.
 				Mitcham  VIC  3132
 				AU
 
-40-8B-07   (hex)		Actiontec Electronics, Inc
-408B07     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 98-02-84   (hex)		Theobroma Systems GmbH
 980284     (base 16)		Theobroma Systems GmbH
 				Gutheil-Schoder Gasse 17
@@ -127551,12 +127557,6 @@ F0-02-2B   (hex)		Chrontel
 F0022B     (base 16)		Chrontel
 				2210 OToole Ave., Suite 100
 				San Jose  CA  95131
-				US
-
-00-7F-28   (hex)		Actiontec Electronics, Inc
-007F28     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
 				US
 
 0C-92-4E   (hex)		Rice Lake Weighing Systems
@@ -133328,12 +133328,6 @@ DC3350     (base 16)		TechSAT GmbH
 				Chicago  IL  60661
 				US
 
-00-18-01   (hex)		Actiontec Electronics, Inc
-001801     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 00-17-F5   (hex)		LIG NEOPTEK
 0017F5     (base 16)		LIG NEOPTEK
 				926 Gosaek-dong
@@ -134032,12 +134026,6 @@ DC3350     (base 16)		TechSAT GmbH
 				Turgenevova 5
 				Brno  EU/Europe  618 00
 				CZ
-
-00-15-05   (hex)		Actiontec Electronics, Inc
-001505     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
 
 00-15-04   (hex)		GAME PLUS CO., LTD.
 001504     (base 16)		GAME PLUS CO., LTD.
@@ -135166,12 +135154,6 @@ DC3350     (base 16)		TechSAT GmbH
 				100 Jurong East Street 21
 				    609602
 				SG
-
-00-0F-B3   (hex)		Actiontec Electronics, Inc
-000FB3     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
 
 00-0F-A6   (hex)		S2 Security Corporation
 000FA6     (base 16)		S2 Security Corporation
@@ -143873,12 +143855,6 @@ A04FD4     (base 16)		ADB Broadband Italia
 				Taoyuan  Taoyuan County  33067
 				TW
 
-00-26-62   (hex)		Actiontec Electronics, Inc
-002662     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
-
 00-19-3E   (hex)		ADB Broadband Italia
 00193E     (base 16)		ADB Broadband Italia
 				VIALE SARCA 222
@@ -144562,12 +144538,6 @@ C4E510     (base 16)		Mechatro, Inc.
 				Möddinghofe 30
 				Wuppertal  NRW  42279
 				DE
-
-10-78-5B   (hex)		Actiontec Electronics, Inc
-10785B     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
-				US
 
 88-A0-84   (hex)		Formation Data Systems
 88A084     (base 16)		Formation Data Systems
@@ -147027,12 +146997,6 @@ C0-28-8D   (hex)		Logitech, Inc
 C0288D     (base 16)		Logitech, Inc
 				4700 NW Camas Meadows Drive
 				Camas  WA  98607
-				US
-
-9C-1E-95   (hex)		Actiontec Electronics, Inc
-9C1E95     (base 16)		Actiontec Electronics, Inc
-				760 North Mary Ave
-				Sunnyvale  CA  94085
 				US
 
 E0-78-A3   (hex)		Shanghai Winner Information Technology Co.,Inc
@@ -152207,8 +152171,80 @@ D83AF5     (base 16)		Wideband Labs LLC
 				Joplin  MO  64801
 				US
 
+F4-6E-95   (hex)		Extreme Networks, Inc.
+F46E95     (base 16)		Extreme Networks, Inc.
+				6480 Via Del Oro
+				San Jose    95119
+				US
+
+00-0F-B3   (hex)		Actiontec Electronics, Inc
+000FB3     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-15-05   (hex)		Actiontec Electronics, Inc
+001505     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-18-01   (hex)		Actiontec Electronics, Inc
+001801     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-7F-28   (hex)		Actiontec Electronics, Inc
+007F28     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+40-8B-07   (hex)		Actiontec Electronics, Inc
+408B07     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
 28-80-88   (hex)		NETGEAR
 288088     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
+				US
+
+4C-8B-30   (hex)		Actiontec Electronics, Inc
+4C8B30     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+A0-A3-E2   (hex)		Actiontec Electronics, Inc
+A0A3E2     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+0C-61-27   (hex)		Actiontec Electronics, Inc
+0C6127     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-26-62   (hex)		Actiontec Electronics, Inc
+002662     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+10-78-5B   (hex)		Actiontec Electronics, Inc
+10785B     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+9C-1E-95   (hex)		Actiontec Electronics, Inc
+9C1E95     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
 				US
