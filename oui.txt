@@ -5555,12 +5555,6 @@ E0ED1A     (base 16)		vastriver Technology Co., Ltd
 				Rockville  MD  20850
 				US
 
-48-61-A3   (hex)		Concern Axion JSC
-4861A3     (base 16)		Concern Axion JSC
-				90, M. Gorkogo St.
-				Izhevsk  Udmurt Republic  426000
-				RU
-
 08-A1-2B   (hex)		ShenZhen EZL Technology Co., Ltd
 08A12B     (base 16)		ShenZhen EZL Technology Co., Ltd
 				RM21B, Building 2, China Phoenix Building,
@@ -30565,6 +30559,12 @@ FC2BB2     (base 16)		Actiontec Electronics, Inc
 				1st Floor, 181/23 Industrial Area Phase 1
 				Chandigarh  Punjab  160002
 				IN
+
+48-61-A3   (hex)		Concern Axion JSC
+4861A3     (base 16)		Concern Axion JSC
+				90, M. Gorkogo St.
+				Izhevsk  Udmurt Republic  426000
+				RU
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -91193,6 +91193,24 @@ E09F2A     (base 16)		Iton Technology Corp.
 				Austin  TX  78759
 				US
 
+70-BC-10   (hex)		Microsoft Corporation
+70BC10     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+80-D3-36   (hex)		CERN
+80D336     (base 16)		CERN
+				CH-1211 
+				GENEVE  SUISSE/SWITZ  023
+				CH
+
+94-67-7E   (hex)		Belden India Private Limited
+94677E     (base 16)		Belden India Private Limited
+				Plot No. D-228, Chakan MIDC Phase 2, 
+				Village Bhamboli, Taluka:Khed  Pune, Maharashtra  410 507
+				IN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -121805,6 +121823,12 @@ AC4330     (base 16)		Versa Networks
 				Cork    T12 X36X
 				IE
 
+B8-BC-5B   (hex)		Samsung Electronics Co.,Ltd
+B8BC5B     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -143375,12 +143399,6 @@ AA0000     (base 16)		DIGITAL EQUIPMENT CORPORATION
 				WEBSTER  NY  14580
 				US
 
-08-00-30   (hex)		CERN
-080030     (base 16)		CERN
-				CH-1211 GENEVE 23
-				    SUISSE/SWITZ
-				CH
-
 00-DD-01   (hex)		UNGERMANN-BASS INC.
 00DD01     (base 16)		UNGERMANN-BASS INC.
 				3900 FREEDOM CIRCLE
@@ -152249,12 +152267,6 @@ F46E95     (base 16)		Extreme Networks, Inc.
 				Santa Clara  CA  95054
 				US
 
-28-80-88   (hex)		NETGEAR
-288088     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 4C-8B-30   (hex)		Actiontec Electronics, Inc
 4C8B30     (base 16)		Actiontec Electronics, Inc
 				301 Olcott St
@@ -152291,14 +152303,32 @@ A0A3E2     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
+9C-69-B4   (hex)		IEEE Registration Authority
+9C69B4     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 C8-08-73   (hex)		Ruckus Wireless
 C80873     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-9C-69-B4   (hex)		IEEE Registration Authority
-9C69B4     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
+28-80-88   (hex)		NETGEAR
+288088     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
 				US
+
+08-00-30   (hex)		CERN
+080030     (base 16)		CERN
+				CH-1211 
+				GENEVE  SUISSE/SWITZ  023
+				CH
+
+E8-5B-B7   (hex)		Ample Systems Inc.
+E85BB7     (base 16)		Ample Systems Inc.
+				11F-2, No. 95 Minquan Rd.
+				New Taipei City     231
+				TW
