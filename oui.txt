@@ -746,18 +746,6 @@ E448C7     (base 16)		Cisco SPVTG
 				Lawrenceville  GA  30044
 				US
 
-00-02-C7   (hex)		ALPS ELECTRIC CO.,LTD.
-0002C7     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi, Sama-City,
-				Sama    00000
-				JP
-
-04-76-6E   (hex)		ALPS ELECTRIC CO.,LTD.
-04766E     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-3-36 Furukawanakazato,
-				Osaki  Miyagi-pref  989-6181
-				JP
-
 00-6B-8E   (hex)		Shanghai Feixun Communication Co.,Ltd.
 006B8E     (base 16)		Shanghai Feixun Communication Co.,Ltd.
 				Building 90,No,4855,Guangfulin Road
@@ -25706,12 +25694,6 @@ FC06ED     (base 16)		M2Motive Technology Inc.
 				SHENZHEN  GUANGDONG  518100
 				CN
 
-30-C3-D9   (hex)		ALPS ELECTRIC CO.,LTD.
-30C3D9     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				Kakuda  Miyagi-Pref  981-1595
-				JP
-
 FC-4D-8C   (hex)		SHENZHEN PANTE ELECTRONICS TECHNOLOGY CO., LTD
 FC4D8C     (base 16)		SHENZHEN PANTE ELECTRONICS TECHNOLOGY CO., LTD
 				Building 5,Hui Mingsheng industrial park,Tongfu Rd,Fu Yong street
@@ -30566,6 +30548,30 @@ FC2BB2     (base 16)		Actiontec Electronics, Inc
 				Izhevsk  Udmurt Republic  426000
 				RU
 
+04-76-6E   (hex)		ALPS ELECTRIC CO., LTD.
+04766E     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-3-36 Furukawanakazato,
+				Osaki  Miyagi-pref  989-6181
+				JP
+
+00-02-C7   (hex)		ALPS ELECTRIC CO., LTD.
+0002C7     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi, Sama-City,
+				Sama    00000
+				JP
+
+30-C3-D9   (hex)		ALPS ELECTRIC CO., LTD.
+30C3D9     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
+
+64-60-38   (hex)		Hirschmann Automation and Control GmbH
+646038     (base 16)		Hirschmann Automation and Control GmbH
+				Stuttgarter Straße 45-51
+				Neckartenzlingen    D-72654
+				DE
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -31112,12 +31118,6 @@ F49FF3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Nagaokakyo-shi  Kyoto  617-8555
 				JP
 
-28-A1-83   (hex)		ALPS ELECTRIC CO.,LTD.
-28A183     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				Kakuda  Miyagi-Pref  981-1595
-				JP
-
 5C-F8-A1   (hex)		Murata Manufacturing Co., Ltd.
 5CF8A1     (base 16)		Murata Manufacturing Co., Ltd.
 				1-10-1 Higashikotari
@@ -31568,18 +31568,6 @@ F84F57     (base 16)		Cisco Systems, Inc
 				San Jose  CA  95134
 				US
 
-AC-7A-4D   (hex)		ALPS ELECTRIC CO.,LTD.
-AC7A4D     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				KAKUDA-CITY  MIYAGI-PREF  981-1595
-				JP
-
-FC-62-B9   (hex)		ALPS ELECTRIC CO.,LTD.
-FC62B9     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				kakuda-city  Miyagi-Pref  981-1595
-				JP
-
 00-10-A6   (hex)		Cisco Systems, Inc
 0010A6     (base 16)		Cisco Systems, Inc
 				170 WEST TASMAN DRIVE
@@ -31639,24 +31627,6 @@ F45FD4     (base 16)		Cisco SPVTG
 				5030 Sugarloaf Pkwy
 				Lawrenceville  GA  30044
 				US
-
-00-23-06   (hex)		ALPS ELECTRIC CO.,LTD.
-002306     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
-00-1E-3D   (hex)		ALPS ELECTRIC CO.,LTD.
-001E3D     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
-00-19-C1   (hex)		ALPS ELECTRIC CO.,LTD.
-0019C1     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
 
 84-7D-50   (hex)		Holley Metering Limited
 847D50     (base 16)		Holley Metering Limited
@@ -41254,12 +41224,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				E-1,E-2,&E-3
 				AURANGABAD  MAHARASTRA  431136
 				IN
-
-00-19-3B   (hex)		Wilibox Deliberant Group LLC
-00193B     (base 16)		Wilibox Deliberant Group LLC
-				1440 Dutch Valley Place
-				Atlanta  GA  30324
-				US
 
 00-19-2F   (hex)		Cisco Systems, Inc
 00192F     (base 16)		Cisco Systems, Inc
@@ -61229,18 +61193,6 @@ A83944     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
-00-24-7B   (hex)		Actiontec Electronics, Inc
-00247B     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-70-F2-20   (hex)		Actiontec Electronics, Inc
-70F220     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
 AC-57-75   (hex)		HMD Global Oy
 AC5775     (base 16)		HMD Global Oy
 				Karaportti 2
@@ -61258,6 +61210,66 @@ D43D39     (base 16)		FCI. Inc
 				Gransholmsvägen 136
 				Gemla    35599
 				SE
+
+00-24-7B   (hex)		Actiontec Electronics, Inc
+00247B     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+70-F2-20   (hex)		Actiontec Electronics, Inc
+70F220     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+AC-7A-4D   (hex)		ALPS ELECTRIC CO., LTD.
+AC7A4D     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				KAKUDA-CITY  MIYAGI-PREF  981-1595
+				JP
+
+FC-62-B9   (hex)		ALPS ELECTRIC CO., LTD.
+FC62B9     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				kakuda-city  Miyagi-Pref  981-1595
+				JP
+
+00-19-C1   (hex)		ALPS ELECTRIC CO., LTD.
+0019C1     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+00-1E-3D   (hex)		ALPS ELECTRIC CO., LTD.
+001E3D     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+00-23-06   (hex)		ALPS ELECTRIC CO., LTD.
+002306     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+28-A1-83   (hex)		ALPS ELECTRIC CO., LTD.
+28A183     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
+
+64-9D-99   (hex)		FS COM INC
+649D99     (base 16)		FS COM INC
+				380 Centerpoint Blvd New Castle
+				New Castle  DE  19720
+				US
+
+00-19-3B   (hex)		LigoWave
+00193B     (base 16)		LigoWave
+				138 Mountain Brook Drive
+				Canton  GA  30115
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -62075,30 +62087,6 @@ F83DFF     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Shenzhen  Guangdong  518129
 				CN
 
-00-16-FE   (hex)		ALPS ELECTRIC CO.,LTD.
-0016FE     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
-04-98-F3   (hex)		ALPS ELECTRIC CO.,LTD.
-0498F3     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1 NISHIDA
-				KAKUDA  MIYAGI PREF  9876-8501
-				JP
-
-38-C0-96   (hex)		ALPS ELECTRIC CO.,LTD.
-38C096     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				KAKUDA-CITY  MIYAGI-PREF  981-1595
-				JP
-
-E0-75-0A   (hex)		ALPS ELECTRIC CO.,LTD.
-E0750A     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				kakuda-City    981-1595
-				US
-
 B0-59-47   (hex)		Shenzhen Qihu Intelligent Technology Company Limited
 B05947     (base 16)		Shenzhen Qihu Intelligent Technology Company Limited
 				Room 201, Block A, No.1, Qianwan Road 1,Qianhai Shenzhen HongKong Modern Service Industry Cooperation Zone
@@ -62182,12 +62170,6 @@ A4A24A     (base 16)		Cisco SPVTG
 				5030 Sugarloaf Pkwy
 				Lawrenceville  GA  30044
 				US
-
-00-1B-FB   (hex)		ALPS ELECTRIC CO.,LTD.
-001BFB     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
 
 00-E0-8F   (hex)		Cisco Systems, Inc
 00E08F     (base 16)		Cisco Systems, Inc
@@ -85715,12 +85697,6 @@ D071C4     (base 16)		zte corporation
 				shenzhen  guangdong  518057
 				CN
 
-48-F0-7B   (hex)		ALPS ELECTRIC CO.,LTD.
-48F07B     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				Kakuda  Miyagi-Pref  981-1595
-				JP
-
 3C-80-AA   (hex)		Ransnet Singapore Pte Ltd
 3C80AA     (base 16)		Ransnet Singapore Pte Ltd
 				114, Lavender Street, #08-83, CT Hub 2
@@ -89453,12 +89429,6 @@ DCBFE9     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				Qingdao  Shandong  266101
 				CN
 
-74-95-EC   (hex)		ALPS ELECTRIC CO.,LTD.
-7495EC     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				Kakuda  Miyagi-Pref  981-1595
-				JP
-
 18-52-82   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 185282     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
@@ -91193,6 +91163,12 @@ E09F2A     (base 16)		Iton Technology Corp.
 				Austin  TX  78759
 				US
 
+94-67-7E   (hex)		Belden India Private Limited
+94677E     (base 16)		Belden India Private Limited
+				Plot No. D-228, Chakan MIDC Phase 2, 
+				Village Bhamboli, Taluka:Khed  Pune, Maharashtra  410 507
+				IN
+
 70-BC-10   (hex)		Microsoft Corporation
 70BC10     (base 16)		Microsoft Corporation
 				One Microsoft Way
@@ -91205,11 +91181,65 @@ E09F2A     (base 16)		Iton Technology Corp.
 				GENEVE  SUISSE/SWITZ  023
 				CH
 
-94-67-7E   (hex)		Belden India Private Limited
-94677E     (base 16)		Belden India Private Limited
-				Plot No. D-228, Chakan MIDC Phase 2, 
-				Village Bhamboli, Taluka:Khed  Pune, Maharashtra  410 507
-				IN
+BC-75-36   (hex)		ALPS ELECTRIC CO., LTD.
+BC7536     (base 16)		ALPS ELECTRIC CO., LTD.
+				nishida  6-1 
+				Kakuda-City  Miyagi-Pref  981-1595
+				JP
+
+04-98-F3   (hex)		ALPS ELECTRIC CO., LTD.
+0498F3     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1 NISHIDA
+				KAKUDA  MIYAGI PREF  9876-8501
+				JP
+
+38-C0-96   (hex)		ALPS ELECTRIC CO., LTD.
+38C096     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				KAKUDA-CITY  MIYAGI-PREF  981-1595
+				JP
+
+E0-75-0A   (hex)		ALPS ELECTRIC CO., LTD.
+E0750A     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				kakuda-City    981-1595
+				US
+
+00-16-FE   (hex)		ALPS ELECTRIC CO., LTD.
+0016FE     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+00-1B-FB   (hex)		ALPS ELECTRIC CO., LTD.
+001BFB     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+48-F0-7B   (hex)		ALPS ELECTRIC CO., LTD.
+48F07B     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
+
+74-95-EC   (hex)		ALPS ELECTRIC CO., LTD.
+7495EC     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
+
+AC-5A-EE   (hex)		China Mobile Group Device Co.,Ltd.
+AC5AEE     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
+F0-51-EA   (hex)		Fitbit, Inc.
+F051EA     (base 16)		Fitbit, Inc.
+				199 Fremont Street, 14th Fl
+				San Francisco  CA  94105
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -91973,40 +92003,10 @@ BCC810     (base 16)		Cisco SPVTG
 				Lawrenceville  GA  30044
 				US
 
-00-21-4F   (hex)		ALPS ELECTRIC CO.,LTD.
-00214F     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
 00-E0-36   (hex)		PIONEER CORPORATION
 00E036     (base 16)		PIONEER CORPORATION
 				2610 Hanazono 4-Chome
 				Saitama Prefecture, 359-8    34567
-				JP
-
-E0-AE-5E   (hex)		ALPS ELECTRIC CO.,LTD.
-E0AE5E     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-3-36 Furukawanakazato,
-				Osaki  Miyagi-pref  989-6181
-				JP
-
-34-C7-31   (hex)		ALPS ELECTRIC CO.,LTD.
-34C731     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-3-36 Furukawanakazato,
-				Osaki  Miyagi-pref  989-6181
-				JP
-
-60-38-0E   (hex)		ALPS ELECTRIC CO.,LTD.
-60380E     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi
-				Soma-city  Fukushima  976-8501
-				JP
-
-64-D4-BD   (hex)		ALPS ELECTRIC CO.,LTD.
-64D4BD     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				KAKUDA-CITY  MIYAGI-PREF  981-1595
 				JP
 
 00-00-0C   (hex)		Cisco Systems, Inc
@@ -118763,12 +118763,6 @@ A83E0E     (base 16)		HMD Global Oy
 				Seoul    153-801
 				KR
 
-B4-EC-02   (hex)		ALPS ELECTRIC CO.,LTD.
-B4EC02     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				Kakuda  Miyagi-Pref  981-1595
-				JP
-
 00-01-49   (hex)		TDT AG
 000149     (base 16)		TDT AG
 				Siemensstraße 18
@@ -121829,6 +121823,42 @@ B8BC5B     (base 16)		Samsung Electronics Co.,Ltd
 				Suwon  Gyeonggi-Do  16677
 				KR
 
+E0-AE-5E   (hex)		ALPS ELECTRIC CO., LTD.
+E0AE5E     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-3-36 Furukawanakazato,
+				Osaki  Miyagi-pref  989-6181
+				JP
+
+34-C7-31   (hex)		ALPS ELECTRIC CO., LTD.
+34C731     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-3-36 Furukawanakazato,
+				Osaki  Miyagi-pref  989-6181
+				JP
+
+60-38-0E   (hex)		ALPS ELECTRIC CO., LTD.
+60380E     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi
+				Soma-city  Fukushima  976-8501
+				JP
+
+64-D4-BD   (hex)		ALPS ELECTRIC CO., LTD.
+64D4BD     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				KAKUDA-CITY  MIYAGI-PREF  981-1595
+				JP
+
+00-21-4F   (hex)		ALPS ELECTRIC CO., LTD.
+00214F     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+B4-EC-02   (hex)		ALPS ELECTRIC CO., LTD.
+B4EC02     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -122831,40 +122861,10 @@ A46C2A     (base 16)		Cisco Systems, Inc
 				Lawrenceville    30044
 				US
 
-00-26-43   (hex)		ALPS ELECTRIC CO.,LTD.
-002643     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
-00-24-33   (hex)		ALPS ELECTRIC CO.,LTD.
-002433     (base 16)		ALPS ELECTRIC CO.,LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
 74-5E-1C   (hex)		PIONEER CORPORATION
 745E1C     (base 16)		PIONEER CORPORATION
 				1-1 Shin-ogura
 				Kawasaki-shi  Kanagawa Prefecture  2120031
-				JP
-
-00-06-F5   (hex)		ALPS ELECTRIC CO.,LTD.
-0006F5     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-3-36 Furukawanakazato,
-				Osaki  Miyagi-pref  989-6181
-				JP
-
-00-06-F7   (hex)		ALPS ELECTRIC CO.,LTD.
-0006F7     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-3-36 Furukawanakazato,
-				Osaki  Miyagi-pref  989-6181
-				JP
-
-00-07-04   (hex)		ALPS ELECTRIC CO.,LTD.
-000704     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-3-36 Furukawanakazato,
-				Osaki  Miyagi-pref  989-6181
 				JP
 
 1C-1D-86   (hex)		Cisco Systems, Inc
@@ -145115,12 +145115,6 @@ D89403     (base 16)		Hewlett Packard Enterprise
 				Roseville  CA  95747
 				US
 
-9C-8D-7C   (hex)		ALPS ELECTRIC CO.,LTD.
-9C8D7C     (base 16)		ALPS ELECTRIC CO.,LTD.
-				6-1
-				Kakuda  Miyagi-Pref  981-1595
-				JP
-
 E0-4F-43   (hex)		Universal Global Scientific Industrial Co., Ltd.
 E04F43     (base 16)		Universal Global Scientific Industrial Co., Ltd.
 				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
@@ -152255,12 +152249,6 @@ F46E95     (base 16)		Extreme Networks, Inc.
 				Santa Clara  CA  95054
 				US
 
-28-80-88   (hex)		NETGEAR
-288088     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 00-7F-28   (hex)		Actiontec Electronics, Inc
 007F28     (base 16)		Actiontec Electronics, Inc
 				301 Olcott St
@@ -152315,17 +152303,23 @@ A0A3E2     (base 16)		Actiontec Electronics, Inc
 				Piscataway  NJ  08554
 				US
 
-E8-5B-B7   (hex)		Ample Systems Inc.
-E85BB7     (base 16)		Ample Systems Inc.
-				11F-2, No. 95 Minquan Rd.
-				New Taipei City     231
-				TW
-
 C8-08-73   (hex)		Ruckus Wireless
 C80873     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
+
+28-80-88   (hex)		NETGEAR
+288088     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
+				US
+
+E8-5B-B7   (hex)		Ample Systems Inc.
+E85BB7     (base 16)		Ample Systems Inc.
+				11F-2, No. 95 Minquan Rd.
+				New Taipei City     231
+				TW
 
 08-00-30   (hex)		CERN
 080030     (base 16)		CERN
@@ -152338,3 +152332,45 @@ C80873     (base 16)		Ruckus Wireless
 				17406 Tiller Ct. STE 100
 				westfield  IN  46074
 				US
+
+70-1B-FB   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+701BFB     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+00-06-F5   (hex)		ALPS ELECTRIC CO., LTD.
+0006F5     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-3-36 Furukawanakazato,
+				Osaki  Miyagi-pref  989-6181
+				JP
+
+00-06-F7   (hex)		ALPS ELECTRIC CO., LTD.
+0006F7     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-3-36 Furukawanakazato,
+				Osaki  Miyagi-pref  989-6181
+				JP
+
+00-07-04   (hex)		ALPS ELECTRIC CO., LTD.
+000704     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-3-36 Furukawanakazato,
+				Osaki  Miyagi-pref  989-6181
+				JP
+
+00-24-33   (hex)		ALPS ELECTRIC CO., LTD.
+002433     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+00-26-43   (hex)		ALPS ELECTRIC CO., LTD.
+002643     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+9C-8D-7C   (hex)		ALPS ELECTRIC CO., LTD.
+9C8D7C     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
