@@ -61193,18 +61193,6 @@ A83944     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
-00-24-7B   (hex)		Actiontec Electronics, Inc
-00247B     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-70-F2-20   (hex)		Actiontec Electronics, Inc
-70F220     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
 AC-57-75   (hex)		HMD Global Oy
 AC5775     (base 16)		HMD Global Oy
 				Karaportti 2
@@ -61222,6 +61210,18 @@ D43D39     (base 16)		FCI. Inc
 				Gransholmsvägen 136
 				Gemla    35599
 				SE
+
+00-24-7B   (hex)		Actiontec Electronics, Inc
+00247B     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+70-F2-20   (hex)		Actiontec Electronics, Inc
+70F220     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
 
 AC-7A-4D   (hex)		ALPS ELECTRIC CO., LTD.
 AC7A4D     (base 16)		ALPS ELECTRIC CO., LTD.
@@ -61270,6 +61270,18 @@ FC62B9     (base 16)		ALPS ELECTRIC CO., LTD.
 				138 Mountain Brook Drive
 				Canton  GA  30115
 				US
+
+58-C6-F0   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+58C6F0     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+88-4A-18   (hex)		Opulinks
+884A18     (base 16)		Opulinks
+				F 28, No.328, Huashan Rd
+				Shanghai    200040
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -91246,6 +91258,24 @@ BC7536     (base 16)		ALPS ELECTRIC CO., LTD.
 				1184 Harrison Street
 				San Francisco    94103
 				US
+
+C0-B5-D7   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+C0B5D7     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
+2C-5D-34   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+2C5D34     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+9C-14-63   (hex)		Zhejiang Dahua Technology Co., Ltd.
+9C1463     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -152255,12 +152285,6 @@ F46E95     (base 16)		Extreme Networks, Inc.
 				Santa Clara  CA  95054
 				US
 
-28-80-88   (hex)		NETGEAR
-288088     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 00-7F-28   (hex)		Actiontec Electronics, Inc
 007F28     (base 16)		Actiontec Electronics, Inc
 				301 Olcott St
@@ -152315,17 +152339,23 @@ A0A3E2     (base 16)		Actiontec Electronics, Inc
 				Piscataway  NJ  08554
 				US
 
-E8-5B-B7   (hex)		Ample Systems Inc.
-E85BB7     (base 16)		Ample Systems Inc.
-				11F-2, No. 95 Minquan Rd.
-				New Taipei City     231
-				TW
-
 C8-08-73   (hex)		Ruckus Wireless
 C80873     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
+
+28-80-88   (hex)		NETGEAR
+288088     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
+				US
+
+E8-5B-B7   (hex)		Ample Systems Inc.
+E85BB7     (base 16)		Ample Systems Inc.
+				11F-2, No. 95 Minquan Rd.
+				New Taipei City     231
+				TW
 
 08-00-30   (hex)		CERN
 080030     (base 16)		CERN
@@ -152338,6 +152368,24 @@ C80873     (base 16)		Ruckus Wireless
 				17406 Tiller Ct. STE 100
 				westfield  IN  46074
 				US
+
+00-24-33   (hex)		ALPS ELECTRIC CO., LTD.
+002433     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+00-26-43   (hex)		ALPS ELECTRIC CO., LTD.
+002643     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+9C-8D-7C   (hex)		ALPS ELECTRIC CO., LTD.
+9C8D7C     (base 16)		ALPS ELECTRIC CO., LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
 
 70-1B-FB   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 701BFB     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
@@ -152363,20 +152411,8 @@ C80873     (base 16)		Ruckus Wireless
 				Osaki  Miyagi-pref  989-6181
 				JP
 
-00-24-33   (hex)		ALPS ELECTRIC CO., LTD.
-002433     (base 16)		ALPS ELECTRIC CO., LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
-00-26-43   (hex)		ALPS ELECTRIC CO., LTD.
-002643     (base 16)		ALPS ELECTRIC CO., LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
-9C-8D-7C   (hex)		ALPS ELECTRIC CO., LTD.
-9C8D7C     (base 16)		ALPS ELECTRIC CO., LTD.
-				6-1
-				Kakuda  Miyagi-Pref  981-1595
-				JP
+84-A0-6E   (hex)		Sagemcom Broadband SAS
+84A06E     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
