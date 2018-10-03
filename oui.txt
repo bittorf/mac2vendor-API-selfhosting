@@ -30584,6 +30584,18 @@ B0E7DE     (base 16)		Homa Technologies JSC
 				Ho Chi Minh    729226
 				VN
 
+00-6F-F2   (hex)		MITSUMI ELECTRIC CO.,LTD.
+006FF2     (base 16)		MITSUMI ELECTRIC CO.,LTD.
+				2-11-2, Tsurumaki
+				Tama-shi  Tokyo  206-8567
+				JP
+
+F8-4D-FC   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+F84DFC     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555,qianmo road
+				Hangzhou  Zhejiang  310052
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61295,6 +61307,18 @@ FC62B9     (base 16)		ALPS ELECTRIC CO., LTD.
 				Kawasaki  Kanagawa  211-0063
 				JP
 
+88-6F-D4   (hex)		Dell Inc.
+886FD4     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+D4-C9-3C   (hex)		Cisco Systems, Inc
+D4C93C     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -86747,12 +86771,6 @@ E4A749     (base 16)		Palo Alto Networks
 				East Dundee    60118
 				US
 
-18-B4-30   (hex)		Nest Labs Inc.
-18B430     (base 16)		Nest Labs Inc.
-				235 Alma 
-				Palo Alto  CA  94301
-				US
-
 3C-F5-91   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 3CF591     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
@@ -91294,6 +91312,24 @@ A8E2C3     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
 				Shenzhen  Guangdong  518055
 				CN
+
+C8-F7-42   (hex)		HangZhou Gubei Electronics Technology Co.,Ltd
+C8F742     (base 16)		HangZhou Gubei Electronics Technology Co.,Ltd
+				Room 106, No.611 Jianghong Road, Binjiang District, Hangzhou, Zhejiang, China
+				Hangzhou  ZheJiang  310052
+				CN
+
+94-6A-77   (hex)		Technicolor CH USA Inc.
+946A77     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+18-B4-30   (hex)		Nest Labs Inc.
+18B430     (base 16)		Nest Labs Inc.
+				3400 Hillview Ave.
+				Palo Alto  CA  94304
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -117128,12 +117164,6 @@ EC42B4     (base 16)		ADC Corporation
 				Piscataway  NJ  08554
 				US
 
-64-16-66   (hex)		Nest Labs Inc.
-641666     (base 16)		Nest Labs Inc.
-				3400 Hillview Ave.
-				Palo Alto  CA  94304
-				US
-
 94-14-7A   (hex)		vivo Mobile Communication Co., Ltd.
 94147A     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
@@ -121923,6 +121953,18 @@ B09928     (base 16)		FUJITSU LIMITED
 8C6DC4     (base 16)		Megapixel VR
 				340 S. Lemon Ave
 				Walnut  CA  91789
+				US
+
+D4-AD-71   (hex)		Cisco Systems, Inc
+D4AD71     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+64-16-66   (hex)		Nest Labs Inc.
+641666     (base 16)		Nest Labs Inc.
+				3400 Hillview Ave.
+				Palo Alto  CA  94304
 				US
 
 78-DD-12   (hex)		Arcadyan Corporation
@@ -152452,3 +152494,9 @@ B0ACFA     (base 16)		FUJITSU LIMITED
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+A8-3C-CB   (hex)		ROSSMA
+A83CCB     (base 16)		ROSSMA
+				 Malkova,12-108
+				PERM    614087
+				RU
