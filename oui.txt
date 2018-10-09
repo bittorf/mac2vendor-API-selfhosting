@@ -63581,12 +63581,6 @@ A8F7E0     (base 16)		PLANET Technology Corporation
 				New Taipei City    22341
 				TW
 
-2C-5B-E1   (hex)		Centripetal Networks, Inc
-2C5BE1     (base 16)		Centripetal Networks, Inc
-				11720 Sunrise Valley Drive, Suite 100
-				Reston  Virginia  20191
-				US
-
 D8-7E-B1   (hex)		x.o.ware, inc.
 D87EB1     (base 16)		x.o.ware, inc.
 				114 E. Haley St., Ste N
@@ -91431,6 +91425,12 @@ B8C385     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 7018A7     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+2C-5B-E1   (hex)		Centripetal Networks, Inc
+2C5BE1     (base 16)		Centripetal Networks, Inc
+				2251 Corporate Park Drive, Suite 150
+				Herndon  VA  201715806
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -152627,14 +152627,20 @@ C8C2FA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Seoul    ks013
 				KR
 
+CC-D3-9D   (hex)		IEEE Registration Authority
+CCD39D     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 D4-3B-04   (hex)		Intel Corporate
 D43B04     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
 
-CC-D3-9D   (hex)		IEEE Registration Authority
-CCD39D     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
+A8-6D-AA   (hex)		Intel Corporate
+A86DAA     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
