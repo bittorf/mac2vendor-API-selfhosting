@@ -152705,6 +152705,12 @@ A86DAA     (base 16)		Intel Corporate
 				São Jose  Santa Catarina  88104-800
 				BR
 
+80-84-A9   (hex)		oshkosh Corporation
+8084A9     (base 16)		oshkosh Corporation
+				2307 Oregon Street
+				Oshkosh  WI  54902
+				US
+
 C4-F8-39   (hex)		Actia Automotive
 C4F839     (base 16)		Actia Automotive
 				5 rue Jorge Semprun
