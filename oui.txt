@@ -152704,3 +152704,9 @@ A86DAA     (base 16)		Intel Corporate
 				BR 101, KM 210
 				São Jose  Santa Catarina  88104-800
 				BR
+
+C4-F8-39   (hex)		Actia Automotive
+C4F839     (base 16)		Actia Automotive
+				5 rue Jorge Semprun
+				TOULOUSE    31400
+				FR
