@@ -30638,6 +30638,18 @@ E4E749     (base 16)		Hewlett Packard
 				Houston  TX  77070
 				US
 
+38-83-9A   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+38839A     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,
+				Shenzhen  Guangdong  518000
+				CN
+
+CC-F7-35   (hex)		Amazon Technologies Inc.
+CCF735     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61403,6 +61415,18 @@ A0F9B7     (base 16)		Ademco Smart Homes Technology(Tianjin)Co.,Ltd.
 				Prague    17000
 				CZ
 
+8C-44-4F   (hex)		HUMAX Co., Ltd.
+8C444F     (base 16)		HUMAX Co., Ltd.
+				HUMAX Village, 216, Hwangsaeul-ro, Bu
+				Seongnam-si  Gyeonggi-do  463-875
+				KR
+
+A4-19-08   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+A41908     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -91462,6 +91486,24 @@ EC7D9D     (base 16)		CPI
 				2599 Garcia Avenue
 				Mountain View  CA  94043
 				US
+
+A4-3E-A0   (hex)		iComm HK LIMITED
+A43EA0     (base 16)		iComm HK LIMITED
+				Room 702 Kowloon Building 555 Nathan Road Kowloon HongKong
+				Kowloon    NA
+				HK
+
+64-C2-DE   (hex)		LG Electronics (Mobile Communications)
+64C2DE     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul    153-801
+				KR
+
+C8-F6-C8   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+C8F6C8     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -122141,6 +122183,24 @@ E84C56     (base 16)		INTERCEPT SERVICES LIMITED
 				philadelphia  PA  19103
 				US
 
+54-47-41   (hex)		XCHENG HOLDING
+544741     (base 16)		XCHENG HOLDING
+				ROOM 401F, Building 5, No.3000 LONG DONG Avenue, Pudong New District
+				 Shanghai    201203
+				CN
+
+98-44-B6   (hex)		INFRANOR SAS
+9844B6     (base 16)		INFRANOR SAS
+				Avenue Jean Moulin
+				LOURDES    65100
+				FR
+
+00-67-62   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+006762     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -152669,12 +152729,6 @@ C8C2FA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-00-45-01   (hex)		Midmark
-004501     (base 16)		Midmark
-				2600 Miller Creek Road
-				Traverse City  MI  49684
-				US
-
 38-C2-BA   (hex)		CCTV NEOTECH
 38C2BA     (base 16)		CCTV NEOTECH
 				68, Digital-ro 9-gil, Geumcheon-gu
@@ -152711,14 +152765,20 @@ A86DAA     (base 16)		Intel Corporate
 				São Jose  Santa Catarina  88104-800
 				BR
 
+80-84-A9   (hex)		oshkosh Corporation
+8084A9     (base 16)		oshkosh Corporation
+				2307 Oregon Street
+				Oshkosh  WI  54902
+				US
+
 C4-F8-39   (hex)		Actia Automotive
 C4F839     (base 16)		Actia Automotive
 				5 rue Jorge Semprun
 				TOULOUSE    31400
 				FR
 
-80-84-A9   (hex)		oshkosh Corporation
-8084A9     (base 16)		oshkosh Corporation
-				2307 Oregon Street
-				Oshkosh  WI  54902
+00-45-01   (hex)		Midmark RTLS
+004501     (base 16)		Midmark RTLS
+				2600 Miller Creek Road
+				Traverse City  MI  49684
 				US
