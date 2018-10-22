@@ -30692,6 +30692,24 @@ D49234     (base 16)		NEC Corporation
 				Gwangju  Gwangsan-gu  506-731
 				KR
 
+64-29-ED   (hex)		AO PKK Milandr
+6429ED     (base 16)		AO PKK Milandr
+				Gergievsky prospekt, 5
+				Zelenograd  Moscow  124498
+				RU
+
+10-3D-0A   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+103D0A     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
+
+94-27-90   (hex)		TCT mobile ltd
+942790     (base 16)		TCT mobile ltd
+				No.86 hechang 7th road, zhongkai, Hi-Tech District
+				Hui Zhou  Guang Dong  516006
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61301,18 +61319,6 @@ A83944     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
-00-24-7B   (hex)		Actiontec Electronics, Inc
-00247B     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-70-F2-20   (hex)		Actiontec Electronics, Inc
-70F220     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
 AC-57-75   (hex)		HMD Global Oy
 AC5775     (base 16)		HMD Global Oy
 				Karaportti 2
@@ -61331,29 +61337,23 @@ D43D39     (base 16)		FCI. Inc
 				Gemla    35599
 				SE
 
+00-24-7B   (hex)		Actiontec Electronics, Inc
+00247B     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+70-F2-20   (hex)		Actiontec Electronics, Inc
+70F220     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
 AC-7A-4D   (hex)		ALPS ELECTRIC CO., LTD.
 AC7A4D     (base 16)		ALPS ELECTRIC CO., LTD.
 				6-1
 				KAKUDA-CITY  MIYAGI-PREF  981-1595
 				JP
-
-58-C6-F0   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-58C6F0     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
-
-64-9D-99   (hex)		FS COM INC
-649D99     (base 16)		FS COM INC
-				380 Centerpoint Blvd New Castle
-				New Castle  DE  19720
-				US
-
-00-19-3B   (hex)		LigoWave
-00193B     (base 16)		LigoWave
-				138 Mountain Brook Drive
-				Canton  GA  30115
-				US
 
 FC-62-B9   (hex)		ALPS ELECTRIC CO., LTD.
 FC62B9     (base 16)		ALPS ELECTRIC CO., LTD.
@@ -61385,6 +61385,24 @@ FC62B9     (base 16)		ALPS ELECTRIC CO., LTD.
 				Kakuda  Miyagi-Pref  981-1595
 				JP
 
+64-9D-99   (hex)		FS COM INC
+649D99     (base 16)		FS COM INC
+				380 Centerpoint Blvd New Castle
+				New Castle  DE  19720
+				US
+
+00-19-3B   (hex)		LigoWave
+00193B     (base 16)		LigoWave
+				138 Mountain Brook Drive
+				Canton  GA  30115
+				US
+
+58-C6-F0   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+58C6F0     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
 88-4A-18   (hex)		Opulinks
 884A18     (base 16)		Opulinks
 				F 28, No.328, Huashan Rd
@@ -61397,6 +61415,12 @@ FC62B9     (base 16)		ALPS ELECTRIC CO., LTD.
 				Kawasaki  Kanagawa  211-0063
 				JP
 
+88-6F-D4   (hex)		Dell Inc.
+886FD4     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 14-4E-2A   (hex)		Ciena Corporation
 144E2A     (base 16)		Ciena Corporation
 				7035 Ridge Road
@@ -61407,12 +61431,6 @@ D4-C9-3C   (hex)		Cisco Systems, Inc
 D4C93C     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
-				US
-
-88-6F-D4   (hex)		Dell Inc.
-886FD4     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
 				US
 
 C4-06-83   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -61468,6 +61486,18 @@ ECA9FA     (base 16)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
 				#126,BBK Road,Wusha,Chang'An
 				Dong Guan  Guang Dong  523860
 				CN
+
+DC-67-23   (hex)		barox Kommunikation GmbH
+DC6723     (base 16)		barox Kommunikation GmbH
+				Marie-Curie-Strasse 8
+				Lörrach    DE-79539
+				DE
+
+44-B4-62   (hex)		Flextronics Tech.(Ind) Pvt Ltd
+44B462     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
+				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
+				Chennai    602107
+				IN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -91567,6 +91597,12 @@ DC58BC     (base 16)		Thomas-Krenn.AG
 				Speltenbach-Steinaecker 1
 				Freyung    94078
 				DE
+
+C8-4F-86   (hex)		Sophos Ltd
+C84F86     (base 16)		Sophos Ltd
+				The Pentagon
+				Abingdon  Oxfordshire  OX14 3YP
+				GB
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -122264,6 +122300,12 @@ E84C56     (base 16)		INTERCEPT SERVICES LIMITED
 				Clayton  VIC  3168
 				AU
 
+A4-17-91   (hex)		Shenzhen Decnta Technology Co.,LTD.
+A41791     (base 16)		Shenzhen Decnta Technology Co.,LTD.
+				F13,No.02,Building Shangqi,Nanhaidadao 4050 Nanshan District,Shenzhen,P.R.China
+				shenzhen  Guangdong  518057
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -152612,12 +152654,6 @@ F46E95     (base 16)		Extreme Networks, Inc.
 				Santa Clara  CA  95054
 				US
 
-28-80-88   (hex)		NETGEAR
-288088     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 00-7F-28   (hex)		Actiontec Electronics, Inc
 007F28     (base 16)		Actiontec Electronics, Inc
 				301 Olcott St
@@ -152672,17 +152708,23 @@ A0A3E2     (base 16)		Actiontec Electronics, Inc
 				Piscataway  NJ  08554
 				US
 
-E8-5B-B7   (hex)		Ample Systems Inc.
-E85BB7     (base 16)		Ample Systems Inc.
-				11F-2, No. 95 Minquan Rd.
-				New Taipei City     231
-				TW
-
 C8-08-73   (hex)		Ruckus Wireless
 C80873     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
+
+28-80-88   (hex)		NETGEAR
+288088     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
+				US
+
+E8-5B-B7   (hex)		Ample Systems Inc.
+E85BB7     (base 16)		Ample Systems Inc.
+				11F-2, No. 95 Minquan Rd.
+				New Taipei City     231
+				TW
 
 08-00-30   (hex)		CERN
 080030     (base 16)		CERN
@@ -152738,11 +152780,11 @@ C80873     (base 16)		Ruckus Wireless
 				Osaki  Miyagi-pref  989-6181
 				JP
 
-5C-9A-D8   (hex)		FUJITSU LIMITED
-5C9AD8     (base 16)		FUJITSU LIMITED
-				403, Kosugi-cho 1-chome, Nakahara-ku
-				Kawasaki  Kanagawa  211-0063
-				JP
+84-A0-6E   (hex)		Sagemcom Broadband SAS
+84A06E     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 B0-AC-FA   (hex)		FUJITSU LIMITED
 B0ACFA     (base 16)		FUJITSU LIMITED
@@ -152762,11 +152804,11 @@ B0ACFA     (base 16)		FUJITSU LIMITED
 				Kawasaki  Kanagawa  211-0063
 				JP
 
-84-A0-6E   (hex)		Sagemcom Broadband SAS
-84A06E     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+5C-9A-D8   (hex)		FUJITSU LIMITED
+5C9AD8     (base 16)		FUJITSU LIMITED
+				403, Kosugi-cho 1-chome, Nakahara-ku
+				Kawasaki  Kanagawa  211-0063
+				JP
 
 A8-3C-CB   (hex)		ROSSMA
 A83CCB     (base 16)		ROSSMA
@@ -152786,14 +152828,20 @@ C8C2FA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Seoul    ks013
 				KR
 
+D4-3B-04   (hex)		Intel Corporate
+D43B04     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 CC-D3-9D   (hex)		IEEE Registration Authority
 CCD39D     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
 
-D4-3B-04   (hex)		Intel Corporate
-D43B04     (base 16)		Intel Corporate
+A8-6D-AA   (hex)		Intel Corporate
+A86DAA     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
@@ -152803,12 +152851,6 @@ D43B04     (base 16)		Intel Corporate
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
-
-A8-6D-AA   (hex)		Intel Corporate
-A86DAA     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
 
 18-0D-2C   (hex)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
 180D2C     (base 16)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
@@ -152822,17 +152864,17 @@ A86DAA     (base 16)		Intel Corporate
 				Oshkosh  WI  54902
 				US
 
-14-9F-B6   (hex)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
-149FB6     (base 16)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
-				#126,BBK Road,Wusha,Chang'An
-				Dong Guan   Guang Dong  523860
-				CN
-
 C4-F8-39   (hex)		Actia Automotive
 C4F839     (base 16)		Actia Automotive
 				5 rue Jorge Semprun
 				TOULOUSE    31400
 				FR
+
+14-9F-B6   (hex)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
+149FB6     (base 16)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
+				#126,BBK Road,Wusha,Chang'An
+				Dong Guan   Guang Dong  523860
+				CN
 
 00-45-01   (hex)		Midmark RTLS
 004501     (base 16)		Midmark RTLS
@@ -152857,3 +152899,9 @@ F0B31E     (base 16)		Universal Electronics, Inc.
 				503 Ogong-ro 144  Deokjin-gu
 				Jeonju-si     54873
 				KR
+
+F8-91-73   (hex)		AEDLE SAS
+F89173     (base 16)		AEDLE SAS
+				11 Rue Campagne Première, Cour Intérieure, Entresol, CODE 13B80
+				Paris  IDF  75014
+				FR
