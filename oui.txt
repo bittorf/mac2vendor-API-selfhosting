@@ -30716,6 +30716,12 @@ D49234     (base 16)		NEC Corporation
 				Chungju-si  Chungcheongbuk-do  27463
 				KR
 
+F0-10-AB   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+F010AB     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+				No. 1600 Yuhang Tong Road, Wuchang Street, Yuhang District
+				Hangzhou  Zhejiang  310000
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -91616,12 +91622,6 @@ C84F86     (base 16)		Sophos Ltd
 				Abingdon  Oxfordshire  OX14 3YP
 				GB
 
-68-9A-87   (hex)		Amazon Technologies Inc.
-689A87     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 A4-5F-9B   (hex)		Nexell
 A45F9B     (base 16)		Nexell
 				12F, 31 Hwangsaeul-ro 258 beon-gil, Bundang-gu
@@ -91633,6 +91633,18 @@ A45F9B     (base 16)		Nexell
 				7001 Oakport Street
 				Oakland  CA  94621
 				US
+
+68-9A-87   (hex)		Amazon Technologies Inc.
+689A87     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+D0-6E-DE   (hex)		Sagemcom Broadband SAS
+D06EDE     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -122336,6 +122348,12 @@ A41791     (base 16)		Shenzhen Decnta Technology Co.,LTD.
 				shenzhen  Guangdong  518057
 				CN
 
+F8-D4-78   (hex)		Flextronics Tech.(Ind) Pvt Ltd
+F8D478     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
+				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
+				Chennai    602107
+				IN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -152935,3 +152953,9 @@ F89173     (base 16)		AEDLE SAS
 				11 Rue Campagne Première, Cour Intérieure, Entresol, CODE 13B80
 				Paris  IDF  75014
 				FR
+
+D0-58-C0   (hex)		Qingdao Haier Multimedia Limited. 
+D058C0     (base 16)		Qingdao Haier Multimedia Limited. 
+				Pingban Building, Haier Industry Park, Laoshan District,
+				Qingdao  Shandong  266103
+				CN
