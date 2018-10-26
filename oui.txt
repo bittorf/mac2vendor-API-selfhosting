@@ -61523,6 +61523,12 @@ DC6723     (base 16)		barox Kommunikation GmbH
 				Santa Clara  CA  95054
 				US
 
+7C-60-4A   (hex)		Avelon
+7C604A     (base 16)		Avelon
+				Bändliweg 20
+				Zurich    8048
+				CH
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
