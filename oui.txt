@@ -122354,6 +122354,12 @@ F8D478     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
 				Chennai    602107
 				IN
 
+B8-C2-53   (hex)		Juniper Networks
+B8C253     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -152900,12 +152906,6 @@ A86DAA     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-18-0D-2C   (hex)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
-180D2C     (base 16)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
-				BR 101, KM 210
-				São Jose  Santa Catarina  88104-800
-				BR
-
 80-84-A9   (hex)		oshkosh Corporation
 8084A9     (base 16)		oshkosh Corporation
 				2307 Oregon Street
@@ -152959,3 +152959,9 @@ D058C0     (base 16)		Qingdao Haier Multimedia Limited.
 				Pingban Building, Haier Industry Park, Laoshan District,
 				Qingdao  Shandong  266103
 				CN
+
+18-0D-2C   (hex)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
+180D2C     (base 16)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
+				BR 101, KM 210
+				São Jose  Santa Catarina  88104-800
+				BR
