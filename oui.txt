@@ -21626,18 +21626,6 @@ E8B1FC     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-18-64-72   (hex)		Aruba Networks
-186472     (base 16)		Aruba Networks
-				1322 Crossman Ave.
-				Sunnyvale  CA  94089
-				US
-
-00-24-6C   (hex)		Aruba Networks
-00246C     (base 16)		Aruba Networks
-				1344 Crossman Avenue
-				Sunnyvale  CA  94089
-				US
-
 64-D9-54   (hex)		Taicang T&W Electronics
 64D954     (base 16)		Taicang T&W Electronics
 				89# Jiang Nan RD, Lu Du,
@@ -30733,6 +30721,24 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				Room 413, Nangong Building, 399 Linquan Street, SIP
 				Suzhou  Jiangsu  215123
 				CN
+
+80-8F-1D   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+808F1D     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+18-64-72   (hex)		Aruba, a Hewlett Packard Enterprise Company
+186472     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+00-24-6C   (hex)		Aruba, a Hewlett Packard Enterprise Company
+00246C     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -52319,12 +52325,6 @@ D07E35     (base 16)		Intel Corporate
 				HILLSBORO  OR  97124
 				US
 
-6C-F3-7F   (hex)		Aruba Networks
-6CF37F     (base 16)		Aruba Networks
-				1344 Crossman Ave.
-				Sunnyvale   CA  94089
-				US
-
 60-5B-B4   (hex)		AzureWave Technology Inc.
 605BB4     (base 16)		AzureWave Technology Inc.
 				8F., No. 94, Baozhong Rd.,
@@ -52540,12 +52540,6 @@ FCB4E6     (base 16)		ASKEY COMPUTER CORP
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				TAIWAN  NEW TAIPEI  23585
 				TW
-
-F0-5C-19   (hex)		Aruba Networks
-F05C19     (base 16)		Aruba Networks
-				1344 Crossman Ave
-				Sunnyvale  CA  94089
-				US
 
 70-AA-B2   (hex)		BlackBerry RTS
 70AAB2     (base 16)		BlackBerry RTS
@@ -53307,12 +53301,6 @@ D8-D7-23   (hex)		IDS, Inc
 D8D723     (base 16)		IDS, Inc
 				6801 15 Mile Rd.
 				Sterling Heights  MI  48312
-				US
-
-70-3A-0E   (hex)		Aruba Networks
-703A0E     (base 16)		Aruba Networks
-				1344 Crossman Ave
-				Sunnyvale  CA  94089
 				US
 
 70-54-D2   (hex)		PEGATRON CORPORATION
@@ -54259,12 +54247,6 @@ F0038C     (base 16)		AzureWave Technology Inc.
 				8F., No. 94, Baozhong Rd.
 				New Taipei City  Taiwan  231
 				TW
-
-B4-5D-50   (hex)		Aruba Networks
-B45D50     (base 16)		Aruba Networks
-				1344 Crossman Ave
-				Sunnyvale  CA  94089
-				US
 
 00-1E-7D   (hex)		Samsung Electronics Co.,Ltd
 001E7D     (base 16)		Samsung Electronics Co.,Ltd
@@ -61529,12 +61511,6 @@ DC6723     (base 16)		barox Kommunikation GmbH
 				Kranj    4000
 				SI
 
-38-21-C7   (hex)		Aruba Networks
-3821C7     (base 16)		Aruba Networks
-				3333 Scott Blvd
-				Santa Clara  CA  95054
-				US
-
 7C-60-4A   (hex)		Avelon
 7C604A     (base 16)		Avelon
 				Bändliweg 20
@@ -61545,6 +61521,42 @@ DC6723     (base 16)		barox Kommunikation GmbH
 7CD95C     (base 16)		Google, Inc.
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
+				US
+
+68-FF-7B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+68FF7B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+38-21-C7   (hex)		Aruba, a Hewlett Packard Enterprise Company
+3821C7     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+F0-5C-19   (hex)		Aruba, a Hewlett Packard Enterprise Company
+F05C19     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+70-3A-0E   (hex)		Aruba, a Hewlett Packard Enterprise Company
+703A0E     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+B4-5D-50   (hex)		Aruba, a Hewlett Packard Enterprise Company
+B45D50     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+6C-F3-7F   (hex)		Aruba, a Hewlett Packard Enterprise Company
+6CF37F     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -63664,12 +63676,6 @@ E4C62B     (base 16)		Airware
 				Room 1-216, Building 25, No 9, Anningzhuang West Road
 				Haidian District  Beijing  100085
 				CN
-
-94-B4-0F   (hex)		Aruba Networks
-94B40F     (base 16)		Aruba Networks
-				1344 Crossman Ave
-				Sunnyvale  CA  94089
-				US
 
 4C-2C-83   (hex)		Zhejiang KaNong Network Technology Co.,Ltd.
 4C2C83     (base 16)		Zhejiang KaNong Network Technology Co.,Ltd.
@@ -82406,35 +82412,11 @@ F40669     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-AC-A3-1E   (hex)		Aruba Networks
-ACA31E     (base 16)		Aruba Networks
-				1322 Crossman Ave.
-				Sunnyvale  CA  94089
-				US
-
-9C-1C-12   (hex)		Aruba Networks
-9C1C12     (base 16)		Aruba Networks
-				1344 Crossman Ave.
-				Sunnyvale  CA  94089
-				US
-
-00-1A-1E   (hex)		Aruba Networks
-001A1E     (base 16)		Aruba Networks
-				1322 Crossman Av
-				Sunnyvale  CA  94089
-				US
-
 28-C2-DD   (hex)		AzureWave Technology Inc.
 28C2DD     (base 16)		AzureWave Technology Inc.
 				8F., No. 94, Baozhong Rd.,
 				New Taipei City  Taiwan  231
 				TW
-
-84-D4-7E   (hex)		Aruba Networks
-84D47E     (base 16)		Aruba Networks
-				1322 Crossman Ave.
-				Sunnyvale  CA  94089
-				US
 
 A8-58-40   (hex)		Cambridge Industries(Group) Co.,Ltd.
 A85840     (base 16)		Cambridge Industries(Group) Co.,Ltd.
@@ -84325,12 +84307,6 @@ E4509A     (base 16)		HW Communications Ltd
 				The 8th floor of  VIA Technology Building  NO. 9966 Shennan road , Nanshan Distict  Shenzhen
 				Shenzhen    518000
 				CN
-
-20-4C-03   (hex)		Aruba Networks
-204C03     (base 16)		Aruba Networks
-				1344 Crossman Ave
-				Sunnyvale  CA  94089
-				US
 
 90-F0-52   (hex)		MEIZU Technology Co., Ltd.
 90F052     (base 16)		MEIZU Technology Co., Ltd.
@@ -91289,11 +91265,11 @@ D8A6FD     (base 16)		Ghost Locomotion
 				Taipei    114
 				TW
 
-E0-9F-2A   (hex)		Iton Technology Corp. 
-E09F2A     (base 16)		Iton Technology Corp. 
-				Room 1302, Block A, Building 4，Huangge Road, Longgang District
-				Shenzhen   Guangdong   518116
-				CN
+04-07-2E   (hex)		VTech Electronics Ltd.
+04072E     (base 16)		VTech Electronics Ltd.
+				23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road
+				Tai Po, N.T.    NA
+				HK
 
 48-FD-A3   (hex)		Xiaomi Communications Co Ltd
 48FDA3     (base 16)		Xiaomi Communications Co Ltd
@@ -91313,23 +91289,23 @@ E09F2A     (base 16)		Iton Technology Corp.
 				San Jose  CA  94568
 				US
 
-04-07-2E   (hex)		VTech Electronics Ltd.
-04072E     (base 16)		VTech Electronics Ltd.
-				23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road
-				Tai Po, N.T.    NA
-				HK
-
-68-4F-64   (hex)		Dell Inc.
-684F64     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
+E0-9F-2A   (hex)		Iton Technology Corp. 
+E09F2A     (base 16)		Iton Technology Corp. 
+				Room 1302, Block A, Building 4，Huangge Road, Longgang District
+				Shenzhen   Guangdong   518116
+				CN
 
 48-4A-30   (hex)		George Robotics Limited
 484A30     (base 16)		George Robotics Limited
 				Salisbury House, Station Road
 				Cambridge    CB1 2LA
 				GB
+
+68-4F-64   (hex)		Dell Inc.
+684F64     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 50-AD-92   (hex)		NX Technologies
 50AD92     (base 16)		NX Technologies
@@ -91367,23 +91343,41 @@ E09F2A     (base 16)		Iton Technology Corp.
 				Austin  TX  78759
 				US
 
-70-BC-10   (hex)		Microsoft Corporation
-70BC10     (base 16)		Microsoft Corporation
-				One Microsoft Way
-				REDMOND  WA  98052
-				US
-
 94-67-7E   (hex)		Belden India Private Limited
 94677E     (base 16)		Belden India Private Limited
 				Plot No. D-228, Chakan MIDC Phase 2, 
 				Village Bhamboli, Taluka:Khed  Pune, Maharashtra  410 507
 				IN
 
+70-BC-10   (hex)		Microsoft Corporation
+70BC10     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
 80-D3-36   (hex)		CERN
 80D336     (base 16)		CERN
 				CH-1211 
 				GENEVE  SUISSE/SWITZ  023
 				CH
+
+F0-51-EA   (hex)		Fitbit, Inc.
+F051EA     (base 16)		Fitbit, Inc.
+				199 Fremont Street, 14th Fl
+				San Francisco  CA  94105
+				US
+
+00-16-FE   (hex)		ALPS ELECTRIC CO., LTD.
+0016FE     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+00-1B-FB   (hex)		ALPS ELECTRIC CO., LTD.
+001BFB     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
 
 48-F0-7B   (hex)		ALPS ELECTRIC CO., LTD.
 48F07B     (base 16)		ALPS ELECTRIC CO., LTD.
@@ -91403,12 +91397,6 @@ AC5AEE     (base 16)		China Mobile Group Device Co.,Ltd.
 				Beijing    100053
 				CN
 
-F0-51-EA   (hex)		Fitbit, Inc.
-F051EA     (base 16)		Fitbit, Inc.
-				199 Fremont Street, 14th Fl
-				San Francisco  CA  94105
-				US
-
 04-98-F3   (hex)		ALPS ELECTRIC CO., LTD.
 0498F3     (base 16)		ALPS ELECTRIC CO., LTD.
 				6-1 NISHIDA
@@ -91427,23 +91415,17 @@ E0750A     (base 16)		ALPS ELECTRIC CO., LTD.
 				kakuda-City    981-1595
 				US
 
-00-16-FE   (hex)		ALPS ELECTRIC CO., LTD.
-0016FE     (base 16)		ALPS ELECTRIC CO., LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
-00-1B-FB   (hex)		ALPS ELECTRIC CO., LTD.
-001BFB     (base 16)		ALPS ELECTRIC CO., LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
 BC-75-36   (hex)		ALPS ELECTRIC CO., LTD.
 BC7536     (base 16)		ALPS ELECTRIC CO., LTD.
 				nishida  6-1 
 				Kakuda-City  Miyagi-Pref  981-1595
 				JP
+
+10-8E-BA   (hex)		Molekule
+108EBA     (base 16)		Molekule
+				1184 Harrison Street
+				San Francisco    94103
+				US
 
 C0-B5-D7   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 C0B5D7     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
@@ -91462,12 +91444,6 @@ C0B5D7     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 				No.1199,Waterfront Road 
 				Hangzhou  Zhejiang  310053
 				CN
-
-10-8E-BA   (hex)		Molekule
-108EBA     (base 16)		Molekule
-				1184 Harrison Street
-				San Francisco    94103
-				US
 
 C4-7D-46   (hex)		FUJITSU LIMITED
 C47D46     (base 16)		FUJITSU LIMITED
@@ -91529,28 +91505,10 @@ C8F742     (base 16)		HangZhou Gubei Electronics Technology Co.,Ltd
 				Lawrenceville  GA  30044
 				US
 
-18-B4-30   (hex)		Nest Labs Inc.
-18B430     (base 16)		Nest Labs Inc.
-				3400 Hillview Ave.
-				Palo Alto  CA  94304
-				US
-
-C8-28-32   (hex)		Beijing Xiaomi Electronics Co., Ltd.
-C82832     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
-				Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District
-				Beijing  Beijing  10085
-				CN
-
 74-60-FA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 7460FA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
-				CN
-
-30-DF-8D   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-30DF8D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-				SONGGANG
-				SHENZHEN  GUANGDONG  518105
 				CN
 
 88-40-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -91570,6 +91528,24 @@ B8C385     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+30-DF-8D   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+30DF8D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
+
+C8-28-32   (hex)		Beijing Xiaomi Electronics Co., Ltd.
+C82832     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
+				Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District
+				Beijing  Beijing  10085
+				CN
+
+18-B4-30   (hex)		Nest Labs Inc.
+18B430     (base 16)		Nest Labs Inc.
+				3400 Hillview Ave.
+				Palo Alto  CA  94304
+				US
 
 44-3C-88   (hex)		FICOSA MAROC INTERNATIONAL
 443C88     (base 16)		FICOSA MAROC INTERNATIONAL
@@ -91613,12 +91589,6 @@ C8F6C8     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan  Hubei  430074
 				CN
 
-30-4F-75   (hex)		DASAN Network Solutions
-304F75     (base 16)		DASAN Network Solutions
-				DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu
-				Seongnam-si  Gyeonggi-do  13493
-				KR
-
 00-07-02   (hex)		Varex Imaging
 000702     (base 16)		Varex Imaging
 				1678 South Pioneer Road
@@ -91627,6 +91597,12 @@ C8F6C8     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 
 38-AF-D0   (hex)		Private
 38AFD0     (base 16)		Private
+
+30-4F-75   (hex)		DASAN Network Solutions
+304F75     (base 16)		DASAN Network Solutions
+				DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu
+				Seongnam-si  Gyeonggi-do  13493
+				KR
 
 C8-F7-50   (hex)		Dell Inc.
 C8F750     (base 16)		Dell Inc.
@@ -91640,11 +91616,11 @@ DC58BC     (base 16)		Thomas-Krenn.AG
 				Freyung    94078
 				DE
 
-68-9A-87   (hex)		Amazon Technologies Inc.
-689A87     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
+C8-4F-86   (hex)		Sophos Ltd
+C84F86     (base 16)		Sophos Ltd
+				The Pentagon
+				Abingdon  Oxfordshire  OX14 3YP
+				GB
 
 A4-5F-9B   (hex)		Nexell
 A45F9B     (base 16)		Nexell
@@ -91658,11 +91634,11 @@ A45F9B     (base 16)		Nexell
 				Oakland  CA  94621
 				US
 
-C8-4F-86   (hex)		Sophos Ltd
-C84F86     (base 16)		Sophos Ltd
-				The Pentagon
-				Abingdon  Oxfordshire  OX14 3YP
-				GB
+68-9A-87   (hex)		Amazon Technologies Inc.
+689A87     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
 
 D0-6E-DE   (hex)		Sagemcom Broadband SAS
 D06EDE     (base 16)		Sagemcom Broadband SAS
@@ -91680,6 +91656,60 @@ C0D834     (base 16)		xvtec ltd
 4CAEA3     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
+				US
+
+00-EE-AB   (hex)		Cisco Systems, Inc
+00EEAB     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+00-29-C2   (hex)		Cisco Systems, Inc
+0029C2     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+18-7C-0B   (hex)		Ruckus Wireless
+187C0B     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+9C-1C-12   (hex)		Aruba, a Hewlett Packard Enterprise Company
+9C1C12     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+AC-A3-1E   (hex)		Aruba, a Hewlett Packard Enterprise Company
+ACA31E     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+84-D4-7E   (hex)		Aruba, a Hewlett Packard Enterprise Company
+84D47E     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+20-4C-03   (hex)		Aruba, a Hewlett Packard Enterprise Company
+204C03     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+00-1A-1E   (hex)		Aruba, a Hewlett Packard Enterprise Company
+001A1E     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+94-B4-0F   (hex)		Aruba, a Hewlett Packard Enterprise Company
+94B40F     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -113225,18 +113255,6 @@ C40938     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
 				Kulim  Kedah  09000
 				MY
 
-04-BD-88   (hex)		Aruba Networks
-04BD88     (base 16)		Aruba Networks
-				1322 Crossman Ave.
-				Sunnyvale  CA  94089
-				US
-
-00-0B-86   (hex)		Aruba Networks
-000B86     (base 16)		Aruba Networks
-				180 Great Oaks Blvd. Suite B
-				San Jose  CA  95119
-				US
-
 88-96-F2   (hex)		Valeo Schalter und Sensoren GmbH
 8896F2     (base 16)		Valeo Schalter und Sensoren GmbH
 				Laiernstrasse 12
@@ -122400,6 +122418,24 @@ B8-C2-53   (hex)		Juniper Networks
 B8C253     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
+				US
+
+98-DA-C4   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+98DAC4     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+04-BD-88   (hex)		Aruba, a Hewlett Packard Enterprise Company
+04BD88     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+00-0B-86   (hex)		Aruba, a Hewlett Packard Enterprise Company
+000B86     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -144356,24 +144392,6 @@ D00ED9     (base 16)		Taicang T&W Electronics
 				Kulim  Kedah  09000
 				MY
 
-40-E3-D6   (hex)		Aruba Networks
-40E3D6     (base 16)		Aruba Networks
-				1322 Crossman Ave.
-				Sunnyvale  CA  94089
-				US
-
-24-DE-C6   (hex)		Aruba Networks
-24DEC6     (base 16)		Aruba Networks
-				1344 Crossman Ave.
-				Sunnyvale  CA  94089
-				US
-
-D8-C7-C8   (hex)		Aruba Networks
-D8C7C8     (base 16)		Aruba Networks
-				1344 Crossman Ave.
-				Sunnyvale   CA  94089
-				US
-
 90-0B-C1   (hex)		Sprocomm Technologies CO.,Ltd
 900BC1     (base 16)		Sprocomm Technologies CO.,Ltd
 				5D-506 F1.6 Block,Tianfa Building,Tianan Chegongmiao Industrial Park,Futian Dist,Shenzhen China
@@ -153007,3 +153025,33 @@ D058C0     (base 16)		Qingdao Haier Multimedia Limited.
 				Pingban Building, Haier Industry Park, Laoshan District,
 				Qingdao  Shandong  266103
 				CN
+
+E0-37-17   (hex)		Technicolor CH USA Inc.
+E03717     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+54-A7-03   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+54A703     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+24-DE-C6   (hex)		Aruba, a Hewlett Packard Enterprise Company
+24DEC6     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+40-E3-D6   (hex)		Aruba, a Hewlett Packard Enterprise Company
+40E3D6     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+D8-C7-C8   (hex)		Aruba, a Hewlett Packard Enterprise Company
+D8C7C8     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
