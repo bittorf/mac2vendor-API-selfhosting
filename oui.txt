@@ -30740,6 +30740,12 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				Santa Clara  CA  95054
 				US
 
+0C-F4-75   (hex)		Zliide Technologies ApS
+0CF475     (base 16)		Zliide Technologies ApS
+				Sverigesgade 6
+				Aarhus    8000
+				DK
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61523,18 +61529,6 @@ DC6723     (base 16)		barox Kommunikation GmbH
 				Mountain View  CA  94043
 				US
 
-68-FF-7B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-68FF7B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
-38-21-C7   (hex)		Aruba, a Hewlett Packard Enterprise Company
-3821C7     (base 16)		Aruba, a Hewlett Packard Enterprise Company
-				3333 Scott Blvd
-				Santa Clara  CA  95054
-				US
-
 F0-5C-19   (hex)		Aruba, a Hewlett Packard Enterprise Company
 F05C19     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				3333 Scott Blvd
@@ -61555,6 +61549,18 @@ B45D50     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 
 6C-F3-7F   (hex)		Aruba, a Hewlett Packard Enterprise Company
 6CF37F     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+68-FF-7B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+68FF7B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+38-21-C7   (hex)		Aruba, a Hewlett Packard Enterprise Company
+3821C7     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				3333 Scott Blvd
 				Santa Clara  CA  95054
 				US
@@ -91646,16 +91652,28 @@ D06EDE     (base 16)		Sagemcom Broadband SAS
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-C0-D8-34   (hex)		xvtec ltd
-C0D834     (base 16)		xvtec ltd
-				Ha'nagar 24
-				Hod Hasharon  Israel  4527713
-				IL
+84-D4-7E   (hex)		Aruba, a Hewlett Packard Enterprise Company
+84D47E     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
 
-4C-AE-A3   (hex)		Hewlett Packard Enterprise
-4CAEA3     (base 16)		Hewlett Packard Enterprise
-				8000 Foothills Blvd.
-				Roseville  CA  95747
+20-4C-03   (hex)		Aruba, a Hewlett Packard Enterprise Company
+204C03     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+00-1A-1E   (hex)		Aruba, a Hewlett Packard Enterprise Company
+001A1E     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+94-B4-0F   (hex)		Aruba, a Hewlett Packard Enterprise Company
+94B40F     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
 				US
 
 00-EE-AB   (hex)		Cisco Systems, Inc
@@ -91688,28 +91706,16 @@ ACA31E     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				Santa Clara  CA  95054
 				US
 
-84-D4-7E   (hex)		Aruba, a Hewlett Packard Enterprise Company
-84D47E     (base 16)		Aruba, a Hewlett Packard Enterprise Company
-				3333 Scott Blvd
-				Santa Clara  CA  95054
-				US
+C0-D8-34   (hex)		xvtec ltd
+C0D834     (base 16)		xvtec ltd
+				Ha'nagar 24
+				Hod Hasharon  Israel  4527713
+				IL
 
-20-4C-03   (hex)		Aruba, a Hewlett Packard Enterprise Company
-204C03     (base 16)		Aruba, a Hewlett Packard Enterprise Company
-				3333 Scott Blvd
-				Santa Clara  CA  95054
-				US
-
-00-1A-1E   (hex)		Aruba, a Hewlett Packard Enterprise Company
-001A1E     (base 16)		Aruba, a Hewlett Packard Enterprise Company
-				3333 Scott Blvd
-				Santa Clara  CA  95054
-				US
-
-94-B4-0F   (hex)		Aruba, a Hewlett Packard Enterprise Company
-94B40F     (base 16)		Aruba, a Hewlett Packard Enterprise Company
-				3333 Scott Blvd
-				Santa Clara  CA  95054
+4C-AE-A3   (hex)		Hewlett Packard Enterprise
+4CAEA3     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -119162,12 +119168,6 @@ A83E0E     (base 16)		HMD Global Oy
 				Dongguan    523808
 				CN
 
-00-0D-82   (hex)		PHSNET SRLS
-000D82     (base 16)		PHSNET SRLS
-				Piazza Mariano Rumor, 18
-				Arcugnano  Vicenza  36057
-				IT
-
 08-D4-6A   (hex)		LG Electronics (Mobile Communications)
 08D46A     (base 16)		LG Electronics (Mobile Communications)
 				60-39, Gasan-dong, Geumcheon-gu
@@ -122420,23 +122420,29 @@ B8C253     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-98-DA-C4   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-98DAC4     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
 04-BD-88   (hex)		Aruba, a Hewlett Packard Enterprise Company
 04BD88     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				3333 Scott Blvd
 				Santa Clara  CA  95054
 				US
 
+98-DA-C4   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+98DAC4     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 00-0B-86   (hex)		Aruba, a Hewlett Packard Enterprise Company
 000B86     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				3333 Scott Blvd
 				Santa Clara  CA  95054
 				US
+
+00-0D-82   (hex)		PHSNET
+000D82     (base 16)		PHSNET
+				Piazza Mariano Rumor, 18
+				Arcugnano  Vicenza  36057
+				IT
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
