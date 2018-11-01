@@ -10370,12 +10370,6 @@ A8CE90     (base 16)		CVC
 				Yongin-si  Gyeonggi-do  449-821
 				KR
 
-00-1A-3F   (hex)		intelbras
-001A3F     (base 16)		intelbras
-				rodovia br 101 km 210
-				sao jose  sc  88104800
-				BR
-
 00-1A-41   (hex)		INOCOVA Co.,Ltd
 001A41     (base 16)		INOCOVA Co.,Ltd
 				5F SEOUL BD.736-17
@@ -30710,18 +30704,6 @@ F010AB     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				Hangzhou  Zhejiang  310000
 				CN
 
-F8-2F-6A   (hex)		ITEL MOBILE LIMITED
-F82F6A     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
-
-1C-2E-1B   (hex)		Suzhou Tremenet Communication Technology Co., Ltd.
-1C2E1B     (base 16)		Suzhou Tremenet Communication Technology Co., Ltd.
-				Room 413, Nangong Building, 399 Linquan Street, SIP
-				Suzhou  Jiangsu  215123
-				CN
-
 80-8F-1D   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 808F1D     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
@@ -30734,6 +30716,18 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				Santa Clara  CA  95054
 				US
 
+F8-2F-6A   (hex)		ITEL MOBILE LIMITED
+F82F6A     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
+1C-2E-1B   (hex)		Suzhou Tremenet Communication Technology Co., Ltd.
+1C2E1B     (base 16)		Suzhou Tremenet Communication Technology Co., Ltd.
+				Room 413, Nangong Building, 399 Linquan Street, SIP
+				Suzhou  Jiangsu  215123
+				CN
+
 00-24-6C   (hex)		Aruba, a Hewlett Packard Enterprise Company
 00246C     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				3333 Scott Blvd
@@ -30745,6 +30739,18 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				Sverigesgade 6
 				Aarhus    8000
 				DK
+
+00-1A-3F   (hex)		Intelbras
+001A3F     (base 16)		Intelbras
+				BR 101, km 210, S/N°
+				São José  Santa Catarina  88104800
+				BR
+
+B0-00-73   (hex)		Wistron Neweb Corporation
+B00073     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -61565,6 +61571,12 @@ B45D50     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				Santa Clara  CA  95054
 				US
 
+B8-EF-8B   (hex)		SHENZHEN CANNICE TECHNOLOGY CO.,LTD
+B8EF8B     (base 16)		SHENZHEN CANNICE TECHNOLOGY CO.,LTD
+				F-20,7A,Baoneng Technology Park
+				Shenzhen  Guangdong  518109
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -91676,12 +91688,6 @@ D06EDE     (base 16)		Sagemcom Broadband SAS
 				Santa Clara  CA  95054
 				US
 
-00-EE-AB   (hex)		Cisco Systems, Inc
-00EEAB     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 00-29-C2   (hex)		Cisco Systems, Inc
 0029C2     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -91717,6 +91723,18 @@ C0D834     (base 16)		xvtec ltd
 				8000 Foothills Blvd.
 				Roseville  CA  95747
 				US
+
+00-EE-AB   (hex)		Cisco Systems, Inc
+00EEAB     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+D4-53-83   (hex)		Murata Manufacturing Co., Ltd.
+D45383     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -92803,12 +92821,6 @@ F0F249     (base 16)		Hitron Technologies. Inc
 				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
 				Hsin-chu  Taiwan  300
 				TW
-
-CC-E0-C3   (hex)		Mangstor, Inc.
-CCE0C3     (base 16)		Mangstor, Inc.
-				108 Wild Basin Rd
-				Austin  Texas  78746
-				US
 
 84-A4-23   (hex)		Sagemcom Broadband SAS
 84A423     (base 16)		Sagemcom Broadband SAS
@@ -122420,17 +122432,17 @@ B8C253     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-04-BD-88   (hex)		Aruba, a Hewlett Packard Enterprise Company
-04BD88     (base 16)		Aruba, a Hewlett Packard Enterprise Company
-				3333 Scott Blvd
-				Santa Clara  CA  95054
-				US
-
 98-DA-C4   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 98DAC4     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
 				Shenzhen  Guangdong  518057
 				CN
+
+04-BD-88   (hex)		Aruba, a Hewlett Packard Enterprise Company
+04BD88     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
 
 00-0B-86   (hex)		Aruba, a Hewlett Packard Enterprise Company
 000B86     (base 16)		Aruba, a Hewlett Packard Enterprise Company
@@ -122443,6 +122455,12 @@ B8C253     (base 16)		Juniper Networks
 				Piazza Mariano Rumor, 18
 				Arcugnano  Vicenza  36057
 				IT
+
+CC-E0-C3   (hex)		EXTEN Technologies, Inc.
+CCE0C3     (base 16)		EXTEN Technologies, Inc.
+				4201 W Parmer Lane Bldg A, Ste 200
+				Austin  TX  78727
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -124672,12 +124690,6 @@ CCBDD3     (base 16)		Ultimaker B.V.
 				#B-703,U-space 1-danji,670 Sampyeong-dong Bundang-gu
 				Seongnam-si  Gyeonggi-do  463-400
 				KR
-
-58-10-8C   (hex)		Intelbras
-58108C     (base 16)		Intelbras
-				BR 101, km 210, S/N°
-				São José  Santa Catarina  88104800
-				BR
 
 18-71-17   (hex)		eta plus electronic gmbh
 187117     (base 16)		eta plus electronic gmbh
@@ -129392,12 +129404,6 @@ E08A7E     (base 16)		Exponent
 				Frangarto  Bolzano  39010
 				IT
 
-F8-DA-E2   (hex)		Beta LaserMike
-F8DAE2     (base 16)		Beta LaserMike
-				8001 Technology Blvd
-				Dayton  OH  45424
-				US
-
 E8-04-62   (hex)		Cisco Systems, Inc
 E80462     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -132058,12 +132064,6 @@ DC3350     (base 16)		TechSAT GmbH
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-00-1E-B8   (hex)		Fortis, Inc.
-001EB8     (base 16)		Fortis, Inc.
-				#502 Techno plaza, 149-10 Yatap-dong,
-				Seongnam-si,  Gyeonggi-do,  463-816
-				KR
 
 00-1E-B1   (hex)		Cryptsoft Pty Ltd
 001EB1     (base 16)		Cryptsoft Pty Ltd
@@ -153020,12 +153020,6 @@ F89173     (base 16)		AEDLE SAS
 				Paris  IDF  75014
 				FR
 
-18-0D-2C   (hex)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
-180D2C     (base 16)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
-				BR 101, KM 210
-				São Jose  Santa Catarina  88104-800
-				BR
-
 D0-58-C0   (hex)		Qingdao Haier Multimedia Limited. 
 D058C0     (base 16)		Qingdao Haier Multimedia Limited. 
 				Pingban Building, Haier Industry Park, Laoshan District,
@@ -153061,3 +153055,51 @@ D8C7C8     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				3333 Scott Blvd
 				Santa Clara  CA  95054
 				US
+
+58-10-8C   (hex)		Intelbras
+58108C     (base 16)		Intelbras
+				BR 101, km 210, S/N°
+				São José  Santa Catarina  88104800
+				BR
+
+18-0D-2C   (hex)		Intelbras
+180D2C     (base 16)		Intelbras
+				BR 101, km 210, S/N°
+				São José  Santa Catarina  88104800
+				BR
+
+34-20-03   (hex)		Shenzhen Feitengyun Technology Co.,LTD
+342003     (base 16)		Shenzhen Feitengyun Technology Co.,LTD
+				7F 4building,Yalianhaoshida industrial Park
+				Shenzhen  Guangdong  518100
+				CN
+
+A0-42-46   (hex)		IT Telecom Co., Ltd.
+A04246     (base 16)		IT Telecom Co., Ltd.
+				517 TheOvalley 555-9 Hogye-dong, Dong An-gu
+				Anyang-si   Gyeonggi-do  14117
+				KR
+
+7C-FD-82   (hex)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
+7CFD82     (base 16)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
+				No.168, Middle Road Of East Gate
+				Xiaobian Community  Chang'an Town  523851
+				CN
+
+84-85-E6   (hex)		Guangdong Asano Technology CO.,Ltd.
+8485E6     (base 16)		Guangdong Asano Technology CO.,Ltd.
+				Changsheng Road, Songxia Industrial Park, Songgang, Shishan Town, Nanhai
+				 Foshan   Guangdong, China.  528200
+				CN
+
+F8-DA-E2   (hex)		NDC Technologies
+F8DAE2     (base 16)		NDC Technologies
+				8001 Technology Blvd
+				Dayton  OH  45424
+				US
+
+00-1E-B8   (hex)		Aloys, Inc
+001EB8     (base 16)		Aloys, Inc
+				#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL,
+				JUNGWON-GU, SEONGNAM-SI  GYEONGGI-DO  13438
+				KR
