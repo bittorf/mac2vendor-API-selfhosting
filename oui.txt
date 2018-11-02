@@ -91688,12 +91688,6 @@ D06EDE     (base 16)		Sagemcom Broadband SAS
 				Santa Clara  CA  95054
 				US
 
-00-EE-AB   (hex)		Cisco Systems, Inc
-00EEAB     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 00-29-C2   (hex)		Cisco Systems, Inc
 0029C2     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -91730,11 +91724,23 @@ C0D834     (base 16)		xvtec ltd
 				Roseville  CA  95747
 				US
 
+00-EE-AB   (hex)		Cisco Systems, Inc
+00EEAB     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 D4-53-83   (hex)		Murata Manufacturing Co., Ltd.
 D45383     (base 16)		Murata Manufacturing Co., Ltd.
 				1-10-1, Higashikotari
 				Nagaokakyo-shi  Kyoto  617-8555
 				JP
+
+D8-86-0B   (hex)		IEEE Registration Authority
+D8860B     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -122426,17 +122432,17 @@ B8C253     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-04-BD-88   (hex)		Aruba, a Hewlett Packard Enterprise Company
-04BD88     (base 16)		Aruba, a Hewlett Packard Enterprise Company
-				3333 Scott Blvd
-				Santa Clara  CA  95054
-				US
-
 98-DA-C4   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 98DAC4     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
 				Shenzhen  Guangdong  518057
 				CN
+
+04-BD-88   (hex)		Aruba, a Hewlett Packard Enterprise Company
+04BD88     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
 
 00-0B-86   (hex)		Aruba, a Hewlett Packard Enterprise Company
 000B86     (base 16)		Aruba, a Hewlett Packard Enterprise Company
@@ -122456,17 +122462,17 @@ CCE0C3     (base 16)		EXTEN Technologies, Inc.
 				Austin  TX  78727
 				US
 
-78-36-07   (hex)		Cermate Technologies Inc.
-783607     (base 16)		Cermate Technologies Inc.
-				7F-1, No 168 Lien-Chen Rd.
-				Chung-Ho Dist  New Taipei City  
-				TW
-
 8C-53-D2   (hex)		China Mobile Group Device Co.,Ltd.
 8C53D2     (base 16)		China Mobile Group Device Co.,Ltd.
 				32 Xuanwumen West Street,Xicheng District
 				Beijing    100053
 				CN
+
+78-36-07   (hex)		Cermate Technologies Inc.
+783607     (base 16)		Cermate Technologies Inc.
+				7F-1, No 168 Lien-Chen Rd.
+				Chung-Ho Dist  New Taipei City  
+				TW
 
 48-5D-36   (hex)		Verizon 
 485D36     (base 16)		Verizon 
@@ -153074,12 +153080,6 @@ D8C7C8     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				São José  Santa Catarina  88104800
 				BR
 
-34-20-03   (hex)		Shenzhen Feitengyun Technology Co.,LTD
-342003     (base 16)		Shenzhen Feitengyun Technology Co.,LTD
-				7F 4building,Yalianhaoshida industrial Park
-				Shenzhen  Guangdong  518100
-				CN
-
 A0-42-46   (hex)		IT Telecom Co., Ltd.
 A04246     (base 16)		IT Telecom Co., Ltd.
 				517 TheOvalley 555-9 Hogye-dong, Dong An-gu
@@ -153109,6 +153109,12 @@ F8DAE2     (base 16)		NDC Technologies
 				#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL,
 				JUNGWON-GU, SEONGNAM-SI  GYEONGGI-DO  13438
 				KR
+
+34-20-03   (hex)		Shenzhen Feitengyun Technology Co.,LTD
+342003     (base 16)		Shenzhen Feitengyun Technology Co.,LTD
+				7F 4building,Yalianhaoshida industrial Park
+				Shenzhen  Guangdong  518100
+				CN
 
 20-C0-47   (hex)		Verizon 
 20C047     (base 16)		Verizon 
