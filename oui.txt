@@ -22508,12 +22508,6 @@ AC44F2     (base 16)		YAMAHA CORPORATION
 				Shenzhen  Guangdong  518057
 				CN
 
-34-99-71   (hex)		Quanta Storage Inc.
-349971     (base 16)		Quanta Storage Inc.
-				3F. No.188, Wenhua 2nd Rd., Guishan Dist.,
-				Taoyuan City    33383
-				TW
-
 24-61-5A   (hex)		China Mobile Group Device Co.,Ltd.
 24615A     (base 16)		China Mobile Group Device Co.,Ltd.
 				32 Xuanwumen West Street,Xicheng District
@@ -24266,66 +24260,6 @@ E0686D     (base 16)		Raybased AB
 				Västra Frölunda    42130
 				SE
 
-98-B0-39   (hex)		Nokia
-98B039     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-84-26-2B   (hex)		Nokia
-84262B     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-94-E9-8C   (hex)		Nokia
-94E98C     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-E4-81-84   (hex)		Nokia
-E48184     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-BC-8D-0E   (hex)		Nokia
-BC8D0E     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-B0-75-4D   (hex)		Nokia
-B0754D     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-BC-6B-4D   (hex)		Nokia
-BC6B4D     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-A4-7B-2C   (hex)		Nokia
-A47B2C     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-00-D0-F6   (hex)		Nokia
-00D0F6     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-48-F8-E1   (hex)		Nokia
-48F8E1     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 00-23-41   (hex)		Vanderbilt International (SWE) AB 
 002341     (base 16)		Vanderbilt International (SWE) AB 
 				Englundavaegen 7
@@ -24559,12 +24493,6 @@ C025E9     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Av. Eng. Luis Carlos Berrini , 1297
 				São Paulo  São Paulo  04571010
 				BR
-
-94-B8-19   (hex)		Nokia
-94B819     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
 
 A4-D9-A4   (hex)		neXus ID Solutions AB
 A4D9A4     (base 16)		neXus ID Solutions AB
@@ -27113,12 +27041,6 @@ F0B5B7     (base 16)		Disruptive Technologies Research AS
 				Wuhan  Hubei Province  430223
 				CN
 
-04-C2-41   (hex)		Nokia
-04C241     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 30-7B-AC   (hex)		New H3C Technologies Co., Ltd
 307BAC     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -27238,12 +27160,6 @@ D4E6B7     (base 16)		Samsung Electronics Co.,Ltd
 				1225 SE 4th Terrace
 				Chiefland  FL  32626
 				US
-
-8C-F7-73   (hex)		Nokia
-8CF773     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
 
 C4-64-E3   (hex)		Texas Instruments
 C464E3     (base 16)		Texas Instruments
@@ -29216,12 +29132,6 @@ F89910     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Bayan Lepas  Penang  11900
 				MY
 
-50-E0-EF   (hex)		Nokia
-50E0EF     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 11-11-11   (hex)		Private
 111111     (base 16)		Private
 
@@ -30704,18 +30614,6 @@ F010AB     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				Hangzhou  Zhejiang  310000
 				CN
 
-F8-2F-6A   (hex)		ITEL MOBILE LIMITED
-F82F6A     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
-
-1C-2E-1B   (hex)		Suzhou Tremenet Communication Technology Co., Ltd.
-1C2E1B     (base 16)		Suzhou Tremenet Communication Technology Co., Ltd.
-				Room 413, Nangong Building, 399 Linquan Street, SIP
-				Suzhou  Jiangsu  215123
-				CN
-
 80-8F-1D   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 808F1D     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
@@ -30727,6 +30625,18 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				3333 Scott Blvd
 				Santa Clara  CA  95054
 				US
+
+F8-2F-6A   (hex)		ITEL MOBILE LIMITED
+F82F6A     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
+1C-2E-1B   (hex)		Suzhou Tremenet Communication Technology Co., Ltd.
+1C2E1B     (base 16)		Suzhou Tremenet Communication Technology Co., Ltd.
+				Room 413, Nangong Building, 399 Linquan Street, SIP
+				Suzhou  Jiangsu  215123
+				CN
 
 00-24-6C   (hex)		Aruba, a Hewlett Packard Enterprise Company
 00246C     (base 16)		Aruba, a Hewlett Packard Enterprise Company
@@ -30740,17 +30650,113 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				Aarhus    8000
 				DK
 
+00-1A-3F   (hex)		Intelbras
+001A3F     (base 16)		Intelbras
+				BR 101, km 210, S/N°
+				São José  Santa Catarina  88104800
+				BR
+
 B0-00-73   (hex)		Wistron Neweb Corporation
 B00073     (base 16)		Wistron Neweb Corporation
 				No.20,Park Avenue II,Hsinchu Science Park
 				Hsin-Chu  R.O.C.  308
 				TW
 
-00-1A-3F   (hex)		Intelbras
-001A3F     (base 16)		Intelbras
-				BR 101, km 210, S/N°
-				São José  Santa Catarina  88104800
-				BR
+48-BD-0E   (hex)		Quanta Storage Inc.
+48BD0E     (base 16)		Quanta Storage Inc.
+				3F. No.188, Wenhua 2nd Rd
+				Taoyuan City  Guishan District  33383
+				TW
+
+34-99-71   (hex)		Quanta Storage Inc.
+349971     (base 16)		Quanta Storage Inc.
+				3F. No.188, Wenhua 2nd Rd
+				Taoyuan City  Guishan District  33383
+				TW
+
+98-B0-39   (hex)		Nokia
+98B039     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+84-26-2B   (hex)		Nokia
+84262B     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+94-E9-8C   (hex)		Nokia
+94E98C     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+E4-81-84   (hex)		Nokia
+E48184     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+BC-8D-0E   (hex)		Nokia
+BC8D0E     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+B0-75-4D   (hex)		Nokia
+B0754D     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+BC-6B-4D   (hex)		Nokia
+BC6B4D     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+A4-7B-2C   (hex)		Nokia
+A47B2C     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+8C-F7-73   (hex)		Nokia
+8CF773     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+04-C2-41   (hex)		Nokia
+04C241     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+94-B8-19   (hex)		Nokia
+94B819     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+00-D0-F6   (hex)		Nokia
+00D0F6     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+48-F8-E1   (hex)		Nokia
+48F8E1     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+50-E0-EF   (hex)		Nokia
+50E0EF     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -44750,12 +44756,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Langebrück  Saxony  D-01465
 				DE
 
-00-0C-17   (hex)		AJA Video Systems Inc
-000C17     (base 16)		AJA Video Systems Inc
-				443 Crown Point Circle
-				Grass Valley  California  95945
-				US
-
 00-0C-04   (hex)		Tecnova
 000C04     (base 16)		Tecnova
 				1486 St. Paul Ave.
@@ -55370,30 +55370,6 @@ ACAB2E     (base 16)		Beijing LasNubes Technology Co., Ltd.
 				Beijing    100025
 				CN
 
-10-E8-78   (hex)		Nokia
-10E878     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-48-F7-F1   (hex)		Nokia
-48F7F1     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-4C-C9-4F   (hex)		Nokia
-4CC94F     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-1C-EA-1B   (hex)		Nokia
-1CEA1B     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 B4-F8-1E   (hex)		Kinova
 B4F81E     (base 16)		Kinova
 				6110, rue Doris-Lussier,
@@ -56787,12 +56763,6 @@ F4E11E     (base 16)		Texas Instruments
 0C62A6     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 				No.75,Zhongkai High-Tech Development District,Huizhou
 				Hui Zhou  Guangdong  516006
-				CN
-
-7C-49-EB   (hex)		XIAOMI Electronics,CO.,LTD
-7C49EB     (base 16)		XIAOMI Electronics,CO.,LTD
-				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
-				Beijing  Beijing  100085
 				CN
 
 C4-33-06   (hex)		China Mobile Group Device Co.,Ltd.
@@ -58252,12 +58222,6 @@ D89EF3     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
-
-CC-66-B2   (hex)		Nokia
-CC66B2     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
 
 C0-74-2B   (hex)		SHENZHEN XUNLONG SOFTWARE CO.,LIMITED
 C0742B     (base 16)		SHENZHEN XUNLONG SOFTWARE CO.,LIMITED
@@ -60110,12 +60074,6 @@ E4D124     (base 16)		 Mojo Networks, Inc.
 				Chongqing  Chongqing  401332
 				CN
 
-40-31-3C   (hex)		XIAOMI Electronics,CO.,LTD
-40313C     (base 16)		XIAOMI Electronics,CO.,LTD
-				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
-				Beijing  Beijing  100085
-				CN
-
 CC-3A-DF   (hex)		Private
 CC3ADF     (base 16)		Private
 
@@ -60647,12 +60605,6 @@ F0D7DC     (base 16)		Wesine (Wuhan) Technology Co., Ltd.
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-04-CF-8C   (hex)		XIAOMI Electronics,CO.,LTD
-04CF8C     (base 16)		XIAOMI Electronics,CO.,LTD
-				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
-				Beijing  Beijing  100085
-				CN
-
 10-C2-2F   (hex)		China Entropy Co., Ltd.
 10C22F     (base 16)		China Entropy Co., Ltd.
 				Haidian District
@@ -60676,12 +60628,6 @@ C4FDE6     (base 16)		DRTECH
 				One Dell Way
 				Round Rock  TX  78682
 				US
-
-E8-93-63   (hex)		Nokia
-E89363     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
 
 E4-1D-2D   (hex)		Mellanox Technologies, Inc.
 E41D2D     (base 16)		Mellanox Technologies, Inc.
@@ -61576,6 +61522,84 @@ B8EF8B     (base 16)		SHENZHEN CANNICE TECHNOLOGY CO.,LTD
 				Max-Planck-Strasse 28-32
 				Friedrichsdorf    61381
 				DE
+
+D4-9C-DD   (hex)		AMPAK Technology,Inc.
+D49CDD     (base 16)		AMPAK Technology,Inc.
+				3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou,
+				Hsinchu  Hsinchu,Taiwan R.O.C.  30352
+				TW
+
+84-69-91   (hex)		Nokia
+846991     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+E8-93-63   (hex)		Nokia
+E89363     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+CC-66-B2   (hex)		Nokia
+CC66B2     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+10-E8-78   (hex)		Nokia
+10E878     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+48-F7-F1   (hex)		Nokia
+48F7F1     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+4C-C9-4F   (hex)		Nokia
+4CC94F     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+1C-EA-1B   (hex)		Nokia
+1CEA1B     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+04-CF-8C   (hex)		XIAOMI Electronics,CO.,LTD
+04CF8C     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street
+				Haidian District  Beijing  100085
+				CN
+
+40-31-3C   (hex)		XIAOMI Electronics,CO.,LTD
+40313C     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street
+				Haidian District  Beijing  100085
+				CN
+
+7C-49-EB   (hex)		XIAOMI Electronics,CO.,LTD
+7C49EB     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street
+				Haidian District  Beijing  100085
+				CN
+
+E0-09-BF   (hex)		SHENZHEN TONG BO WEI TECHNOLOGY Co.,LTD
+E009BF     (base 16)		SHENZHEN TONG BO WEI TECHNOLOGY Co.,LTD
+				5th floor building 4 pengtengda industrial，langkou community，dalang street longhua newly developed area
+				Shenzhen  GuangDong  518000
+				CN
+
+00-0C-17   (hex)		AJA Video Systems Inc
+000C17     (base 16)		AJA Video Systems Inc
+				180 Litton Drive
+				Grass Valley  CA  95945
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -85436,30 +85460,6 @@ A41437     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				Sunnyvale  CA  94089
 				US
 
-38-52-1A   (hex)		Nokia
-38521A     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-84-DB-FC   (hex)		Nokia
-84DBFC     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-14-3E-60   (hex)		Nokia
-143E60     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-D4-E3-3F   (hex)		Nokia
-D4E33F     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 54-54-CF   (hex)		PROBEDIGITAL CO.,LTD
 5454CF     (base 16)		PROBEDIGITAL CO.,LTD
 				#107 Hyundai I-Valley, 31, Galmachi-ro 244beon-gil, Jungwon-gu
@@ -86284,12 +86284,6 @@ BC3F8F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				555 RIVER OAKS PARKWAY
 				SAN JOSE  CA  95134
 				US
-
-50-40-61   (hex)		Nokia
-504061     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
 
 54-E3-F6   (hex)		Alcatel-Lucent
 54E3F6     (base 16)		Alcatel-Lucent
@@ -90023,12 +90017,6 @@ D0B214     (base 16)		PoeWit Inc
 				Beijing  Beijing  100083
 				CN
 
-A4-92-CB   (hex)		Nokia
-A492CB     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 DC-B4-AC   (hex)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 DCB4AC     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC
@@ -91193,12 +91181,6 @@ E4F14C     (base 16)		Private
 				SHENZHEN  GUANGDONG  518100
 				CN
 
-F8-13-08   (hex)		Nokia
-F81308     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 08-F1-EA   (hex)		Hewlett Packard Enterprise
 08F1EA     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
@@ -91741,6 +91723,78 @@ D8860B     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+78-A7-EB   (hex)		1MORE
+78A7EB     (base 16)		1MORE
+				TianliaoBuilding F14
+				New Materials Industrial Park,Xueyuan Blvd  Shenzhen, Nanshan District  518005
+				CN
+
+20-B7-80   (hex)		Toshiba Visual Solutions Corporation Co.,Ltd
+20B780     (base 16)		Toshiba Visual Solutions Corporation Co.,Ltd
+				Shinkawasaki Mitsui Builing West Tower 19F, 1-1-2 Kashimada
+				Saiwai-ku, Kawasaki-shi  Kanagawa  212-0058
+				JP
+
+EC-41-18   (hex)		XIAOMI Electronics,CO.,LTD
+EC4118     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street
+				Haidian District  Beijing  100085
+				CN
+
+90-7A-58   (hex)		Zegna-Daidong Limited
+907A58     (base 16)		Zegna-Daidong Limited
+				 Rooms 14-17, 18/F, Nan Fung Commercial, Centre 19 Lam Lok Street, Kowloon Bay
+				Hong Kong    999077
+				HK
+
+F4-BC-DA   (hex)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+F4BCDA     (base 16)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+				3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+50-40-61   (hex)		Nokia
+504061     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+38-52-1A   (hex)		Nokia
+38521A     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+84-DB-FC   (hex)		Nokia
+84DBFC     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+14-3E-60   (hex)		Nokia
+143E60     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+F8-13-08   (hex)		Nokia
+F81308     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+A4-92-CB   (hex)		Nokia
+A492CB     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+D4-E3-3F   (hex)		Nokia
+D4E33F     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -115421,36 +115475,6 @@ F82FA8     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				San Jose  CA  94568
 				US
 
-40-7C-7D   (hex)		Nokia
-407C7D     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-BC-52-B4   (hex)		Nokia
-BC52B4     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-FC-2F-AA   (hex)		Nokia
-FC2FAA     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-90-3A-A0   (hex)		Nokia
-903AA0     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-70-25-26   (hex)		Nokia
-702526     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 38-F7-B2   (hex)		SEOJUN ELECTRIC
 38F7B2     (base 16)		SEOJUN ELECTRIC
 				468 Gangseo-ro, 07573, SEOJUN ELECTRIC Ace Techno Tower 805
@@ -116049,12 +116073,6 @@ E4-17-D8   (hex)		8BITDO TECHNOLOGY HK LIMITED
 E417D8     (base 16)		8BITDO TECHNOLOGY HK LIMITED
 				Rooms 1318-19, 13/F, Hollywood Plaza, 610 Nathan Road, Mongkok, Kowloon, Hong Kong
 				Hong Kong  Hong Kong  000000
-				CN
-
-28-6C-07   (hex)		XIAOMI Electronics,CO.,LTD
-286C07     (base 16)		XIAOMI Electronics,CO.,LTD
-				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
-				Beijing  Beijing  100085
 				CN
 
 84-D9-31   (hex)		Hangzhou H3C Technologies Co., Limited
@@ -119501,12 +119519,6 @@ FC0A81     (base 16)		Extreme Networks, Inc.
 				Lincolnshire  IL  60069
 				US
 
-20-E0-9C   (hex)		Nokia
-20E09C     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 34-BA-38   (hex)		PAL MOHAN ELECTRONICS PVT LTD
 34BA38     (base 16)		PAL MOHAN ELECTRONICS PVT LTD
 				40 DLF, INDUSTRIAL AREA, KIRTI NAGAR
@@ -120662,12 +120674,6 @@ CC51B4     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Bayan Lepas  Penang  11900
 				MY
 
-7C-41-A2   (hex)		Nokia
-7C41A2     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 64-A2-F9   (hex)		OnePlus Technology (Shenzhen) Co., Ltd
 64A2F9     (base 16)		OnePlus Technology (Shenzhen) Co., Ltd
 				18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING,
@@ -121787,12 +121793,6 @@ B07E11     (base 16)		Texas Instruments
 				Bangpakong  Chachoengsao  24180
 				TH
 
-50-A0-A4   (hex)		Nokia
-50A0A4     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 54-6A-D8   (hex)		Elster Water Metering
 546AD8     (base 16)		Elster Water Metering
 				Mas des Cavaliers II, 471 Rue Charles Nungesser 
@@ -122479,6 +122479,60 @@ CCE0C3     (base 16)		EXTEN Technologies, Inc.
 				One Verizon Way
 				Basking Ridge  NJ  07030
 				US
+
+BC-52-B4   (hex)		Nokia
+BC52B4     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+FC-2F-AA   (hex)		Nokia
+FC2FAA     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+20-E0-9C   (hex)		Nokia
+20E09C     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+40-7C-7D   (hex)		Nokia
+407C7D     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+50-A0-A4   (hex)		Nokia
+50A0A4     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+7C-41-A2   (hex)		Nokia
+7C41A2     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+90-3A-A0   (hex)		Nokia
+903AA0     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+70-25-26   (hex)		Nokia
+702526     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+28-6C-07   (hex)		XIAOMI Electronics,CO.,LTD
+286C07     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street
+				Haidian District  Beijing  100085
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -147350,30 +147404,6 @@ C8E776     (base 16)		PTCOM Technology
 				REDMOND  WA  98052
 				US
 
-C4-08-4A   (hex)		Nokia
-C4084A     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-0C-54-B9   (hex)		Nokia
-0C54B9     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-8C-90-D3   (hex)		Nokia
-8C90D3     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-34-AA-99   (hex)		Nokia
-34AA99     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 F8-63-3F   (hex)		Intel Corporate
 F8633F     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -150092,12 +150122,6 @@ E81367     (base 16)		AIRSOUND Inc.
 				Foshan  Guangdong  528311
 				CN
 
-34-CE-00   (hex)		XIAOMI Electronics,CO.,LTD
-34CE00     (base 16)		XIAOMI Electronics,CO.,LTD
-				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
-				Beijing  Beijing  100085
-				CN
-
 68-26-2A   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 68262A     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
@@ -150512,12 +150536,6 @@ C4BED4     (base 16)		Avaya Inc
 				Morristown  NJ  07960
 				US
 
-30-FE-31   (hex)		Nokia
-30FE31     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 70-30-18   (hex)		Avaya Inc
 703018     (base 16)		Avaya Inc
 				360 Mt Kemble Ave
@@ -150728,12 +150746,6 @@ E0107F     (base 16)		Ruckus Wireless
 				Sunnyvale  CA  94089
 				US
 
-78-11-DC   (hex)		XIAOMI Electronics,CO.,LTD
-7811DC     (base 16)		XIAOMI Electronics,CO.,LTD
-				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
-				Beijing  Beijing  100085
-				CN
-
 D8-37-BE   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 D837BE     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				#1905 Mei Hong Road
@@ -150811,12 +150823,6 @@ F0F8F2     (base 16)		Texas Instruments
 				230 Congress Street
 				Boston  MA  02110
 				US
-
-50-64-2B   (hex)		XIAOMI Electronics,CO.,LTD
-50642B     (base 16)		XIAOMI Electronics,CO.,LTD
-				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
-				Beijing  Beijing  100085
-				CN
 
 84-A1-D1   (hex)		Sagemcom Broadband SAS
 84A1D1     (base 16)		Sagemcom Broadband SAS
@@ -152084,12 +152090,6 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Gleisdorf  Styria  8200
 				AT
 
-24-21-24   (hex)		Nokia
-242124     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 80-09-02   (hex)		Keysight Technologies, Inc.
 800902     (base 16)		Keysight Technologies, Inc.
 				1400 Fountaingrove Pkwy.
@@ -153127,3 +153127,57 @@ F8DAE2     (base 16)		NDC Technologies
 				One Verizon Way
 				Basking Ridge  NJ  07920
 				US
+
+24-21-24   (hex)		Nokia
+242124     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+30-FE-31   (hex)		Nokia
+30FE31     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+8C-90-D3   (hex)		Nokia
+8C90D3     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+34-AA-99   (hex)		Nokia
+34AA99     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+C4-08-4A   (hex)		Nokia
+C4084A     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+0C-54-B9   (hex)		Nokia
+0C54B9     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+50-64-2B   (hex)		XIAOMI Electronics,CO.,LTD
+50642B     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street
+				Haidian District  Beijing  100085
+				CN
+
+78-11-DC   (hex)		XIAOMI Electronics,CO.,LTD
+7811DC     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street
+				Haidian District  Beijing  100085
+				CN
+
+34-CE-00   (hex)		XIAOMI Electronics,CO.,LTD
+34CE00     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street
+				Haidian District  Beijing  100085
+				CN
