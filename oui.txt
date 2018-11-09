@@ -61571,12 +61571,6 @@ CC66B2     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
-4C-C9-4F   (hex)		Nokia
-4CC94F     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 1C-EA-1B   (hex)		Nokia
 1CEA1B     (base 16)		Nokia
 				600 March Road
@@ -61612,6 +61606,12 @@ E009BF     (base 16)		SHENZHEN TONG BO WEI TECHNOLOGY Co.,LTD
 				180 Litton Drive
 				Grass Valley  CA  95945
 				US
+
+4C-C9-4F   (hex)		Nokia
+4CC94F     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -153205,3 +153205,9 @@ C4084A     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+D0-AB-D5   (hex)		Intel Corporate
+D0ABD5     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
