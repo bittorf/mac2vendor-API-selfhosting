@@ -30770,6 +30770,12 @@ A47B2C     (base 16)		Nokia
 				San Jose  CA  94568
 				US
 
+8C-5A-F8   (hex)		Beijing Xiaomi Electronics Co., Ltd.
+8C5AF8     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
+				Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District
+				Beijing  Beijing  10085
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61619,6 +61625,30 @@ CCEDDC     (base 16)		MitraStar Technology Corp.
 				Hsinchu    300
 				TW
 
+4C-4D-66   (hex)		Nanjing Jiahao Technology Co., Ltd.
+4C4D66     (base 16)		Nanjing Jiahao Technology Co., Ltd.
+				Moling Industrial Park, Development Zone, Jiangning, Nanjing
+				Nanjing  Jiangsu  211111
+				CN
+
+90-58-51   (hex)		Technicolor CH USA Inc.
+905851     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+D4-58-00   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+D45800     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+C4-64-B7   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+C464B7     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -91826,6 +91856,12 @@ F4BCDA     (base 16)		Shenzhen Jingxun Software Telecommunication Technology Co.
 				Huizhou  Guangdong  516006
 				CN
 
+A4-81-7A   (hex)		CIG SHANGHAI CO LTD
+A4817A     (base 16)		CIG SHANGHAI CO LTD
+				5th Floor, Building 8 No 2388 Chenhang Road
+				SHANGHAI    201114
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -104116,12 +104152,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				1061 South 800 East
 				Orem  UT  84097
 				US
-
-00-14-FB   (hex)		Technical Solutions Inc.
-0014FB     (base 16)		Technical Solutions Inc.
-				101-7311 Vantage Way
-				Delta  BC  V4G 1C9
-				CA
 
 00-14-FA   (hex)		AsGa S.A.
 0014FA     (base 16)		AsGa S.A.
@@ -122575,6 +122605,12 @@ D88DC8     (base 16)		Atil Technology Co., LTD
 				Rm. 3, 21F., No.93, Sec. 2, Roosevelt Rd.,
 				Da’an Dist., Taipei City    106
 				TW
+
+00-14-FB   (hex)		Technical Solutions Inc.
+0014FB     (base 16)		Technical Solutions Inc.
+				101-7188 Progress Way
+				Delta  BC  V4G 1M6
+				CA
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -153229,3 +153265,15 @@ D0ABD5     (base 16)		Intel Corporate
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+C4-F0-EC   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+C4F0EC     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+00-CB-51   (hex)		Sagemcom Broadband SAS
+00CB51     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
