@@ -26294,9 +26294,6 @@ DC6AEA     (base 16)		Infinix mobility limited
 				HongKong  HongKong  999077
 				HK
 
-00-25-DF   (hex)		Private
-0025DF     (base 16)		Private
-
 8C-E3-8E   (hex)		Toshiba Memory Corporation
 8CE38E     (base 16)		Toshiba Memory Corporation
 				1-1, Shibaura 1-chome
@@ -29804,9 +29801,6 @@ FC528D     (base 16)		Technicolor CH USA Inc.
 				Santa Clara  CA  95054
 				US
 
-E8-9E-0C   (hex)		Private
-E89E0C     (base 16)		Private
-
 54-4E-45   (hex)		Private
 544E45     (base 16)		Private
 
@@ -30835,6 +30829,18 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				2345 Walker Ave NW
 				Grand Rapids  MI  49544
 				US
+
+A4-11-62   (hex)		Arlo Technology
+A41162     (base 16)		Arlo Technology
+				350 East Plumeria Drive
+				san jose  CA  95134
+				US
+
+00-25-DF   (hex)		Private
+0025DF     (base 16)		Private
+
+E8-9E-0C   (hex)		Private
+E89E0C     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -56135,9 +56141,6 @@ F86CE1     (base 16)		Taicang T&W Electronics
 				London    W1T 1HY
 				GB
 
-40-A9-3F   (hex)		Private
-40A93F     (base 16)		Private
-
 5C-77-76   (hex)		TCT mobile ltd
 5C7776     (base 16)		TCT mobile ltd
 				No.86 hechang 7th road, zhongkai, Hi-Tech District
@@ -61754,14 +61757,20 @@ ACBB61     (base 16)		YSTen Technology Co.,Ltd
 				Wettingen    5430
 				CH
 
-00-A0-85   (hex)		Private
-00A085     (base 16)		Private
-
 24-79-F8   (hex)		KUPSON spol. s r.o.
 2479F8     (base 16)		KUPSON spol. s r.o.
 				Hradecka 787/14
 				Opava  Czech Republic  74601
 				CZ
+
+00-A0-85   (hex)		Private
+00A085     (base 16)		Private
+
+40-A9-3F   (hex)		Pivotal Commware, Inc.
+40A93F     (base 16)		Pivotal Commware, Inc.
+				1555 132nd Ave. NE
+				Bellevue  WA  98005
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -89132,9 +89141,6 @@ B46BFC     (base 16)		Intel Corporate
 				Granby  Quebec  J2J 1P2
 				CA
 
-28-EF-01   (hex)		Private
-28EF01     (base 16)		Private
-
 F8-5C-4D   (hex)		Nokia
 F85C4D     (base 16)		Nokia
 				1 Robbins Road
@@ -92017,6 +92023,9 @@ A0341B     (base 16)		Adero Inc
 				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
 				SHENZHEN  GUANGDONG  518057
 				CN
+
+28-EF-01   (hex)		Private
+28EF01     (base 16)		Private
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119642,9 +119651,6 @@ C863F1     (base 16)		Sony Interactive Entertainment Inc.
 				Yongin-si  Gyeounggi-do  16950
 				KR
 
-10-AE-60   (hex)		Private
-10AE60     (base 16)		Private
-
 DC-28-34   (hex)		HAKKO Corporation
 DC2834     (base 16)		HAKKO Corporation
 				4-5, Shiokusa 2-chome, Naniwaku
@@ -122827,6 +122833,15 @@ A468BC     (base 16)		Private
 				7F,Block A,Skyworth Building,
 				Shenzhen  Guangdong  518057
 				CN
+
+D4-E8-80   (hex)		Cisco Systems, Inc
+D4E880     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+10-AE-60   (hex)		Private
+10AE60     (base 16)		Private
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -149513,24 +149528,6 @@ D8BB2C     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-D0-4F   (hex)		Apple, Inc.
-E0B52D     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-80-BE-05   (hex)		Apple, Inc.
-80BE05     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-D8-BB-2C   (hex)		Apple, Inc.
-D8BB2C     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 D0-4F-7E   (hex)		Apple, Inc.
 D04F7E     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -153593,4 +153590,23 @@ E45D37     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-A8-6D-5F   (hex)	
+A8-6D-5F   (hex)		Raisecom Technology CO., LTD
+A86D5F     (base 16)		Raisecom Technology CO., LTD
+				No. 11, East Area, No. 10 Block, East Xibeiwang Road
+				Beijing    100094
+				CN
+
+CC-2C-83   (hex)		DarkMatter L.L.C
+CC2C83     (base 16)		DarkMatter L.L.C
+				Level 15, Aldar HQ
+				Abu Dhabi    27655
+				AE
+
+00-50-79   (hex)		Private
+005079     (base 16)		Private
+
+D0-EC-35   (hex)		Cisco Systems, Inc
+D0EC35     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
