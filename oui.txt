@@ -33944,12 +33944,6 @@ E8481F     (base 16)		Advanced Automotive Antennas
 				Viladecavalls  Barcelona  08232
 				ES
 
-18-D6-CF   (hex)		Kurth Electronic GmbH
-18D6CF     (base 16)		Kurth Electronic GmbH
-				Im Scherbental 5
-				Eningen  BW  72800
-				US
-
 E0-7F-88   (hex)		EVIDENCE Network SIA
 E07F88     (base 16)		EVIDENCE Network SIA
 				Zilupes 4A
@@ -61771,6 +61765,12 @@ ACBB61     (base 16)		YSTen Technology Co.,Ltd
 				1555 132nd Ave. NE
 				Bellevue  WA  98005
 				US
+
+18-D6-CF   (hex)		Kurth Electronic GmbH
+18D6CF     (base 16)		Kurth Electronic GmbH
+				Mühleweg 11
+				Eningen    72800
+				DE
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -92023,6 +92023,12 @@ A0341B     (base 16)		Adero Inc
 				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
 				SHENZHEN  GUANGDONG  518057
 				CN
+
+74-4D-28   (hex)		Routerboard.com
+744D28     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga  Riga  LV1009
+				LV
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
@@ -153610,3 +153616,9 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+20-0D-B0   (hex)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
+200DB0     (base 16)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
+				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base
+				Tenglong Road, Longhua District,   Shenzhen Guangdong  518000
+				CN
