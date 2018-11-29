@@ -92033,6 +92033,12 @@ A0341B     (base 16)		Adero Inc
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
 
+40-F9-D5   (hex)		Tecore Networks
+40F9D5     (base 16)		Tecore Networks
+				7030 Hi Tech Drive
+				Hanover  MD  21076
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -122840,6 +122846,12 @@ A468BC     (base 16)		Private
 				Shenzhen  Guangdong  518057
 				CN
 
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -122848,12 +122860,6 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
-
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -153628,3 +153634,9 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base
 				Tenglong Road, Longhua District,   Shenzhen Guangdong  518000
 				CN
+
+44-B9-94   (hex)		Douglas Lighting Controls
+44B994     (base 16)		Douglas Lighting Controls
+				280 - 3605 Gilmore Way
+				Burnaby  BC  V5G4X5
+				CA
