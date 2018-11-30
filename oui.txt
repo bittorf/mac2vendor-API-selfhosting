@@ -30848,6 +30848,30 @@ E44CC7     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+3C-91-80   (hex)		Liteon Technology Corporation
+3C9180     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
+20-32-6C   (hex)		Samsung Electronics Co.,Ltd
+20326C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+A8-34-6A   (hex)		Samsung Electronics Co.,Ltd
+A8346A     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+B0-6F-E0   (hex)		Samsung Electronics Co.,Ltd
+B06FE0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61778,6 +61802,18 @@ ACBB61     (base 16)		YSTen Technology Co.,Ltd
 				Eningen    72800
 				DE
 
+24-3F-30   (hex)		Oxygen Broadband s.a.
+243F30     (base 16)		Oxygen Broadband s.a.
+				2 Messogeion ave., Athens Tower
+				Athens  Attiki  11527
+				GR
+
+4C-6A-F6   (hex)		HMD Global Oy
+4C6AF6     (base 16)		HMD Global Oy
+				Karaportti 2
+				Espoo    02610
+				FI
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92044,6 +92080,12 @@ A0341B     (base 16)		Adero Inc
 				7030 Hi Tech Drive
 				Hanover  MD  21076
 				US
+
+48-9D-D1   (hex)		Samsung Electronics Co.,Ltd
+489DD1     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -122867,6 +122909,24 @@ D4E880     (base 16)		Cisco Systems, Inc
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
 
+AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
+ACF6F7     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul    153-801
+				KR
+
+3C-20-F6   (hex)		Samsung Electronics Co.,Ltd
+3C20F6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+7C-38-AD   (hex)		Samsung Electronics Co.,Ltd
+7C38AD     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -153635,6 +153695,12 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
+503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
+				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
+				Shenzhen  Guangdong  518104
+				CN
+
 20-0D-B0   (hex)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 200DB0     (base 16)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base
@@ -153647,8 +153713,26 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				Burnaby  BC  V5G4X5
 				CA
 
-50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
-503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
-				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
-				Shenzhen  Guangdong  518104
-				CN
+D8-55-75   (hex)		Samsung Electronics Co.,Ltd
+D85575     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D4-11-A3   (hex)		Samsung Electronics Co.,Ltd
+D411A3     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+64-89-F1   (hex)		Samsung Electronics Co.,Ltd
+6489F1     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+04-BA-8D   (hex)		Samsung Electronics Co.,Ltd
+04BA8D     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
