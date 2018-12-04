@@ -30842,12 +30842,6 @@ A41162     (base 16)		Arlo Technology
 E8-9E-0C   (hex)		Private
 E89E0C     (base 16)		Private
 
-E4-4C-C7   (hex)		IEEE Registration Authority
-E44CC7     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 3C-91-80   (hex)		Liteon Technology Corporation
 3C9180     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
@@ -30866,11 +30860,23 @@ A8346A     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+E4-4C-C7   (hex)		IEEE Registration Authority
+E44CC7     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 B0-6F-E0   (hex)		Samsung Electronics Co.,Ltd
 B06FE0     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+70-BF-92   (hex)		GN Audio A/S
+70BF92     (base 16)		GN Audio A/S
+				Lautrupbjerg 7
+				Ballerup    DK-2750
+				DK
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -61814,6 +61820,18 @@ ACBB61     (base 16)		YSTen Technology Co.,Ltd
 				Espoo    02610
 				FI
 
+48-04-9F   (hex)		ELECOM CO., LTD
+48049F     (base 16)		ELECOM CO., LTD
+				9FLand Axis Tower.1-1 fushimi machi,4-chome chuoku
+				osaka    5418765
+				JP
+
+08-7F-98   (hex)		vivo Mobile Communication Co., Ltd.
+087F98     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92086,6 +92104,36 @@ A0341B     (base 16)		Adero Inc
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+D4-BB-C8   (hex)		vivo Mobile Communication Co., Ltd.
+D4BBC8     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+D8-1E-DD   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+D81EDD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+20-34-FB   (hex)		Xiaomi Communications Co Ltd
+2034FB     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+D4-3F-CB   (hex)		ARRIS Group, Inc.
+D43FCB     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+C8-52-61   (hex)		ARRIS Group, Inc.
+C85261     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -122894,12 +122942,6 @@ A468BC     (base 16)		Private
 				Shenzhen  Guangdong  518057
 				CN
 
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
-
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -122909,10 +122951,22 @@ D4E880     (base 16)		Cisco Systems, Inc
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
 
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
 				60-39, Gasan-dong, Geumcheon-gu
 				Seoul    153-801
+				KR
+
+7C-38-AD   (hex)		Samsung Electronics Co.,Ltd
+7C38AD     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
 				KR
 
 3C-20-F6   (hex)		Samsung Electronics Co.,Ltd
@@ -122921,11 +122975,11 @@ ACF6F7     (base 16)		LG Electronics (Mobile Communications)
 				Gumi  Gyeongbuk  730-350
 				KR
 
-7C-38-AD   (hex)		Samsung Electronics Co.,Ltd
-7C38AD     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+E4-9F-1E   (hex)		ARRIS Group, Inc.
+E49F1E     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -153736,3 +153790,27 @@ D411A3     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+48-95-07   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+489507     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+A8-9C-ED   (hex)		Xiaomi Communications Co Ltd
+A89CED     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+6C-A6-04   (hex)		ARRIS Group, Inc.
+6CA604     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+C0-41-21   (hex)		Nokia
+C04121     (base 16)		Nokia
+				Karaportti 3
+				Espoo  Finland  02610
+				FI
