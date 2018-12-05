@@ -30878,6 +30878,18 @@ B06FE0     (base 16)		Samsung Electronics Co.,Ltd
 				Ballerup    DK-2750
 				DK
 
+94-40-C9   (hex)		Hewlett Packard Enterprise
+9440C9     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
+90-6D-05   (hex)		BXB ELECTRONICS CO., LTD
+906D05     (base 16)		BXB ELECTRONICS CO., LTD
+				6F.-1, NO.288-5, Xinya Rd., Qianzhen Dist.
+				Kaohsiung    80673
+				TW
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61832,6 +61844,12 @@ ACBB61     (base 16)		YSTen Technology Co.,Ltd
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+B4-D0-A9   (hex)		China Mobile Group Device Co.,Ltd.
+B4D0A9     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92134,6 +92152,12 @@ C85261     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+C0-8A-CD   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+C08ACD     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -122942,6 +122966,12 @@ A468BC     (base 16)		Private
 				Shenzhen  Guangdong  518057
 				CN
 
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -122950,12 +122980,6 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
-
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
 
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
@@ -122979,6 +123003,12 @@ E4-9F-1E   (hex)		ARRIS Group, Inc.
 E49F1E     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
+				US
+
+FC-B6-62   (hex)		IC Holdings LLC
+FCB662     (base 16)		IC Holdings LLC
+				9066 S 300 W
+				Sandy  UT  84070
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -153814,3 +153844,9 @@ C04121     (base 16)		Nokia
 				Karaportti 3
 				Espoo  Finland  02610
 				FI
+
+A0-BD-1D   (hex)		Zhejiang Dahua Technology Co., Ltd.
+A0BD1D     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
