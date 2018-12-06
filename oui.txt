@@ -122972,12 +122972,6 @@ A468BC     (base 16)		Private
 				Shenzhen  Guangdong  518057
 				CN
 
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
-
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -122986,6 +122980,12 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
+
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
 
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
@@ -123015,6 +123015,18 @@ FC-B6-62   (hex)		IC Holdings LLC
 FCB662     (base 16)		IC Holdings LLC
 				9066 S 300 W
 				Sandy  UT  84070
+				US
+
+74-88-BB   (hex)		Cisco Systems, Inc
+7488BB     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+B0-0C-D1   (hex)		Hewlett Packard
+B00CD1     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston    77070
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -153845,14 +153857,14 @@ A89CED     (base 16)		Xiaomi Communications Co Ltd
 				San Diego  CA  92121
 				US
 
-C0-41-21   (hex)		Nokia
-C04121     (base 16)		Nokia
-				Karaportti 3
-				Espoo  Finland  02610
-				FI
-
 A0-BD-1D   (hex)		Zhejiang Dahua Technology Co., Ltd.
 A0BD1D     (base 16)		Zhejiang Dahua Technology Co., Ltd.
 				No.1199,Waterfront Road 
 				Hangzhou  Zhejiang  310053
 				CN
+
+C0-41-21   (hex)		Nokia
+C04121     (base 16)		Nokia
+				Karaportti 3
+				Espoo  Finland  02610
+				FI
