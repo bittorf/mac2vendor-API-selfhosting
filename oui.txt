@@ -30854,17 +30854,17 @@ E89E0C     (base 16)		Private
 				Gumi  Gyeongbuk  730-350
 				KR
 
-A8-34-6A   (hex)		Samsung Electronics Co.,Ltd
-A8346A     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 E4-4C-C7   (hex)		IEEE Registration Authority
 E44CC7     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+A8-34-6A   (hex)		Samsung Electronics Co.,Ltd
+A8346A     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 B0-6F-E0   (hex)		Samsung Electronics Co.,Ltd
 B06FE0     (base 16)		Samsung Electronics Co.,Ltd
@@ -30895,6 +30895,12 @@ B06FE0     (base 16)		Samsung Electronics Co.,Ltd
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+A4-C3-F0   (hex)		Intel Corporate
+A4C3F0     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -61856,6 +61862,12 @@ B4D0A9     (base 16)		China Mobile Group Device Co.,Ltd.
 				Beijing    100053
 				CN
 
+48-89-E7   (hex)		Intel Corporate
+4889E7     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92169,6 +92181,12 @@ A4-CF-12   (hex)		Espressif Inc.
 A4CF12     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
+				CN
+
+08-9C-86   (hex)		Nokia Shanghai Bell Co. Ltd.）
+089C86     (base 16)		Nokia Shanghai Bell Co. Ltd.）
+				No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai 201206,P.R.China
+				Shanghai   Pudong  201206
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -122978,12 +122996,6 @@ A468BC     (base 16)		Private
 				Shenzhen  Guangdong  518057
 				CN
 
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
-
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -122992,6 +123004,12 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
+
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
 
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
@@ -123033,6 +123051,12 @@ B0-0C-D1   (hex)		Hewlett Packard
 B00CD1     (base 16)		Hewlett Packard
 				11445 Compaq Center Drive
 				Houston    77070
+				US
+
+F0-D4-E2   (hex)		Dell Inc.
+F0D4E2     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -153803,12 +153827,6 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
-503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
-				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
-				Shenzhen  Guangdong  518104
-				CN
-
 20-0D-B0   (hex)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 200DB0     (base 16)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base
@@ -153820,6 +153838,12 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				280 - 3605 Gilmore Way
 				Burnaby  BC  V5G4X5
 				CA
+
+50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
+503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
+				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
+				Shenzhen  Guangdong  518104
+				CN
 
 D8-55-75   (hex)		Samsung Electronics Co.,Ltd
 D85575     (base 16)		Samsung Electronics Co.,Ltd
@@ -153863,14 +153887,14 @@ A89CED     (base 16)		Xiaomi Communications Co Ltd
 				San Diego  CA  92121
 				US
 
-C0-41-21   (hex)		Nokia
-C04121     (base 16)		Nokia
-				Karaportti 3
-				Espoo  Finland  02610
-				FI
-
 A0-BD-1D   (hex)		Zhejiang Dahua Technology Co., Ltd.
 A0BD1D     (base 16)		Zhejiang Dahua Technology Co., Ltd.
 				No.1199,Waterfront Road 
 				Hangzhou  Zhejiang  310053
 				CN
+
+C0-41-21   (hex)		Nokia
+C04121     (base 16)		Nokia
+				Karaportti 3
+				Espoo  Finland  02610
+				FI
