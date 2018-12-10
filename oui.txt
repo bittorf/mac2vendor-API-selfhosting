@@ -38873,12 +38873,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				SEOUL    153-768
 				KR
 
-00-26-15   (hex)		Teracom Limited
-002615     (base 16)		Teracom Limited
-				B-84
-				Noida  Uttar Pradesh  201301
-				IN
-
 00-26-16   (hex)		Rosemount Inc.
 002616     (base 16)		Rosemount Inc.
 				8200 Market Boulevard
@@ -61898,6 +61892,12 @@ B4D0A9     (base 16)		China Mobile Group Device Co.,Ltd.
 24-BF-74   (hex)		Private
 24BF74     (base 16)		Private
 
+00-26-15   (hex)		Teracom Limited
+002615     (base 16)		Teracom Limited
+				B-84
+				Noida  Uttar Pradesh  201301
+				IN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -77393,12 +77393,6 @@ A06A00     (base 16)		Verilink Corporation
 				  Korea  (ROK)
 				KR
 
-00-04-DF   (hex)		Teracom Telematica Ltda.
-0004DF     (base 16)		Teracom Telematica Ltda.
-				R. Felipe Neri, 246 CJ. 301
-				    Bazil
-				BR
-
 00-05-53   (hex)		DVC Company, Inc.
 000553     (base 16)		DVC Company, Inc.
 				10200 Hwy 290 W.
@@ -92219,6 +92213,18 @@ A4CF12     (base 16)		Espressif Inc.
 				Shanghai   Pudong  201206
 				CN
 
+08-36-C9   (hex)		NETGEAR
+0836C9     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
+				US
+
+00-04-DF   (hex)		TERACOM TELEMATICA S.A
+0004DF     (base 16)		TERACOM TELEMATICA S.A
+				RUA AMERICA N.1000
+				Eldorado do Sul - RS    Brazil
+				BR
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -97051,12 +97057,6 @@ D0D212     (base 16)		K2NET Co.,Ltd.
 				K2Net Building
 				  Seoul  158-092
 				KR
-
-9C-8E-DC   (hex)		Teracom Limited
-9C8EDC     (base 16)		Teracom Limited
-				
-				Noida  Uttar Pradesh  201301
-				IN
 
 14-6A-0B   (hex)		Cypress Electronics Limited
 146A0B     (base 16)		Cypress Electronics Limited
@@ -123026,12 +123026,6 @@ A468BC     (base 16)		Private
 				Shenzhen  Guangdong  518057
 				CN
 
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
-
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -123040,6 +123034,12 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
+
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
 
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
@@ -123088,6 +123088,12 @@ F0D4E2     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+9C-8E-DC   (hex)		Teracom Limited
+9C8EDC     (base 16)		Teracom Limited
+				
+				Noida  Uttar Pradesh  201301
+				IN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -153928,3 +153934,9 @@ C04121     (base 16)		Nokia
 				Karaportti 3
 				Espoo  Finland  02610
 				FI
+
+94-F7-AD   (hex)		Juniper Networks
+94F7AD     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
