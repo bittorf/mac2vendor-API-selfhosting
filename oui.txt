@@ -30890,14 +30890,32 @@ B06FE0     (base 16)		Samsung Electronics Co.,Ltd
 				Kaohsiung    80673
 				TW
 
+A4-C3-F0   (hex)		Intel Corporate
+A4C3F0     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 74-5B-C5   (hex)		IEEE Registration Authority
 745BC5     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
 
-A4-C3-F0   (hex)		Intel Corporate
-A4C3F0     (base 16)		Intel Corporate
+80-FD-7A   (hex)		BLU Products Inc
+80FD7A     (base 16)		BLU Products Inc
+				10814 NW 33rd Street
+				Miami  FL  33172
+				US
+
+CC-DC-55   (hex)		Dragonchip Limited
+CCDC55     (base 16)		Dragonchip Limited
+				Room 601-2, 6/F, IC Development Centre, No. 6 Science Park West Avenue, Hong Kong Science Park, Shatin, N.T.
+				Hong Kong    NA
+				HK
+
+A0-51-0B   (hex)		Intel Corporate
+A0510B     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
@@ -53765,9 +53783,6 @@ B4D5BD     (base 16)		Intel Corporate
 				Hangzhou  Zhejiang,   310053
 				CN
 
-24-BF-74   (hex)		Private
-24BF74     (base 16)		Private
-
 B8-E7-79   (hex)		9Solutions Oy
 B8E779     (base 16)		9Solutions Oy
 				Teknologiantie 2
@@ -61867,6 +61882,21 @@ B4D0A9     (base 16)		China Mobile Group Device Co.,Ltd.
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+04-D4-C4   (hex)		ASUSTek COMPUTER INC.
+04D4C4     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
+48-46-C1   (hex)		FN-LINK TECHNOLOGY LIMITED
+4846C1     (base 16)		FN-LINK TECHNOLOGY LIMITED
+				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
+				SHENZHEN  GUANGDONG  518100
+				CN
+
+24-BF-74   (hex)		Private
+24BF74     (base 16)		Private
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -122996,6 +123026,12 @@ A468BC     (base 16)		Private
 				Shenzhen  Guangdong  518057
 				CN
 
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -123004,12 +123040,6 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
-
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
 
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
