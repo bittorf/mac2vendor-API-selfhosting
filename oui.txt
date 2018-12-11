@@ -61898,6 +61898,12 @@ B4D0A9     (base 16)		China Mobile Group Device Co.,Ltd.
 				Noida  Uttar Pradesh  201301
 				IN
 
+F8-CA-59   (hex)		NetComm Wireless
+F8CA59     (base 16)		NetComm Wireless
+				LEVEL 5, 18-20 ORION RD. LANE COVE
+				LANE COVE WEST  NSW  2066
+				AU
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92224,6 +92230,12 @@ A4CF12     (base 16)		Espressif Inc.
 				RUA AMERICA N.1000
 				Eldorado do Sul - RS    Brazil
 				BR
+
+94-BF-C4   (hex)		Ruckus Wireless
+94BFC4     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
