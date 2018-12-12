@@ -30836,17 +30836,17 @@ E89E0C     (base 16)		Private
 				Gumi  Gyeongbuk  730-350
 				KR
 
-A8-34-6A   (hex)		Samsung Electronics Co.,Ltd
-A8346A     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 E4-4C-C7   (hex)		IEEE Registration Authority
 E44CC7     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+A8-34-6A   (hex)		Samsung Electronics Co.,Ltd
+A8346A     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 B0-6F-E0   (hex)		Samsung Electronics Co.,Ltd
 B06FE0     (base 16)		Samsung Electronics Co.,Ltd
@@ -30872,17 +30872,17 @@ B06FE0     (base 16)		Samsung Electronics Co.,Ltd
 				Kaohsiung    80673
 				TW
 
-74-5B-C5   (hex)		IEEE Registration Authority
-745BC5     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 A4-C3-F0   (hex)		Intel Corporate
 A4C3F0     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+74-5B-C5   (hex)		IEEE Registration Authority
+745BC5     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 80-FD-7A   (hex)		BLU Products Inc
 80FD7A     (base 16)		BLU Products Inc
@@ -30918,6 +30918,18 @@ A089E4     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 2C1875     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				7F,Block A,Skyworth Building,
 				Shenzhen  Guangdong  518057
+				CN
+
+90-F8-91   (hex)		Kaonmedia CO., LTD.
+90F891     (base 16)		Kaonmedia CO., LTD.
+				884-3, Seongnam-daero, Bundang-gu
+				Seongnam-si  Gyeonggi-do  13517
+				KR
+
+44-5D-5E   (hex)		SHENZHEN Coolkit Technology CO.,LTD
+445D5E     (base 16)		SHENZHEN Coolkit Technology CO.,LTD
+				B09 2nd Floor, T6 ArtZone XiLi, Nanshan Dist
+				shenzhen  guangdong  518110
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -92243,6 +92255,30 @@ A4CF12     (base 16)		Espressif Inc.
 				Shenzhen  Guangdong  518057
 				CN
 
+C0-07-4A   (hex)		Brita GmbH
+C0074A     (base 16)		Brita GmbH
+				Heinrich-Hertz-Str. 4
+				Taunusstein    65232
+				DE
+
+7C-52-59   (hex)		Sichuan Jiuzhou Electronic Technology Co., Ltd.
+7C5259     (base 16)		Sichuan Jiuzhou Electronic Technology Co., Ltd.
+				No. 259, Jiuzhou Road
+				Mianyang City  Sichuan Province  621000
+				CN
+
+90-20-C2   (hex)		Aruba, a Hewlett Packard Enterprise Company
+9020C2     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+0C-A0-6C   (hex)		Industrial Cyber Sensing Inc.
+0CA06C     (base 16)		Industrial Cyber Sensing Inc.
+				Unit 1A - 343 Montrose Street North
+				Cambridge  Ontario  N3H 2H6
+				CA
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -123020,6 +123056,12 @@ DCED84     (base 16)		Haverford Systems Inc
 A4-68-BC   (hex)		Private
 A468BC     (base 16)		Private
 
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -123028,12 +123070,6 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
-
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
 
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
@@ -123112,6 +123148,12 @@ F44C70     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				7F,Block A,Skyworth Building,
 				Shenzhen  Guangdong  518057
 				CN
+
+E8-B2-FE   (hex)		HUMAX Co., Ltd.
+E8B2FE     (base 16)		HUMAX Co., Ltd.
+				HUMAX Village, 216, Hwangsaeul-ro, Bu
+				Seongnam-si  Gyeonggi-do  463-875
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -153857,12 +153899,6 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
-503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
-				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
-				Shenzhen  Guangdong  518104
-				CN
-
 20-0D-B0   (hex)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 200DB0     (base 16)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base
@@ -153874,6 +153910,12 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				280 - 3605 Gilmore Way
 				Burnaby  BC  V5G4X5
 				CA
+
+50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
+503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
+				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
+				Shenzhen  Guangdong  518104
+				CN
 
 D8-55-75   (hex)		Samsung Electronics Co.,Ltd
 D85575     (base 16)		Samsung Electronics Co.,Ltd
@@ -153917,17 +153959,17 @@ A89CED     (base 16)		Xiaomi Communications Co Ltd
 				San Diego  CA  92121
 				US
 
-C0-41-21   (hex)		Nokia
-C04121     (base 16)		Nokia
-				Karaportti 3
-				Espoo  Finland  02610
-				FI
-
 A0-BD-1D   (hex)		Zhejiang Dahua Technology Co., Ltd.
 A0BD1D     (base 16)		Zhejiang Dahua Technology Co., Ltd.
 				No.1199,Waterfront Road 
 				Hangzhou  Zhejiang  310053
 				CN
+
+C0-41-21   (hex)		Nokia
+C04121     (base 16)		Nokia
+				Karaportti 3
+				Espoo  Finland  02610
+				FI
 
 94-F7-AD   (hex)		Juniper Networks
 94F7AD     (base 16)		Juniper Networks
@@ -153964,3 +154006,15 @@ C88F26     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				Suite 201-15, 31 WangHai Rd
 				Xiamen  Fujian  361008
 				CN
+
+98-FA-9B   (hex)		LCFC(HeFei) Electronics Technology co., ltd
+98FA9B     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
+				YunGu Road 3188-1
+				Hefei  Anhui  230000
+				CN
+
+00-FD-22   (hex)		Cisco Systems, Inc
+00FD22     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
