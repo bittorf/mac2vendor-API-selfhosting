@@ -30836,17 +30836,17 @@ E89E0C     (base 16)		Private
 				Gumi  Gyeongbuk  730-350
 				KR
 
-E4-4C-C7   (hex)		IEEE Registration Authority
-E44CC7     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 A8-34-6A   (hex)		Samsung Electronics Co.,Ltd
 A8346A     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+E4-4C-C7   (hex)		IEEE Registration Authority
+E44CC7     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 B0-6F-E0   (hex)		Samsung Electronics Co.,Ltd
 B06FE0     (base 16)		Samsung Electronics Co.,Ltd
@@ -30872,17 +30872,17 @@ B06FE0     (base 16)		Samsung Electronics Co.,Ltd
 				Kaohsiung    80673
 				TW
 
-A4-C3-F0   (hex)		Intel Corporate
-A4C3F0     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
 74-5B-C5   (hex)		IEEE Registration Authority
 745BC5     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+A4-C3-F0   (hex)		Intel Corporate
+A4C3F0     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 80-FD-7A   (hex)		BLU Products Inc
 80FD7A     (base 16)		BLU Products Inc
@@ -30931,6 +30931,12 @@ A089E4     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				B09 2nd Floor, T6 ArtZone XiLi, Nanshan Dist
 				shenzhen  guangdong  518110
 				CN
+
+98-9B-CB   (hex)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+989BCB     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -92279,6 +92285,12 @@ C0074A     (base 16)		Brita GmbH
 				Cambridge  Ontario  N3H 2H6
 				CA
 
+40-F2-1C   (hex)		DASAN Zhone Solutions
+40F21C     (base 16)		DASAN Zhone Solutions
+				7195 Oakport Street
+				Oakland  CA  94621
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -123056,12 +123068,6 @@ DCED84     (base 16)		Haverford Systems Inc
 A4-68-BC   (hex)		Private
 A468BC     (base 16)		Private
 
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
-
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -123070,6 +123076,12 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
+
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
 
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
@@ -123154,6 +123166,12 @@ E8B2FE     (base 16)		HUMAX Co., Ltd.
 				HUMAX Village, 216, Hwangsaeul-ro, Bu
 				Seongnam-si  Gyeonggi-do  463-875
 				KR
+
+8C-96-5F   (hex)		Shandong Zhongan Technology Co., Ltd.
+8C965F     (base 16)		Shandong Zhongan Technology Co., Ltd.
+				North of Kejia Road, East District, Jinan High-tech Zone
+				Jinan  Shandong  250100
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -153899,6 +153917,12 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
+503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
+				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
+				Shenzhen  Guangdong  518104
+				CN
+
 20-0D-B0   (hex)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 200DB0     (base 16)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base
@@ -153910,12 +153934,6 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				280 - 3605 Gilmore Way
 				Burnaby  BC  V5G4X5
 				CA
-
-50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
-503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
-				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
-				Shenzhen  Guangdong  518104
-				CN
 
 D8-55-75   (hex)		Samsung Electronics Co.,Ltd
 D85575     (base 16)		Samsung Electronics Co.,Ltd
@@ -153959,29 +153977,23 @@ A89CED     (base 16)		Xiaomi Communications Co Ltd
 				San Diego  CA  92121
 				US
 
-A0-BD-1D   (hex)		Zhejiang Dahua Technology Co., Ltd.
-A0BD1D     (base 16)		Zhejiang Dahua Technology Co., Ltd.
-				No.1199,Waterfront Road 
-				Hangzhou  Zhejiang  310053
-				CN
-
 C0-41-21   (hex)		Nokia
 C04121     (base 16)		Nokia
 				Karaportti 3
 				Espoo  Finland  02610
 				FI
 
+A0-BD-1D   (hex)		Zhejiang Dahua Technology Co., Ltd.
+A0BD1D     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
+
 94-F7-AD   (hex)		Juniper Networks
 94F7AD     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
-
-5C-C6-D0   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-5CC6D0     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-				7F,Block A,Skyworth Building,
-				Shenzhen  Guangdong  518057
-				CN
 
 88-CC-45   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 88CC45     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
@@ -154007,6 +154019,12 @@ C88F26     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				Xiamen  Fujian  361008
 				CN
 
+5C-C6-D0   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+5CC6D0     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+				7F,Block A,Skyworth Building,
+				Shenzhen  Guangdong  518057
+				CN
+
 98-FA-9B   (hex)		LCFC(HeFei) Electronics Technology co., ltd
 98FA9B     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
 				YunGu Road 3188-1
@@ -154017,4 +154035,10 @@ C88F26     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 00FD22     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+7C-61-66   (hex)		Amazon Technologies Inc.
+7C6166     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
 				US
