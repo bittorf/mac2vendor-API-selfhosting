@@ -30812,17 +30812,17 @@ E89E0C     (base 16)		Private
 				Gumi  Gyeongbuk  730-350
 				KR
 
-E4-4C-C7   (hex)		IEEE Registration Authority
-E44CC7     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 A8-34-6A   (hex)		Samsung Electronics Co.,Ltd
 A8346A     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+E4-4C-C7   (hex)		IEEE Registration Authority
+E44CC7     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 B0-6F-E0   (hex)		Samsung Electronics Co.,Ltd
 B06FE0     (base 16)		Samsung Electronics Co.,Ltd
@@ -30848,17 +30848,17 @@ B06FE0     (base 16)		Samsung Electronics Co.,Ltd
 				Kaohsiung    80673
 				TW
 
-A4-C3-F0   (hex)		Intel Corporate
-A4C3F0     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
 74-5B-C5   (hex)		IEEE Registration Authority
 745BC5     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+A4-C3-F0   (hex)		Intel Corporate
+A4C3F0     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 80-FD-7A   (hex)		BLU Products Inc
 80FD7A     (base 16)		BLU Products Inc
@@ -30890,6 +30890,12 @@ A089E4     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				Shenzhen  Guangdong  518057
 				CN
 
+2C-18-75   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+2C1875     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+				7F,Block A,Skyworth Building,
+				Shenzhen  Guangdong  518057
+				CN
+
 90-F8-91   (hex)		Kaonmedia CO., LTD.
 90F891     (base 16)		Kaonmedia CO., LTD.
 				884-3, Seongnam-daero, Bundang-gu
@@ -30902,29 +30908,11 @@ A089E4     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				shenzhen  guangdong  518110
 				CN
 
-2C-18-75   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-2C1875     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-				7F,Block A,Skyworth Building,
-				Shenzhen  Guangdong  518057
-				CN
-
 98-9B-CB   (hex)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 989BCB     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 				Alt-Moabit 95
 				Berlin  Berlin  10559
 				DE
-
-6C-A9-28   (hex)		HMD Global Oy
-6CA928     (base 16)		HMD Global Oy
-				Bertel Jungin aukio 9
-				Espoo    02600
-				FI
-
-70-AC-D7   (hex)		Shenzhen YOUHUA Technology Co., Ltd
-70ACD7     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
-				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
-				Shenzhen  Guangdong  518055
-				CN
 
 90-A3-65   (hex)		HMD Global Oy
 90A365     (base 16)		HMD Global Oy
@@ -30943,6 +30931,18 @@ BC024A     (base 16)		HMD Global Oy
 				Bertel Jungin aukio 9
 				Espoo    02600
 				FI
+
+6C-A9-28   (hex)		HMD Global Oy
+6CA928     (base 16)		HMD Global Oy
+				Bertel Jungin aukio 9
+				Espoo    02600
+				FI
+
+70-AC-D7   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+70ACD7     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
 
 14-9D-99   (hex)		Apple, Inc.
 149D99     (base 16)		Apple, Inc.
@@ -61999,6 +61999,12 @@ B85D0A     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+AC-8F-F8   (hex)		Nokia
+AC8FF8     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -123311,6 +123317,12 @@ CCD281     (base 16)		Apple, Inc.
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
+14-7B-AC   (hex)		Nokia
+147BAC     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -154049,6 +154061,12 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
+503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
+				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
+				Shenzhen  Guangdong  518104
+				CN
+
 20-0D-B0   (hex)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 200DB0     (base 16)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
 				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base
@@ -154060,12 +154078,6 @@ D0EC35     (base 16)		Cisco Systems, Inc
 				280 - 3605 Gilmore Way
 				Burnaby  BC  V5G4X5
 				CA
-
-50-3E-7C   (hex)		LeiShen Intelligent  System Co.Ltd
-503E7C     (base 16)		LeiShen Intelligent  System Co.Ltd
-				4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District
-				Shenzhen  Guangdong  518104
-				CN
 
 D8-55-75   (hex)		Samsung Electronics Co.,Ltd
 D85575     (base 16)		Samsung Electronics Co.,Ltd
@@ -154109,29 +154121,23 @@ A89CED     (base 16)		Xiaomi Communications Co Ltd
 				San Diego  CA  92121
 				US
 
-A0-BD-1D   (hex)		Zhejiang Dahua Technology Co., Ltd.
-A0BD1D     (base 16)		Zhejiang Dahua Technology Co., Ltd.
-				No.1199,Waterfront Road 
-				Hangzhou  Zhejiang  310053
-				CN
-
 C0-41-21   (hex)		Nokia
 C04121     (base 16)		Nokia
 				Karaportti 3
 				Espoo  Finland  02610
 				FI
 
+A0-BD-1D   (hex)		Zhejiang Dahua Technology Co., Ltd.
+A0BD1D     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
+
 94-F7-AD   (hex)		Juniper Networks
 94F7AD     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
-
-5C-C6-D0   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-5CC6D0     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-				7F,Block A,Skyworth Building,
-				Shenzhen  Guangdong  518057
-				CN
 
 88-CC-45   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 88CC45     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
@@ -154157,10 +154163,10 @@ C88F26     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				Xiamen  Fujian  361008
 				CN
 
-98-FA-9B   (hex)		LCFC(HeFei) Electronics Technology co., ltd
-98FA9B     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
-				YunGu Road 3188-1
-				Hefei  Anhui  230000
+5C-C6-D0   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+5CC6D0     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+				7F,Block A,Skyworth Building,
+				Shenzhen  Guangdong  518057
 				CN
 
 7C-61-66   (hex)		Amazon Technologies Inc.
@@ -154169,23 +154175,23 @@ C88F26     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				Reno  NV  89507
 				US
 
-A0-28-ED   (hex)		HMD Global Oy
-A028ED     (base 16)		HMD Global Oy
-				Bertel Jungin aukio 9
-				Espoo    02600
-				FI
-
-C0-10-B1   (hex)		HMD Global Oy
-C010B1     (base 16)		HMD Global Oy
-				Bertel Jungin aukio 9
-				Espoo    02600
-				FI
+98-FA-9B   (hex)		LCFC(HeFei) Electronics Technology co., ltd
+98FA9B     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
+				YunGu Road 3188-1
+				Hefei  Anhui  230000
+				CN
 
 00-FD-22   (hex)		Cisco Systems, Inc
 00FD22     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+44-B2-95   (hex)		Sichuan AI-Link Technology Co., Ltd.
+44B295     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou,Industrial Park
+				Anzhou,Industrial Park  Sichuan  621000
+				CN
 
 94-24-E1   (hex)		Alcatel-Lucent Enterprise
 9424E1     (base 16)		Alcatel-Lucent Enterprise
@@ -154211,8 +154217,14 @@ E0897E     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-44-B2-95   (hex)		Sichuan AI-Link Technology Co., Ltd.
-44B295     (base 16)		Sichuan AI-Link Technology Co., Ltd.
-				Anzhou,Industrial Park
-				Anzhou,Industrial Park  Sichuan  621000
-				CN
+C0-10-B1   (hex)		HMD Global Oy
+C010B1     (base 16)		HMD Global Oy
+				Bertel Jungin aukio 9
+				Espoo    02600
+				FI
+
+A0-28-ED   (hex)		HMD Global Oy
+A028ED     (base 16)		HMD Global Oy
+				Bertel Jungin aukio 9
+				Espoo    02600
+				FI
