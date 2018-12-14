@@ -30914,6 +30914,18 @@ A089E4     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				Berlin  Berlin  10559
 				DE
 
+6C-A9-28   (hex)		HMD Global Oy
+6CA928     (base 16)		HMD Global Oy
+				Bertel Jungin aukio 9
+				Espoo    02600
+				FI
+
+70-AC-D7   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+70ACD7     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
 90-A3-65   (hex)		HMD Global Oy
 90A365     (base 16)		HMD Global Oy
 				Bertel Jungin aukio 9
@@ -30932,17 +30944,41 @@ BC024A     (base 16)		HMD Global Oy
 				Espoo    02600
 				FI
 
-6C-A9-28   (hex)		HMD Global Oy
-6CA928     (base 16)		HMD Global Oy
-				Bertel Jungin aukio 9
-				Espoo    02600
-				FI
+14-9D-99   (hex)		Apple, Inc.
+149D99     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
-70-AC-D7   (hex)		Shenzhen YOUHUA Technology Co., Ltd
-70ACD7     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
-				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
-				Shenzhen  Guangdong  518055
+98-46-0A   (hex)		Apple, Inc.
+98460A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+AC-88-FD   (hex)		Apple, Inc.
+AC88FD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+60-03-A6   (hex)		Inteno Broadband Technology AB
+6003A6     (base 16)		Inteno Broadband Technology AB
+				Stensätravägen 13
+				Skärholmen  SE  127 39 
+				SE
+
+B0-BB-8B   (hex)		WAVETEL TECHNOLOGY LIMITED
+B0BB8B     (base 16)		WAVETEL TECHNOLOGY LIMITED
+				ROOM 1611B, 16/F, HO KING COMMERCIAL CENTRE, 2-16 FAYUEN STREET, MONGKOK, KOWLOON
+				HONGKONG    999077
 				CN
+
+34-41-A8   (hex)		ER-Telecom
+3441A8     (base 16)		ER-Telecom
+				Ovchinnikovskaya embankment, 20, Building 1 
+				Moscow    115324
+				RU
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -61934,6 +61970,36 @@ AC5775     (base 16)		HMD Global Oy
 				Espoo    02600
 				FI
 
+74-40-BE   (hex)		LG Innotek
+7440BE     (base 16)		LG Innotek
+				26, Hanamsandan 5beon-ro
+				Gwangju  Gwangsan-gu  506-731
+				KR
+
+34-A8-EB   (hex)		Apple, Inc.
+34A8EB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-4A-14   (hex)		Apple, Inc.
+804A14     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B8-5D-0A   (hex)		Apple, Inc.
+B85D0A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+94-16-25   (hex)		Apple, Inc.
+941625     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92285,16 +92351,34 @@ C0074A     (base 16)		Brita GmbH
 				Santa Clara  CA  95054
 				US
 
+40-F2-1C   (hex)		DASAN Zhone Solutions
+40F21C     (base 16)		DASAN Zhone Solutions
+				7195 Oakport Street
+				Oakland  CA  94621
+				US
+
 0C-A0-6C   (hex)		Industrial Cyber Sensing Inc.
 0CA06C     (base 16)		Industrial Cyber Sensing Inc.
 				Unit 1A - 343 Montrose Street North
 				Cambridge  Ontario  N3H 2H6
 				CA
 
-40-F2-1C   (hex)		DASAN Zhone Solutions
-40F21C     (base 16)		DASAN Zhone Solutions
-				7195 Oakport Street
-				Oakland  CA  94621
+A4-83-E7   (hex)		Apple, Inc.
+A483E7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F4-AF-E7   (hex)		Apple, Inc.
+F4AFE7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+7C-9A-1D   (hex)		Apple, Inc.
+7C9A1D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -123179,6 +123263,54 @@ A83E0E     (base 16)		HMD Global Oy
 				Espoo    02600
 				FI
 
+54-62-E2   (hex)		Apple, Inc.
+5462E2     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+44-18-FD   (hex)		Apple, Inc.
+4418FD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+70-3C-69   (hex)		Apple, Inc.
+703C69     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B8-B2-F8   (hex)		Apple, Inc.
+B8B2F8     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-5B-94   (hex)		Apple, Inc.
+005B94     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+88-B2-91   (hex)		Apple, Inc.
+88B291     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+CC-D2-81   (hex)		Apple, Inc.
+CCD281     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+34-DB-9C   (hex)		Sagemcom Broadband SAS
+34DB9C     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -154054,3 +154186,33 @@ C010B1     (base 16)		HMD Global Oy
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+94-24-E1   (hex)		Alcatel-Lucent Enterprise
+9424E1     (base 16)		Alcatel-Lucent Enterprise
+				26801 West Agoura Rd
+				Calabasas  CA  91301
+				US
+
+C4-2A-D0   (hex)		Apple, Inc.
+C42AD0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+E0-89-7E   (hex)		Apple, Inc.
+E0897E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+10-30-25   (hex)		Apple, Inc.
+103025     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+44-B2-95   (hex)		Sichuan AI-Link Technology Co., Ltd.
+44B295     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou,Industrial Park
+				Anzhou,Industrial Park  Sichuan  621000
+				CN
