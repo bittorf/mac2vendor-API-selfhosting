@@ -28556,9 +28556,6 @@ CCA462     (base 16)		ARRIS Group, Inc.
 				Berlin    13509
 				DE
 
-8C-E7-48   (hex)		Private
-8CE748     (base 16)		Private
-
 00-D8-61   (hex)		Micro-Star INTL CO., LTD.
 00D861     (base 16)		Micro-Star INTL CO., LTD.
 				No.69, Lide St.,
@@ -30902,30 +30899,6 @@ D8FEE3     (base 16)		D-Link International
 				Singapore  Singapore  609917
 				SG
 
-C0-A0-BB   (hex)		D-Link International
-C0A0BB     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
-
-B0-C5-54   (hex)		D-Link International
-B0C554     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
-
-6C-19-8F   (hex)		D-Link International
-6C198F     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
-
-F8-E9-03   (hex)		D-Link International
-F8E903     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
-
 C4-A8-1D   (hex)		D-Link International
 C4A81D     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,
@@ -30968,6 +30941,30 @@ C4A81D     (base 16)		D-Link International
 				Singapore  Singapore  609917
 				SG
 
+C0-A0-BB   (hex)		D-Link International
+C0A0BB     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+B0-C5-54   (hex)		D-Link International
+B0C554     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+6C-19-8F   (hex)		D-Link International
+6C198F     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+F8-E9-03   (hex)		D-Link International
+F8E903     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
 40-9B-CD   (hex)		D-Link International
 409BCD     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
@@ -30979,6 +30976,9 @@ C4A81D     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
 				Singapore  Singapore  609917
 				SG
+
+8C-E7-48   (hex)		Private
+8CE748     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -61910,6 +61910,12 @@ F8CA59     (base 16)		NetComm Wireless
 				Shenzhen  Guangdong  518057
 				CN
 
+04-F1-28   (hex)		HMD Global Oy
+04F128     (base 16)		HMD Global Oy
+				Bertel Jungin aukio 9
+				Espoo    02600
+				FI
+
 80-4A-14   (hex)		Apple, Inc.
 804A14     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -61940,12 +61946,6 @@ B85D0A     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-04-F1-28   (hex)		HMD Global Oy
-04F128     (base 16)		HMD Global Oy
-				Bertel Jungin aukio 9
-				Espoo    02600
-				FI
-
 AC-57-75   (hex)		HMD Global Oy
 AC5775     (base 16)		HMD Global Oy
 				Bertel Jungin aukio 9
@@ -61970,16 +61970,22 @@ AC8FF8     (base 16)		Nokia
 				Shenzhen  Shenzhen  518104
 				CN
 
-FC-75-16   (hex)		D-Link International
-FC7516     (base 16)		D-Link International
-				1 International Business Park, #03-12, The Synergy 
-				SINGAPORE    609917
+78-32-1B   (hex)		D-Link International
+78321B     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
 				SG
 
-AC-F1-DF   (hex)		D-Link International
-ACF1DF     (base 16)		D-Link International
-				1 International Business Park, #03-12, The Synergy 
-				SINGAPORE    609917
+00-AD-24   (hex)		D-Link International
+00AD24     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+F4-8C-EB   (hex)		D-Link International
+F48CEB     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
 				SG
 
 A0-AB-1B   (hex)		D-Link International
@@ -61994,26 +62000,20 @@ A0AB1B     (base 16)		D-Link International
 				Singapore  Singapore  609917
 				SG
 
-78-32-1B   (hex)		D-Link International
-78321B     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
+FC-75-16   (hex)		D-Link International
+FC7516     (base 16)		D-Link International
+				1 International Business Park, #03-12, The Synergy 
+				SINGAPORE    609917
+				SG
+
+AC-F1-DF   (hex)		D-Link International
+ACF1DF     (base 16)		D-Link International
+				1 International Business Park, #03-12, The Synergy 
+				SINGAPORE    609917
 				SG
 
 9C-D6-43   (hex)		D-Link International
 9CD643     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
-
-00-AD-24   (hex)		D-Link International
-00AD24     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
-
-F4-8C-EB   (hex)		D-Link International
-F48CEB     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
 				Singapore  Singapore  609917
 				SG
@@ -92327,17 +92327,17 @@ C0074A     (base 16)		Brita GmbH
 				Santa Clara  CA  95054
 				US
 
-40-F2-1C   (hex)		DASAN Zhone Solutions
-40F21C     (base 16)		DASAN Zhone Solutions
-				7195 Oakport Street
-				Oakland  CA  94621
-				US
-
 0C-A0-6C   (hex)		Industrial Cyber Sensing Inc.
 0CA06C     (base 16)		Industrial Cyber Sensing Inc.
 				Unit 1A - 343 Montrose Street North
 				Cambridge  Ontario  N3H 2H6
 				CA
+
+40-F2-1C   (hex)		DASAN Zhone Solutions
+40F21C     (base 16)		DASAN Zhone Solutions
+				7195 Oakport Street
+				Oakland  CA  94621
+				US
 
 F4-AF-E7   (hex)		Apple, Inc.
 F4AFE7     (base 16)		Apple, Inc.
@@ -92356,18 +92356,6 @@ A483E7     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
-
-84-7C-9B   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
-847C9B     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
-				Midea Global Innovation Center,Beijiao Town,Shunde
-				Foshan  Guangdong  528311
-				CN
-
-E8-CC-18   (hex)		D-Link International
-E8CC18     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
 
 EC-22-80   (hex)		D-Link International
 EC2280     (base 16)		D-Link International
@@ -92407,6 +92395,18 @@ C8BE19     (base 16)		D-Link International
 
 E4-6F-13   (hex)		D-Link International
 E46F13     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+84-7C-9B   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+847C9B     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+E8-CC-18   (hex)		D-Link International
+E8CC18     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
 				Singapore  Singapore  609917
 				SG
@@ -123116,6 +123116,12 @@ DCED84     (base 16)		Haverford Systems Inc
 A4-68-BC   (hex)		Private
 A468BC     (base 16)		Private
 
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -123124,12 +123130,6 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
-
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
 
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
@@ -123221,14 +123221,14 @@ E8B2FE     (base 16)		HUMAX Co., Ltd.
 				Jinan  Shandong  250100
 				CN
 
-20-39-56   (hex)		HMD Global Oy
-203956     (base 16)		HMD Global Oy
+A8-3E-0E   (hex)		HMD Global Oy
+A83E0E     (base 16)		HMD Global Oy
 				Bertel Jungin aukio 9
 				Espoo    02600
 				FI
 
-A8-3E-0E   (hex)		HMD Global Oy
-A83E0E     (base 16)		HMD Global Oy
+20-39-56   (hex)		HMD Global Oy
+203956     (base 16)		HMD Global Oy
 				Bertel Jungin aukio 9
 				Espoo    02600
 				FI
@@ -123257,12 +123257,6 @@ B8B2F8     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-CC-D2-81   (hex)		Apple, Inc.
-CCD281     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 34-DB-9C   (hex)		Sagemcom Broadband SAS
 34DB9C     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
@@ -123281,6 +123275,12 @@ CCD281     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+CC-D2-81   (hex)		Apple, Inc.
+CCD281     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 14-7B-AC   (hex)		Nokia
 147BAC     (base 16)		Nokia
 				600 March Road
@@ -123292,24 +123292,6 @@ CCD281     (base 16)		Apple, Inc.
 				RUA AMERICA,1000
 				Eldorado do Sul  Rio Grande do Sul  92990-000
 				BR
-
-70-62-B8   (hex)		D-Link International
-7062B8     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
-
-3C-1E-04   (hex)		D-Link International
-3C1E04     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
-
-54-B8-0A   (hex)		D-Link International
-54B80A     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
 
 C4-12-F5   (hex)		D-Link International
 C412F5     (base 16)		D-Link International
@@ -123329,18 +123311,6 @@ B8A386     (base 16)		D-Link International
 				SINGAPORE    609917
 				SG
 
-1C-AF-F7   (hex)		D-Link International
-1CAFF7     (base 16)		D-Link International
-				1 INTERNATIONAL  BUSINESS  PARK,
-				SINGAPORE    609917
-				SG
-
-80-26-89   (hex)		D-Link International
-802689     (base 16)		D-Link International
-				1 Internal Business Park, #03-12,The Synergy, Singapore
-				Singapore  Singapore  609917
-				SG
-
 28-3B-82   (hex)		D-Link International
 283B82     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
@@ -123352,6 +123322,42 @@ B8A386     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
 				Singapore  Singapore  609917
 				SG
+
+3C-1E-04   (hex)		D-Link International
+3C1E04     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+54-B8-0A   (hex)		D-Link International
+54B80A     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+80-26-89   (hex)		D-Link International
+802689     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+70-62-B8   (hex)		D-Link International
+7062B8     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+1C-AF-F7   (hex)		D-Link International
+1CAFF7     (base 16)		D-Link International
+				1 INTERNATIONAL  BUSINESS  PARK,
+				SINGAPORE    609917
+				SG
+
+10-A3-B8   (hex)		Iskratel d.o.o.
+10A3B8     (base 16)		Iskratel d.o.o.
+				Ljubljanska cesta 24a
+				Kranj    4000
+				SI
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
