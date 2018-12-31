@@ -62171,6 +62171,24 @@ F47960     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Reno  NV  89507
 				US
 
+EC-AD-E0   (hex)		D-Link International
+ECADE0     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+F0-B9-68   (hex)		ITEL MOBILE LIMITED
+F0B968     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
+98-8B-0A   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+988B0A     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92630,6 +92648,24 @@ E0CC7A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+E8-EC-A3   (hex)		Dongguan Liesheng Electronic Co.Ltd
+E8ECA3     (base 16)		Dongguan Liesheng Electronic Co.Ltd
+				13th Floor South Building, Gosun Science Park, Hongtu Rd
+				Dongguan  Dongguan  523073
+				CN
+
+1C-27-04   (hex)		zte corporation
+1C2704     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+20-96-8A   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+20968A     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District
+				Hangzhou  Zhejiang  310000
+				CN
+
 F0-D4-F7   (hex)		varram system
 F0D4F7     (base 16)		varram system
 				57, TECHNO 11-RO,YUSEONG-GU, DAEJEON, KOREA 
@@ -92641,6 +92677,12 @@ F0D4F7     (base 16)		varram system
 				#607 2, Busandaehak-ro 63beon-gil, Geumjeong-gu
 				Busan    46241
 				KR
+
+A8-A1-59   (hex)		ASRock Incorporation
+A8A159     (base 16)		ASRock Incorporation
+				2F., No. 37, Sec. 2, Jhongyang S. Rd., Beitou District,
+				Taipei    112
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -123602,6 +123644,12 @@ B8A386     (base 16)		D-Link International
 				Hangzhou  Zhejiang  310052
 				CN
 
+DC-71-37   (hex)		zte corporation
+DC7137     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -154542,4 +154590,16 @@ B0E71D     (base 16)		Shanghai Maigantech Co.,Ltd
 2C58E8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+A4-97-5C   (hex)		VTech Telecommunications Ltd.
+A4975C     (base 16)		VTech Telecommunications Ltd.
+				23/F,Tai Ping Industrial Centre ,Block 1
+				Hong Kong    000000
+				CN
+
+50-78-B3   (hex)		zte corporation
+5078B3     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
 				CN
