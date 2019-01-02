@@ -12566,12 +12566,6 @@ A8CE90     (base 16)		CVC
 				Wohlen  AG  5610
 				CH
 
-00-12-2A   (hex)		VTech Telecommunications Ltd.
-00122A     (base 16)		VTech Telecommunications Ltd.
-				23/F, Tai Ping Industrial Centre, Block 1
-				    
-				HK
-
 00-12-2E   (hex)		Signal Technology - AISD
 00122E     (base 16)		Signal Technology - AISD
 				1820 Preston Park Blvd.
@@ -26306,12 +26300,6 @@ B430C0     (base 16)		York Instruments Ltd
 				York  North Yorkshire  YO10 5NY
 				GB
 
-C4-68-D0   (hex)		VTech Telecommunications Ltd.
-C468D0     (base 16)		VTech Telecommunications Ltd.
-				23/F, Tai Ping Industrial Centre, Block 1,
-				HONG KONG  NA  000000
-				HK
-
 48-D6-D5   (hex)		Google, Inc.
 48D6D5     (base 16)		Google, Inc.
 				1600 Amphitheatre Parkway
@@ -31060,6 +31048,24 @@ E8018D     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				2-15-31 takaokanishi nakaku
 				hamamatsushi  shizuokaken  4338118
 				JP
+
+00-12-2A   (hex)		VTech Telecommunications Ltd.
+00122A     (base 16)		VTech Telecommunications Ltd.
+				23/F, Tai Ping Industrial Centre, Block 1
+				    
+				HK
+
+C4-68-D0   (hex)		VTech Telecommunications Ltd.
+C468D0     (base 16)		VTech Telecommunications Ltd.
+				23/F, Tai Ping Industrial Centre, Block 1,
+				HONG KONG  NA  000000
+				HK
+
+50-51-A9   (hex)		Texas Instruments
+5051A9     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62188,6 +62194,18 @@ F0B968     (base 16)		ITEL MOBILE LIMITED
 				No.555 Qianmo Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+1C-BF-CE   (hex)		Shenzhen Century Xinyang Technology Co., Ltd
+1CBFCE     (base 16)		Shenzhen Century Xinyang Technology Co., Ltd
+				3F, North Building, Bantian High-tech industrial Zone, No. 2 of Bell Road
+				Shenzhen  Guangdong  518129
+				CN
+
+F8-30-02   (hex)		Texas Instruments
+F83002     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -94142,12 +94160,6 @@ F46A92     (base 16)		SHENZHEN FAST TECHNOLOGIES CO.,LTD
 				Shenzhen  Guangdong  518057
 				CN
 
-14-AE-DB   (hex)		VTech Telecommunications Ltd.
-14AEDB     (base 16)		VTech Telecommunications Ltd.
-				23/F, Tai Ping Industrial Centre, Block 1,
-				HONG KONG  NA  000000
-				HK
-
 B8-C3-BF   (hex)		Henan Chengshi NetWork Technology Co.，Ltd
 B8C3BF     (base 16)		Henan Chengshi NetWork Technology Co.，Ltd
 				Ruhe Road South，Kunlun Road West，Zhongyuan District，Zhengzhou，Henan，P.R.China，450007
@@ -123649,6 +123661,24 @@ DC7137     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
+
+14-AE-DB   (hex)		VTech Telecommunications Ltd.
+14AEDB     (base 16)		VTech Telecommunications Ltd.
+				23/F, Tai Ping Industrial Centre, Block 1,
+				HONG KONG  NA  000000
+				HK
+
+78-DB-2F   (hex)		Texas Instruments
+78DB2F     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+58-93-D8   (hex)		Texas Instruments
+5893D8     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
