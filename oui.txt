@@ -62219,6 +62219,12 @@ B02A1F     (base 16)		 Wingtech Group (HongKong）Limited
 				Shenzhen  Guangdong  518000
 				CN
 
+34-E1-D1   (hex)		IEEE Registration Authority
+34E1D1     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -123698,16 +123704,16 @@ DC7137     (base 16)		zte corporation
 				shenzhen  guangdong  518057
 				CN
 
-FC-33-42   (hex)		Juniper Networks
-FC3342     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
-				US
-
 DC-68-0C   (hex)		Hewlett Packard Enterprise
 DC680C     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
+				US
+
+FC-33-42   (hex)		Juniper Networks
+FC3342     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
