@@ -94256,12 +94256,6 @@ F4E9D4     (base 16)		QLogic Corporation
 				Aliso Viejo  California  
 				US
 
-14-22-DB   (hex)		eero inc.
-1422DB     (base 16)		eero inc.
-				230 9th St.
-				San Francisco  CA  94103
-				US
-
 0C-41-3E   (hex)		Microsoft Corporation
 0C413E     (base 16)		Microsoft Corporation
 				1 Microsoft Way
@@ -123734,6 +123728,18 @@ FC3342     (base 16)		Juniper Networks
 				San Jose  CA  94568
 				US
 
+80-DA-13   (hex)		eero inc.
+80DA13     (base 16)		eero inc.
+				660 3rd Street
+				San Francisco  CA  94107
+				US
+
+14-22-DB   (hex)		eero inc.
+1422DB     (base 16)		eero inc.
+				230 9th St.
+				San Francisco  CA  94103
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -149489,12 +149495,6 @@ C87765     (base 16)		Tiesse SpA
 				Ivrea  TO  10015
 				IT
 
-60-5F-8D   (hex)		eero inc.
-605F8D     (base 16)		eero inc.
-				500 Howard Street, Suite 900
-				SAN FRANCISCO  CA  94105
-				US
-
 B4-DE-DF   (hex)		zte corporation
 B4DEDF     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -151090,12 +151090,6 @@ E48399     (base 16)		ARRIS Group, Inc.
 				Abgunst 24
 				Osterode    37520
 				DE
-
-F8-BB-BF   (hex)		eero inc.
-F8BBBF     (base 16)		eero inc.
-				500 Howard St Suite 900
-				San Francisco  CA  94105
-				US
 
 70-6D-EC   (hex)		Wifi-soft LLC
 706DEC     (base 16)		Wifi-soft LLC
@@ -154698,4 +154692,16 @@ C4-B3-6A   (hex)		Cisco Systems, Inc
 C4B36A     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+F8-BB-BF   (hex)		eero inc.
+F8BBBF     (base 16)		eero inc.
+				500 Howard St Suite 900
+				San Francisco  CA  94105
+				US
+
+60-5F-8D   (hex)		eero inc.
+605F8D     (base 16)		eero inc.
+				500 Howard Street, Suite 900
+				SAN FRANCISCO  CA  94105
 				US
