@@ -62219,17 +62219,23 @@ B02A1F     (base 16)		 Wingtech Group (HongKong）Limited
 				Piscataway  NJ  08554
 				US
 
+DC-FB-48   (hex)		Intel Corporate
+DCFB48     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 6C-40-C6   (hex)		Nimbus Data, Inc.
 6C40C6     (base 16)		Nimbus Data, Inc.
 				5151 California Ave, Ste 100
 				Irvine  CA  92617
 				US
 
-DC-FB-48   (hex)		Intel Corporate
-DCFB48     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
+A8-DB-03   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+				93Moo5T. Bangsamak SEMTHAI, WELLGROW INDUSTRIAL ESTATE
+				Bangpakong  Chachoengsao  24180
+				TH
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -105593,12 +105599,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Billerica  MA  02460
 				US
 
-00-11-B4   (hex)		Westermo Teleindustri AB
-0011B4     (base 16)		Westermo Teleindustri AB
-				Stora Sundby
-				    SE-640 40
-				SE
-
 00-11-B9   (hex)		Inner Range Pty. Ltd.
 0011B9     (base 16)		Inner Range Pty. Ltd.
 				1 Millenium Court
@@ -123740,6 +123740,12 @@ FC3342     (base 16)		Juniper Networks
 				San Francisco  CA  94103
 				US
 
+00-11-B4   (hex)		Westermo Network Technologies AB
+0011B4     (base 16)		Westermo Network Technologies AB
+				Stora Sundby
+				Sweden    SE-640 40
+				SE
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -138913,12 +138919,6 @@ DC3350     (base 16)		TechSAT GmbH
 				41 Discovery
 				Irvine  CA  92618
 				US
-
-00-07-7C   (hex)		Westermo Teleindustri AB
-00077C     (base 16)		Westermo Teleindustri AB
-				SE-640 40
-				Stora Sundby    
-				SE
 
 00-07-76   (hex)		Federal APD
 000776     (base 16)		Federal APD
@@ -154705,3 +154705,15 @@ F8BBBF     (base 16)		eero inc.
 				500 Howard Street, Suite 900
 				SAN FRANCISCO  CA  94105
 				US
+
+00-07-7C   (hex)		Westermo Network Technologies AB
+00077C     (base 16)		Westermo Network Technologies AB
+				Stora Sundby
+				Sweden    SE-640 40
+				SE
+
+90-4D-C3   (hex)		Flonidan A/S
+904DC3     (base 16)		Flonidan A/S
+				Islandsvej 29
+				Horsens    8700
+				DK
