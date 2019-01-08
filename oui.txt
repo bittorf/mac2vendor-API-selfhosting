@@ -35507,12 +35507,6 @@ BC811F     (base 16)		Ingate Systems
 				shenzhen  guangdong  518057
 				CN
 
-6C-40-C6   (hex)		Nimbus Data Systems, Inc.
-6C40C6     (base 16)		Nimbus Data Systems, Inc.
-				701 Gateway Blvd
-				South San Francisco  CA  94080
-				US
-
 50-3F-56   (hex)		Syncmold Enterprise Corp
 503F56     (base 16)		Syncmold Enterprise Corp
 				9F., No.168, Jiankang Rd., Zhonghe Dist.
@@ -62224,6 +62218,18 @@ B02A1F     (base 16)		 Wingtech Group (HongKong）Limited
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+6C-40-C6   (hex)		Nimbus Data, Inc.
+6C40C6     (base 16)		Nimbus Data, Inc.
+				5151 California Ave, Ste 100
+				Irvine  CA  92617
+				US
+
+DC-FB-48   (hex)		Intel Corporate
+DCFB48     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -92718,6 +92724,12 @@ A8-A1-59   (hex)		ASRock Incorporation
 A8A159     (base 16)		ASRock Incorporation
 				2F., No. 37, Sec. 2, Jhongyang S. Rd., Beitou District,
 				Taipei    112
+				TW
+
+70-F7-54   (hex)		AMPAK Technology,Inc.
+70F754     (base 16)		AMPAK Technology,Inc.
+				3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou,
+				Hsinchu  Hsinchu,Taiwan R.O.C.  30352
 				TW
 
 F4-02-70   (hex)		Dell Inc.
@@ -123716,6 +123728,12 @@ FC3342     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
+6C-8B-D3   (hex)		Cisco Systems, Inc
+6C8BD3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -154675,3 +154693,9 @@ A4975C     (base 16)		VTech Telecommunications Ltd.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
+
+C4-B3-6A   (hex)		Cisco Systems, Inc
+C4B36A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
