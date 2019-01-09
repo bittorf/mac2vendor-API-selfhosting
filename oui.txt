@@ -31067,6 +31067,12 @@ C468D0     (base 16)		VTech Telecommunications Ltd.
 				Dallas  TX  75243
 				US
 
+98-1E-19   (hex)		Sagemcom Broadband SAS
+981E19     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62237,6 +62243,18 @@ A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Bangpakong  Chachoengsao  24180
 				TH
 
+44-A6-1E   (hex)		INGRAM MICRO SERVICES
+44A61E     (base 16)		INGRAM MICRO SERVICES
+				100 CHEMIN DE BAILLOT
+				MONTAUBAN    82000
+				FR
+
+8C-0F-A0   (hex)		di-soric GmbH & Co. KG
+8C0FA0     (base 16)		di-soric GmbH & Co. KG
+				Steinbeisstrasse 6
+				Urbach    73660
+				DE
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92742,6 +92760,12 @@ F4-02-70   (hex)		Dell Inc.
 F40270     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
+				US
+
+DC-B8-08   (hex)		Extreme Networks, Inc.
+DCB808     (base 16)		Extreme Networks, Inc.
+				6480 Via Del Oro
+				San Jose  CA  95119
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -123722,12 +123746,6 @@ FC3342     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-6C-8B-D3   (hex)		Cisco Systems, Inc
-6C8BD3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 80-DA-13   (hex)		eero inc.
 80DA13     (base 16)		eero inc.
 				660 3rd Street
@@ -123740,11 +123758,29 @@ FC3342     (base 16)		Juniper Networks
 				San Francisco  CA  94103
 				US
 
+6C-8B-D3   (hex)		Cisco Systems, Inc
+6C8BD3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 00-11-B4   (hex)		Westermo Network Technologies AB
 0011B4     (base 16)		Westermo Network Technologies AB
 				Stora Sundby
 				Sweden    SE-640 40
 				SE
+
+30-89-44   (hex)		DEVA Broadcast Ltd.
+308944     (base 16)		DEVA Broadcast Ltd.
+				Alexander Stamboliyski 65
+				Burgas  Burgas  8000
+				BG
+
+84-B8-66   (hex)		Beijing XiaoLu technology co. LTD
+84B866     (base 16)		Beijing XiaoLu technology co. LTD
+				Room 002, floor 2, building 1, yard 4, BeiTuCheng East Road, ChaoYang district, Beijing
+				Beijing    100102
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
