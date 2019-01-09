@@ -31073,6 +31073,18 @@ C468D0     (base 16)		VTech Telecommunications Ltd.
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
+C4-C1-38   (hex)		OWLink Technology Inc
+C4C138     (base 16)		OWLink Technology Inc
+				760 Roosevelt
+				Irvine  CA  92620
+				US
+
+18-F1-8E   (hex)		ChipER Technology co. ltd
+18F18E     (base 16)		ChipER Technology co. ltd
+				907 University Ave#299
+				Middleton  WI  53562
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -72995,12 +73007,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Taipei City    106
 				TW
 
-00-18-36   (hex)		Reliance Electric Limited
-001836     (base 16)		Reliance Electric Limited
-				2-3-2 Fukuura, Kanazawa-ku
-				Yokohama  Kanagawa  236-8641
-				JP
-
 00-17-59   (hex)		Cisco Systems, Inc
 001759     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -92767,6 +92773,12 @@ DCB808     (base 16)		Extreme Networks, Inc.
 				6480 Via Del Oro
 				San Jose  CA  95119
 				US
+
+00-18-36   (hex)		REJ Co.,Ltd
+001836     (base 16)		REJ Co.,Ltd
+				2-3-2 Fukuura, Kanazawa-ku
+				Yokohama  Kanagawa  236-8641
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
