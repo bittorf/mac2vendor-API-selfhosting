@@ -32459,12 +32459,6 @@ A47B85     (base 16)		ULTIMEDIA Co Ltd,
 				Seoul    152770
 				KR
 
-CC-37-AB   (hex)		Edgecore Networks Corportation
-CC37AB     (base 16)		Edgecore Networks Corportation
-				1 Creation Road 3.
-				Hsinchu  Hsinchu  30077
-				TW
-
 F8-0D-60   (hex)		CANON INC.
 F80D60     (base 16)		CANON INC.
 				30-2 Shimomaruko 3-chome,
@@ -61253,12 +61247,6 @@ C02250     (base 16)		Koss Corporation
 				Milwaukee  WI  53212
 				US
 
-10-9E-3A   (hex)		Zhejiang Tmall Technology Co., Ltd.
-109E3A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
-				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
-				Shenzhen  Guangdong  518000
-				CN
-
 2C-1C-F6   (hex)		Alien Green LLC
 2C1CF6     (base 16)		Alien Green LLC
 				A. Kazbegi Ave., No24g, apt 227
@@ -62266,6 +62254,24 @@ A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Steinbeisstrasse 6
 				Urbach    73660
 				DE
+
+CC-37-AB   (hex)		Edgecore Networks Corporation
+CC37AB     (base 16)		Edgecore Networks Corporation
+				1 Creation Road 3.
+				Hsinchu  Hsinchu  30077
+				TW
+
+90-78-41   (hex)		Intel Corporate
+907841     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+10-9E-3A   (hex)		Zhejiang Tmall Technology Co., Ltd.
+109E3A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
+				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
+				Shenzhen  Guangdong  518000
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -87797,12 +87803,6 @@ BC54FC     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Piscataway  NJ  08554
 				US
 
-18-BC-5A   (hex)		Zhejiang Tmall Technology Co., Ltd.
-18BC5A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
-				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
-				Shenzhen  Guangdong  518000
-				CN
-
 00-86-9C   (hex)		Palo Alto Networks
 00869C     (base 16)		Palo Alto Networks
 				4401 Great America Parkway
@@ -90848,12 +90848,6 @@ C4518D     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Shenzhen  Guangdong  518055
 				CN
 
-78-DA-07   (hex)		Zhejiang Tmall Technology Co., Ltd.
-78DA07     (base 16)		Zhejiang Tmall Technology Co., Ltd.
-				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
-				Shenzhen  Guangdong  518000
-				CN
-
 00-13-A3   (hex)		Siemens Home & Office Comm. Devices
 0013A3     (base 16)		Siemens Home & Office Comm. Devices
 				4849 Alpha Road
@@ -92779,6 +92773,30 @@ DCB808     (base 16)		Extreme Networks, Inc.
 				2-3-2 Fukuura, Kanazawa-ku
 				Yokohama  Kanagawa  236-8641
 				JP
+
+C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
+C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
+				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
+				Chennai    602107
+				IN
+
+38-D2-CA   (hex)		Zhejiang Tmall Technology Co., Ltd.
+38D2CA     (base 16)		Zhejiang Tmall Technology Co., Ltd.
+				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province
+				Shenzhen  GuangDong  518000
+				CN
+
+18-BC-5A   (hex)		Zhejiang Tmall Technology Co., Ltd.
+18BC5A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
+				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
+				Shenzhen  Guangdong  518000
+				CN
+
+78-DA-07   (hex)		Zhejiang Tmall Technology Co., Ltd.
+78DA07     (base 16)		Zhejiang Tmall Technology Co., Ltd.
+				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
+				Shenzhen  Guangdong  518000
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -123758,6 +123776,12 @@ FC3342     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
+6C-8B-D3   (hex)		Cisco Systems, Inc
+6C8BD3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 80-DA-13   (hex)		eero inc.
 80DA13     (base 16)		eero inc.
 				660 3rd Street
@@ -123768,12 +123792,6 @@ FC3342     (base 16)		Juniper Networks
 1422DB     (base 16)		eero inc.
 				230 9th St.
 				San Francisco  CA  94103
-				US
-
-6C-8B-D3   (hex)		Cisco Systems, Inc
-6C8BD3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
 				US
 
 00-11-B4   (hex)		Westermo Network Technologies AB
@@ -123793,6 +123811,12 @@ FC3342     (base 16)		Juniper Networks
 				Room 002, floor 2, building 1, yard 4, BeiTuCheng East Road, ChaoYang district, Beijing
 				Beijing    100102
 				CN
+
+80-A2-35   (hex)		Edgecore Networks Corporation
+80A235     (base 16)		Edgecore Networks Corporation
+				1 Creation RD 3.
+				Hsinchu    30077
+				TW
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -154765,3 +154789,9 @@ F8BBBF     (base 16)		eero inc.
 				Islandsvej 29
 				Horsens    8700
 				DK
+
+30-EA-26   (hex)		Sycada BV
+30EA26     (base 16)		Sycada BV
+				Burgemeester Stramanweg 105B
+				Amsterdam    1101 AA
+				NL
