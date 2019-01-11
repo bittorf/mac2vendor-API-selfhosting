@@ -31085,6 +31085,12 @@ C4C138     (base 16)		OWLink Technology Inc
 				Middleton  WI  53562
 				US
 
+B8-D5-26   (hex)		Zyxel Communications Corporation
+B8D526     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62255,12 +62261,6 @@ A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Urbach    73660
 				DE
 
-CC-37-AB   (hex)		Edgecore Networks Corporation
-CC37AB     (base 16)		Edgecore Networks Corporation
-				1 Creation Road 3.
-				Hsinchu  Hsinchu  30077
-				TW
-
 90-78-41   (hex)		Intel Corporate
 907841     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -62271,6 +62271,24 @@ CC37AB     (base 16)		Edgecore Networks Corporation
 109E3A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
 				Shenzhen  Guangdong  518000
+				CN
+
+CC-37-AB   (hex)		Edgecore Networks Corporation
+CC37AB     (base 16)		Edgecore Networks Corporation
+				1 Creation Road 3.
+				Hsinchu  Hsinchu  30077
+				TW
+
+20-58-69   (hex)		Ruckus Wireless
+205869     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+24-79-F3   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+2479F3     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -92768,12 +92786,6 @@ DCB808     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  95119
 				US
 
-00-18-36   (hex)		REJ Co.,Ltd
-001836     (base 16)		REJ Co.,Ltd
-				2-3-2 Fukuura, Kanazawa-ku
-				Yokohama  Kanagawa  236-8641
-				JP
-
 C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
 C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
 				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
@@ -92796,6 +92808,18 @@ C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
 78DA07     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
 				Shenzhen  Guangdong  518000
+				CN
+
+00-18-36   (hex)		REJ Co.,Ltd
+001836     (base 16)		REJ Co.,Ltd
+				2-3-2 Fukuura, Kanazawa-ku
+				Yokohama  Kanagawa  236-8641
+				JP
+
+C4-E3-9F   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+C4E39F     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -123818,6 +123842,12 @@ FC3342     (base 16)		Juniper Networks
 				Hsinchu    30077
 				TW
 
+E0-B6-55   (hex)		Beijing Xiaomi Electronics Co., Ltd.
+E0B655     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
+				Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District
+				Beijing  Beijing  10085
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -154760,12 +154790,6 @@ A4975C     (base 16)		VTech Telecommunications Ltd.
 				Shanghai  Shanghai  201203
 				CN
 
-C4-B3-6A   (hex)		Cisco Systems, Inc
-C4B36A     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 F8-BB-BF   (hex)		eero inc.
 F8BBBF     (base 16)		eero inc.
 				500 Howard St Suite 900
@@ -154784,6 +154808,12 @@ F8BBBF     (base 16)		eero inc.
 				Sweden    SE-640 40
 				SE
 
+C4-B3-6A   (hex)		Cisco Systems, Inc
+C4B36A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 90-4D-C3   (hex)		Flonidan A/S
 904DC3     (base 16)		Flonidan A/S
 				Islandsvej 29
@@ -154795,3 +154825,9 @@ F8BBBF     (base 16)		eero inc.
 				Burgemeester Stramanweg 105B
 				Amsterdam    1101 AA
 				NL
+
+9C-49-7F   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+9C497F     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
