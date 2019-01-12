@@ -14,7 +14,18 @@ NEW=0
 ALL=0
 CARRIAGE_RETURN="$( printf '\r' )"
 
-if test -e "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
+
+# - this downloads 'oui.txt' from URL
+# - parse and write out for each OUI-entry a textfile to:
+#   - WWWDIR/byte1/byte2/byte3 so that
+#   - e.g. http://server/oui/3c/d9/2b       is a textfile with vendor name + address
+#   - e.g. http://server/oui/3c/d9/2b.json  is a textfile with the same in json-notation
+
+
+if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
+
+	# a typical block looks like:
+	#
 	# 3C-D9-2B   (hex)                Hewlett Packard
 	# 3CD92B     (base 16)            Hewlett Packard
 	#                                 11445 Compaq Center Drive
@@ -22,6 +33,7 @@ if test -e "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 	#                                 US
 	#
 	# (next entry ...)
+
 	case "$OPTION" in
 		'build_shellscript')
 			logger -s "[OK] new script '$OPTION_ARG'"
@@ -89,7 +101,8 @@ if test -e "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				fi
 			;;
 			*[a-zA-Z0-9]*)
-				test "$ORGANIZATION" && echo "$*" | sed "s/${CARRIAGE_RETURN}\$//" >>"$OUTFILE"	# the countrycode
+				# likely the countrycode:
+				test "$ORGANIZATION" && echo "$*" | sed "s/${CARRIAGE_RETURN}\$//" >>"$OUTFILE"
 			;;
 			*)
 				ORGANIZATION=		# abort parsing, wait for next entry
