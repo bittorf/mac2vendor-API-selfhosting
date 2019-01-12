@@ -43,6 +43,11 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				echo
 				echo "case \"\$1\" in"
 			} >"$OPTION_ARG" && chmod +x "$OPTION_ARG"
+
+			shellsafe()
+			{
+				sed -e "s/'/'\\\''/g" -e 's/[^a-zA-Z0-9\._~}{(), =+?@\\/:-\[\]]//g'
+			}
 		;;
 	esac
 
@@ -66,9 +71,7 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				case "$OPTION" in
 					'build_shellscript')
 						# TODO: try to group e.g. all 450 entries with 'Samsung Electronics'
-						SHELLSAFE="$( echo "$ORGANIZATION" | sed -e "s/'/'\\\''/g" \
-											 -e 's/[^a-zA-Z0-9\._~}{(), =+?@\\/:-\[\]]//g' )"
-						echo >>"$OPTION_ARG" "${DIR1}${DIR2}${DIR3})e '$SHELLSAFE';;"
+						echo >>"$OPTION_ARG" "${DIR1}${DIR2}${DIR3})e '$( shellsafe "$ORGANIZATION" )';;"
 					;;
 				esac
 
