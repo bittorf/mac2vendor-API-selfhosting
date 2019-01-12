@@ -36,13 +36,14 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 
 	case "$OPTION" in
 		'build_shellscript')
-			logger -s "[OK] new script '$OPTION_ARG'"
+			SHELLFILE="$OPTION_ARG"
+			logger -s "[OK] new script '$SHELLFILE'"
 			{
 				echo '#!/bin/sh'
 				echo 'e(){ echo $*;}'
 				echo
 				echo "case \"\$1\" in"
-			} >"$OPTION_ARG" && chmod +x "$OPTION_ARG"
+			} >"$SHELLFILE" && chmod +x "$SHELLFILE"
 
 			shellsafe()
 			{
@@ -71,7 +72,7 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				case "$OPTION" in
 					'build_shellscript')
 						# TODO: try to group e.g. all 450 entries with 'Samsung Electronics'
-						echo >>"$OPTION_ARG" "${DIR1}${DIR2}${DIR3})e '$( shellsafe "$ORGANIZATION" )';;"
+						echo >>"$SHELLFILE" "${DIR1}${DIR2}${DIR3})e '$( shellsafe "$ORGANIZATION" )';;"
 					;;
 				esac
 
@@ -113,7 +114,7 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 		esac
 	done <"$FILE"
 
-	[ "$OPTION" = 'build_shellscript' ] && echo >>"$OPTION_ARG" 'esac'
+	[ "$OPTION" = 'build_shellscript' ] && echo >>"$SHELLFILE" 'esac'
 
 	if [ $NEW -gt 0 ]; then
 		logger -s "new entries: $NEW overall: $ALL"
