@@ -5,6 +5,7 @@
 
 WWWDIR="${1:-/var/www/oui}"	# for testing use e.g. /dev/shm/oui
 FILE="${2:-oui.txt}"		# if file already exists, it is not downloaded
+FILE_FLAT="$FILE.flatdb.txt"
 
 OPTION="$3"			# e.g. <empty> or 'build_shellscript' (experimental -> ~810k)
 OPTION_ARG="${4:-oui.sh}"	# in shellscript-mode: scriptname
@@ -47,10 +48,13 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 
 			shellsafe()
 			{
-				sed -e "s/'/'\\\''/g" -e 's/[^a-zA-Z0-9\._~}{(), =+?@\\/:-\[\]]//g'
+				echo "$1" | sed -e "s/'/'\\\''/g" -e 's/[^a-zA-Z0-9\._~}{(), =+?@\\/:-\[\]]//g'
 			}
 		;;
 	esac
+
+	# start a new write:
+	>"$FILE_FLAT"
 
 	logger -s "[OK] parsing '$FILE' with $( wc -l <"$FILE" ) lines, this needs some time..."
 	while read -r LINE; do
@@ -68,6 +72,9 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. 3CD92B -> oui/3c/d9/2b
 				shift 3 || logger -s "[ERR] shift: ALL: $ALL LINE: '$LINE'"
 				ORGANIZATION="$( echo "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
+
+				# here we output a good parsable/sortable file for later building shell/json structures:
+				echo >>"$FILE_FLAT" "$DIR1 $DIR2 $DIR3 |$ORGANIZATION"
 
 				case "$OPTION" in
 					'build_shellscript')
@@ -116,6 +123,9 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 
 	[ "$OPTION" = 'build_shellscript' ] && echo >>"$SHELLFILE" 'esac'
 
+	sort "$FILE_FLAT" >"$FILE_FLAT.sorted"
+	mv "$FILE_FLAT.sorted" "$FILE_FLAT"
+
 	if [ $NEW -gt 0 ]; then
 		logger -s "new entries: $NEW overall: $ALL"
 		[ -d '.git' ] && {
@@ -125,10 +135,12 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 
 		tar -C "$WWWDIR" -cf 'oui.tar' --exclude='oui.tar.xz' .
 		xz -e 'oui.tar'
-		mv 'oui.tar.xz' "$WWWDIR"	# ~ 800 Kbytes
+		mv 'oui.tar.xz' "$WWWDIR"	# ~ 1500 kilobytes
 	else
 		logger -s "no new entries - overall: $ALL"
 	fi
+
+	logger -s "see: '$FILE_FLAT' and '$WWWDIR/oui.tar.xz'"
 else
 	rm "$FILE"
 	false
