@@ -15,6 +15,7 @@ NEW=0
 ALL=0
 CARRIAGE_RETURN="$( printf '\r' )"
 
+alias explode='set -f;set +f --'
 
 # - this downloads 'oui.txt' from URL
 # - parse and write out for each OUI-entry a textfile to:
@@ -59,7 +60,7 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 	logger -s "[OK] parsing '$FILE' with $( wc -l <"$FILE" ) lines, this needs some time..."
 	while read -r LINE; do
 		# shellcheck disable=SC2086
-		set -- $LINE
+		explode $LINE
 
 		case "$1 $2 $3" in
 			[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' (base 16)')
