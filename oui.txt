@@ -123866,6 +123866,12 @@ B4CC04     (base 16)		Piranti
 				Ruse    7019
 				BG
 
+C8-63-14   (hex)		IEEE Registration Authority
+C86314     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
