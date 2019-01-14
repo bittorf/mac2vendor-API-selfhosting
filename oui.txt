@@ -31091,6 +31091,12 @@ B8D526     (base 16)		Zyxel Communications Corporation
 				Hsichu  Taiwan  300
 				TW
 
+F4-2E-7F   (hex)		Aruba, a Hewlett Packard Enterprise Company
+F42E7F     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62249,6 +62255,18 @@ A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Bangpakong  Chachoengsao  24180
 				TH
 
+CC-37-AB   (hex)		Edgecore Networks Corporation
+CC37AB     (base 16)		Edgecore Networks Corporation
+				1 Creation Road 3.
+				Hsinchu  Hsinchu  30077
+				TW
+
+90-78-41   (hex)		Intel Corporate
+907841     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 44-A6-1E   (hex)		INGRAM MICRO SERVICES
 44A61E     (base 16)		INGRAM MICRO SERVICES
 				100 CHEMIN DE BAILLOT
@@ -62261,35 +62279,23 @@ A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Urbach    73660
 				DE
 
-90-78-41   (hex)		Intel Corporate
-907841     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
 10-9E-3A   (hex)		Zhejiang Tmall Technology Co., Ltd.
 109E3A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
 				Shenzhen  Guangdong  518000
 				CN
 
-CC-37-AB   (hex)		Edgecore Networks Corporation
-CC37AB     (base 16)		Edgecore Networks Corporation
-				1 Creation Road 3.
-				Hsinchu  Hsinchu  30077
-				TW
+24-79-F3   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+2479F3     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 20-58-69   (hex)		Ruckus Wireless
 205869     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
-
-24-79-F3   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-2479F3     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -123800,12 +123806,6 @@ FC3342     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-6C-8B-D3   (hex)		Cisco Systems, Inc
-6C8BD3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 80-DA-13   (hex)		eero inc.
 80DA13     (base 16)		eero inc.
 				660 3rd Street
@@ -123816,6 +123816,12 @@ FC3342     (base 16)		Juniper Networks
 1422DB     (base 16)		eero inc.
 				230 9th St.
 				San Francisco  CA  94103
+				US
+
+6C-8B-D3   (hex)		Cisco Systems, Inc
+6C8BD3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 00-11-B4   (hex)		Westermo Network Technologies AB
@@ -123847,6 +123853,18 @@ E0B655     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
 				Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District
 				Beijing  Beijing  10085
 				CN
+
+B4-CC-04   (hex)		Piranti
+B4CC04     (base 16)		Piranti
+				126, Beolmal-ro
+				Dongan-gu, Anyang-si, Gyeonggi-do    14057
+				KR
+
+5C-32-C5   (hex)		Teracom Ltd.
+5C32C5     (base 16)		Teracom Ltd.
+				11 Vasil Levski blvd.
+				Ruse    7019
+				BG
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
