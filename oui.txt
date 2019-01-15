@@ -62255,18 +62255,6 @@ A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Bangpakong  Chachoengsao  24180
 				TH
 
-CC-37-AB   (hex)		Edgecore Networks Corporation
-CC37AB     (base 16)		Edgecore Networks Corporation
-				1 Creation Road 3.
-				Hsinchu  Hsinchu  30077
-				TW
-
-90-78-41   (hex)		Intel Corporate
-907841     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
 44-A6-1E   (hex)		INGRAM MICRO SERVICES
 44A61E     (base 16)		INGRAM MICRO SERVICES
 				100 CHEMIN DE BAILLOT
@@ -62279,11 +62267,23 @@ CC37AB     (base 16)		Edgecore Networks Corporation
 				Urbach    73660
 				DE
 
+90-78-41   (hex)		Intel Corporate
+907841     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 10-9E-3A   (hex)		Zhejiang Tmall Technology Co., Ltd.
 109E3A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
 				Shenzhen  Guangdong  518000
 				CN
+
+CC-37-AB   (hex)		Edgecore Networks Corporation
+CC37AB     (base 16)		Edgecore Networks Corporation
+				1 Creation Road 3.
+				Hsinchu  Hsinchu  30077
+				TW
 
 24-79-F3   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 2479F3     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -62296,6 +62296,12 @@ CC37AB     (base 16)		Edgecore Networks Corporation
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
+
+60-D2-DD   (hex)		Shenzhen Baitong Putian Technology Co.,Ltd.
+60D2DD     (base 16)		Shenzhen Baitong Putian Technology Co.,Ltd.
+				501,5/F,Building 1,No.2,Lianwei Street,Hualian Community,Longhua Street Longhua District
+				Shenzhen  Guangdong  518109
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -92792,12 +92798,6 @@ DCB808     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  95119
 				US
 
-C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
-C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
-				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
-				Chennai    602107
-				IN
-
 38-D2-CA   (hex)		Zhejiang Tmall Technology Co., Ltd.
 38D2CA     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province
@@ -92815,6 +92815,12 @@ C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
 				Shenzhen  Guangdong  518000
 				CN
+
+C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
+C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
+				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
+				Chennai    602107
+				IN
 
 00-18-36   (hex)		REJ Co.,Ltd
 001836     (base 16)		REJ Co.,Ltd
@@ -123806,6 +123812,12 @@ FC3342     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
+6C-8B-D3   (hex)		Cisco Systems, Inc
+6C8BD3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 80-DA-13   (hex)		eero inc.
 80DA13     (base 16)		eero inc.
 				660 3rd Street
@@ -123816,12 +123828,6 @@ FC3342     (base 16)		Juniper Networks
 1422DB     (base 16)		eero inc.
 				230 9th St.
 				San Francisco  CA  94103
-				US
-
-6C-8B-D3   (hex)		Cisco Systems, Inc
-6C8BD3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
 				US
 
 00-11-B4   (hex)		Westermo Network Technologies AB
@@ -154814,6 +154820,12 @@ A4975C     (base 16)		VTech Telecommunications Ltd.
 				Shanghai  Shanghai  201203
 				CN
 
+C4-B3-6A   (hex)		Cisco Systems, Inc
+C4B36A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 F8-BB-BF   (hex)		eero inc.
 F8BBBF     (base 16)		eero inc.
 				500 Howard St Suite 900
@@ -154831,12 +154843,6 @@ F8BBBF     (base 16)		eero inc.
 				Stora Sundby
 				Sweden    SE-640 40
 				SE
-
-C4-B3-6A   (hex)		Cisco Systems, Inc
-C4B36A     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
 
 90-4D-C3   (hex)		Flonidan A/S
 904DC3     (base 16)		Flonidan A/S
