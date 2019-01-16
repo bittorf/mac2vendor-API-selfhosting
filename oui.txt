@@ -1238,9 +1238,6 @@ C4ADF1     (base 16)		GOPEACE Inc.
 				  Shanghai  200092
 				CN
 
-00-84-ED   (hex)		Private
-0084ED     (base 16)		Private
-
 DC-DC-07   (hex)		TRP Systems BV
 DCDC07     (base 16)		TRP Systems BV
 				Televisieweg 159 1322 BH  Almere
@@ -31096,6 +31093,9 @@ F42E7F     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				3333 Scott Blvd
 				Santa Clara  CA  95054
 				US
+
+00-84-ED   (hex)		Private
+0084ED     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -66674,12 +66674,6 @@ EC1A59     (base 16)		Belkin International Inc.
 				Wohlen  AG  5610
 				CH
 
-34-76-C5   (hex)		I-O DATA DEVICE, INC.
-3476C5     (base 16)		I-O DATA DEVICE, INC.
-				3-10, SAKURADA-MACHI
-				KANAZAWA  ISHIKAWA  920-8512
-				JP
-
 40-70-74   (hex)		Life Technology (China) Co., Ltd
 407074     (base 16)		Life Technology (China) Co., Ltd
 				No.1, 2F, Nanshan Digital Culture Industrial base (East Tower  Podium) 10128 Shennan Blvd, Nanshan Dist.
@@ -71131,12 +71125,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				EL BOUNI
 				ANNABA    23000
 				DZ
-
-00-21-B7   (hex)		Lexmark International Inc.
-0021B7     (base 16)		Lexmark International Inc.
-				740 West New Circle Road
-				Lexington  KY  40550
-				US
 
 00-21-B0   (hex)		Tyco Telecommunications
 0021B0     (base 16)		Tyco Telecommunications
@@ -84428,12 +84416,6 @@ A4E597     (base 16)		Gessler GmbH
 				Guangzhou  Guangdong  510530
 				CN
 
-00-A0-B0   (hex)		I-O DATA DEVICE, INC.
-00A0B0     (base 16)		I-O DATA DEVICE, INC.
-				24-1, SAKURADA-MACHI
-				KANAZAWA, ISHIKAWA 920    
-				JP
-
 00-E0-CF   (hex)		INTEGRATED DEVICE
 00E0CF     (base 16)		INTEGRATED DEVICE
 				6024 Silver Creek Valley Road
@@ -92798,12 +92780,6 @@ DCB808     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  95119
 				US
 
-C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
-C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
-				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
-				Chennai    602107
-				IN
-
 38-D2-CA   (hex)		Zhejiang Tmall Technology Co., Ltd.
 38D2CA     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province
@@ -92822,6 +92798,12 @@ C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
 				Shenzhen  Guangdong  518000
 				CN
 
+C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
+C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
+				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
+				Chennai    602107
+				IN
+
 00-18-36   (hex)		REJ Co.,Ltd
 001836     (base 16)		REJ Co.,Ltd
 				2-3-2 Fukuura, Kanazawa-ku
@@ -92833,6 +92815,24 @@ C4E39F     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+00-21-B7   (hex)		LEXMARK INTERNATIONAL, INC.
+0021B7     (base 16)		LEXMARK INTERNATIONAL, INC.
+				740 West New Circle Road
+				Lexington  KY  40550
+				US
+
+34-76-C5   (hex)		I-O DATA DEVICE,INC.
+3476C5     (base 16)		I-O DATA DEVICE,INC.
+				3-10, SAKURADA-MACHI
+				KANAZAWA  ISHIKAWA  920-8512
+				JP
+
+00-A0-B0   (hex)		I-O DATA DEVICE,INC.
+00A0B0     (base 16)		I-O DATA DEVICE,INC.
+				24-1, SAKURADA-MACHI
+				KANAZAWA, ISHIKAWA 920    na
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -123878,6 +123878,18 @@ C86314     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+3C-0C-7D   (hex)		Tiny Mesh AS
+3C0C7D     (base 16)		Tiny Mesh AS
+				Elisabeth von Hübschs gate 6
+				MOSS    1534
+				NO
+
+C8-21-DA   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+C821DA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -154820,6 +154832,12 @@ A4975C     (base 16)		VTech Telecommunications Ltd.
 				Shanghai  Shanghai  201203
 				CN
 
+C4-B3-6A   (hex)		Cisco Systems, Inc
+C4B36A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 F8-BB-BF   (hex)		eero inc.
 F8BBBF     (base 16)		eero inc.
 				500 Howard St Suite 900
@@ -154838,12 +154856,6 @@ F8BBBF     (base 16)		eero inc.
 				Sweden    SE-640 40
 				SE
 
-C4-B3-6A   (hex)		Cisco Systems, Inc
-C4B36A     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 90-4D-C3   (hex)		Flonidan A/S
 904DC3     (base 16)		Flonidan A/S
 				Islandsvej 29
@@ -154861,6 +154873,12 @@ C4B36A     (base 16)		Cisco Systems, Inc
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
 				MY
+
+78-8C-77   (hex)		LEXMARK INTERNATIONAL, INC.
+788C77     (base 16)		LEXMARK INTERNATIONAL, INC.
+				740 NEW CIRCLE ROAD
+				LEXINGTON  KY  40550
+				US
 
 E0-02-A5   (hex)		ABB Robotics
 E002A5     (base 16)		ABB Robotics
