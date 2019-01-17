@@ -31097,6 +31097,12 @@ F42E7F     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 00-84-ED   (hex)		Private
 0084ED     (base 16)		Private
 
+F8-48-FD   (hex)		China Mobile Group Device Co.,Ltd.
+F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -92833,6 +92839,12 @@ C4E39F     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				24-1, SAKURADA-MACHI
 				KANAZAWA, ISHIKAWA 920    na
 				JP
+
+AC-37-C9   (hex)		RAID Incorporated
+AC37C9     (base 16)		RAID Incorporated
+				200 Brickstone Square
+				Andover  MA  01810
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
