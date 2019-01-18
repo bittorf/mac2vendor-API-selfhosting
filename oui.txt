@@ -10373,12 +10373,6 @@ A8CE90     (base 16)		CVC
 				Taipei    114
 				TW
 
-00-19-8F   (hex)		Alcatel Bell N.V.
-00198F     (base 16)		Alcatel Bell N.V.
-				Copernicuslaan 50
-				Antwerp    B-2018
-				BE
-
 00-19-E8   (hex)		Cisco Systems, Inc
 0019E8     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -31101,6 +31095,30 @@ F8-48-FD   (hex)		China Mobile Group Device Co.,Ltd.
 F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
 				32 Xuanwumen West Street,Xicheng District
 				Beijing    100053
+				CN
+
+00-19-8F   (hex)		Nokia Bell N.V.
+00198F     (base 16)		Nokia Bell N.V.
+				Copernicuslaan 50
+				Antwerp    B-2018
+				BE
+
+0C-E9-9A   (hex)		ATLS ALTEC
+0CE99A     (base 16)		ATLS ALTEC
+				3 RUE DE LA GUIVERNONE ZI DU VERT GALANT 
+				ST OUEN L AUMONE    95310
+				FR
+
+8C-89-FA   (hex)		Zhejiang Hechuan Technology Co., Ltd.
+8C89FA     (base 16)		Zhejiang Hechuan Technology Co., Ltd.
+				No. 9, Fucai Road, Longyou Industrial Zone
+				Quzhou  Zhejiang  324000
+				CN
+
+40-23-43   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+402343     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -123900,6 +123918,18 @@ C8-21-DA   (hex)		Shenzhen YOUHUA Technology Co., Ltd
 C821DA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
 				Shenzhen  Guangdong  518055
+				CN
+
+78-E2-BD   (hex)		Vodafone Automotive S.p.A.
+78E2BD     (base 16)		Vodafone Automotive S.p.A.
+				via Astico 41
+				Varese  Italy/VA  21100
+				IT
+
+4C-11-AE   (hex)		Espressif Inc.
+4C11AE     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
