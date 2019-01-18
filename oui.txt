@@ -31091,12 +31091,6 @@ F42E7F     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 00-84-ED   (hex)		Private
 0084ED     (base 16)		Private
 
-F8-48-FD   (hex)		China Mobile Group Device Co.,Ltd.
-F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
-				32 Xuanwumen West Street,Xicheng District
-				Beijing    100053
-				CN
-
 00-19-8F   (hex)		Nokia Bell N.V.
 00198F     (base 16)		Nokia Bell N.V.
 				Copernicuslaan 50
@@ -31119,6 +31113,36 @@ F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
 402343     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
 				Chongqing  Chongqing  401332
+				CN
+
+F8-48-FD   (hex)		China Mobile Group Device Co.,Ltd.
+F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
+24-31-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+243154     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+48-3F-E9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+483FE9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+14-3C-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+143CC3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+EC-56-23   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC5623     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -62327,6 +62351,24 @@ CC37AB     (base 16)		Edgecore Networks Corporation
 				Shenzhen  Guangdong  518109
 				CN
 
+FC-AB-90   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FCAB90     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+20-DA-22   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20DA22     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+88-F8-72   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88F872     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92862,6 +92904,24 @@ AC-37-C9   (hex)		RAID Incorporated
 AC37C9     (base 16)		RAID Incorporated
 				200 Brickstone Square
 				Andover  MA  01810
+				US
+
+24-DA-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24DA33     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A8-E5-44   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A8E544     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+54-86-BC   (hex)		Cisco Systems, Inc
+5486BC     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -154927,3 +154987,9 @@ E002A5     (base 16)		ABB Robotics
 				Hydrovägen 10
 				Västerås    721 68
 				SE
+
+F8-9A-78   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F89A78     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
