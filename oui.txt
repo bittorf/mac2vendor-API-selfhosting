@@ -31121,6 +31121,18 @@ F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
 				Beijing    100053
 				CN
 
+14-3C-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+143CC3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+EC-56-23   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC5623     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 24-31-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 243154     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -31133,16 +31145,10 @@ F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
 				Dongguan    523808
 				CN
 
-14-3C-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-143CC3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-EC-56-23   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-EC5623     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
+34-6B-5B   (hex)		New H3C Technologies Co., Ltd
+346B5B     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -92906,12 +92912,6 @@ AC37C9     (base 16)		RAID Incorporated
 				Andover  MA  01810
 				US
 
-24-DA-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-24DA33     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 A8-E5-44   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 A8E544     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -92924,11 +92924,23 @@ A8E544     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				San Jose  CA  94568
 				US
 
+24-DA-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24DA33     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 D4-78-9B   (hex)		Cisco Systems, Inc
 D4789B     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+50-C4-DD   (hex)		BUFFALO.INC
+50C4DD     (base 16)		BUFFALO.INC
+				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
+				Nagoya  Aichi Pref.  460-8315
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
