@@ -28811,42 +28811,6 @@ D05157     (base 16)		LEAX Arkivator Telecom
 				Roseville  CA  95747
 				US
 
-00-1F-90   (hex)		Actiontec Electronics, Inc
-001F90     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-20-76-00   (hex)		Actiontec Electronics, Inc
-207600     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-F8-E4-FB   (hex)		Actiontec Electronics, Inc
-F8E4FB     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-18-1B-EB   (hex)		Actiontec Electronics, Inc
-181BEB     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-E8-6F-F2   (hex)		Actiontec Electronics, Inc
-E86FF2     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-FC-2B-B2   (hex)		Actiontec Electronics, Inc
-FC2BB2     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
 50-00-84   (hex)		Siemens Canada
 500084     (base 16)		Siemens Canada
 				300 Applewood Crescent
@@ -31121,18 +31085,6 @@ F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
 				Beijing    100053
 				CN
 
-14-3C-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-143CC3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-EC-56-23   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-EC5623     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 24-31-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 243154     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -31145,11 +31097,59 @@ EC5623     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+14-3C-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+143CC3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+EC-56-23   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC5623     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 34-6B-5B   (hex)		New H3C Technologies Co., Ltd
 346B5B     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+FC-2B-B2   (hex)		Actiontec Electronics, Inc
+FC2BB2     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+E8-6F-F2   (hex)		Actiontec Electronics, Inc
+E86FF2     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+18-1B-EB   (hex)		Actiontec Electronics, Inc
+181BEB     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+F8-E4-FB   (hex)		Actiontec Electronics, Inc
+F8E4FB     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+20-76-00   (hex)		Actiontec Electronics, Inc
+207600     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-1F-90   (hex)		Actiontec Electronics, Inc
+001F90     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -61553,24 +61553,6 @@ CC70ED     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-A8-39-44   (hex)		Actiontec Electronics, Inc
-A83944     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-00-24-7B   (hex)		Actiontec Electronics, Inc
-00247B     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-70-F2-20   (hex)		Actiontec Electronics, Inc
-70F220     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
 D4-3D-39   (hex)		FCI. Inc
 D43D39     (base 16)		FCI. Inc
 				B-7F, SiliconPark, 35, Pangyo-ro 255beon-gil, Bundang-gu
@@ -62374,6 +62356,24 @@ FCAB90     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+70-F2-20   (hex)		Actiontec Electronics, Inc
+70F220     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+00-24-7B   (hex)		Actiontec Electronics, Inc
+00247B     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+A8-39-44   (hex)		Actiontec Electronics, Inc
+A83944     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -91976,30 +91976,6 @@ E09F2A     (base 16)		Iton Technology Corp.
 				Ulsan    44922
 				KR
 
-00-1E-A7   (hex)		Actiontec Electronics, Inc
-001EA7     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-10-5F-06   (hex)		Actiontec Electronics, Inc
-105F06     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-70-F1-96   (hex)		Actiontec Electronics, Inc
-70F196     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-00-26-B8   (hex)		Actiontec Electronics, Inc
-0026B8     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
 64-25-5E   (hex)		Observint Technologies, Inc.
 64255E     (base 16)		Observint Technologies, Inc.
 				11000 N Mopac Expressway Suite 300
@@ -92852,6 +92828,12 @@ DCB808     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  95119
 				US
 
+C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
+C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
+				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
+				Chennai    602107
+				IN
+
 38-D2-CA   (hex)		Zhejiang Tmall Technology Co., Ltd.
 38D2CA     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province
@@ -92869,12 +92851,6 @@ DCB808     (base 16)		Extreme Networks, Inc.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
 				Shenzhen  Guangdong  518000
 				CN
-
-C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
-C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
-				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
-				Chennai    602107
-				IN
 
 00-18-36   (hex)		REJ Co.,Ltd
 001836     (base 16)		REJ Co.,Ltd
@@ -92952,6 +92928,30 @@ D8-D0-90   (hex)		Dell Inc.
 D8D090     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
+				US
+
+00-26-B8   (hex)		Actiontec Electronics, Inc
+0026B8     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+70-F1-96   (hex)		Actiontec Electronics, Inc
+70F196     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+10-5F-06   (hex)		Actiontec Electronics, Inc
+105F06     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-1E-A7   (hex)		Actiontec Electronics, Inc
+001EA7     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -123236,18 +123236,6 @@ D43A2E     (base 16)		SHENZHEN MTC CO LTD
 				Shenzhen  Guangdong  518100
 				CN
 
-10-9F-A9   (hex)		Actiontec Electronics, Inc
-109FA9     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-00-20-E0   (hex)		Actiontec Electronics, Inc
-0020E0     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
 AC-43-30   (hex)		Versa Networks
 AC4330     (base 16)		Versa Networks
 				6001 America center Drive, Suite 400
@@ -124026,6 +124014,18 @@ E4-1E-0A   (hex)		IEEE Registration Authority
 E41E0A     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+00-20-E0   (hex)		Actiontec Electronics, Inc
+0020E0     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+10-9F-A9   (hex)		Actiontec Electronics, Inc
+109FA9     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -154181,76 +154181,10 @@ F46E95     (base 16)		Extreme Networks, Inc.
 				San Jose    95119
 				US
 
-00-0F-B3   (hex)		Actiontec Electronics, Inc
-000FB3     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-00-15-05   (hex)		Actiontec Electronics, Inc
-001505     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-00-18-01   (hex)		Actiontec Electronics, Inc
-001801     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
 28-80-88   (hex)		NETGEAR
 288088     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
-				US
-
-00-7F-28   (hex)		Actiontec Electronics, Inc
-007F28     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-40-8B-07   (hex)		Actiontec Electronics, Inc
-408B07     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-4C-8B-30   (hex)		Actiontec Electronics, Inc
-4C8B30     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-A0-A3-E2   (hex)		Actiontec Electronics, Inc
-A0A3E2     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-0C-61-27   (hex)		Actiontec Electronics, Inc
-0C6127     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-00-26-62   (hex)		Actiontec Electronics, Inc
-002662     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-10-78-5B   (hex)		Actiontec Electronics, Inc
-10785B     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-9C-1E-95   (hex)		Actiontec Electronics, Inc
-9C1E95     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
 				US
 
 9C-69-B4   (hex)		IEEE Registration Authority
@@ -154970,12 +154904,6 @@ A4975C     (base 16)		VTech Telecommunications Ltd.
 				Shanghai  Shanghai  201203
 				CN
 
-C4-B3-6A   (hex)		Cisco Systems, Inc
-C4B36A     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 F8-BB-BF   (hex)		eero inc.
 F8BBBF     (base 16)		eero inc.
 				500 Howard St Suite 900
@@ -154993,6 +154921,12 @@ F8BBBF     (base 16)		eero inc.
 				Stora Sundby
 				Sweden    SE-640 40
 				SE
+
+C4-B3-6A   (hex)		Cisco Systems, Inc
+C4B36A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 90-4D-C3   (hex)		Flonidan A/S
 904DC3     (base 16)		Flonidan A/S
@@ -155029,3 +154963,75 @@ F89A78     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+9C-1E-95   (hex)		Actiontec Electronics, Inc
+9C1E95     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+10-78-5B   (hex)		Actiontec Electronics, Inc
+10785B     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+00-26-62   (hex)		Actiontec Electronics, Inc
+002662     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+0C-61-27   (hex)		Actiontec Electronics, Inc
+0C6127     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+A0-A3-E2   (hex)		Actiontec Electronics, Inc
+A0A3E2     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+4C-8B-30   (hex)		Actiontec Electronics, Inc
+4C8B30     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+40-8B-07   (hex)		Actiontec Electronics, Inc
+408B07     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-7F-28   (hex)		Actiontec Electronics, Inc
+007F28     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-18-01   (hex)		Actiontec Electronics, Inc
+001801     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-15-05   (hex)		Actiontec Electronics, Inc
+001505     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+00-0F-B3   (hex)		Actiontec Electronics, Inc
+000FB3     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+84-E8-92   (hex)		Actiontec Electronics, Inc
+84E892     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
