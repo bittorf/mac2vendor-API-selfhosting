@@ -31085,18 +31085,6 @@ F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
 				Beijing    100053
 				CN
 
-24-31-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-243154     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-48-3F-E9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-483FE9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 14-3C-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 143CC3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -31109,10 +31097,16 @@ EC5623     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-34-6B-5B   (hex)		New H3C Technologies Co., Ltd
-346B5B     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
+24-31-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+243154     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+48-3F-E9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+483FE9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 FC-2B-B2   (hex)		Actiontec Electronics, Inc
@@ -31120,6 +31114,12 @@ FC2BB2     (base 16)		Actiontec Electronics, Inc
 				3301 Olcott St.
 				Santa Clara  CA  95054
 				US
+
+34-6B-5B   (hex)		New H3C Technologies Co., Ltd
+346B5B     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
 
 E8-6F-F2   (hex)		Actiontec Electronics, Inc
 E86FF2     (base 16)		Actiontec Electronics, Inc
@@ -62375,6 +62375,12 @@ A83944     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
+88-E6-4B   (hex)		Juniper Networks
+88E64B     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92828,12 +92834,6 @@ DCB808     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  95119
 				US
 
-C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
-C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
-				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
-				Chennai    602107
-				IN
-
 38-D2-CA   (hex)		Zhejiang Tmall Technology Co., Ltd.
 38D2CA     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province
@@ -92851,6 +92851,12 @@ C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
 				Shenzhen  Guangdong  518000
 				CN
+
+C8-C6-4A   (hex)		Flextronics Tech.(Ind) Pvt Ltd
+C8C64A     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
+				SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC
+				Chennai    602107
+				IN
 
 00-18-36   (hex)		REJ Co.,Ltd
 001836     (base 16)		REJ Co.,Ltd
@@ -92912,30 +92918,6 @@ D4789B     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-50-C4-DD   (hex)		BUFFALO.INC
-50C4DD     (base 16)		BUFFALO.INC
-				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
-				Nagoya  Aichi Pref.  460-8315
-				JP
-
-C4-65-16   (hex)		Hewlett Packard
-C46516     (base 16)		Hewlett Packard
-				11445 Compaq Center Drive
-				Houston  TX  77070
-				US
-
-D8-D0-90   (hex)		Dell Inc.
-D8D090     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
-00-26-B8   (hex)		Actiontec Electronics, Inc
-0026B8     (base 16)		Actiontec Electronics, Inc
-				3301 Olcott St.
-				Santa Clara  CA  95054
-				US
-
 70-F1-96   (hex)		Actiontec Electronics, Inc
 70F196     (base 16)		Actiontec Electronics, Inc
 				3301 Olcott St.
@@ -92952,6 +92934,30 @@ D8D090     (base 16)		Dell Inc.
 001EA7     (base 16)		Actiontec Electronics, Inc
 				301 Olcott St
 				Santa Clara  CA  95054
+				US
+
+00-26-B8   (hex)		Actiontec Electronics, Inc
+0026B8     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+50-C4-DD   (hex)		BUFFALO.INC
+50C4DD     (base 16)		BUFFALO.INC
+				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
+				Nagoya  Aichi Pref.  460-8315
+				JP
+
+C4-65-16   (hex)		Hewlett Packard
+C46516     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
+				US
+
+D8-D0-90   (hex)		Dell Inc.
+D8D090     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -154904,6 +154910,12 @@ A4975C     (base 16)		VTech Telecommunications Ltd.
 				Shanghai  Shanghai  201203
 				CN
 
+C4-B3-6A   (hex)		Cisco Systems, Inc
+C4B36A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 F8-BB-BF   (hex)		eero inc.
 F8BBBF     (base 16)		eero inc.
 				500 Howard St Suite 900
@@ -154921,12 +154933,6 @@ F8BBBF     (base 16)		eero inc.
 				Stora Sundby
 				Sweden    SE-640 40
 				SE
-
-C4-B3-6A   (hex)		Cisco Systems, Inc
-C4B36A     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
 
 90-4D-C3   (hex)		Flonidan A/S
 904DC3     (base 16)		Flonidan A/S
