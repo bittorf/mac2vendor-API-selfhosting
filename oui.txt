@@ -31151,6 +31151,12 @@ F8E4FB     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
+94-EE-9F   (hex)		HMD Global Oy
+94EE9F     (base 16)		HMD Global Oy
+				Bertel Jungin aukio 9
+				Espoo    02600
+				FI
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
