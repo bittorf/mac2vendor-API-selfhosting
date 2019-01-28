@@ -31169,10 +31169,22 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				SHENZHEN  GUANGDONG  518105
 				CN
 
+30-50-FD   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+3050FD     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+				7F,Block A,Skyworth Building,
+				Shenzhen  Guangdong  518057
+				CN
+
 00-A0-B8   (hex)		NetApp
 00A0B8     (base 16)		NetApp
 				1395 Crossman Ave
 				Sunnyvale,  CA  94089
+				US
+
+80-D0-4A   (hex)		Technicolor CH USA Inc.
+80D04A     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -62405,6 +62417,12 @@ A83944     (base 16)		Actiontec Electronics, Inc
 				Sunnyvale  CA  94089
 				US
 
+48-D8-75   (hex)		China TransInfo Technology Co., Ltd
+48D875     (base 16)		China TransInfo Technology Co., Ltd
+				Qianfang Building, Phase I, Zhongguancun Software Park, 8 Wangxi Road, Haidian District
+				Beijing    100085
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92983,6 +93001,12 @@ F8DFE1     (base 16)		MyLight Systems
 				290 rue Ferdinand Perrier
 				Saint Priest    69800
 				FR
+
+F4-32-3D   (hex)		Sichuan tianyi kanghe communications co., LTD
+F4323D     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
+				chengdu  sichuan  611330
+				CN
 
 D0-39-EA   (hex)		NetApp
 D039EA     (base 16)		NetApp
