@@ -31187,6 +31187,12 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				Lawrenceville  GA  30044
 				US
 
+4C-17-44   (hex)		Amazon Technologies Inc.
+4C1744     (base 16)		Amazon Technologies Inc.
+				P.O. Box 8102
+				Reno  NV  89507
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62423,6 +62429,36 @@ A83944     (base 16)		Actiontec Electronics, Inc
 				Beijing    100085
 				CN
 
+CC-A1-2B   (hex)		TCL King Electrical Appliances (Huizhou) Co., Ltd
+CCA12B     (base 16)		TCL King Electrical Appliances (Huizhou) Co., Ltd
+				10F, TCL Multimedia Building, TCL International E City, No.1001 Zhongshanyuan Rd., Nanshan District
+				Shenzhen  Guangdong  518052
+				CN
+
+4C-BC-48   (hex)		Cisco Systems, Inc
+4CBC48     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+D4-6A-35   (hex)		Cisco Systems, Inc
+D46A35     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+E4-F3-E8   (hex)		Shenzhen SuperElectron Technology Co.,Ltd.
+E4F3E8     (base 16)		Shenzhen SuperElectron Technology Co.,Ltd.
+				1213-1214, haosheng business center, dongbin road, nanshan street, nanshan district, shenzhen city
+				Shenzhen   Guangdong  518000
+				CN
+
+B0-30-55   (hex)		China Mobile IOT Company Limited
+B03055     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93019,6 +93055,18 @@ D039EA     (base 16)		NetApp
 				1395 Crossman Ave
 				Sunnyvale,  CA  94089
 				US
+
+50-41-B9   (hex)		I-O DATA DEVICE,INC.
+5041B9     (base 16)		I-O DATA DEVICE,INC.
+				3-10,Sakurada-machi
+				Kanazawa  Ishikawa  920-8512
+				JP
+
+90-5C-34   (hex)		Sirius Electronic Systems Srl
+905C34     (base 16)		Sirius Electronic Systems Srl
+				via Robinie, 33
+				Gravellona Toce  VB  28883
+				IT
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
