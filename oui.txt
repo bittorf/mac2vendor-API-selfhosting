@@ -31079,18 +31079,6 @@ F848FD     (base 16)		China Mobile Group Device Co.,Ltd.
 				Beijing    100053
 				CN
 
-24-31-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-243154     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-48-3F-E9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-483FE9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 14-3C-C3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 143CC3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -31103,17 +31091,29 @@ EC5623     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+24-31-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+243154     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+48-3F-E9   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+483FE9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+FC-2B-B2   (hex)		Actiontec Electronics, Inc
+FC2BB2     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
 34-6B-5B   (hex)		New H3C Technologies Co., Ltd
 346B5B     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
-
-18-1B-EB   (hex)		Actiontec Electronics, Inc
-181BEB     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
 
 F8-E4-FB   (hex)		Actiontec Electronics, Inc
 F8E4FB     (base 16)		Actiontec Electronics, Inc
@@ -31133,15 +31133,15 @@ F8E4FB     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
-FC-2B-B2   (hex)		Actiontec Electronics, Inc
-FC2BB2     (base 16)		Actiontec Electronics, Inc
+E8-6F-F2   (hex)		Actiontec Electronics, Inc
+E86FF2     (base 16)		Actiontec Electronics, Inc
 				3301 Olcott St.
 				Santa Clara  CA  95054
 				US
 
-E8-6F-F2   (hex)		Actiontec Electronics, Inc
-E86FF2     (base 16)		Actiontec Electronics, Inc
-				3301 Olcott St.
+18-1B-EB   (hex)		Actiontec Electronics, Inc
+181BEB     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
 				Santa Clara  CA  95054
 				US
 
@@ -31150,6 +31150,12 @@ E86FF2     (base 16)		Actiontec Electronics, Inc
 				Bertel Jungin aukio 9
 				Espoo    02600
 				FI
+
+AC-A4-6E   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
 
 80-DA-BC   (hex)		Megafone Limited
 80DABC     (base 16)		Megafone Limited
@@ -31163,23 +31169,17 @@ E86FF2     (base 16)		Actiontec Electronics, Inc
 				San Diego  CA  92121
 				US
 
-AC-A4-6E   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-				SONGGANG
-				SHENZHEN  GUANGDONG  518105
-				CN
+00-A0-B8   (hex)		NetApp
+00A0B8     (base 16)		NetApp
+				1395 Crossman Ave
+				Sunnyvale,  CA  94089
+				US
 
 30-50-FD   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 3050FD     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				7F,Block A,Skyworth Building,
 				Shenzhen  Guangdong  518057
 				CN
-
-00-A0-B8   (hex)		NetApp
-00A0B8     (base 16)		NetApp
-				1395 Crossman Ave
-				Sunnyvale,  CA  94089
-				US
 
 80-D0-4A   (hex)		Technicolor CH USA Inc.
 80D04A     (base 16)		Technicolor CH USA Inc.
@@ -70778,12 +70778,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Paris    75015
 				FR
 
-00-22-89   (hex)		Optosecurity Inc.
-002289     (base 16)		Optosecurity Inc.
-				505, Boul. du Parc Technologique
-				Quebec    G1P 4S9
-				CA
-
 00-22-82   (hex)		8086 Consultancy
 002282     (base 16)		8086 Consultancy
 				17 Lowfield Lane
@@ -93079,6 +93073,18 @@ DC2AA1     (base 16)		MedHab LLC
 				3-10,Sakurada-machi
 				Kanazawa  Ishikawa  920-8512
 				JP
+
+00-22-89   (hex)		Vandelrande APC inc.
+002289     (base 16)		Vandelrande APC inc.
+				1280 Lebourgneuf Blvd.
+				Quebec    G2K 0H1
+				CA
+
+7C-D6-61   (hex)		Xiaomi Communications Co Ltd
+7CD661     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124184,6 +124190,12 @@ A091A2     (base 16)		OnePlus Electronics (Shenzhen) Co., Ltd.
 				Taipei  Taiwan  11439
 				TW
 
+D0-9C-7A   (hex)		Xiaomi Communications Co Ltd
+D09C7A     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -155054,6 +155066,12 @@ A4975C     (base 16)		VTech Telecommunications Ltd.
 				Shanghai  Shanghai  201203
 				CN
 
+C4-B3-6A   (hex)		Cisco Systems, Inc
+C4B36A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 F8-BB-BF   (hex)		eero inc.
 F8BBBF     (base 16)		eero inc.
 				500 Howard St Suite 900
@@ -155071,12 +155089,6 @@ F8BBBF     (base 16)		eero inc.
 				Stora Sundby
 				Sweden    SE-640 40
 				SE
-
-C4-B3-6A   (hex)		Cisco Systems, Inc
-C4B36A     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
 
 90-4D-C3   (hex)		Flonidan A/S
 904DC3     (base 16)		Flonidan A/S
@@ -155114,6 +155126,24 @@ F89A78     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+9C-1E-95   (hex)		Actiontec Electronics, Inc
+9C1E95     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+10-78-5B   (hex)		Actiontec Electronics, Inc
+10785B     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
+00-26-62   (hex)		Actiontec Electronics, Inc
+002662     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
 0C-61-27   (hex)		Actiontec Electronics, Inc
 0C6127     (base 16)		Actiontec Electronics, Inc
 				3301 Olcott St.
@@ -155131,6 +155161,18 @@ A0A3E2     (base 16)		Actiontec Electronics, Inc
 				3301 Olcott St.
 				Santa Clara  CA  95054
 				US
+
+00-22-AF   (hex)		Safety Vision, LLC
+0022AF     (base 16)		Safety Vision, LLC
+				6100 W. Sam Houston Pkwy. North
+				Houston  Texas  77041
+				US
+
+C8-B4-22   (hex)		ASKEY COMPUTER CORP
+C8B422     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
 
 40-8B-07   (hex)		Actiontec Electronics, Inc
 408B07     (base 16)		Actiontec Electronics, Inc
@@ -155156,30 +155198,6 @@ A0A3E2     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
-9C-1E-95   (hex)		Actiontec Electronics, Inc
-9C1E95     (base 16)		Actiontec Electronics, Inc
-				3301 Olcott St.
-				Santa Clara  CA  95054
-				US
-
-10-78-5B   (hex)		Actiontec Electronics, Inc
-10785B     (base 16)		Actiontec Electronics, Inc
-				3301 Olcott St.
-				Santa Clara  CA  95054
-				US
-
-00-26-62   (hex)		Actiontec Electronics, Inc
-002662     (base 16)		Actiontec Electronics, Inc
-				3301 Olcott St.
-				Santa Clara  CA  95054
-				US
-
-00-22-AF   (hex)		Safety Vision, LLC
-0022AF     (base 16)		Safety Vision, LLC
-				6100 W. Sam Houston Pkwy. North
-				Houston  Texas  77041
-				US
-
 00-0F-B3   (hex)		Actiontec Electronics, Inc
 000FB3     (base 16)		Actiontec Electronics, Inc
 				301 Olcott St
@@ -155192,22 +155210,10 @@ A0A3E2     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
-C8-B4-22   (hex)		ASKEY COMPUTER CORP
-C8B422     (base 16)		ASKEY COMPUTER CORP
-				10F,No.119,JIANKANG RD,ZHONGHE DIST
-				NEW TAIPEI  TAIWAN  23585
-				TW
-
 10-93-97   (hex)		ARRIS Group, Inc.
 109397     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
-				US
-
-38-F3-2E   (hex)		Skullcandy
-38F32E     (base 16)		Skullcandy
-				6301 N. LANDMARK DRIVE
-				Park City    84098
 				US
 
 10-3D-3E   (hex)		China Mobile Group Device Co.,Ltd.
@@ -155221,3 +155227,15 @@ C8B422     (base 16)		ASKEY COMPUTER CORP
 				No.8, Sec.2, Guangfu Rd.
 				Hsinchu City  Hsinchu  30071
 				TW
+
+38-F3-2E   (hex)		Skullcandy
+38F32E     (base 16)		Skullcandy
+				6301 N. LANDMARK DRIVE
+				Park City    84098
+				US
+
+18-46-44   (hex)		Home Control Singapore Pte Ltd
+184644     (base 16)		Home Control Singapore Pte Ltd
+				151 Lorong Chuan
+				Singapore    556741
+				SG
