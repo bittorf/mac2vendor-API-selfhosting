@@ -155234,14 +155234,20 @@ C8B422     (base 16)		ASKEY COMPUTER CORP
 				Park City    84098
 				US
 
-18-46-44   (hex)		Home Control Singapore Pte Ltd
-184644     (base 16)		Home Control Singapore Pte Ltd
-				151 Lorong Chuan
-				Singapore    556741
-				SG
+E8-E8-B7   (hex)		Murata Manufacturing Co., Ltd.
+E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto   617-8555
+				JP
 
 80-20-DA   (hex)		Sagemcom Broadband SAS
 8020DA     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+18-46-44   (hex)		Home Control Singapore Pte Ltd
+184644     (base 16)		Home Control Singapore Pte Ltd
+				151 Lorong Chuan
+				Singapore    556741
+				SG
