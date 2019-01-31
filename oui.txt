@@ -155239,3 +155239,9 @@ C8B422     (base 16)		ASKEY COMPUTER CORP
 				151 Lorong Chuan
 				Singapore    556741
 				SG
+
+80-20-DA   (hex)		Sagemcom Broadband SAS
+8020DA     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
