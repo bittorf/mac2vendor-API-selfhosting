@@ -31199,6 +31199,18 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				No.89 Software Road   Fuzhou ,Fujian  350003
 				CN
 
+50-13-95   (hex)		Sichuan AI-Link Technology Co., Ltd.
+501395     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou,Industrial Park
+				Anzhou,Industrial Park  Sichuan  621000
+				CN
+
+88-DA-33   (hex)		Beijing Xiaoyuer Network Technology Co., Ltd
+88DA33     (base 16)		Beijing Xiaoyuer Network Technology Co., Ltd
+				Block K1, North American International Business Centre, 86 Beiyuan Road, Chaoyang District
+				Beijing  Beijing  100012
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62465,6 +62477,12 @@ B03055     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
+E8-D0-FC   (hex)		Liteon Technology Corporation
+E8D0FC     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93085,6 +93103,12 @@ DC2AA1     (base 16)		MedHab LLC
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+18-D9-EF   (hex)		Shuttle Inc.
+18D9EF     (base 16)		Shuttle Inc.
+				No. 30 Lane 76, Rei Kuang Rd
+				Taipei    114
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -155251,3 +155275,15 @@ E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
 				151 Lorong Chuan
 				Singapore    556741
 				SG
+
+F8-B7-97   (hex)		NEC Platforms, Ltd.
+F8B797     (base 16)		NEC Platforms, Ltd.
+				2-3 Kandatsukasamachi
+				Chiyodaku  Tokyo  101-8532
+				JP
+
+B0-AA-D2   (hex)		Sichuan tianyi kanghe communications co., LTD
+B0AAD2     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
+				chengdu  sichuan  611330
+				CN
