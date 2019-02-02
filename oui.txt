@@ -93122,17 +93122,17 @@ DC2AA1     (base 16)		MedHab LLC
 				Kanazawa  Ishikawa  920-8512
 				JP
 
-7C-D6-61   (hex)		Xiaomi Communications Co Ltd
-7CD661     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
 00-22-89   (hex)		Vandelrande APC inc.
 002289     (base 16)		Vandelrande APC inc.
 				1280 Lebourgneuf Blvd.
 				Quebec    G2K 0H1
 				CA
+
+7C-D6-61   (hex)		Xiaomi Communications Co Ltd
+7CD661     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 18-D9-EF   (hex)		Shuttle Inc.
 18D9EF     (base 16)		Shuttle Inc.
@@ -124261,6 +124261,12 @@ C0FD84     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
+
+C8-2C-2B   (hex)		IEEE Registration Authority
+C82C2B     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
