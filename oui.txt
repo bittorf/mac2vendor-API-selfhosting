@@ -62483,12 +62483,6 @@ B03055     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
-E8-D0-FC   (hex)		Liteon Technology Corporation
-E8D0FC     (base 16)		Liteon Technology Corporation
-				4F, 90, Chien 1 Road
-				New Taipei City  Taiwan  23585
-				TW
-
 C0-9F-E1   (hex)		zte corporation
 C09FE1     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -62512,6 +62506,12 @@ AC00D0     (base 16)		zte corporation
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
+
+E8-D0-FC   (hex)		Liteon Technology Corporation
+E8D0FC     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
 
 84-C7-8F   (hex)		STORDIS GmbH
 84C78F     (base 16)		STORDIS GmbH
@@ -93128,23 +93128,29 @@ DC2AA1     (base 16)		MedHab LLC
 				Kanazawa  Ishikawa  920-8512
 				JP
 
-00-22-89   (hex)		Vandelrande APC inc.
-002289     (base 16)		Vandelrande APC inc.
-				1280 Lebourgneuf Blvd.
-				Quebec    G2K 0H1
-				CA
-
 7C-D6-61   (hex)		Xiaomi Communications Co Ltd
 7CD661     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+00-22-89   (hex)		Vandelrande APC inc.
+002289     (base 16)		Vandelrande APC inc.
+				1280 Lebourgneuf Blvd.
+				Quebec    G2K 0H1
+				CA
+
 18-D9-EF   (hex)		Shuttle Inc.
 18D9EF     (base 16)		Shuttle Inc.
 				No. 30 Lane 76, Rei Kuang Rd
 				Taipei    114
 				TW
+
+F8-E5-CF   (hex)		CGI IT UK LIMITED
+F8E5CF     (base 16)		CGI IT UK LIMITED
+				20 Fenchurch Street, 14th Floor
+				London    EC3M 3BY
+				GB
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124262,17 +124268,17 @@ D09C7A     (base 16)		Xiaomi Communications Co Ltd
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-C8-2C-2B   (hex)		IEEE Registration Authority
-C82C2B     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 C0-FD-84   (hex)		zte corporation
 C0FD84     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
+
+C8-2C-2B   (hex)		IEEE Registration Authority
+C82C2B     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
