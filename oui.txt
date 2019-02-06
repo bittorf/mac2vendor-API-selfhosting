@@ -1694,12 +1694,6 @@ C8C50E     (base 16)		Shenzhen Primestone Network Technologies.Co., Ltd.
 				Jungwon-gu  Seongnam-si Gyeonggi-do,  462726
 				KR
 
-5C-5B-35   (hex)		Mist Systems, Inc.
-5C5B35     (base 16)		Mist Systems, Inc.
-				4410 El Camino Real
-				Los Altos  CA  94022
-				US
-
 E8-07-BF   (hex)		SHENZHEN BOOMTECH INDUSTRY CO.,LTD
 E807BF     (base 16)		SHENZHEN BOOMTECH INDUSTRY CO.,LTD
 				Floor 6 East, Bldg 6, Yusheng Industrial Area, Xixiang, Bao'an District
@@ -31216,6 +31210,12 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				#283,BBK Road
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
+
+5C-5B-35   (hex)		Mist Systems, Inc.
+5C5B35     (base 16)		Mist Systems, Inc.
+				1601 South De Anza Blvd
+				Cupertino  CA  95014
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62519,6 +62519,12 @@ E8D0FC     (base 16)		Liteon Technology Corporation
 				Stuttgart    70567
 				DE
 
+78-2C-29   (hex)		New H3C Technologies Co., Ltd
+782C29     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93151,6 +93157,12 @@ F8E5CF     (base 16)		CGI IT UK LIMITED
 				20 Fenchurch Street, 14th Floor
 				London    EC3M 3BY
 				GB
+
+70-DD-A8   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+70DDA8     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124279,6 +124291,12 @@ C82C2B     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+4C-6F-9C   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+4C6F9C     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
