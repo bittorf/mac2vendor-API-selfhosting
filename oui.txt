@@ -31213,7 +31213,7 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 
 5C-5B-35   (hex)		Mist Systems, Inc.
 5C5B35     (base 16)		Mist Systems, Inc.
-				1601 South De Anza Blvd
+				1601 South De Anza Blvd, Suite 248
 				Cupertino  CA  95014
 				US
 
@@ -93163,6 +93163,18 @@ F8E5CF     (base 16)		CGI IT UK LIMITED
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+B0-FD-0B   (hex)		IEEE Registration Authority
+B0FD0B     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+D4-20-B0   (hex)		Mist Systems, Inc.
+D420B0     (base 16)		Mist Systems, Inc.
+				1601 South De Anza Blvd, Suite 248
+				Cupertino  CA  95014
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
