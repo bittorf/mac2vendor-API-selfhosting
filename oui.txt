@@ -31217,6 +31217,12 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				Cupertino  CA  95014
 				US
 
+DC-B0-82   (hex)		Nokia
+DCB082     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62483,6 +62489,12 @@ B03055     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
+E8-D0-FC   (hex)		Liteon Technology Corporation
+E8D0FC     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
 C0-9F-E1   (hex)		zte corporation
 C09FE1     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -62506,12 +62518,6 @@ AC00D0     (base 16)		zte corporation
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
-
-E8-D0-FC   (hex)		Liteon Technology Corporation
-E8D0FC     (base 16)		Liteon Technology Corporation
-				4F, 90, Chien 1 Road
-				New Taipei City  Taiwan  23585
-				TW
 
 84-C7-8F   (hex)		STORDIS GmbH
 84C78F     (base 16)		STORDIS GmbH
@@ -93134,17 +93140,17 @@ DC2AA1     (base 16)		MedHab LLC
 				Kanazawa  Ishikawa  920-8512
 				JP
 
-7C-D6-61   (hex)		Xiaomi Communications Co Ltd
-7CD661     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
 00-22-89   (hex)		Vandelrande APC inc.
 002289     (base 16)		Vandelrande APC inc.
 				1280 Lebourgneuf Blvd.
 				Quebec    G2K 0H1
 				CA
+
+7C-D6-61   (hex)		Xiaomi Communications Co Ltd
+7CD661     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 18-D9-EF   (hex)		Shuttle Inc.
 18D9EF     (base 16)		Shuttle Inc.
@@ -93175,6 +93181,12 @@ D420B0     (base 16)		Mist Systems, Inc.
 				1601 South De Anza Blvd, Suite 248
 				Cupertino  CA  95014
 				US
+
+68-82-F2   (hex)		grandcentrix GmbH
+6882F2     (base 16)		grandcentrix GmbH
+				Holzmarkt 1 
+				Cologne  NW  50676
+				DE
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124292,17 +124304,17 @@ D09C7A     (base 16)		Xiaomi Communications Co Ltd
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-C0-FD-84   (hex)		zte corporation
-C0FD84     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
-				CN
-
 C8-2C-2B   (hex)		IEEE Registration Authority
 C82C2B     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+C0-FD-84   (hex)		zte corporation
+C0FD84     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
 
 4C-6F-9C   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 4C6F9C     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -132031,12 +132043,6 @@ A4DE50     (base 16)		Total Walther GmbH
 				Frankfurter Ring 17
 				Munich    80807
 				DE
-
-E8-A4-C1   (hex)		Deep Sea Electronics PLC
-E8A4C1     (base 16)		Deep Sea Electronics PLC
-				Highfield House
-				Hunmanby  North Yorkshire  YO14 0PH
-				GB
 
 70-1A-ED   (hex)		ADVAS CO., LTD.
 701AED     (base 16)		ADVAS CO., LTD.
@@ -155348,6 +155354,12 @@ C8B422     (base 16)		ASKEY COMPUTER CORP
 				Park City    84098
 				US
 
+18-46-44   (hex)		Home Control Singapore Pte Ltd
+184644     (base 16)		Home Control Singapore Pte Ltd
+				151 Lorong Chuan
+				Singapore    556741
+				SG
+
 E8-E8-B7   (hex)		Murata Manufacturing Co., Ltd.
 E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
 				1-10-1, Higashikotari
@@ -155360,11 +155372,17 @@ E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-18-46-44   (hex)		Home Control Singapore Pte Ltd
-184644     (base 16)		Home Control Singapore Pte Ltd
-				151 Lorong Chuan
-				Singapore    556741
-				SG
+F8-B7-97   (hex)		NEC Platforms, Ltd.
+F8B797     (base 16)		NEC Platforms, Ltd.
+				2-3 Kandatsukasamachi
+				Chiyodaku  Tokyo  101-8532
+				JP
+
+B0-AA-D2   (hex)		Sichuan tianyi kanghe communications co., LTD
+B0AAD2     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
+				chengdu  sichuan  611330
+				CN
 
 E8-C4-17   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 E8C417     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -155378,14 +155396,14 @@ E8C417     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				LARGO  FL  33773
 				US
 
-F8-B7-97   (hex)		NEC Platforms, Ltd.
-F8B797     (base 16)		NEC Platforms, Ltd.
-				2-3 Kandatsukasamachi
-				Chiyodaku  Tokyo  101-8532
-				JP
+E8-A4-C1   (hex)		Deep Sea Electronics Ltd
+E8A4C1     (base 16)		Deep Sea Electronics Ltd
+				Highfield House
+				Hunmanby  North Yorkshire  YO14 0PH
+				GB
 
-B0-AA-D2   (hex)		Sichuan tianyi kanghe communications co., LTD
-B0AAD2     (base 16)		Sichuan tianyi kanghe communications co., LTD
-				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
-				chengdu  sichuan  611330
-				CN
+B0-70-0D   (hex)		Nokia
+B0700D     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
