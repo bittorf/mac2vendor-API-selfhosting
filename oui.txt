@@ -31223,11 +31223,29 @@ DCB082     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
+D0-19-6A   (hex)		Ciena Corporation
+D0196A     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
 84-FD-D1   (hex)		Intel Corporate
 84FDD1     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+D4-35-1D   (hex)		Technicolor
+D4351D     (base 16)		Technicolor
+				Prins Boudewijnlaan 47
+				Edegem - Belgium    B-2650
+				BE
+
+60-09-C3   (hex)		u-blox AG
+6009C3     (base 16)		u-blox AG
+				Zuercherstrasse 68
+				Thalwil    8800
+				CH
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62542,6 +62560,18 @@ D4D252     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+98-B8-BA   (hex)		LG Electronics (Mobile Communications)
+98B8BA     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul    153-801
+				KR
+
+D4-9D-C0   (hex)		Samsung Electronics Co.,Ltd
+D49DC0     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -124334,6 +124364,12 @@ C82C2B     (base 16)		IEEE Registration Authority
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+D4-4D-A4   (hex)		Murata Manufacturing Co., Ltd.
+D44DA4     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -155425,3 +155461,12 @@ DC8C37     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+70-2E-80   (hex)		DIEHL Connectivity Solutions
+702E80     (base 16)		DIEHL Connectivity Solutions
+				Stephanstraße 49
+				Nürnberg  Bayern  90478
+				DE
+
+7C-50-DA   (hex)		Private
+7C50DA     (base 16)		Private
