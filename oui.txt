@@ -62519,6 +62519,12 @@ B03055     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
+E8-D0-FC   (hex)		Liteon Technology Corporation
+E8D0FC     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
 C0-9F-E1   (hex)		zte corporation
 C09FE1     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -62543,12 +62549,6 @@ AC00D0     (base 16)		zte corporation
 				Wuhan  Hubei  430074
 				CN
 
-E8-D0-FC   (hex)		Liteon Technology Corporation
-E8D0FC     (base 16)		Liteon Technology Corporation
-				4F, 90, Chien 1 Road
-				New Taipei City  Taiwan  23585
-				TW
-
 84-C7-8F   (hex)		STORDIS GmbH
 84C78F     (base 16)		STORDIS GmbH
 				Rosenwiesstr. 17
@@ -62560,12 +62560,6 @@ E8D0FC     (base 16)		Liteon Technology Corporation
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
-
-D4-D2-52   (hex)		Intel Corporate
-D4D252     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
 
 98-B8-BA   (hex)		LG Electronics (Mobile Communications)
 98B8BA     (base 16)		LG Electronics (Mobile Communications)
@@ -62579,6 +62573,12 @@ D49DC0     (base 16)		Samsung Electronics Co.,Ltd
 				Suwon  Gyeonggi-Do  16677
 				KR
 
+D4-D2-52   (hex)		Intel Corporate
+D4D252     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 08-3A-2F   (hex)		Guangzhou Juan Intelligent Tech Joint Stock Co.,Ltd
 083A2F     (base 16)		Guangzhou Juan Intelligent Tech Joint Stock Co.,Ltd
 				NO.9, street 3, HengLing industrial zone, Tangdong, tianhe district
@@ -62590,6 +62590,12 @@ D49DC0     (base 16)		Samsung Electronics Co.,Ltd
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+FC-EA-50   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+FCEA50     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -93200,17 +93206,17 @@ DC2AA1     (base 16)		MedHab LLC
 				Kanazawa  Ishikawa  920-8512
 				JP
 
-7C-D6-61   (hex)		Xiaomi Communications Co Ltd
-7CD661     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
 00-22-89   (hex)		Vandelrande APC inc.
 002289     (base 16)		Vandelrande APC inc.
 				1280 Lebourgneuf Blvd.
 				Quebec    G2K 0H1
 				CA
+
+7C-D6-61   (hex)		Xiaomi Communications Co Ltd
+7CD661     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 18-D9-EF   (hex)		Shuttle Inc.
 18D9EF     (base 16)		Shuttle Inc.
@@ -93265,6 +93271,24 @@ C089AB     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+68-6D-BC   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+686DBC     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+18-AA-CA   (hex)		Sichuan tianyi kanghe communications co., LTD
+18AACA     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
+				chengdu  sichuan  611330
+				CN
+
+D4-F0-57   (hex)		Nintendo Co.,Ltd
+D4F057     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124418,6 +124442,24 @@ D44DA4     (base 16)		Murata Manufacturing Co., Ltd.
 				San Diego  CA  92121
 				US
 
+08-ED-ED   (hex)		Zhejiang Dahua Technology Co., Ltd.
+08EDED     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
+
+AC-F5-E6   (hex)		Cisco Systems, Inc
+ACF5E6     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+20-17-42   (hex)		LG Electronics
+201742     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -142820,12 +142862,6 @@ DC3350     (base 16)		TechSAT GmbH
 				GOLDEN  CO  80401
 				US
 
-00-50-C6   (hex)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
-0050C6     (base 16)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
-				2F, NO. 22, PROSPERITY RD. 2
-				HSINCHU    
-				TW
-
 00-50-49   (hex)		Arbor Networks Inc
 005049     (base 16)		Arbor Networks Inc
 				6 Omni Way
@@ -155524,3 +155560,21 @@ DC8C37     (base 16)		Cisco Systems, Inc
 
 7C-50-DA   (hex)		Private
 7C50DA     (base 16)		Private
+
+00-50-C6   (hex)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
+0050C6     (base 16)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
+				7F, No. 8, Hsin Ann Road
+				Hsinchu    -   
+				TW
+
+B0-A6-F5   (hex)		Xaptum, Inc.
+B0A6F5     (base 16)		Xaptum, Inc.
+				350 W Ontario ST FL 4
+				Chicago  IL  60654
+				US
+
+BC-9F-E4   (hex)		Aruba, a Hewlett Packard Enterprise Company
+BC9FE4     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
