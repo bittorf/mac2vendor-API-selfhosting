@@ -31211,16 +31211,22 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+5C-5B-35   (hex)		Mist Systems, Inc.
+5C5B35     (base 16)		Mist Systems, Inc.
+				1601 South De Anza Blvd, Suite 248
+				Cupertino  CA  95014
+				US
+
 DC-B0-82   (hex)		Nokia
 DCB082     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
 
-5C-5B-35   (hex)		Mist Systems, Inc.
-5C5B35     (base 16)		Mist Systems, Inc.
-				1601 South De Anza Blvd, Suite 248
-				Cupertino  CA  95014
+D0-19-6A   (hex)		Ciena Corporation
+D0196A     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
 				US
 
 84-FD-D1   (hex)		Intel Corporate
@@ -31229,11 +31235,11 @@ DCB082     (base 16)		Nokia
 				Kulim  Kedah  09000
 				MY
 
-D0-19-6A   (hex)		Ciena Corporation
-D0196A     (base 16)		Ciena Corporation
-				7035 Ridge Road
-				Hanover  MD  21076
-				US
+CC-88-26   (hex)		LG Innotek
+CC8826     (base 16)		LG Innotek
+				26, Hanamsandan 5beon-ro
+				Gwangju  Gwangsan-gu  506-731
+				KR
 
 D4-35-1D   (hex)		Technicolor
 D4351D     (base 16)		Technicolor
@@ -31246,12 +31252,6 @@ D4351D     (base 16)		Technicolor
 				Zuercherstrasse 68
 				Thalwil    8800
 				CH
-
-CC-88-26   (hex)		LG Innotek
-CC8826     (base 16)		LG Innotek
-				26, Hanamsandan 5beon-ro
-				Gwangju  Gwangsan-gu  506-731
-				KR
 
 84-8B-CD   (hex)		IEEE Registration Authority
 848BCD     (base 16)		IEEE Registration Authority
@@ -31269,6 +31269,12 @@ CC8826     (base 16)		LG Innotek
 50AF4D     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
+				CN
+
+A4-A1-79   (hex)		Nanjing dianyan electric power automation co. LTD
+A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
+				No. 29, liuzhou north road, pukou district
+				Nanjing  Jiangsu  210031
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -93308,18 +93314,6 @@ D4F057     (base 16)		Nintendo Co.,Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-74-45-CE   (hex)		CRESYN
-7445CE     (base 16)		CRESYN
-				8-22,Jamwon-dong
-				Seoul  Seocho-Gu  #137-902
-				KR
-
-C8-EA-F8   (hex)		zte corporation
-C8EAF8     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
-				CN
-
 68-DB-67   (hex)		Nantong Coship Electronics Co., Ltd.
 68DB67     (base 16)		Nantong Coship Electronics Co., Ltd.
 				No.188 Xinsheng Road
@@ -93332,11 +93326,29 @@ C8EAF8     (base 16)		zte corporation
 				Nanjing  Jiangsu  210012
 				CN
 
+74-45-CE   (hex)		CRESYN
+7445CE     (base 16)		CRESYN
+				8-22,Jamwon-dong
+				Seoul  Seocho-Gu  #137-902
+				KR
+
+C8-EA-F8   (hex)		zte corporation
+C8EAF8     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
 30-31-7D   (hex)		Hosiden Corporation
 30317D     (base 16)		Hosiden Corporation
 				4-33, Kitakyuhoji 1-chome
 				Yao  Osaka  5810071
 				JP
+
+38-3B-26   (hex)		Jiangsu Qinheng Co., Ltd.
+383B26     (base 16)		Jiangsu Qinheng Co., Ltd.
+				No. 18, Ningshuang Road
+				Nanjing  Jiangsu  210012
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124436,17 +124448,17 @@ D09C7A     (base 16)		Xiaomi Communications Co Ltd
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-C8-2C-2B   (hex)		IEEE Registration Authority
-C82C2B     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 C0-FD-84   (hex)		zte corporation
 C0FD84     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
+
+C8-2C-2B   (hex)		IEEE Registration Authority
+C82C2B     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 4C-6F-9C   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 4C6F9C     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -124527,6 +124539,12 @@ CCBE59     (base 16)		Calix Inc.
 6C8AEC     (base 16)		Nantong Coship Electronics Co., Ltd.
 				No.188 Xinsheng Road
 				Nantong  Jiangsu  226001
+				CN
+
+88-9E-33   (hex)		TCT mobile ltd
+889E33     (base 16)		TCT mobile ltd
+				No.86 hechang 7th road, zhongkai, Hi-Tech District
+				Hui Zhou  Guang Dong  516006
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -155546,6 +155564,12 @@ C8B422     (base 16)		ASKEY COMPUTER CORP
 				Park City    84098
 				US
 
+18-46-44   (hex)		Home Control Singapore Pte Ltd
+184644     (base 16)		Home Control Singapore Pte Ltd
+				151 Lorong Chuan
+				Singapore    556741
+				SG
+
 E8-E8-B7   (hex)		Murata Manufacturing Co., Ltd.
 E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
 				1-10-1, Higashikotari
@@ -155558,11 +155582,17 @@ E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-18-46-44   (hex)		Home Control Singapore Pte Ltd
-184644     (base 16)		Home Control Singapore Pte Ltd
-				151 Lorong Chuan
-				Singapore    556741
-				SG
+F8-B7-97   (hex)		NEC Platforms, Ltd.
+F8B797     (base 16)		NEC Platforms, Ltd.
+				2-3 Kandatsukasamachi
+				Chiyodaku  Tokyo  101-8532
+				JP
+
+B0-AA-D2   (hex)		Sichuan tianyi kanghe communications co., LTD
+B0AAD2     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
+				chengdu  sichuan  611330
+				CN
 
 E8-C4-17   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 E8C417     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -155575,18 +155605,6 @@ E8C417     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				12505 STARKEY RD STE A
 				LARGO  FL  33773
 				US
-
-F8-B7-97   (hex)		NEC Platforms, Ltd.
-F8B797     (base 16)		NEC Platforms, Ltd.
-				2-3 Kandatsukasamachi
-				Chiyodaku  Tokyo  101-8532
-				JP
-
-B0-AA-D2   (hex)		Sichuan tianyi kanghe communications co., LTD
-B0AAD2     (base 16)		Sichuan tianyi kanghe communications co., LTD
-				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
-				chengdu  sichuan  611330
-				CN
 
 E8-A4-C1   (hex)		Deep Sea Electronics Ltd
 E8A4C1     (base 16)		Deep Sea Electronics Ltd
