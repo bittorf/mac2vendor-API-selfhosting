@@ -31283,6 +31283,12 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				Nanjing  Jiangsu  210031
 				CN
 
+08-7E-64   (hex)		Technicolor CH USA Inc.
+087E64     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62639,6 +62645,12 @@ C07878     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Colorado Springs  CO  80908
 				US
 
+98-0D-67   (hex)		Zyxel Communications Corporation
+980D67     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93355,6 +93367,18 @@ C8EAF8     (base 16)		zte corporation
 				No. 18, Ningshuang Road
 				Nanjing  Jiangsu  210012
 				CN
+
+74-EE-2A   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+74EE2A     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
+				shenzhen  guangdong  518000
+				CN
+
+C4-F7-D5   (hex)		Cisco Systems, Inc
+C4F7D5     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -155676,4 +155700,10 @@ E0CB1D     (base 16)		Private
 000C6C     (base 16)		Corsair Memory, Inc.
 				47100 Bayside Parkway
 				Fremont  CA  94538
+				US
+
+9C-7B-EF   (hex)		Hewlett Packard
+9C7BEF     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
 				US
