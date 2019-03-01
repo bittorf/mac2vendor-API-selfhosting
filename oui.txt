@@ -62639,17 +62639,29 @@ C07878     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Zhuhai  Guangdong  519180
 				CN
 
+98-0D-67   (hex)		Zyxel Communications Corporation
+980D67     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
 00-40-51   (hex)		Garbee and Garbee
 004051     (base 16)		Garbee and Garbee
 				4390 Darr Circle
 				Colorado Springs  CO  80908
 				US
 
-98-0D-67   (hex)		Zyxel Communications Corporation
-980D67     (base 16)		Zyxel Communications Corporation
-				No. 6 Innovation Road II, Science Park
-				Hsichu  Taiwan  300
-				TW
+FC-49-2D   (hex)		Amazon Technologies Inc.
+FC492D     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+5C-FA-FB   (hex)		Acubit
+5CFAFB     (base 16)		Acubit
+				Afred Nobels Vej 21A
+				Aalborg Ø    9220
+				DK
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -93378,6 +93390,12 @@ C4-F7-D5   (hex)		Cisco Systems, Inc
 C4F7D5     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+BC-98-DF   (hex)		Motorola Mobility LLC, a Lenovo Company
+BC98DF     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -155696,14 +155714,20 @@ E0CB1D     (base 16)		Private
 				Yao-city  Osaka  581-0071
 				JP
 
+9C-7B-EF   (hex)		Hewlett Packard
+9C7BEF     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
+				US
+
 00-0C-6C   (hex)		Corsair Memory, Inc.
 000C6C     (base 16)		Corsair Memory, Inc.
 				47100 Bayside Parkway
 				Fremont  CA  94538
 				US
 
-9C-7B-EF   (hex)		Hewlett Packard
-9C7BEF     (base 16)		Hewlett Packard
-				11445 Compaq Center Drive
-				Houston  TX  77070
+90-73-5A   (hex)		Motorola Mobility LLC, a Lenovo Company
+90735A     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
 				US
