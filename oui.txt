@@ -93410,6 +93410,12 @@ C4F7D5     (base 16)		Cisco Systems, Inc
 				Santa Monica  CA  90404
 				US
 
+D8-13-99   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
