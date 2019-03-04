@@ -62669,6 +62669,12 @@ FC492D     (base 16)		Amazon Technologies Inc.
 				Piscataway  NJ  08554
 				US
 
+74-38-B7   (hex)		CANON INC.
+7438B7     (base 16)		CANON INC.
+				30-2 Shimomaruko 3-chome
+				Ohta-ku  Tokyo  146-8501
+				JP
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -86714,12 +86720,6 @@ B83A9D     (base 16)		Alarm.com
 				INCHEON    22830
 				KR
 
-E0-D9-E3   (hex)		Eltex Enterprise Ltd.
-E0D9E3     (base 16)		Eltex Enterprise Ltd.
-				Okruzhnaya 29v
-				Novosibirsk    630020
-				RU
-
 50-98-F3   (hex)		Rheem Australia Pty Ltd
 5098F3     (base 16)		Rheem Australia Pty Ltd
 				1 Alan Street
@@ -93415,6 +93415,12 @@ D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 				No.75,Zhongkai High-Tech Development District,Huizhou
 				Hui Zhou  Guangdong  516006
 				CN
+
+E0-D9-E3   (hex)		Eltex Enterprise Ltd.
+E0D9E3     (base 16)		Eltex Enterprise Ltd.
+				Okruzhnaya st. 29v
+				Novosibirsk    630020
+				RU
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -132293,12 +132299,6 @@ A0593A     (base 16)		V.D.S. Video Display Systems srl
 				SCANDICCI  FI  50018
 				IT
 
-A8-F9-4B   (hex)		Eltex Enterprise Ltd.
-A8F94B     (base 16)		Eltex Enterprise Ltd.
-				Obyedineniya st., 9
-				Novosibirsk    630020
-				RU
-
 90-6D-C8   (hex)		DLG Automação Industrial Ltda
 906DC8     (base 16)		DLG Automação Industrial Ltda
 				Rua José Batista Soares, 53
@@ -155749,3 +155749,9 @@ E0CB1D     (base 16)		Private
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
 				US
+
+A8-F9-4B   (hex)		Eltex Enterprise Ltd.
+A8F94B     (base 16)		Eltex Enterprise Ltd.
+				Okruzhnaya st. 29v
+				Novosibirsk    630020
+				RU
