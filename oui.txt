@@ -155779,3 +155779,9 @@ D8F15B     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
+
+F8-23-87   (hex)		Shenzhen Horn Audio Co.,Ltd.
+F82387     (base 16)		Shenzhen Horn Audio Co.,Ltd.
+				NO.6 4th GuiHua road,PingShan,
+				Shenzhen  Guangdong  518118
+				CN
