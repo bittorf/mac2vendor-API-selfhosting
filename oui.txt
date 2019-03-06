@@ -31289,6 +31289,12 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				Lawrenceville  GA  30044
 				US
 
+14-84-30   (hex)		MITAC COMPUTING TECHNOLOGY CORPORATION
+148430     (base 16)		MITAC COMPUTING TECHNOLOGY CORPORATION
+				3F., NO.1, R&D ROAD 2, HSINCHU SCIENCE PARK
+				HSINCHU    30076
+				TW
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62675,6 +62681,12 @@ FC492D     (base 16)		Amazon Technologies Inc.
 				Ohta-ku  Tokyo  146-8501
 				JP
 
+B8-A4-4F   (hex)		Axis Communications AB
+B8A44F     (base 16)		Axis Communications AB
+				Emdalavägen 14
+				LUND    22369
+				SE
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93410,17 +93422,17 @@ C4F7D5     (base 16)		Cisco Systems, Inc
 				Santa Monica  CA  90404
 				US
 
-D8-13-99   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
-D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
-				No.75,Zhongkai High-Tech Development District,Huizhou
-				Hui Zhou  Guangdong  516006
-				CN
-
 E0-D9-E3   (hex)		Eltex Enterprise Ltd.
 E0D9E3     (base 16)		Eltex Enterprise Ltd.
 				Okruzhnaya st. 29v
 				Novosibirsk    630020
 				RU
+
+D8-13-99   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124619,6 +124631,12 @@ CCBE59     (base 16)		Calix Inc.
 				Hui Zhou  Guang Dong  516006
 				CN
 
+04-5C-6C   (hex)		Juniper Networks
+045C6C     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -155755,3 +155773,9 @@ A8F94B     (base 16)		Eltex Enterprise Ltd.
 				Okruzhnaya st. 29v
 				Novosibirsk    630020
 				RU
+
+D8-F1-5B   (hex)		Espressif Inc.
+D8F15B     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
