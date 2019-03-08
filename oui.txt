@@ -93434,6 +93434,18 @@ D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 				Hui Zhou  Guangdong  516006
 				CN
 
+E8-28-C1   (hex)		Eltex Enterprise Ltd.
+E828C1     (base 16)		Eltex Enterprise Ltd.
+				Okruzhnaya st. 29v
+				Novosibirsk    630020
+				RU
+
+6C-F1-7E   (hex)		Zhejiang Uniview Technologies Co.,Ltd.
+6CF17E     (base 16)		Zhejiang Uniview Technologies Co.,Ltd.
+				No.88,Jiangling Road
+				Hangzhou  Zhejiang,P.R.China  310051
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -124637,6 +124649,12 @@ CCBE59     (base 16)		Calix Inc.
 				Sunnyvale  CA  94089
 				US
 
+04-D9-F5   (hex)		ASUSTek COMPUTER INC.
+04D9F5     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -155774,14 +155792,20 @@ A8F94B     (base 16)		Eltex Enterprise Ltd.
 				Novosibirsk    630020
 				RU
 
+F8-23-87   (hex)		Shenzhen Horn Audio Co.,Ltd.
+F82387     (base 16)		Shenzhen Horn Audio Co.,Ltd.
+				NO.6 4th GuiHua road,PingShan,
+				Shenzhen  Guangdong  518118
+				CN
+
 D8-F1-5B   (hex)		Espressif Inc.
 D8F15B     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
 
-F8-23-87   (hex)		Shenzhen Horn Audio Co.,Ltd.
-F82387     (base 16)		Shenzhen Horn Audio Co.,Ltd.
-				NO.6 4th GuiHua road,PingShan,
-				Shenzhen  Guangdong  518118
-				CN
+78-D3-47   (hex)		Ericsson AB
+78D347     (base 16)		Ericsson AB
+				Torshamnsgatan 36
+				Stockholm    SE-164 80
+				SE
