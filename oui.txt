@@ -62687,6 +62687,12 @@ B8A44F     (base 16)		Axis Communications AB
 				LUND    22369
 				SE
 
+D0-57-94   (hex)		Sagemcom Broadband SAS
+D05794     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -77394,12 +77400,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 000863     (base 16)		Entrisphere Inc.
 				1601 S. De Anza Blvd.
 				Cupertino  CA  95014
-				US
-
-00-08-5D   (hex)		Aastra
-00085D     (base 16)		Aastra
-				1160 Route 22 East
-				Bridgewater  NJ  08807
 				US
 
 00-08-62   (hex)		NEC Eluminant Technologies, Inc.
@@ -93445,6 +93445,12 @@ E828C1     (base 16)		Eltex Enterprise Ltd.
 				No.88,Jiangling Road
 				Hangzhou  Zhejiang,P.R.China  310051
 				CN
+
+00-08-5D   (hex)		Mitel Corporation
+00085D     (base 16)		Mitel Corporation
+				350 Legget Drive
+				-    K2K 2W7
+				CA
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124654,6 +124660,12 @@ CCBE59     (base 16)		Calix Inc.
 				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
 				Taipei  Taiwan  112
 				TW
+
+50-1B-32   (hex)		Taicang T&W Electronics
+501B32     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
