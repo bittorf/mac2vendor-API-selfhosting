@@ -93434,6 +93434,12 @@ D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 				Hui Zhou  Guangdong  516006
 				CN
 
+00-08-5D   (hex)		Mitel Corporation
+00085D     (base 16)		Mitel Corporation
+				350 Legget Drive
+				-    K2K 2W7
+				CA
+
 E8-28-C1   (hex)		Eltex Enterprise Ltd.
 E828C1     (base 16)		Eltex Enterprise Ltd.
 				Okruzhnaya st. 29v
@@ -93445,12 +93451,6 @@ E828C1     (base 16)		Eltex Enterprise Ltd.
 				No.88,Jiangling Road
 				Hangzhou  Zhejiang,P.R.China  310051
 				CN
-
-00-08-5D   (hex)		Mitel Corporation
-00085D     (base 16)		Mitel Corporation
-				350 Legget Drive
-				-    K2K 2W7
-				CA
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124666,6 +124666,12 @@ CCBE59     (base 16)		Calix Inc.
 				89# Jiang Nan RD
 				Suzhou  Jiangsu  215412
 				CN
+
+70-FC-8F   (hex)		FREEBOX SAS
+70FC8F     (base 16)		FREEBOX SAS
+				16 rue de la Ville l'Eveque
+				PARIS  IdF  75008
+				FR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
