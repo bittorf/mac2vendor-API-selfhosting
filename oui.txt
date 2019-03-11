@@ -31295,6 +31295,18 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				New Taipei City ,  Taiwan  24159
 				TW
 
+68-7D-6B   (hex)		Samsung Electronics Co.,Ltd
+687D6B     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+7C-89-56   (hex)		Samsung Electronics Co.,Ltd
+7C8956     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62687,11 +62699,29 @@ D05794     (base 16)		Sagemcom Broadband SAS
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
+8C-E5-C0   (hex)		Samsung Electronics Co.,Ltd
+8CE5C0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+F0-8A-76   (hex)		Samsung Electronics Co.,Ltd
+F08A76     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 F8-8E-85   (hex)		Comtrend Corporation
 F88E85     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City ,  Taiwan  24159
 				TW
+
+00-FA-21   (hex)		Samsung Electronics Co.,Ltd
+00FA21     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -93451,6 +93481,18 @@ C8D12A     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City ,  Taiwan  24159
 				TW
+
+EC-AA-25   (hex)		Samsung Electronics Co.,Ltd
+ECAA25     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+18-19-D6   (hex)		Samsung Electronics Co.,Ltd
+1819D6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124661,23 +124703,35 @@ CCBE59     (base 16)		Calix Inc.
 				Suzhou  Jiangsu  215412
 				CN
 
-70-FC-8F   (hex)		FREEBOX SAS
-70FC8F     (base 16)		FREEBOX SAS
-				16 rue de la Ville l'Eveque
-				PARIS  IdF  75008
-				FR
-
 B4-CF-E0   (hex)		Sichuan tianyi kanghe communications co., LTD
 B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				No.198, section 1, xueshan avenue, jinyuan town, dayi county
 				chengdu  sichuan  611330
 				CN
 
+88-29-9C   (hex)		Samsung Electronics Co.,Ltd
+88299C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+48-51-69   (hex)		Samsung Electronics Co.,Ltd
+485169     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 38-72-C0   (hex)		Comtrend Corporation
 3872C0     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City ,  Taiwan  24159
 				TW
+
+70-FC-8F   (hex)		FREEBOX SAS
+70FC8F     (base 16)		FREEBOX SAS
+				16 rue de la Ville l'Eveque
+				PARIS  IdF  75008
+				FR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -155833,3 +155887,15 @@ D8B6B7     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City ,  Taiwan  24159
 				TW
+
+80-91-33   (hex)		AzureWave Technology Inc.
+809133     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
+7C-23-02   (hex)		Samsung Electronics Co.,Ltd
+7C2302     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
