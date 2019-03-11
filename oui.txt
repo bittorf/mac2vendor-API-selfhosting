@@ -21983,12 +21983,6 @@ D059E4     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-00-1D-20   (hex)		Comtrend Corporation
-001D20     (base 16)		Comtrend Corporation
-				3F-1 10 LANE 609 CHUNG HSIN ROAD, SEC 5, SAN CHUNG CITY, TAIPEI TAIWAN 241
-				TAIPEI    241
-				TW
-
 14-0C-76   (hex)		FREEBOX SAS
 140C76     (base 16)		FREEBOX SAS
 				16 rue de la Ville l'Eveque
@@ -31271,12 +31265,6 @@ D4351D     (base 16)		Technicolor
 				Chemnitz  Sachsen  09116
 				DE
 
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609,
-				New Taipei City ,  Taiwan  24159
-				TW
-
 A4-A1-79   (hex)		Nanjing dianyan electric power automation co. LTD
 A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				No. 29, liuzhou north road, pukou district
@@ -31293,6 +31281,18 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 148430     (base 16)		MITAC COMPUTING TECHNOLOGY CORPORATION
 				3F., NO.1, R&D ROAD 2, HSINCHU SCIENCE PARK
 				HSINCHU    30076
+				TW
+
+00-1D-20   (hex)		Comtrend Corporation
+001D20     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
+
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
 				TW
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -53270,12 +53270,6 @@ E09971     (base 16)		Samsung Electronics Co.,Ltd
 				Hsinchu    
 				TW
 
-F8-8E-85   (hex)		Comtrend Corporation
-F88E85     (base 16)		Comtrend Corporation
-				3F-1, NO. 10, LANE 609, 
-				NEW TAIPEI CITY     24159
-				TW
-
 30-0D-43   (hex)		Microsoft Mobile Oy
 300D43     (base 16)		Microsoft Mobile Oy
 				Keilalahdentie 2-4
@@ -62692,6 +62686,12 @@ D05794     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+F8-8E-85   (hex)		Comtrend Corporation
+F88E85     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -90272,12 +90272,6 @@ B8F74A     (base 16)		RCNTEC
 				Moscow    127018
 				RU
 
-C8-D1-2A   (hex)		Comtrend Corporation
-C8D12A     (base 16)		Comtrend Corporation
-				3F-1, No. 10, Lane 609, Chung Hsin Road, Sec 5, San Chung Dist.
-				New Taipei City  Taiwan  24159
-				TW
-
 B4-F1-DA   (hex)		LG Electronics (Mobile Communications)
 B4F1DA     (base 16)		LG Electronics (Mobile Communications)
 				60-39, Gasan-dong, Geumcheon-gu
@@ -93434,12 +93428,6 @@ D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 				Hui Zhou  Guangdong  516006
 				CN
 
-00-08-5D   (hex)		Mitel Corporation
-00085D     (base 16)		Mitel Corporation
-				350 Legget Drive
-				-    K2K 2W7
-				CA
-
 E8-28-C1   (hex)		Eltex Enterprise Ltd.
 E828C1     (base 16)		Eltex Enterprise Ltd.
 				Okruzhnaya st. 29v
@@ -93451,6 +93439,18 @@ E828C1     (base 16)		Eltex Enterprise Ltd.
 				No.88,Jiangling Road
 				Hangzhou  Zhejiang,P.R.China  310051
 				CN
+
+00-08-5D   (hex)		Mitel Corporation
+00085D     (base 16)		Mitel Corporation
+				350 Legget Drive
+				-    K2K 2W7
+				CA
+
+C8-D1-2A   (hex)		Comtrend Corporation
+C8D12A     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -115445,12 +115445,6 @@ A80600     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-38-72-C0   (hex)		Comtrend Corporation
-3872C0     (base 16)		Comtrend Corporation
-				3F-1,10 Lane 609, Chung Hsin Road, Section 5
-				Taipei Hsien    241
-				TW
-
 00-0B-CA   (hex)		DATAVAN TC
 000BCA     (base 16)		DATAVAN TC
 				4FL,#120-12,Chung Shan Rd, Sec.3
@@ -124673,6 +124667,18 @@ CCBE59     (base 16)		Calix Inc.
 				PARIS  IdF  75008
 				FR
 
+B4-CF-E0   (hex)		Sichuan tianyi kanghe communications co., LTD
+B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county
+				chengdu  sichuan  611330
+				CN
+
+38-72-C0   (hex)		Comtrend Corporation
+3872C0     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -126769,12 +126775,6 @@ D855A3     (base 16)		zte corporation
 				Building C-1601, Tiley Central Plaza
 				Shenzhen  Guangdong  518054
 				CN
-
-D8-B6-B7   (hex)		Comtrend Corporation
-D8B6B7     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609,
-				New Taipei City ,  Taiwan  24159
-				TW
 
 04-99-E6   (hex)		Shenzhen Yoostar Technology Co., Ltd
 0499E6     (base 16)		Shenzhen Yoostar Technology Co., Ltd
@@ -146969,18 +146969,6 @@ D8C4E9     (base 16)		Samsung Electronics Co.,Ltd
 				Hsinchu    
 				TW
 
-00-30-DA   (hex)		Comtrend Corporation
-0030DA     (base 16)		Comtrend Corporation
-				3F-1 10 LANE 609 CHUNG
-				  TAIWAN  241
-				TW
-
-64-68-0C   (hex)		Comtrend Corporation
-64680C     (base 16)		Comtrend Corporation
-				3F-1,10 Lane 609, Chung Hsin Road, Section 5
-				Taipei Hsien    241
-				TW
-
 00-CF-1C   (hex)		Communication Machinery Corporation
 00CF1C     (base 16)		Communication Machinery Corporation
 				1226 ANACAPA
@@ -153494,9 +153482,6 @@ D49E05     (base 16)		zte corporation
 				Nes Ziona     7404996
 				IL
 
-9C-93-E4   (hex)		Private
-9C93E4     (base 16)		Private
-
 74-C1-4F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 74C14F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -155827,3 +155812,24 @@ D8F15B     (base 16)		Espressif Inc.
 				Torshamnsgatan 36
 				Stockholm    SE-164 80
 				SE
+
+9C-93-E4   (hex)		Private
+9C93E4     (base 16)		Private
+
+D8-B6-B7   (hex)		Comtrend Corporation
+D8B6B7     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
+
+64-68-0C   (hex)		Comtrend Corporation
+64680C     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
+
+00-30-DA   (hex)		Comtrend Corporation
+0030DA     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
