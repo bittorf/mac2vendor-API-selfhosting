@@ -31283,6 +31283,18 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				HSINCHU    30076
 				TW
 
+00-1D-20   (hex)		Comtrend Corporation
+001D20     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
+
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
+
 68-7D-6B   (hex)		Samsung Electronics Co.,Ltd
 687D6B     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -31295,17 +31307,17 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				Gumi  Gyeongbuk  730-350
 				KR
 
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
+D8-CA-06   (hex)		Titan DataCenters France
+D8CA06     (base 16)		Titan DataCenters France
+				E.SpacePark 45 Allee des ormes
+				mougins    06250
+				FR
 
-00-1D-20   (hex)		Comtrend Corporation
-001D20     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
+60-95-CE   (hex)		IEEE Registration Authority
+6095CE     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62705,17 +62717,17 @@ D05794     (base 16)		Sagemcom Broadband SAS
 				Gumi  Gyeongbuk  730-350
 				KR
 
-F8-8E-85   (hex)		Comtrend Corporation
-F88E85     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
-
 F0-8A-76   (hex)		Samsung Electronics Co.,Ltd
 F08A76     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+F8-8E-85   (hex)		Comtrend Corporation
+F88E85     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
 
 00-FA-21   (hex)		Samsung Electronics Co.,Ltd
 00FA21     (base 16)		Samsung Electronics Co.,Ltd
@@ -93458,12 +93470,6 @@ D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 				Hui Zhou  Guangdong  516006
 				CN
 
-00-08-5D   (hex)		Mitel Corporation
-00085D     (base 16)		Mitel Corporation
-				350 Legget Drive
-				-    K2K 2W7
-				CA
-
 E8-28-C1   (hex)		Eltex Enterprise Ltd.
 E828C1     (base 16)		Eltex Enterprise Ltd.
 				Okruzhnaya st. 29v
@@ -93476,11 +93482,11 @@ E828C1     (base 16)		Eltex Enterprise Ltd.
 				Hangzhou  Zhejiang,P.R.China  310051
 				CN
 
-EC-AA-25   (hex)		Samsung Electronics Co.,Ltd
-ECAA25     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+00-08-5D   (hex)		Mitel Corporation
+00085D     (base 16)		Mitel Corporation
+				350 Legget Drive
+				-    K2K 2W7
+				CA
 
 C8-D1-2A   (hex)		Comtrend Corporation
 C8D12A     (base 16)		Comtrend Corporation
@@ -93488,11 +93494,11 @@ C8D12A     (base 16)		Comtrend Corporation
 				New Taipei City ,  Taiwan  24159
 				TW
 
-18-19-D6   (hex)		Samsung Electronics Co.,Ltd
-1819D6     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+18-B6-F7   (hex)		NEW POS TECHNOLOGY LIMITED
+18B6F7     (base 16)		NEW POS TECHNOLOGY LIMITED
+				AB Unit, 14th Floor,Block A, Financial Technology Building.No. 11 Keyuan Rd
+				Shenzhen    518057
+				CN
 
 BC-97-E1   (hex)		Broadcom Limited
 BC97E1     (base 16)		Broadcom Limited
@@ -93500,11 +93506,23 @@ BC97E1     (base 16)		Broadcom Limited
 				Irvine  CA  92618
 				US
 
-18-B6-F7   (hex)		NEW POS TECHNOLOGY LIMITED
-18B6F7     (base 16)		NEW POS TECHNOLOGY LIMITED
-				AB Unit, 14th Floor,Block A, Financial Technology Building.No. 11 Keyuan Rd
-				Shenzhen    518057
-				CN
+EC-AA-25   (hex)		Samsung Electronics Co.,Ltd
+ECAA25     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+18-19-D6   (hex)		Samsung Electronics Co.,Ltd
+1819D6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+54-EC-2F   (hex)		Ruckus Wireless
+54EC2F     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124715,11 +124733,11 @@ B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				chengdu  sichuan  611330
 				CN
 
-38-72-C0   (hex)		Comtrend Corporation
-3872C0     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
+88-29-9C   (hex)		Samsung Electronics Co.,Ltd
+88299C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 48-51-69   (hex)		Samsung Electronics Co.,Ltd
 485169     (base 16)		Samsung Electronics Co.,Ltd
@@ -124727,11 +124745,11 @@ B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				Gumi  Gyeongbuk  730-350
 				KR
 
-88-29-9C   (hex)		Samsung Electronics Co.,Ltd
-88299C     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+38-72-C0   (hex)		Comtrend Corporation
+3872C0     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
 
 70-FC-8F   (hex)		FREEBOX SAS
 70FC8F     (base 16)		FREEBOX SAS
@@ -155900,12 +155918,6 @@ D8B6B7     (base 16)		Comtrend Corporation
 				New Taipei City ,  Taiwan  24159
 				TW
 
-80-91-33   (hex)		AzureWave Technology Inc.
-809133     (base 16)		AzureWave Technology Inc.
-				8F., No. 94, Baozhong Rd.
-				New Taipei City  Taiwan  231
-				TW
-
 7C-23-02   (hex)		Samsung Electronics Co.,Ltd
 7C2302     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -155917,3 +155929,15 @@ D8B6B7     (base 16)		Comtrend Corporation
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
 				Shenzhen  Guangdong  518055
 				CN
+
+AC-83-E9   (hex)		Beijing Zile Technology Co., Ltd
+AC83E9     (base 16)		Beijing Zile Technology Co., Ltd
+				Tecent WeWork, Huilongguan East Avenue, Changping District
+				Beijing  Beijing  100096
+				CN
+
+80-91-33   (hex)		AzureWave Technology Inc.
+809133     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
