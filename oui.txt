@@ -31283,18 +31283,6 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				HSINCHU    30076
 				TW
 
-00-1D-20   (hex)		Comtrend Corporation
-001D20     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
-
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
-
 68-7D-6B   (hex)		Samsung Electronics Co.,Ltd
 687D6B     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -31307,17 +31295,29 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				Gumi  Gyeongbuk  730-350
 				KR
 
-D8-CA-06   (hex)		Titan DataCenters France
-D8CA06     (base 16)		Titan DataCenters France
-				E.SpacePark 45 Allee des ormes
-				mougins    06250
-				FR
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
+
+00-1D-20   (hex)		Comtrend Corporation
+001D20     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
 
 60-95-CE   (hex)		IEEE Registration Authority
 6095CE     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+D8-CA-06   (hex)		Titan DataCenters France
+D8CA06     (base 16)		Titan DataCenters France
+				E.SpacePark 45 Allee des ormes
+				mougins    06250
+				FR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62735,6 +62735,36 @@ F88E85     (base 16)		Comtrend Corporation
 				Gumi  Gyeongbuk  730-350
 				KR
 
+14-49-BC   (hex)		DrayTek Corp.
+1449BC     (base 16)		DrayTek Corp.
+				No. 26, Fushing Rd., Hukou, Hsinchu Industrial Park,
+				Hsinchu county    30352
+				TW
+
+28-99-C7   (hex)		LINDSAY BROADBAND INC
+2899C7     (base 16)		LINDSAY BROADBAND INC
+				2035 2 FISHER DRIVE
+				PETERBOROUGH  Ontario  K9J 6X6
+				CA
+
+BC-7F-A4   (hex)		Xiaomi Communications Co Ltd
+BC7FA4     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+AC-42-28   (hex)		Parta Networks
+AC4228     (base 16)		Parta Networks
+				Teknopark Izmir No:38
+				URLA  IZMIR  35433
+				TR
+
+8C-04-BA   (hex)		Dell Inc.
+8C04BA     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93470,6 +93500,12 @@ D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 				Hui Zhou  Guangdong  516006
 				CN
 
+00-08-5D   (hex)		Mitel Corporation
+00085D     (base 16)		Mitel Corporation
+				350 Legget Drive
+				-    K2K 2W7
+				CA
+
 E8-28-C1   (hex)		Eltex Enterprise Ltd.
 E828C1     (base 16)		Eltex Enterprise Ltd.
 				Okruzhnaya st. 29v
@@ -93482,17 +93518,23 @@ E828C1     (base 16)		Eltex Enterprise Ltd.
 				Hangzhou  Zhejiang,P.R.China  310051
 				CN
 
-00-08-5D   (hex)		Mitel Corporation
-00085D     (base 16)		Mitel Corporation
-				350 Legget Drive
-				-    K2K 2W7
-				CA
+EC-AA-25   (hex)		Samsung Electronics Co.,Ltd
+ECAA25     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 C8-D1-2A   (hex)		Comtrend Corporation
 C8D12A     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City ,  Taiwan  24159
 				TW
+
+18-19-D6   (hex)		Samsung Electronics Co.,Ltd
+1819D6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 18-B6-F7   (hex)		NEW POS TECHNOLOGY LIMITED
 18B6F7     (base 16)		NEW POS TECHNOLOGY LIMITED
@@ -93506,23 +93548,17 @@ BC97E1     (base 16)		Broadcom Limited
 				Irvine  CA  92618
 				US
 
-EC-AA-25   (hex)		Samsung Electronics Co.,Ltd
-ECAA25     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-18-19-D6   (hex)		Samsung Electronics Co.,Ltd
-1819D6     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 54-EC-2F   (hex)		Ruckus Wireless
 54EC2F     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
+
+20-F4-78   (hex)		Xiaomi Communications Co Ltd
+20F478     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -96817,12 +96853,6 @@ C034B4     (base 16)		Gigastone Corporation
 				12F.NO 480. Rueiguang Rd.
 				Taipei    11492
 				TW
-
-74-AD-B7   (hex)		China Mobile Group Device Co.,Ltd.
-74ADB7     (base 16)		China Mobile Group Device Co.,Ltd.
-				32 Xuanwumen West Street
-				Beijing    100053
-				CN
 
 DC-6F-00   (hex)		Livescribe, Inc.
 DC6F00     (base 16)		Livescribe, Inc.
@@ -124733,11 +124763,11 @@ B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				chengdu  sichuan  611330
 				CN
 
-88-29-9C   (hex)		Samsung Electronics Co.,Ltd
-88299C     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+38-72-C0   (hex)		Comtrend Corporation
+3872C0     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
 
 48-51-69   (hex)		Samsung Electronics Co.,Ltd
 485169     (base 16)		Samsung Electronics Co.,Ltd
@@ -124745,11 +124775,11 @@ B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				Gumi  Gyeongbuk  730-350
 				KR
 
-38-72-C0   (hex)		Comtrend Corporation
-3872C0     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
+88-29-9C   (hex)		Samsung Electronics Co.,Ltd
+88299C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 70-FC-8F   (hex)		FREEBOX SAS
 70FC8F     (base 16)		FREEBOX SAS
@@ -124761,6 +124791,12 @@ B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 00257E     (base 16)		NEW POS TECHNOLOGY LIMITED
 				6FRM, 6F, China Economic Trade Building
 				Shenzhen  Guangdong  518000
+				CN
+
+74-AD-B7   (hex)		China Mobile Group Device Co.,Ltd.
+74ADB7     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street
+				Beijing    100053
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
