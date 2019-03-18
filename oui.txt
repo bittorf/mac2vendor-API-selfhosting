@@ -3629,12 +3629,6 @@ C05E6F     (base 16)		V. Stonkaus firma Kodinis Raktas
 				  Vilnius  08303
 				LT
 
-6C-D1-46   (hex)		Smartek d.o.o.
-6CD146     (base 16)		Smartek d.o.o.
-				B.J.Jelacica 22c
-				Cakovec  Croatia  40000
-				US
-
 E0-C2-B7   (hex)		Masimo Corporation
 E0C2B7     (base 16)		Masimo Corporation
 				40 Parker
@@ -31283,18 +31277,6 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				HSINCHU    30076
 				TW
 
-00-1D-20   (hex)		Comtrend Corporation
-001D20     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
-
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
-
 68-7D-6B   (hex)		Samsung Electronics Co.,Ltd
 687D6B     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -31307,6 +31289,18 @@ A4A179     (base 16)		Nanjing dianyan electric power automation co. LTD
 				Gumi  Gyeongbuk  730-350
 				KR
 
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
+
+00-1D-20   (hex)		Comtrend Corporation
+001D20     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
+
 60-95-CE   (hex)		IEEE Registration Authority
 6095CE     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -31318,6 +31312,24 @@ D8CA06     (base 16)		Titan DataCenters France
 				E.SpacePark 45 Allee des ormes
 				mougins    06250
 				FR
+
+90-78-B2   (hex)		Xiaomi Communications Co Ltd
+9078B2     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+78-C3-13   (hex)		China Mobile Group Device Co.,Ltd.
+78C313     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
+FC-BD-67   (hex)		Arista Networks
+FCBD67     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
 
 B8-91-C9   (hex)		Handreamnet
 B891C9     (base 16)		Handreamnet
@@ -31337,22 +31349,16 @@ C8A776     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-90-78-B2   (hex)		Xiaomi Communications Co Ltd
-9078B2     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
+6C-D1-46   (hex)		FRAMOS GmbH
+6CD146     (base 16)		FRAMOS GmbH
+				Mehlbeerenstr. 2
+				Taufkirchen    82024
+				DE
 
-78-C3-13   (hex)		China Mobile Group Device Co.,Ltd.
-78C313     (base 16)		China Mobile Group Device Co.,Ltd.
-				32 Xuanwumen West Street,Xicheng District
-				Beijing    100053
-				CN
-
-FC-BD-67   (hex)		Arista Networks
-FCBD67     (base 16)		Arista Networks
-				5453 Great America Parkway
-				Santa Clara  CA  95054
+14-A2-A0   (hex)		Cisco Systems, Inc
+14A2A0     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -62753,17 +62759,17 @@ D05794     (base 16)		Sagemcom Broadband SAS
 				Gumi  Gyeongbuk  730-350
 				KR
 
-F0-8A-76   (hex)		Samsung Electronics Co.,Ltd
-F08A76     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 F8-8E-85   (hex)		Comtrend Corporation
 F88E85     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City ,  Taiwan  24159
 				TW
+
+F0-8A-76   (hex)		Samsung Electronics Co.,Ltd
+F08A76     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 00-FA-21   (hex)		Samsung Electronics Co.,Ltd
 00FA21     (base 16)		Samsung Electronics Co.,Ltd
@@ -62801,12 +62807,6 @@ AC4228     (base 16)		Parta Networks
 				Round Rock  TX  78682
 				US
 
-08-4F-0A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-084F0A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 CC-64-A6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 CC64A6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -62824,6 +62824,18 @@ CC64A6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				14F, 9, Teheran-ro 20-gil
 				Gangnam-gu, Seoul    06236
 				KR
+
+08-4F-0A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+084F0A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+C8-D6-9D   (hex)		Arab International Optronics
+C8D69D     (base 16)		Arab International Optronics
+				El Salam St. 
+				El Salam City   Cairo  11371
+				EG
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -93560,6 +93572,12 @@ D81399     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 				Hui Zhou  Guangdong  516006
 				CN
 
+00-08-5D   (hex)		Mitel Corporation
+00085D     (base 16)		Mitel Corporation
+				350 Legget Drive
+				-    K2K 2W7
+				CA
+
 E8-28-C1   (hex)		Eltex Enterprise Ltd.
 E828C1     (base 16)		Eltex Enterprise Ltd.
 				Okruzhnaya st. 29v
@@ -93572,17 +93590,23 @@ E828C1     (base 16)		Eltex Enterprise Ltd.
 				Hangzhou  Zhejiang,P.R.China  310051
 				CN
 
-00-08-5D   (hex)		Mitel Corporation
-00085D     (base 16)		Mitel Corporation
-				350 Legget Drive
-				-    K2K 2W7
-				CA
+EC-AA-25   (hex)		Samsung Electronics Co.,Ltd
+ECAA25     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 C8-D1-2A   (hex)		Comtrend Corporation
 C8D12A     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City ,  Taiwan  24159
 				TW
+
+18-19-D6   (hex)		Samsung Electronics Co.,Ltd
+1819D6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 18-B6-F7   (hex)		NEW POS TECHNOLOGY LIMITED
 18B6F7     (base 16)		NEW POS TECHNOLOGY LIMITED
@@ -93595,18 +93619,6 @@ BC97E1     (base 16)		Broadcom Limited
 				15191 Alton Parkway
 				Irvine  CA  92618
 				US
-
-EC-AA-25   (hex)		Samsung Electronics Co.,Ltd
-ECAA25     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-18-19-D6   (hex)		Samsung Electronics Co.,Ltd
-1819D6     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
 
 54-EC-2F   (hex)		Ruckus Wireless
 54EC2F     (base 16)		Ruckus Wireless
@@ -124829,11 +124841,11 @@ B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				chengdu  sichuan  611330
 				CN
 
-88-29-9C   (hex)		Samsung Electronics Co.,Ltd
-88299C     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+38-72-C0   (hex)		Comtrend Corporation
+3872C0     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
 
 48-51-69   (hex)		Samsung Electronics Co.,Ltd
 485169     (base 16)		Samsung Electronics Co.,Ltd
@@ -124841,11 +124853,11 @@ B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				Gumi  Gyeongbuk  730-350
 				KR
 
-38-72-C0   (hex)		Comtrend Corporation
-3872C0     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
+88-29-9C   (hex)		Samsung Electronics Co.,Ltd
+88299C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 70-FC-8F   (hex)		FREEBOX SAS
 70FC8F     (base 16)		FREEBOX SAS
@@ -124870,6 +124882,12 @@ B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				352, 815 Daewangpangyo-ro, Sujeong-gu
 				Seongnam-si  Gyeonggi-do  13449
 				KR
+
+C4-8F-C1   (hex)		DEEPTRACK S.L.U.
+C48FC1     (base 16)		DEEPTRACK S.L.U.
+				Avenida de Barajas 32, Parque E. Omega, Edificio A
+				Alcobendas    28100
+				ES
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -156038,17 +156056,17 @@ D8B6B7     (base 16)		Comtrend Corporation
 				Shenzhen  Guangdong  518055
 				CN
 
-AC-83-E9   (hex)		Beijing Zile Technology Co., Ltd
-AC83E9     (base 16)		Beijing Zile Technology Co., Ltd
-				Tecent WeWork, Huilongguan East Avenue, Changping District
-				Beijing  Beijing  100096
-				CN
-
 80-91-33   (hex)		AzureWave Technology Inc.
 809133     (base 16)		AzureWave Technology Inc.
 				8F., No. 94, Baozhong Rd.
 				New Taipei City  Taiwan  231
 				TW
+
+AC-83-E9   (hex)		Beijing Zile Technology Co., Ltd
+AC83E9     (base 16)		Beijing Zile Technology Co., Ltd
+				Tecent WeWork, Huilongguan East Avenue, Changping District
+				Beijing  Beijing  100096
+				CN
 
 40-5B-D8   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 405BD8     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
