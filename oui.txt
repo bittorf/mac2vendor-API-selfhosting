@@ -31367,6 +31367,12 @@ D89B3B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan     523808
 				CN
 
+4C-E9-E4   (hex)		New H3C Technologies Co., Ltd
+4CE9E4     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
 C4-8A-5A   (hex)		JFCONTROL
 C48A5A     (base 16)		JFCONTROL
 				1449-37 Seoburo
@@ -31377,6 +31383,24 @@ C48A5A     (base 16)		JFCONTROL
 88B362     (base 16)		Nokia Shanghai Bell Co., Ltd.
 				No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai 201206,P.R.China
 				Shanghai   Pudong  201206
+				CN
+
+94-0B-19   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+940B19     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+04-88-5F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04885F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+FC-BC-D1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FCBCD1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -62861,6 +62885,30 @@ FC8743     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan     523808
 				CN
 
+24-16-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24166D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+98-35-ED   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9835ED     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+70-C7-F2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70C7F2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+8C-FD-18   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8CFD18     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93660,6 +93708,12 @@ B8C385     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 089C86     (base 16)		Nokia Shanghai Bell Co., Ltd.
 				No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai 201206,P.R.China
 				Shanghai   Pudong  201206
+				CN
+
+C8-50-CE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C850CE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -124913,6 +124967,12 @@ C48FC1     (base 16)		DEEPTRACK S.L.U.
 				Dongguan     523808
 				CN
 
+28-41-C6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+2841C6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -156136,6 +156196,12 @@ B49A95     (base 16)		Shenzhen Boomtech Industrial Corporation
 
 C8-C2-FA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 C8C2FA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+F4-1D-6B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F41D6B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan     523808
 				CN
