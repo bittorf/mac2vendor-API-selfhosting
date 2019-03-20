@@ -9179,12 +9179,6 @@ A8CE90     (base 16)		CVC
 				Markham  Ontario  L3R3S1
 				CA
 
-00-1F-47   (hex)		MCS Logic Inc.
-001F47     (base 16)		MCS Logic Inc.
-				6F. Samho Center B Bldg., 275-6
-				Seoul    137-941
-				KR
-
 00-1F-D2   (hex)		COMMTECH TECHNOLOGY MACAO COMMERCIAL OFFSHORE LTD.
 001FD2     (base 16)		COMMTECH TECHNOLOGY MACAO COMMERCIAL OFFSHORE LTD.
 				31,TAI YIP STREET, 7/F KWUN TONG,
@@ -31402,6 +31396,12 @@ FCBCD1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan     523808
 				CN
+
+00-1F-47   (hex)		MCS Logic Inc.
+001F47     (base 16)		MCS Logic Inc.
+				6F. Samho Center B Bldg., 275-6
+				Seoul    137-941
+				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62885,6 +62885,30 @@ FC8743     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan     523808
 				CN
 
+40-2B-50   (hex)		ARRIS Group, Inc.
+402B50     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+AC-DB-48   (hex)		ARRIS Group, Inc.
+ACDB48     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+0C-B7-71   (hex)		ARRIS Group, Inc.
+0CB771     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+6C-29-90   (hex)		WiZ Connected Lighting Company Limited
+6C2990     (base 16)		WiZ Connected Lighting Company Limited
+				Room 3805, 148 Electric Road
+				Hong Kong  0000  0000
+				HK
+
 24-16-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 24166D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -93715,6 +93739,12 @@ C850CE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan     523808
 				CN
+
+CC-90-70   (hex)		Cisco Systems, Inc
+CC9070     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -156205,3 +156235,9 @@ F41D6B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan     523808
 				CN
+
+A4-98-13   (hex)		ARRIS Group, Inc.
+A49813     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
