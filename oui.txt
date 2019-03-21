@@ -31379,6 +31379,12 @@ C48A5A     (base 16)		JFCONTROL
 				Shanghai   Pudong  201206
 				CN
 
+FC-BC-D1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FCBCD1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
 94-0B-19   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 940B19     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -31387,12 +31393,6 @@ C48A5A     (base 16)		JFCONTROL
 
 04-88-5F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 04885F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
-FC-BC-D1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-FCBCD1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan     523808
 				CN
@@ -125003,6 +125003,12 @@ C48FC1     (base 16)		DEEPTRACK S.L.U.
 				Dongguan     523808
 				CN
 
+F8-A7-63   (hex)		Zhejiang Tmall Technology Co., Ltd.
+F8A763     (base 16)		Zhejiang Tmall Technology Co., Ltd.
+				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province
+				Shenzhen  GuangDong  518000
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -156230,14 +156236,14 @@ C8C2FA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan     523808
 				CN
 
-F4-1D-6B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-F41D6B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
 A4-98-13   (hex)		ARRIS Group, Inc.
 A49813     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+F4-1D-6B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F41D6B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
