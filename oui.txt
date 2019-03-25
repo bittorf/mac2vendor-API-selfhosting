@@ -31403,18 +31403,6 @@ FCBCD1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Seoul    137-941
 				KR
 
-38-94-ED   (hex)		NETGEAR
-3894ED     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
-C8-0D-32   (hex)		Holoplot GmbH
-C80D32     (base 16)		Holoplot GmbH
-				Ringbahnstr. 12, Hof A2
-				Berlin    12099
-				DE
-
 70-04-33   (hex)		California Things Inc.
 700433     (base 16)		California Things Inc.
 				650 main st
@@ -31426,6 +31414,18 @@ C80D32     (base 16)		Holoplot GmbH
 				2F., No.179, Dongmin Rd.
 				Toufen City, Miaoli County    351
 				TW
+
+C8-0D-32   (hex)		Holoplot GmbH
+C80D32     (base 16)		Holoplot GmbH
+				Ringbahnstr. 12, Hof A2
+				Berlin    12099
+				DE
+
+38-94-ED   (hex)		NETGEAR
+3894ED     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62963,17 +62963,23 @@ C85D38     (base 16)		HUMAX Co., Ltd.
 				Seongnam-si  Gyeonggi-do  463-875
 				KR
 
+D0-C8-57   (hex)		IEEE Registration Authority
+D0C857     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 B8-07-56   (hex)		Cisco Meraki
 B80756     (base 16)		Cisco Meraki
 				500 Terry A. Francois Blvd
 				San Francisco    94158
 				US
 
-D0-C8-57   (hex)		IEEE Registration Authority
-D0C857     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
+98-86-5D   (hex)		Nokia Shanghai Bell Co., Ltd.
+98865D     (base 16)		Nokia Shanghai Bell Co., Ltd.
+				No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai
+				Shanghai     201206
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -93792,6 +93798,12 @@ CC9070     (base 16)		Cisco Systems, Inc
 54EF44     (base 16)		Lumi United Technology Co., Ltd
 				8th Floor, JinQi Wisdom Valley, No.1 TangLing Road, LinXian Ave, Taoyuan Residential District,Nanshan District
 				ShenZhen  GuangDong  518055
+				CN
+
+48-A7-3C   (hex)		Sichuan tianyi kanghe communications co., LTD
+48A73C     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county
+				chengdu  sichuan  611330
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
