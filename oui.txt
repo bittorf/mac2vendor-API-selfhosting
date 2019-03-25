@@ -62981,6 +62981,12 @@ B80756     (base 16)		Cisco Meraki
 				Shanghai     201206
 				CN
 
+D8-D4-E6   (hex)		Hytec Inter Co., Ltd.
+D8D4E6     (base 16)		Hytec Inter Co., Ltd.
+				3-28-6 Yoyogi
+				Shibuya-ku  Tokyo  1510053
+				JP
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -125092,6 +125098,18 @@ C4411E     (base 16)		Belkin International Inc.
 				Karaportti 3
 				Espoo  Finland  02610
 				FI
+
+84-0B-7C   (hex)		Hitron Technologies. Inc
+840B7C     (base 16)		Hitron Technologies. Inc
+				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu  Taiwan  300
+				TW
+
+B4-DC-09   (hex)		Guangzhou Dawei Communication Co.,Ltd
+B4DC09     (base 16)		Guangzhou Dawei Communication Co.,Ltd
+				Zone A 906#, International Business Incubator, No.3 Juquan Road, Huangpu District
+				Guangzhou  Guangdong  510660
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
