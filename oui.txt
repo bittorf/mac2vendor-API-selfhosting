@@ -31427,6 +31427,12 @@ F010AB     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				Hangzhou  Zhejiang  310000
 				CN
 
+C4-C6-03   (hex)		Cisco Systems, Inc
+C4C603     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62975,12 +62981,6 @@ D8D4E6     (base 16)		Hytec Inter Co., Ltd.
 				Shibuya-ku  Tokyo  1510053
 				JP
 
-2C-4F-52   (hex)		Cisco Systems, Inc
-2C4F52     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 28-23-F5   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 2823F5     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District
@@ -62991,6 +62991,36 @@ D8D4E6     (base 16)		Hytec Inter Co., Ltd.
 8C1850     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District
 				Hangzhou  Hangzhou  310000
+				CN
+
+2C-4F-52   (hex)		Cisco Systems, Inc
+2C4F52     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+F8-E7-A0   (hex)		vivo Mobile Communication Co., Ltd.
+F8E7A0     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+2C-FF-EE   (hex)		vivo Mobile Communication Co., Ltd.
+2CFFEE     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+60-3A-7C   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+603A7C     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+7C-B5-9B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+7CB59B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -125105,10 +125135,10 @@ C4411E     (base 16)		Belkin International Inc.
 				Hsin-chu  Taiwan  300
 				TW
 
-B4-DC-09   (hex)		Guangzhou Dawei Communication Co.,Ltd
-B4DC09     (base 16)		Guangzhou Dawei Communication Co.,Ltd
-				Zone A 906#, International Business Incubator, No.3 Juquan Road, Huangpu District
-				Guangzhou  Guangdong  510660
+B4-54-59   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+B45459     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District
+				Hangzhou  Zhejiang  310000
 				CN
 
 00-04-C4   (hex)		Audiotonix Group Limited
@@ -125123,11 +125153,17 @@ B4DC09     (base 16)		Guangzhou Dawei Communication Co.,Ltd
 				ZEJTUN    ZTN 3000
 				MT
 
-B4-54-59   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
-B45459     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
-				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District
-				Hangzhou  Zhejiang  310000
+B4-DC-09   (hex)		Guangzhou Dawei Communication Co.,Ltd
+B4DC09     (base 16)		Guangzhou Dawei Communication Co.,Ltd
+				Zone A 906#, International Business Incubator, No.3 Juquan Road, Huangpu District
+				Guangzhou  Guangdong  510660
 				CN
+
+BC-A1-3A   (hex)		SES-imagotag
+BCA13A     (base 16)		SES-imagotag
+				St.-Peter-Gürtel 10b
+				Graz    8010
+				AT
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -156372,4 +156408,22 @@ B4A305     (base 16)		XIAMEN YAXON NETWORK CO., LTD.
 58C876     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District
 				Hangzhou  Zhejiang  310000
+				CN
+
+38-EF-E3   (hex)		 INGENICO TERMINALS SAS
+38EFE3     (base 16)		 INGENICO TERMINALS SAS
+				28-32 BOULEVARD DE GRENELLE
+				PARIS    75015
+				FR
+
+D0-37-45   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+D03745     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+50-D4-F7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+50D4F7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
 				CN
