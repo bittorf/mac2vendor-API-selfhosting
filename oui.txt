@@ -31433,6 +31433,12 @@ C4C603     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+50-E0-85   (hex)		Intel Corporate
+50E085     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62066,9 +62072,6 @@ E4D124     (base 16)		 Mojo Networks, Inc.
 				Chongqing  Chongqing  401332
 				CN
 
-CC-3A-DF   (hex)		Private
-CC3ADF     (base 16)		Private
-
 B4-CE-FE   (hex)		James Czekaj
 B4CEFE     (base 16)		James Czekaj
 				41716 Waterfall Rd
@@ -62807,17 +62810,17 @@ D05794     (base 16)		Sagemcom Broadband SAS
 				Gumi  Gyeongbuk  730-350
 				KR
 
-F8-8E-85   (hex)		Comtrend Corporation
-F88E85     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City ,  Taiwan  24159
-				TW
-
 F0-8A-76   (hex)		Samsung Electronics Co.,Ltd
 F08A76     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+F8-8E-85   (hex)		Comtrend Corporation
+F88E85     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City ,  Taiwan  24159
+				TW
 
 00-FA-21   (hex)		Samsung Electronics Co.,Ltd
 00FA21     (base 16)		Samsung Electronics Co.,Ltd
@@ -62867,17 +62870,17 @@ CC64A6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-50-F8-A5   (hex)		eWBM Co., Ltd.
-50F8A5     (base 16)		eWBM Co., Ltd.
-				14F, 9, Teheran-ro 20-gil
-				Gangnam-gu, Seoul    06236
-				KR
-
 08-4F-0A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 084F0A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+50-F8-A5   (hex)		eWBM Co., Ltd.
+50F8A5     (base 16)		eWBM Co., Ltd.
+				14F, 9, Teheran-ro 20-gil
+				Gangnam-gu, Seoul    06236
+				KR
 
 C8-D6-9D   (hex)		Arab International Optronics
 C8D69D     (base 16)		Arab International Optronics
@@ -62899,30 +62902,6 @@ C40683     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 
 FC-87-43   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 FC8743     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
-70-C7-F2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-70C7F2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
-8C-FD-18   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-8CFD18     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
-24-16-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-24166D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
-98-35-ED   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-9835ED     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan     523808
 				CN
@@ -62950,6 +62929,30 @@ ACDB48     (base 16)		ARRIS Group, Inc.
 				Room 3805, 148 Electric Road
 				Hong Kong  0000  0000
 				HK
+
+24-16-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24166D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+98-35-ED   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9835ED     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+70-C7-F2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70C7F2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+8C-FD-18   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8CFD18     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
 
 C8-5D-38   (hex)		HUMAX Co., Ltd.
 C85D38     (base 16)		HUMAX Co., Ltd.
@@ -62999,6 +63002,18 @@ D8D4E6     (base 16)		Hytec Inter Co., Ltd.
 				San Jose  CA  94568
 				US
 
+60-3A-7C   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+603A7C     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+7C-B5-9B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+7CB59B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 F8-E7-A0   (hex)		vivo Mobile Communication Co., Ltd.
 F8E7A0     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
@@ -63011,17 +63026,20 @@ F8E7A0     (base 16)		vivo Mobile Communication Co., Ltd.
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-60-3A-7C   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-603A7C     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
+CC-3A-DF   (hex)		Private
+CC3ADF     (base 16)		Private
 
-7C-B5-9B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-7CB59B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
+24-EE-9A   (hex)		Intel Corporate
+24EE9A     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+50-97-44   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+509744     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
