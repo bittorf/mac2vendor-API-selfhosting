@@ -31451,6 +31451,12 @@ C4C603     (base 16)		Cisco Systems, Inc
 				Westford  MA  01886
 				US
 
+DC-54-D7   (hex)		Amazon Technologies Inc.
+DC54D7     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
