@@ -31427,12 +31427,6 @@ C4C603     (base 16)		Cisco Systems, Inc
 				Kulim  Kedah  09000
 				MY
 
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City,  Taiwan  24159
-				TW
-
 00-1D-20   (hex)		Comtrend Corporation
 001D20     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
@@ -31450,6 +31444,12 @@ C4C603     (base 16)		Cisco Systems, Inc
 				310 Littleton Road
 				Westford  MA  01886
 				US
+
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City,  Taiwan  24159
+				TW
 
 DC-54-D7   (hex)		Amazon Technologies Inc.
 DC54D7     (base 16)		Amazon Technologies Inc.
@@ -125218,6 +125218,12 @@ BCA13A     (base 16)		SES-imagotag
 				310 Littleton Road
 				Westford  MA  01886
 				US
+
+2C-1E-4F   (hex)		Chengdu Qianli Network Technology Co., Ltd.
+2C1E4F     (base 16)		Chengdu Qianli Network Technology Co., Ltd.
+				Room 1208, 4 Building, Ideal Center, NO.38 Tianyi Street, Chengdu High-tech Zone
+				Chengdu  Sichuan  610000
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
