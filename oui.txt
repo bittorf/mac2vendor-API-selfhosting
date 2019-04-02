@@ -63071,6 +63071,12 @@ F88E85     (base 16)		Comtrend Corporation
 				Westford  MA  01886
 				US
 
+F4-33-28   (hex)		CIMCON Lighting Inc.
+F43328     (base 16)		CIMCON Lighting Inc.
+				35 Crosby Drive
+				Bedford  MA  01730
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -125207,6 +125213,18 @@ BCA13A     (base 16)		SES-imagotag
 				Graz    8010
 				AT
 
+2C-1E-4F   (hex)		Chengdu Qianli Network Technology Co., Ltd.
+2C1E4F     (base 16)		Chengdu Qianli Network Technology Co., Ltd.
+				Room 1208, 4 Building, Ideal Center, NO.38 Tianyi Street, Chengdu High-tech Zone
+				Chengdu  Sichuan  610000
+				CN
+
+AC-5D-5C   (hex)		FN-LINK TECHNOLOGY LIMITED
+AC5D5C     (base 16)		FN-LINK TECHNOLOGY LIMITED
+				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
+				SHENZHEN  GUANGDONG  518100
+				CN
+
 38-72-C0   (hex)		Comtrend Corporation
 3872C0     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
@@ -125219,10 +125237,10 @@ BCA13A     (base 16)		SES-imagotag
 				Westford  MA  01886
 				US
 
-2C-1E-4F   (hex)		Chengdu Qianli Network Technology Co., Ltd.
-2C1E4F     (base 16)		Chengdu Qianli Network Technology Co., Ltd.
-				Room 1208, 4 Building, Ideal Center, NO.38 Tianyi Street, Chengdu High-tech Zone
-				Chengdu  Sichuan  610000
+A4-AE-11   (hex)		Hon Hai Precision Ind. Co., Ltd.
+A4AE11     (base 16)		Hon Hai Precision Ind. Co., Ltd.
+				GuangDongShenZhen
+				ShenZhen  GuangDong  518109
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -156499,3 +156517,9 @@ D8B6B7     (base 16)		Comtrend Corporation
 				30 Hoji
 				Kitami,  Hokkaido  099-1595
 				JP
+
+00-F6-20   (hex)		Google, Inc.
+00F620     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
