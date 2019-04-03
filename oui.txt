@@ -31457,6 +31457,12 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 				Reno  NV  89507
 				US
 
+6C-5E-3B   (hex)		Cisco Systems, Inc
+6C5E3B     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -63087,6 +63093,18 @@ F43328     (base 16)		CIMCON Lighting Inc.
 3CB74B     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
+				US
+
+B0-B5-E8   (hex)		Ruroc LTD
+B0B5E8     (base 16)		Ruroc LTD
+				Unit 2, Barnett Way, Barnwood Estate
+				Gloucester    GL4 3RT
+				GB
+
+04-D5-90   (hex)		Fortinet, Inc.
+04D590     (base 16)		Fortinet, Inc.
+				899 Kifer Road
+				Sunnyvale    94086
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -156548,14 +156566,14 @@ D8B6B7     (base 16)		Comtrend Corporation
 				Mountain View  CA  94043
 				US
 
-E4-15-F6   (hex)		Texas Instruments
-E415F6     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
 B4-60-77   (hex)		Sichuan Changhong Electric Ltd.
 B46077     (base 16)		Sichuan Changhong Electric Ltd.
 				No.35,East MianXin Road,MianYang,Sichaun,China.
 				MianYang  SiChuan  PRC 621000
 				CN
+
+E4-15-F6   (hex)		Texas Instruments
+E415F6     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
