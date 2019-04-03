@@ -63035,16 +63035,16 @@ F8E7A0     (base 16)		vivo Mobile Communication Co., Ltd.
 CC-3A-DF   (hex)		Private
 CC3ADF     (base 16)		Private
 
-24-EE-9A   (hex)		Intel Corporate
-24EE9A     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
 50-97-44   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 509744     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
+				MY
+
+24-EE-9A   (hex)		Intel Corporate
+24EE9A     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
 				MY
 
 38-1A-52   (hex)		Seiko Epson Corporation
@@ -63075,6 +63075,18 @@ F4-33-28   (hex)		CIMCON Lighting Inc.
 F43328     (base 16)		CIMCON Lighting Inc.
 				35 Crosby Drive
 				Bedford  MA  01730
+				US
+
+14-42-FC   (hex)		Texas Instruments
+1442FC     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+3C-B7-4B   (hex)		Technicolor CH USA Inc.
+3CB74B     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -93906,6 +93918,12 @@ D8-E7-2B   (hex)		NetAlly
 D8E72B     (base 16)		NetAlly
 				310 Littleton Road
 				Westford  MA  01886
+				US
+
+00-35-FF   (hex)		Texas Instruments
+0035FF     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -125219,10 +125237,10 @@ BCA13A     (base 16)		SES-imagotag
 				Chengdu  Sichuan  610000
 				CN
 
-AC-5D-5C   (hex)		FN-LINK TECHNOLOGY LIMITED
-AC5D5C     (base 16)		FN-LINK TECHNOLOGY LIMITED
-				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
-				SHENZHEN  GUANGDONG  518100
+A4-AE-11   (hex)		Hon Hai Precision Ind. Co., Ltd.
+A4AE11     (base 16)		Hon Hai Precision Ind. Co., Ltd.
+				GuangDongShenZhen
+				ShenZhen  GuangDong  518109
 				CN
 
 38-72-C0   (hex)		Comtrend Corporation
@@ -125237,11 +125255,17 @@ AC5D5C     (base 16)		FN-LINK TECHNOLOGY LIMITED
 				Westford  MA  01886
 				US
 
-A4-AE-11   (hex)		Hon Hai Precision Ind. Co., Ltd.
-A4AE11     (base 16)		Hon Hai Precision Ind. Co., Ltd.
-				GuangDongShenZhen
-				ShenZhen  GuangDong  518109
+AC-5D-5C   (hex)		FN-LINK TECHNOLOGY LIMITED
+AC5D5C     (base 16)		FN-LINK TECHNOLOGY LIMITED
+				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
+				SHENZHEN  GUANGDONG  518100
 				CN
+
+B4-52-A9   (hex)		Texas Instruments
+B452A9     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -156523,3 +156547,15 @@ D8B6B7     (base 16)		Comtrend Corporation
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
 				US
+
+E4-15-F6   (hex)		Texas Instruments
+E415F6     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+B4-60-77   (hex)		Sichuan Changhong Electric Ltd.
+B46077     (base 16)		Sichuan Changhong Electric Ltd.
+				No.35,East MianXin Road,MianYang,Sichaun,China.
+				MianYang  SiChuan  PRC 621000
+				CN
