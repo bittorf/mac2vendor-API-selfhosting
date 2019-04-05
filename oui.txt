@@ -63137,6 +63137,12 @@ D462EA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+F8-AD-CB   (hex)		HMD Global Oy
+F8ADCB     (base 16)		HMD Global Oy
+				Bertel Jungin aukio 9
+				Espoo    02600
+				FI
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
