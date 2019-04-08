@@ -29543,9 +29543,6 @@ FC528D     (base 16)		Technicolor CH USA Inc.
 				Santa Clara  CA  95054
 				US
 
-54-4E-45   (hex)		Private
-544E45     (base 16)		Private
-
 00-90-CE   (hex)		 avateramedical Mechatronics GmbH
 0090CE     (base 16)		 avateramedical Mechatronics GmbH
 				Gewerbepark „Am Wald“ 4
@@ -31427,6 +31424,12 @@ C4C603     (base 16)		Cisco Systems, Inc
 				Kulim  Kedah  09000
 				MY
 
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City,  Taiwan  24159
+				TW
+
 00-1D-20   (hex)		Comtrend Corporation
 001D20     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
@@ -31445,12 +31448,6 @@ C4C603     (base 16)		Cisco Systems, Inc
 				Westford  MA  01886
 				US
 
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City,  Taiwan  24159
-				TW
-
 DC-54-D7   (hex)		Amazon Technologies Inc.
 DC54D7     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
@@ -31467,6 +31464,15 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 7C942A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+54-4E-45   (hex)		Private
+544E45     (base 16)		Private
+
+04-C8-07   (hex)		Xiaomi Communications Co Ltd
+04C807     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -63143,6 +63149,12 @@ F8ADCB     (base 16)		HMD Global Oy
 				Espoo    02600
 				FI
 
+D8-AF-81   (hex)		   ZAO NPK Rotek
+D8AF81     (base 16)		   ZAO NPK Rotek
+				Filippovskiy per., 8/1
+				Moscow    119019
+				RU
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93956,12 +93968,6 @@ CC9070     (base 16)		Cisco Systems, Inc
 				Rome     00133
 				IT
 
-C8-D1-2A   (hex)		Comtrend Corporation
-C8D12A     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City,  Taiwan  24159
-				TW
-
 00-0C-FF   (hex)		MRO-TEK Realty Limited
 000CFF     (base 16)		MRO-TEK Realty Limited
 				#6, New BEL Road
@@ -93974,11 +93980,29 @@ D8E72B     (base 16)		NetAlly
 				Westford  MA  01886
 				US
 
+C8-D1-2A   (hex)		Comtrend Corporation
+C8D12A     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City,  Taiwan  24159
+				TW
+
 00-35-FF   (hex)		Texas Instruments
 0035FF     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+E4-FD-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+68-3F-1E   (hex)		EFFECT Photonics B.V.
+683F1E     (base 16)		EFFECT Photonics B.V.
+				Kastanjelaan 400
+				Eindhoven  Noord-Brabant  5616 LZ
+				NL
 
 44-59-E3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 4459E3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -93998,17 +94022,11 @@ D8E72B     (base 16)		NetAlly
 				Dongguan    523808
 				CN
 
-E4-FD-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-68-3F-1E   (hex)		EFFECT Photonics B.V.
-683F1E     (base 16)		EFFECT Photonics B.V.
-				Kastanjelaan 400
-				Eindhoven  Noord-Brabant  5616 LZ
-				NL
+98-7A-14   (hex)		Microsoft Corporation
+987A14     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -125357,6 +125375,18 @@ E454E8     (base 16)		Dell Inc.
 				Round Rock  TX  78682
 				US
 
+AC-B1-EE   (hex)		SHENZHEN FENDA TECHNOLOGY CO., LTD
+ACB1EE     (base 16)		SHENZHEN FENDA TECHNOLOGY CO., LTD
+				Fenda Hi-Tech Park, Zhoushi Road, Shiyan, Baoan
+				ShenZhen  GuangDong  518108
+				CN
+
+18-71-D5   (hex)		Hazens Automotive Electronics(SZ)Co.,Ltd.
+1871D5     (base 16)		Hazens Automotive Electronics(SZ)Co.,Ltd.
+				C8 Building, Building 13, Zhongxin Innovation Industry City, No.12, Ganli No.6 Road, Ganli Industrial Park, Buji Street, Longgang District 
+				Shenzhen  Guangdong  518100
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -156667,3 +156697,9 @@ B86685     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+C8-3D-DC   (hex)		Xiaomi Communications Co Ltd
+C83DDC     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
