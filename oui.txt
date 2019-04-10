@@ -31466,14 +31466,14 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 				Dongguan    523808
 				CN
 
-54-4E-45   (hex)		Private
-544E45     (base 16)		Private
-
 04-C8-07   (hex)		Xiaomi Communications Co Ltd
 04C807     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+54-4E-45   (hex)		Private
+544E45     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63155,6 +63155,12 @@ D8AF81     (base 16)		   ZAO NPK Rotek
 				Moscow    119019
 				RU
 
+04-A2-22   (hex)		Arcadyan Corporation
+04A222     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94027,6 +94033,12 @@ E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				One Microsoft Way
 				REDMOND  WA  98052
 				US
+
+04-AB-6A   (hex)		Chun-il Co.,Ltd.
+04AB6A     (base 16)		Chun-il Co.,Ltd.
+				13-7, Gimhae-daero 2694 beon-gil,
+				Gimhae-si  Gyeongsangnam-do  50936
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
