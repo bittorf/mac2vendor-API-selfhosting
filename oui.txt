@@ -125465,6 +125465,12 @@ D04E50     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 				Ningbo  Zhejiang  315500
 				CN
 
+84-D4-12   (hex)		Palo Alto Networks
+84D412     (base 16)		Palo Alto Networks
+				3000 Tannery Way
+				Santa Clara  CA  95054
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
