@@ -31436,18 +31436,6 @@ C4C603     (base 16)		Cisco Systems, Inc
 				New Taipei City,  Taiwan  24159
 				TW
 
-00-80-8C   (hex)		NetAlly
-00808C     (base 16)		NetAlly
-				310 Littleton Road
-				Westford  MA  01886
-				US
-
-04-9F-81   (hex)		NetAlly
-049F81     (base 16)		NetAlly
-				310 Littleton Road
-				Westford  MA  01886
-				US
-
 DC-54-D7   (hex)		Amazon Technologies Inc.
 DC54D7     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
@@ -31485,6 +31473,18 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 489BD5     (base 16)		Extreme Networks, Inc.
 				6480 Via Del Oro
 				San Jose  CA  95119
+				US
+
+00-80-8C   (hex)		NetAlly
+00808C     (base 16)		NetAlly
+				2075 Research Parkway
+				Colorado Springs  CO  80920
+				US
+
+04-9F-81   (hex)		NetAlly
+049F81     (base 16)		NetAlly
+				2075 Research Parkway
+				Colorado Springs  CO  80920
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -63065,16 +63065,16 @@ F8E7A0     (base 16)		vivo Mobile Communication Co., Ltd.
 CC-3A-DF   (hex)		Private
 CC3ADF     (base 16)		Private
 
-24-EE-9A   (hex)		Intel Corporate
-24EE9A     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
 50-97-44   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 509744     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
+				MY
+
+24-EE-9A   (hex)		Intel Corporate
+24EE9A     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
 				MY
 
 38-1A-52   (hex)		Seiko Epson Corporation
@@ -63095,10 +63095,10 @@ F88E85     (base 16)		Comtrend Corporation
 				New Taipei City,  Taiwan  24159
 				TW
 
-00-C0-17   (hex)		NetAlly
-00C017     (base 16)		NetAlly
-				310 Littleton Road
-				Westford  MA  01886
+F4-33-28   (hex)		CIMCON Lighting Inc.
+F43328     (base 16)		CIMCON Lighting Inc.
+				35 Crosby Drive
+				Bedford  MA  01730
 				US
 
 3C-B7-4B   (hex)		Technicolor CH USA Inc.
@@ -63113,17 +63113,11 @@ F88E85     (base 16)		Comtrend Corporation
 				Dallas  TX  75243
 				US
 
-F4-33-28   (hex)		CIMCON Lighting Inc.
-F43328     (base 16)		CIMCON Lighting Inc.
-				35 Crosby Drive
-				Bedford  MA  01730
+5C-5A-C7   (hex)		Cisco Systems, Inc
+5C5AC7     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
-
-B0-B5-E8   (hex)		Ruroc LTD
-B0B5E8     (base 16)		Ruroc LTD
-				Unit 2, Barnett Way, Barnwood Estate
-				Gloucester    GL4 3RT
-				GB
 
 04-D5-90   (hex)		Fortinet, Inc.
 04D590     (base 16)		Fortinet, Inc.
@@ -63131,11 +63125,11 @@ B0B5E8     (base 16)		Ruroc LTD
 				Sunnyvale    94086
 				US
 
-5C-5A-C7   (hex)		Cisco Systems, Inc
-5C5AC7     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+B0-B5-E8   (hex)		Ruroc LTD
+B0B5E8     (base 16)		Ruroc LTD
+				Unit 2, Barnett Way, Barnwood Estate
+				Gloucester    GL4 3RT
+				GB
 
 1C-B7-96   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 1CB796     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -63173,16 +63167,22 @@ D8AF81     (base 16)		   ZAO NPK Rotek
 				Hsinchu City  Hsinchu  30071
 				TW
 
+B4-A2-EB   (hex)		IEEE Registration Authority
+B4A2EB     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 54-15-89   (hex)		MCS Logic Inc.
 541589     (base 16)		MCS Logic Inc.
 				A-1701, Munjeong-dong, SK V1 GL Metro City, 128, Beobwon-ro, Songpa-gu, 
 				seoul  seoul  05854
 				KR
 
-B4-A2-EB   (hex)		IEEE Registration Authority
-B4A2EB     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
+00-C0-17   (hex)		NetAlly
+00C017     (base 16)		NetAlly
+				2075 Research Parkway
+				Colorado Springs  CO  80920
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -94004,12 +94004,6 @@ CC9070     (base 16)		Cisco Systems, Inc
 				Chikkamaranahalli  Bangalore  560 054
 				IN
 
-D8-E7-2B   (hex)		NetAlly
-D8E72B     (base 16)		NetAlly
-				310 Littleton Road
-				Westford  MA  01886
-				US
-
 C8-D1-2A   (hex)		Comtrend Corporation
 C8D12A     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
@@ -94093,6 +94087,18 @@ F860F0     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				One Microsoft Way
 				REDMOND    98052
 				US
+
+D8-E7-2B   (hex)		NetAlly
+D8E72B     (base 16)		NetAlly
+				2075 Research Parkway
+				Colorado Springs  CO  80920
+				US
+
+5C-A1-E0   (hex)		EmbedWay Technologies
+5CA1E0     (base 16)		EmbedWay Technologies
+				6F, Building 8, No 2388, Chenhang Rd, Shanghai
+				Shanghai    201114
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -125405,10 +125411,10 @@ BCA13A     (base 16)		SES-imagotag
 				Chengdu  Sichuan  610000
 				CN
 
-AC-5D-5C   (hex)		FN-LINK TECHNOLOGY LIMITED
-AC5D5C     (base 16)		FN-LINK TECHNOLOGY LIMITED
-				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
-				SHENZHEN  GUANGDONG  518100
+A4-AE-11   (hex)		Hon Hai Precision Ind. Co., Ltd.
+A4AE11     (base 16)		Hon Hai Precision Ind. Co., Ltd.
+				GuangDongShenZhen
+				ShenZhen  GuangDong  518109
 				CN
 
 38-72-C0   (hex)		Comtrend Corporation
@@ -125417,16 +125423,10 @@ AC5D5C     (base 16)		FN-LINK TECHNOLOGY LIMITED
 				New Taipei City,  Taiwan  24159
 				TW
 
-00-A0-0E   (hex)		NetAlly
-00A00E     (base 16)		NetAlly
-				310 Littleton Road
-				Westford  MA  01886
-				US
-
-A4-AE-11   (hex)		Hon Hai Precision Ind. Co., Ltd.
-A4AE11     (base 16)		Hon Hai Precision Ind. Co., Ltd.
-				GuangDongShenZhen
-				ShenZhen  GuangDong  518109
+AC-5D-5C   (hex)		FN-LINK TECHNOLOGY LIMITED
+AC5D5C     (base 16)		FN-LINK TECHNOLOGY LIMITED
+				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
+				SHENZHEN  GUANGDONG  518100
 				CN
 
 B4-52-A9   (hex)		Texas Instruments
@@ -125453,23 +125453,41 @@ ACB1EE     (base 16)		SHENZHEN FENDA TECHNOLOGY CO., LTD
 				Shenzhen  Guangdong  518100
 				CN
 
-2C-16-BD   (hex)		IEEE Registration Authority
-2C16BD     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 D0-4E-50   (hex)		Mobiwire Mobiles (NingBo) Co., LTD
 D04E50     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 				No.999 Dacheng East Road, Fenghua District, Ningbo City , Zhejiang Province, PRC
 				Ningbo  Zhejiang  315500
 				CN
 
+2C-16-BD   (hex)		IEEE Registration Authority
+2C16BD     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 84-D4-12   (hex)		Palo Alto Networks
 84D412     (base 16)		Palo Alto Networks
 				3000 Tannery Way
 				Santa Clara  CA  95054
 				US
+
+00-A0-0E   (hex)		NetAlly
+00A00E     (base 16)		NetAlly
+				2075 Research Parkway
+				Colorado Springs  CO  80920
+				US
+
+40-74-E0   (hex)		Intel Corporate
+4074E0     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+B4-C4-76   (hex)		Wuhan Maritime Communication Research Institute
+B4C476     (base 16)		Wuhan Maritime Communication Research Institute
+				No.312 Luoyu road, Hongshan District
+				Wuhan  Hubei  430079
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -156752,23 +156770,17 @@ D8B6B7     (base 16)		Comtrend Corporation
 				Mountain View  CA  94043
 				US
 
-E4-15-F6   (hex)		Texas Instruments
-E415F6     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
 B4-60-77   (hex)		Sichuan Changhong Electric Ltd.
 B46077     (base 16)		Sichuan Changhong Electric Ltd.
 				No.35,East MianXin Road,MianYang,Sichaun,China.
 				MianYang  SiChuan  PRC 621000
 				CN
 
-54-92-09   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-549209     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+E4-15-F6   (hex)		Texas Instruments
+E415F6     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 E4-19-C1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 E419C1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -156782,17 +156794,17 @@ B86685     (base 16)		Sagemcom Broadband SAS
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
+54-92-09   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+549209     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 C8-3D-DC   (hex)		Xiaomi Communications Co Ltd
 C83DDC     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
-
-B4-6C-47   (hex)		Panasonic Appliances Company
-B46C47     (base 16)		Panasonic Appliances Company
-				2-3-1-2 Noji-higashi
-				Kusatsu City  Shiga  525-8555
-				JP
 
 3C-8C-93   (hex)		Juniper Networks
 3C8C93     (base 16)		Juniper Networks
@@ -156800,8 +156812,44 @@ B46C47     (base 16)		Panasonic Appliances Company
 				Sunnyvale  CA  94089
 				US
 
+B4-6C-47   (hex)		Panasonic Appliances Company
+B46C47     (base 16)		Panasonic Appliances Company
+				2-3-1-2 Noji-higashi
+				Kusatsu City  Shiga  525-8555
+				JP
+
 C0-64-E4   (hex)		Cisco Systems, Inc
 C064E4     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+30-86-2D   (hex)		Arista Network, Inc.
+30862D     (base 16)		Arista Network, Inc.
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+F4-3E-66   (hex)		Bee Computing (HK) Limited
+F43E66     (base 16)		Bee Computing (HK) Limited
+				Room 1902, 19/F, Lee Garden One 33 Hysan Avenue, Causeway Bay
+				Hong Kong    100043
+				HK
+
+50-EB-71   (hex)		Intel Corporate
+50EB71     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+DC-39-6F   (hex)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+DC396F     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
+68-34-89   (hex)		LEA Professional
+683489     (base 16)		LEA Professional
+				635 S. Lafayette Blvd
+				South Bend  IN  46601
 				US
