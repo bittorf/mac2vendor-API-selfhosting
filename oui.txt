@@ -31424,14 +31424,14 @@ C4C603     (base 16)		Cisco Systems, Inc
 				Kulim  Kedah  09000
 				MY
 
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
+00-1D-20   (hex)		Comtrend Corporation
+001D20     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City,  Taiwan  24159
 				TW
 
-00-1D-20   (hex)		Comtrend Corporation
-001D20     (base 16)		Comtrend Corporation
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City,  Taiwan  24159
 				TW
@@ -63185,6 +63185,12 @@ B4A2EB     (base 16)		IEEE Registration Authority
 				Colorado Springs  CO  80920
 				US
 
+50-80-4A   (hex)		Quectel Wireless Solutions Co., Ltd.
+50804A     (base 16)		Quectel Wireless Solutions Co., Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93998,35 +94004,23 @@ CC9070     (base 16)		Cisco Systems, Inc
 				Rome     00133
 				IT
 
-00-0C-FF   (hex)		MRO-TEK Realty Limited
-000CFF     (base 16)		MRO-TEK Realty Limited
-				#6, New BEL Road
-				Chikkamaranahalli  Bangalore  560 054
-				IN
-
 C8-D1-2A   (hex)		Comtrend Corporation
 C8D12A     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City,  Taiwan  24159
 				TW
 
+00-0C-FF   (hex)		MRO-TEK Realty Limited
+000CFF     (base 16)		MRO-TEK Realty Limited
+				#6, New BEL Road
+				Chikkamaranahalli  Bangalore  560 054
+				IN
+
 00-35-FF   (hex)		Texas Instruments
 0035FF     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
-
-E4-FD-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-68-3F-1E   (hex)		EFFECT Photonics B.V.
-683F1E     (base 16)		EFFECT Photonics B.V.
-				Kastanjelaan 400
-				Eindhoven  Noord-Brabant  5616 LZ
-				NL
 
 44-59-E3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 4459E3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -94046,6 +94040,18 @@ E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+E4-FD-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+68-3F-1E   (hex)		EFFECT Photonics B.V.
+683F1E     (base 16)		EFFECT Photonics B.V.
+				Kastanjelaan 400
+				Eindhoven  Noord-Brabant  5616 LZ
+				NL
+
 98-7A-14   (hex)		Microsoft Corporation
 987A14     (base 16)		Microsoft Corporation
 				One Microsoft Way
@@ -94057,6 +94063,18 @@ E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				13-7, Gimhae-daero 2694 beon-gil,
 				Gimhae-si  Gyeongsangnam-do  50936
 				KR
+
+54-DE-D0   (hex)		Sevio Srl
+54DED0     (base 16)		Sevio Srl
+				Via Dei Caniana 6/A
+				Bergamo  Bergamo  24127
+				IT
+
+84-57-33   (hex)		Microsoft Corporation
+845733     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND    98052
+				US
 
 F8-60-F0   (hex)		Aruba, a Hewlett Packard Enterprise Company
 F860F0     (base 16)		Aruba, a Hewlett Packard Enterprise Company
@@ -94076,18 +94094,6 @@ F860F0     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				Kromeriz    76701
 				CZ
 
-54-DE-D0   (hex)		Sevio Srl
-54DED0     (base 16)		Sevio Srl
-				Via Dei Caniana 6/A
-				Bergamo  Bergamo  24127
-				IT
-
-84-57-33   (hex)		Microsoft Corporation
-845733     (base 16)		Microsoft Corporation
-				One Microsoft Way
-				REDMOND    98052
-				US
-
 D8-E7-2B   (hex)		NetAlly
 D8E72B     (base 16)		NetAlly
 				2075 Research Parkway
@@ -94098,6 +94104,24 @@ D8E72B     (base 16)		NetAlly
 5CA1E0     (base 16)		EmbedWay Technologies
 				6F, Building 8, No 2388, Chenhang Rd, Shanghai
 				Shanghai    201114
+				CN
+
+74-84-E1   (hex)		Dongguan Haoyuan Electronics Co.,Ltd
+7484E1     (base 16)		Dongguan Haoyuan Electronics Co.,Ltd
+				NO.161 Kejizhong RoadLiuwu Shijie Town
+				Dongguan  Guangdong  523290
+				CN
+
+30-94-35   (hex)		vivo Mobile Communication Co., Ltd.
+309435     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+08-B3-AF   (hex)		vivo Mobile Communication Co., Ltd.
+08B3AF     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -125471,6 +125495,12 @@ D04E50     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 				Santa Clara  CA  95054
 				US
 
+B4-C4-76   (hex)		Wuhan Maritime Communication Research Institute
+B4C476     (base 16)		Wuhan Maritime Communication Research Institute
+				No.312 Luoyu road, Hongshan District
+				Wuhan  Hubei  430079
+				CN
+
 00-A0-0E   (hex)		NetAlly
 00A00E     (base 16)		NetAlly
 				2075 Research Parkway
@@ -125482,12 +125512,6 @@ D04E50     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
-
-B4-C4-76   (hex)		Wuhan Maritime Communication Research Institute
-B4C476     (base 16)		Wuhan Maritime Communication Research Institute
-				No.312 Luoyu road, Hongshan District
-				Wuhan  Hubei  430079
-				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
