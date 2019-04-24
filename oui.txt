@@ -63221,6 +63221,12 @@ D058FC     (base 16)		BSkyB Ltd
 				Brentwood  Essex  08854
 				GB
 
+3C-EC-EF   (hex)		Super Micro Computer, Inc.
+3CECEF     (base 16)		Super Micro Computer, Inc.
+				980 Rock Ave
+				San Jose  CA  95131
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94170,6 +94176,18 @@ D8-E7-2B   (hex)		NetAlly
 D8E72B     (base 16)		NetAlly
 				310 Littleton Road
 				Westford  MA  01886 
+				US
+
+68-3B-78   (hex)		Cisco Systems, Inc
+683B78     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+74-D6-37   (hex)		Amazon Technologies Inc.
+74D637     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
