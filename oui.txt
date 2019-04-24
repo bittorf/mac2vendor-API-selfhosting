@@ -21767,18 +21767,6 @@ D0D04B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				New Taipei City  Taiwan  231
 				TW
 
-7C-4C-A5   (hex)		BSkyB Ltd
-7C4CA5     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
-90-21-06   (hex)		BSkyB Ltd
-902106     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 A4-C7-DE   (hex)		Cambridge Industries(Group) Co.,Ltd.
 A4C7DE     (base 16)		Cambridge Industries(Group) Co.,Ltd.
 				22 Floor,Qilai Tower;889 Yishan Road
@@ -24623,12 +24611,6 @@ F015B9     (base 16)		PlayFusion Limited
 				Cambridge    CB4 0WS
 				GB
 
-24-A7-DC   (hex)		BSkyB Ltd
-24A7DC     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 2C-D0-2D   (hex)		Cisco Systems, Inc
 2CD02D     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -26212,12 +26194,6 @@ E4A7C5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-38-A6-CE   (hex)		BSkyB Ltd
-38A6CE     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
 
 F0-AB-54   (hex)		MITSUMI ELECTRIC CO.,LTD.
 F0AB54     (base 16)		MITSUMI ELECTRIC CO.,LTD.
@@ -28835,12 +28811,6 @@ F84DFC     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				Tama-shi  Tokyo  206-8567
 				JP
 
-90-02-18   (hex)		BSkyB Ltd
-900218     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 CC-3F-EA   (hex)		BAE Systems, Inc
 CC3FEA     (base 16)		BAE Systems, Inc
 				1098 Clark St
@@ -31424,14 +31394,14 @@ C4C603     (base 16)		Cisco Systems, Inc
 				Kulim  Kedah  09000
 				MY
 
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
+00-1D-20   (hex)		Comtrend Corporation
+001D20     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City,  Taiwan  24159
 				TW
 
-00-1D-20   (hex)		Comtrend Corporation
-001D20     (base 16)		Comtrend Corporation
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City,  Taiwan  24159
 				TW
@@ -31486,6 +31456,36 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 				310 Littleton Road
 				Westford  MA  01886 
 				US
+
+90-21-06   (hex)		BSkyB Ltd
+902106     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+7C-4C-A5   (hex)		BSkyB Ltd
+7C4CA5     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+24-A7-DC   (hex)		BSkyB Ltd
+24A7DC     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+38-A6-CE   (hex)		BSkyB Ltd
+38A6CE     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+90-02-18   (hex)		BSkyB Ltd
+900218     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -53282,12 +53282,6 @@ FCB4E6     (base 16)		ASKEY COMPUTER CORP
 				Tehran  Tehran  1936938194
 				IR
 
-78-3E-53   (hex)		BSkyB Ltd
-783E53     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 4C-F2-BF   (hex)		Cambridge Industries(Group) Co.,Ltd.
 4CF2BF     (base 16)		Cambridge Industries(Group) Co.,Ltd.
 				22 Floor,Qilai Tower;889 Yishan Road
@@ -53941,12 +53935,6 @@ E4A471     (base 16)		Intel Corporate
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
-
-70-50-AF   (hex)		BSkyB Ltd
-7050AF     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
 
 F4-EF-9E   (hex)		SGSG SCIENCE & TECHNOLOGY CO. LTD
 F4EF9E     (base 16)		SGSG SCIENCE & TECHNOLOGY CO. LTD
@@ -56962,12 +56950,6 @@ B85001     (base 16)		Extreme Networks, Inc.
 				SUITES 2302-6, 23/F GREAT EAGLE CTR 23 HARBOUR RD 
 				WANCHAI    NA
 				HK
-
-A0-BD-CD   (hex)		BSkyB Ltd
-A0BDCD     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
 
 80-3A-59   (hex)		AT&T
 803A59     (base 16)		AT&T
@@ -61805,12 +61787,6 @@ F04B3A     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-D0-58-FC   (hex)		BSkyB Ltd
-D058FC     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 74-EB-80   (hex)		Samsung Electronics Co.,Ltd
 74EB80     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -63065,16 +63041,16 @@ F8E7A0     (base 16)		vivo Mobile Communication Co., Ltd.
 CC-3A-DF   (hex)		Private
 CC3ADF     (base 16)		Private
 
-24-EE-9A   (hex)		Intel Corporate
-24EE9A     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
 50-97-44   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 509744     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
+				MY
+
+24-EE-9A   (hex)		Intel Corporate
+24EE9A     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
 				MY
 
 38-1A-52   (hex)		Seiko Epson Corporation
@@ -63095,6 +63071,12 @@ F88E85     (base 16)		Comtrend Corporation
 				New Taipei City,  Taiwan  24159
 				TW
 
+F4-33-28   (hex)		CIMCON Lighting Inc.
+F43328     (base 16)		CIMCON Lighting Inc.
+				35 Crosby Drive
+				Bedford  MA  01730
+				US
+
 3C-B7-4B   (hex)		Technicolor CH USA Inc.
 3CB74B     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -63107,17 +63089,11 @@ F88E85     (base 16)		Comtrend Corporation
 				Dallas  TX  75243
 				US
 
-F4-33-28   (hex)		CIMCON Lighting Inc.
-F43328     (base 16)		CIMCON Lighting Inc.
-				35 Crosby Drive
-				Bedford  MA  01730
+5C-5A-C7   (hex)		Cisco Systems, Inc
+5C5AC7     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
-
-B0-B5-E8   (hex)		Ruroc LTD
-B0B5E8     (base 16)		Ruroc LTD
-				Unit 2, Barnett Way, Barnwood Estate
-				Gloucester    GL4 3RT
-				GB
 
 04-D5-90   (hex)		Fortinet, Inc.
 04D590     (base 16)		Fortinet, Inc.
@@ -63125,11 +63101,11 @@ B0B5E8     (base 16)		Ruroc LTD
 				Sunnyvale    94086
 				US
 
-5C-5A-C7   (hex)		Cisco Systems, Inc
-5C5AC7     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+B0-B5-E8   (hex)		Ruroc LTD
+B0B5E8     (base 16)		Ruroc LTD
+				Unit 2, Barnett Way, Barnwood Estate
+				Gloucester    GL4 3RT
+				GB
 
 1C-B7-96   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 1CB796     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -63167,17 +63143,17 @@ D8AF81     (base 16)		   ZAO NPK Rotek
 				Hsinchu City  Hsinchu  30071
 				TW
 
-54-15-89   (hex)		MCS Logic Inc.
-541589     (base 16)		MCS Logic Inc.
-				A-1701, Munjeong-dong, SK V1 GL Metro City, 128, Beobwon-ro, Songpa-gu, 
-				seoul  seoul  05854
-				KR
-
 B4-A2-EB   (hex)		IEEE Registration Authority
 B4A2EB     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+54-15-89   (hex)		MCS Logic Inc.
+541589     (base 16)		MCS Logic Inc.
+				A-1701, Munjeong-dong, SK V1 GL Metro City, 128, Beobwon-ro, Songpa-gu, 
+				seoul  seoul  05854
+				KR
 
 50-80-4A   (hex)		Quectel Wireless Solutions Co., Ltd.
 50804A     (base 16)		Quectel Wireless Solutions Co., Ltd.
@@ -63208,6 +63184,36 @@ E86F38     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 				2075 Research Parkway
 				Colorado Springs  CO  80920
 				US
+
+78-3E-53   (hex)		BSkyB Ltd
+783E53     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+70-50-AF   (hex)		BSkyB Ltd
+7050AF     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+A0-BD-CD   (hex)		BSkyB Ltd
+A0BDCD     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+D0-58-FC   (hex)		BSkyB Ltd
+D058FC     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+64-FF-0A   (hex)		Wistron Neweb Corporation
+64FF0A     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -115943,12 +115949,6 @@ C4473F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Irvine  CA  92617
 				US
 
-C0-3E-0F   (hex)		BSkyB Ltd
-C03E0F     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 00-20-D4   (hex)		Cabletron Systems, Inc.
 0020D4     (base 16)		Cabletron Systems, Inc.
 				35 INDUSTRIAL WAY
@@ -123311,12 +123311,6 @@ E0AF4F     (base 16)		Deutsche Telekom AG
 				Heuchelheim  Hessen  35452
 				DE
 
-3C-89-94   (hex)		BSkyB Ltd
-3C8994     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 F4-06-8D   (hex)		devolo AG
 F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
@@ -125566,6 +125560,24 @@ D44BB6     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
 				Hong Kong  Hong Kong  999077
 				HK
+
+C0-3E-0F   (hex)		BSkyB Ltd
+C03E0F     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+08-68-8D   (hex)		New H3C Technologies Co., Ltd
+08688D     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -147641,18 +147653,6 @@ A8D3F7     (base 16)		Arcadyan Technology Corporation
 				Dongguan    523808
 				CN
 
-00-19-FB   (hex)		BSkyB Ltd
-0019FB     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
-0C-F9-C0   (hex)		BSkyB Ltd
-0CF9C0     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 00-1B-A9   (hex)		Brother industries, LTD.
 001BA9     (base 16)		Brother industries, LTD.
 				Printing & Solutions Company, Development Management Dept.
@@ -150382,12 +150382,6 @@ C8F946     (base 16)		LOCOSYS Technology Inc.
 				20F.-13, No. 79, Sec. 1, Xintai 5th Rd, Xizhi Dist.
 				New Taipei City  Taiwan  22101
 				TW
-
-20-47-ED   (hex)		BSkyB Ltd
-2047ED     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
 
 D4-1D-71   (hex)		Palo Alto Networks
 D41D71     (base 16)		Palo Alto Networks
@@ -156848,23 +156842,17 @@ D8B6B7     (base 16)		Comtrend Corporation
 				Mountain View  CA  94043
 				US
 
-E4-15-F6   (hex)		Texas Instruments
-E415F6     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
 B4-60-77   (hex)		Sichuan Changhong Electric Ltd.
 B46077     (base 16)		Sichuan Changhong Electric Ltd.
 				No.35,East MianXin Road,MianYang,Sichaun,China.
 				MianYang  SiChuan  PRC 621000
 				CN
 
-54-92-09   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-549209     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+E4-15-F6   (hex)		Texas Instruments
+E415F6     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 E4-19-C1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 E419C1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -156878,11 +156866,23 @@ B86685     (base 16)		Sagemcom Broadband SAS
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
+54-92-09   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+549209     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 C8-3D-DC   (hex)		Xiaomi Communications Co Ltd
 C83DDC     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+3C-8C-93   (hex)		Juniper Networks
+3C8C93     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
 
 B4-6C-47   (hex)		Panasonic Appliances Company
 B46C47     (base 16)		Panasonic Appliances Company
@@ -156890,10 +156890,16 @@ B46C47     (base 16)		Panasonic Appliances Company
 				Kusatsu City  Shiga  525-8555
 				JP
 
-3C-8C-93   (hex)		Juniper Networks
-3C8C93     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
+C0-64-E4   (hex)		Cisco Systems, Inc
+C064E4     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+30-86-2D   (hex)		Arista Network, Inc.
+30862D     (base 16)		Arista Network, Inc.
+				5453 Great America Parkway
+				Santa Clara  CA  95054
 				US
 
 F4-3E-66   (hex)		Bee Computing (HK) Limited
@@ -156920,18 +156926,6 @@ DC396F     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 				South Bend  IN  46601
 				US
 
-30-86-2D   (hex)		Arista Network, Inc.
-30862D     (base 16)		Arista Network, Inc.
-				5453 Great America Parkway
-				Santa Clara  CA  95054
-				US
-
-C0-64-E4   (hex)		Cisco Systems, Inc
-C064E4     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 14-2E-5E   (hex)		Sercomm Corporation.
 142E5E     (base 16)		Sercomm Corporation.
 				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
@@ -156955,3 +156949,27 @@ C0CBF1     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 				No.999 Dacheng East Road, Fenghua District, Ningbo City , Zhejiang Province, PRC
 				Ningbo  Zhejiang  315500
 				CN
+
+0C-F9-C0   (hex)		BSkyB Ltd
+0CF9C0     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+00-19-FB   (hex)		BSkyB Ltd
+0019FB     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+20-47-ED   (hex)		BSkyB Ltd
+2047ED     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+10-33-BF   (hex)		Technicolor CH USA Inc.
+1033BF     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
