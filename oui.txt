@@ -31541,6 +31541,12 @@ FC1D43     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+24-40-AE   (hex)		NIIC Technology Co., Ltd.
+2440AE     (base 16)		NIIC Technology Co., Ltd.
+				Room 8218, Building 3#B, No. 268 Furong Road, Jingkai District
+				Hefei    230601
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -125806,6 +125812,12 @@ C8B1CD     (base 16)		Apple, Inc.
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+F4-B5-BB   (hex)		CERAGON NETWORKS
+F4B5BB     (base 16)		CERAGON NETWORKS
+				24 RAUEL WALLENBERG STREET
+				TEL-AVIV    96719
+				IL
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
