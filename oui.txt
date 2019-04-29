@@ -31499,6 +31499,12 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 				Brentwood  Essex  08854
 				GB
 
+6C-E8-C6   (hex)		Earda Technologies co Ltd
+6CE8C6     (base 16)		Earda Technologies co Ltd
+				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
+				Guangzhou  Guangdong  511455
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -63197,11 +63203,11 @@ E86F38     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 				Colorado Springs  CO  80920
 				US
 
-F4-CE-36   (hex)		Nordic Semiconductor ASA
-F4CE36     (base 16)		Nordic Semiconductor ASA
-				Otto Nielsens veg 12
-				Trondheim    NO-7052
-				NO
+64-FF-0A   (hex)		Wistron Neweb Corporation
+64FF0A     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
 
 A0-BD-CD   (hex)		BSkyB Ltd
 A0BDCD     (base 16)		BSkyB Ltd
@@ -63215,12 +63221,6 @@ D058FC     (base 16)		BSkyB Ltd
 				Brentwood  Essex  08854
 				GB
 
-64-FF-0A   (hex)		Wistron Neweb Corporation
-64FF0A     (base 16)		Wistron Neweb Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
 78-3E-53   (hex)		BSkyB Ltd
 783E53     (base 16)		BSkyB Ltd
 				130 Kings Road
@@ -63232,6 +63232,12 @@ D058FC     (base 16)		BSkyB Ltd
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
+
+F4-CE-36   (hex)		Nordic Semiconductor ASA
+F4CE36     (base 16)		Nordic Semiconductor ASA
+				Otto Nielsens veg 12
+				Trondheim    NO-7052
+				NO
 
 3C-EC-EF   (hex)		Super Micro Computer, Inc.
 3CECEF     (base 16)		Super Micro Computer, Inc.
@@ -63257,17 +63263,17 @@ FCA47A     (base 16)		IEEE Registration Authority
 				CHONGQING  CHONGQING  401121
 				CN
 
-60-44-7A   (hex)		Water-i.d. GmbH
-60447A     (base 16)		Water-i.d. GmbH
-				Daimlerstr. 20
-				Eggenstein    76344
-				DE
-
 AC-C3-58   (hex)		Continental Automotive Czech Republic s.r.o.
 ACC358     (base 16)		Continental Automotive Czech Republic s.r.o.
 				Průmyslová 1851
 				Brandýs nad Labem    250 01
 				CZ
+
+60-44-7A   (hex)		Water-i.d. GmbH
+60447A     (base 16)		Water-i.d. GmbH
+				Daimlerstr. 20
+				Eggenstein    76344
+				DE
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -94249,6 +94255,12 @@ C4AC59     (base 16)		Murata Manufacturing Co., Ltd.
 				nishida  6-1 
 				Kakuda-City  Miyagi-Pref  981-1595
 				JP
+
+F0-68-65   (hex)		Taicang T&W Electronics
+F06865     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -125645,17 +125657,17 @@ D44BB6     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Hong Kong  Hong Kong  999077
 				HK
 
-08-68-8D   (hex)		New H3C Technologies Co., Ltd
-08688D     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
-				CN
-
 3C-89-94   (hex)		BSkyB Ltd
 3C8994     (base 16)		BSkyB Ltd
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
+
+08-68-8D   (hex)		New H3C Technologies Co., Ltd
+08688D     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
 
 C0-3E-0F   (hex)		BSkyB Ltd
 C03E0F     (base 16)		BSkyB Ltd
@@ -157034,26 +157046,26 @@ C0CBF1     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 				Ningbo  Zhejiang  315500
 				CN
 
-20-47-ED   (hex)		BSkyB Ltd
-2047ED     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 10-33-BF   (hex)		Technicolor CH USA Inc.
 1033BF     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
 
-0C-F9-C0   (hex)		BSkyB Ltd
-0CF9C0     (base 16)		BSkyB Ltd
+00-19-FB   (hex)		BSkyB Ltd
+0019FB     (base 16)		BSkyB Ltd
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
 
-00-19-FB   (hex)		BSkyB Ltd
-0019FB     (base 16)		BSkyB Ltd
+20-47-ED   (hex)		BSkyB Ltd
+2047ED     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+0C-F9-C0   (hex)		BSkyB Ltd
+0CF9C0     (base 16)		BSkyB Ltd
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
