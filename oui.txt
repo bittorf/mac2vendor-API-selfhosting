@@ -63347,6 +63347,12 @@ C4E1A1     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+D4-AD-BD   (hex)		Cisco Systems, Inc
+D4ADBD     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94328,18 +94334,6 @@ C4AC59     (base 16)		Murata Manufacturing Co., Ltd.
 				Kakuda-City  Miyagi-Pref  981-1595
 				JP
 
-F0-68-65   (hex)		Taicang T&W Electronics
-F06865     (base 16)		Taicang T&W Electronics
-				89# Jiang Nan RD
-				Suzhou  Jiangsu  215412
-				CN
-
-F0-C3-71   (hex)		Apple, Inc.
-F0C371     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 30-57-14   (hex)		Apple, Inc.
 305714     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -94354,6 +94348,18 @@ F0C371     (base 16)		Apple, Inc.
 
 E4-50-EB   (hex)		Apple, Inc.
 E450EB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F0-68-65   (hex)		Taicang T&W Electronics
+F06865     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
+				CN
+
+F0-C3-71   (hex)		Apple, Inc.
+F0C371     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -125777,17 +125783,17 @@ C03E0F     (base 16)		BSkyB Ltd
 				Lexington  MA  02421
 				US
 
-F4-0E-01   (hex)		Apple, Inc.
-F40E01     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
+00-4E-01   (hex)		Dell Inc.
+004E01     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
 				US
 
-60-70-C0   (hex)		Apple, Inc.
-6070C0     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
+6C-D7-1F   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+6CD71F     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 C8-B1-CD   (hex)		Apple, Inc.
 C8B1CD     (base 16)		Apple, Inc.
@@ -125801,17 +125807,17 @@ C8B1CD     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-00-4E-01   (hex)		Dell Inc.
-004E01     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
+F4-0E-01   (hex)		Apple, Inc.
+F40E01     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
-6C-D7-1F   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-6CD71F     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
+60-70-C0   (hex)		Apple, Inc.
+6070C0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 F4-B5-BB   (hex)		CERAGON NETWORKS
 F4B5BB     (base 16)		CERAGON NETWORKS
