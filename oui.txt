@@ -31493,18 +31493,6 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 				Shanghai    123456
 				CN
 
-80-72-15   (hex)		BSkyB Ltd
-807215     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
-6C-E8-C6   (hex)		Earda Technologies co Ltd
-6CE8C6     (base 16)		Earda Technologies co Ltd
-				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
-				Guangzhou  Guangdong  511455
-				CN
-
 4C-6B-E8   (hex)		Apple, Inc.
 4C6BE8     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -31546,6 +31534,18 @@ FC1D43     (base 16)		Apple, Inc.
 				Room 8218, Building 3#B, No. 268 Furong Road, Jingkai District
 				Hefei    230601
 				CN
+
+6C-E8-C6   (hex)		Earda Technologies co Ltd
+6CE8C6     (base 16)		Earda Technologies co Ltd
+				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
+				Guangzhou  Guangdong  511455
+				CN
+
+80-72-15   (hex)		BSkyB Ltd
+807215     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63352,6 +63352,12 @@ D4ADBD     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+2C-A8-9C   (hex)		Creatz inc.
+2CA89C     (base 16)		Creatz inc.
+				16, Deogyeong-daero 1556beon-gil, Yeongtong-gu
+				Suwon-si,  Gyeonggi-do,   16690
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -157226,12 +157232,6 @@ C0CBF1     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 				Brandýs nad Labem    250 01
 				CZ
 
-50-7A-C5   (hex)		Apple, Inc.
-507AC5     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 50-DE-06   (hex)		Apple, Inc.
 50DE06     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -157243,3 +157243,15 @@ C0CBF1     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+50-7A-C5   (hex)		Apple, Inc.
+507AC5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+4C-DC-0D   (hex)		Coral Telecom Limited
+4CDC0D     (base 16)		Coral Telecom Limited
+				E-2, Sector 63
+				Noida  Uttar Pradesh  201301
+				IN
