@@ -31475,17 +31475,23 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 				Brentwood  Essex  08854
 				GB
 
-00-07-89   (hex)		Allradio Co., Ltd
-000789     (base 16)		Allradio Co., Ltd
-				861-5, Gwanyang-Dong, Dongan-Gu,
-				Anyang-si, Gyeonggi-do,    430-803
-				KR
-
 8C-BE-24   (hex)		Tashang Semiconductor(Shanghai) Co., Ltd.
 8CBE24     (base 16)		Tashang Semiconductor(Shanghai) Co., Ltd.
 				Room 903, Building 5, Minggu Science Park,No. 7001, Zhong Chun Road, Minhang District ,Shanghai 201101, P.R. China
 				Shanghai    123456
 				CN
+
+80-72-15   (hex)		BSkyB Ltd
+807215     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+00-07-89   (hex)		Allradio Co., Ltd
+000789     (base 16)		Allradio Co., Ltd
+				861-5, Gwanyang-Dong, Dongan-Gu,
+				Anyang-si, Gyeonggi-do,    430-803
+				KR
 
 4C-6B-E8   (hex)		Apple, Inc.
 4C6BE8     (base 16)		Apple, Inc.
@@ -31535,12 +31541,6 @@ FC1D43     (base 16)		Apple, Inc.
 				Guangzhou  Guangdong  511455
 				CN
 
-80-72-15   (hex)		BSkyB Ltd
-807215     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 CC-CC-CC   (hex)		Silicon Laboratories
 CCCCCC     (base 16)		Silicon Laboratories
 				7000 W. William Cannon Dr.
@@ -31564,6 +31564,12 @@ A8D0E3     (base 16)		Systech Electronics Ltd
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
 				Shanghai    200233
 				CN
+
+AC-FE-05   (hex)		ITEL MOBILE LIMITED
+ACFE05     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63388,6 +63394,12 @@ E4CC9D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
 				MY
+
+30-8B-B2   (hex)		Cisco Systems, Inc
+308BB2     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -125866,6 +125878,18 @@ F4B5BB     (base 16)		CERAGON NETWORKS
 				24 RAUEL WALLENBERG STREET
 				TEL-AVIV    96719
 				IL
+
+08-84-9D   (hex)		Amazon Technologies Inc.
+08849D     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+AC-77-13   (hex)		Honeywell Safety Products (Shanghai) Co.,Ltd
+AC7713     (base 16)		Honeywell Safety Products (Shanghai) Co.,Ltd
+				430 Li Bing Road Zhang Jiang Hi-Tech ParkPudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
