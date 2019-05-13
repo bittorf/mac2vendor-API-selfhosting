@@ -63431,6 +63431,36 @@ E4CC9D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Hsichu  Taiwan  300
 				TW
 
+E0-00-84   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E00084     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+5C-E8-83   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5CE883     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+3C-9D-56   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+3C9D56     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D4-6B-A6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D46BA6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+24-52-6A   (hex)		Zhejiang Dahua Technology Co., Ltd.
+24526A     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94453,6 +94483,12 @@ A89352     (base 16)		SHANGHAI ZHONGMI COMMUNICATION TECHNOLOGY CO.,LTD
 				3F., No. 98-1, Mincyuan Rd.
 				Sindian City  Taipei County  231
 				TW
+
+70-FD-45   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70FD45     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -125927,6 +125963,24 @@ AC7713     (base 16)		Honeywell Safety Products (Shanghai) Co.,Ltd
 				Reno  NV  89507
 				US
 
+24-A5-2C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24A52C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+10-01-77   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+100177     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+44-A1-91   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+44A191     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -157363,3 +157417,21 @@ ECA5DE     (base 16)		ONYX WIFI Inc
 				9891 Irvine Center Drive, Suite 200
 				Irvine    92618
 				US
+
+CC-05-77   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+CC0577     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+44-67-47   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+446747     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A4-63-A1   (hex)		Inventus Power Eletronica do Brasil LTDA
+A463A1     (base 16)		Inventus Power Eletronica do Brasil LTDA
+				Av Buriti, 4285 Distrito Industrial
+				Manaus  Amazonas  69075000
+				BR
