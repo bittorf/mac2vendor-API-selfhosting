@@ -31475,17 +31475,23 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 				Brentwood  Essex  08854
 				GB
 
-00-07-89   (hex)		Allradio Co., Ltd
-000789     (base 16)		Allradio Co., Ltd
-				861-5, Gwanyang-Dong, Dongan-Gu,
-				Anyang-si, Gyeonggi-do,    430-803
-				KR
-
 8C-BE-24   (hex)		Tashang Semiconductor(Shanghai) Co., Ltd.
 8CBE24     (base 16)		Tashang Semiconductor(Shanghai) Co., Ltd.
 				Room 903, Building 5, Minggu Science Park,No. 7001, Zhong Chun Road, Minhang District ,Shanghai 201101, P.R. China
 				Shanghai    123456
 				CN
+
+80-72-15   (hex)		BSkyB Ltd
+807215     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+00-07-89   (hex)		Allradio Co., Ltd
+000789     (base 16)		Allradio Co., Ltd
+				861-5, Gwanyang-Dong, Dongan-Gu,
+				Anyang-si, Gyeonggi-do,    430-803
+				KR
 
 4C-6B-E8   (hex)		Apple, Inc.
 4C6BE8     (base 16)		Apple, Inc.
@@ -31535,12 +31541,6 @@ FC1D43     (base 16)		Apple, Inc.
 				Guangzhou  Guangdong  511455
 				CN
 
-80-72-15   (hex)		BSkyB Ltd
-807215     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 CC-CC-CC   (hex)		Silicon Laboratories
 CCCCCC     (base 16)		Silicon Laboratories
 				7000 W. William Cannon Dr.
@@ -31559,22 +31559,28 @@ A8D0E3     (base 16)		Systech Electronics Ltd
 				    852
 				HK
 
-AC-FE-05   (hex)		ITEL MOBILE LIMITED
-ACFE05     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
-
 90-BD-E6   (hex)		Quectel Wireless Solutions Co., Ltd.
 90BDE6     (base 16)		Quectel Wireless Solutions Co., Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
 				Shanghai    200233
 				CN
 
+AC-FE-05   (hex)		ITEL MOBILE LIMITED
+ACFE05     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
 50-02-91   (hex)		Espressif Inc.
 500291     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
+				CN
+
+5C-CA-D3   (hex)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
+5CCAD3     (base 16)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
+				9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT
+				SHEN ZHEN  GUANG DONG  518000
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -63269,11 +63275,11 @@ E86F38     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 				Colorado Springs  CO  80920
 				US
 
-F4-CE-36   (hex)		Nordic Semiconductor ASA
-F4CE36     (base 16)		Nordic Semiconductor ASA
-				Otto Nielsens veg 12
-				Trondheim    NO-7052
-				NO
+64-FF-0A   (hex)		Wistron Neweb Corporation
+64FF0A     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
 
 A0-BD-CD   (hex)		BSkyB Ltd
 A0BDCD     (base 16)		BSkyB Ltd
@@ -63287,12 +63293,6 @@ D058FC     (base 16)		BSkyB Ltd
 				Brentwood  Essex  08854
 				GB
 
-64-FF-0A   (hex)		Wistron Neweb Corporation
-64FF0A     (base 16)		Wistron Neweb Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
 78-3E-53   (hex)		BSkyB Ltd
 783E53     (base 16)		BSkyB Ltd
 				130 Kings Road
@@ -63304,6 +63304,12 @@ D058FC     (base 16)		BSkyB Ltd
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
+
+F4-CE-36   (hex)		Nordic Semiconductor ASA
+F4CE36     (base 16)		Nordic Semiconductor ASA
+				Otto Nielsens veg 12
+				Trondheim    NO-7052
+				NO
 
 3C-EC-EF   (hex)		Super Micro Computer, Inc.
 3CECEF     (base 16)		Super Micro Computer, Inc.
@@ -63401,6 +63407,12 @@ E4CC9D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Bayan Lepas  Penang  11900
 				MY
 
+00-1D-29   (hex)		Doro AB
+001D29     (base 16)		Doro AB
+				Magistratsvägen 10
+				Lund    226 43
+				SE
+
 20-5F-3D   (hex)		Cambridge Communication Systems Ltd
 205F3D     (base 16)		Cambridge Communication Systems Ltd
 				Victory House, Vision Park, Chivers Way, Histon
@@ -63413,11 +63425,11 @@ E4CC9D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Gunpo-si  Gyeonggi-do  15880
 				KR
 
-00-1D-29   (hex)		Doro AB
-001D29     (base 16)		Doro AB
-				Magistratsvägen 10
-				Lund    226 43
-				SE
+08-26-97   (hex)		Zyxel Communications Corporation
+082697     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -94382,6 +94394,12 @@ C4AC59     (base 16)		Murata Manufacturing Co., Ltd.
 				Kakuda-City  Miyagi-Pref  981-1595
 				JP
 
+F0-C3-71   (hex)		Apple, Inc.
+F0C371     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 30-57-14   (hex)		Apple, Inc.
 305714     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -94405,12 +94423,6 @@ F06865     (base 16)		Taicang T&W Electronics
 				89# Jiang Nan RD
 				Suzhou  Jiangsu  215412
 				CN
-
-F0-C3-71   (hex)		Apple, Inc.
-F0C371     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
 
 BC-C3-1B   (hex)		Kygo Life A
 BCC31B     (base 16)		Kygo Life A
@@ -125837,17 +125849,17 @@ D44BB6     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Hong Kong  Hong Kong  999077
 				HK
 
-08-68-8D   (hex)		New H3C Technologies Co., Ltd
-08688D     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
-				CN
-
 3C-89-94   (hex)		BSkyB Ltd
 3C8994     (base 16)		BSkyB Ltd
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
+
+08-68-8D   (hex)		New H3C Technologies Co., Ltd
+08688D     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
 
 C0-3E-0F   (hex)		BSkyB Ltd
 C03E0F     (base 16)		BSkyB Ltd
@@ -125903,17 +125915,17 @@ F4B5BB     (base 16)		CERAGON NETWORKS
 				TEL-AVIV    96719
 				IL
 
-08-84-9D   (hex)		Amazon Technologies Inc.
-08849D     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 AC-77-13   (hex)		Honeywell Safety Products (Shanghai) Co.,Ltd
 AC7713     (base 16)		Honeywell Safety Products (Shanghai) Co.,Ltd
 				430 Li Bing Road Zhang Jiang Hi-Tech ParkPudong New Area
 				Shanghai  Shanghai  201203
 				CN
+
+08-84-9D   (hex)		Amazon Technologies Inc.
+08849D     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -157274,26 +157286,26 @@ C0CBF1     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 				Ningbo  Zhejiang  315500
 				CN
 
-20-47-ED   (hex)		BSkyB Ltd
-2047ED     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 10-33-BF   (hex)		Technicolor CH USA Inc.
 1033BF     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
 
-0C-F9-C0   (hex)		BSkyB Ltd
-0CF9C0     (base 16)		BSkyB Ltd
+00-19-FB   (hex)		BSkyB Ltd
+0019FB     (base 16)		BSkyB Ltd
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
 
-00-19-FB   (hex)		BSkyB Ltd
-0019FB     (base 16)		BSkyB Ltd
+20-47-ED   (hex)		BSkyB Ltd
+2047ED     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+0C-F9-C0   (hex)		BSkyB Ltd
+0CF9C0     (base 16)		BSkyB Ltd
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
