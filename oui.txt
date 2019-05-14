@@ -16376,12 +16376,6 @@ A8CE90     (base 16)		CVC
 				    
 				IT
 
-00-04-AB   (hex)		Comverse Network Systems, Inc.
-0004AB     (base 16)		Comverse Network Systems, Inc.
-				29 Habarzel Street.
-				    
-				IL
-
 00-04-A4   (hex)		NetEnabled, Inc.
 0004A4     (base 16)		NetEnabled, Inc.
 				1275 Kinnear Rd.
@@ -31582,6 +31576,24 @@ ACFE05     (base 16)		ITEL MOBILE LIMITED
 				9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT
 				SHEN ZHEN  GUANG DONG  518000
 				CN
+
+00-04-AB   (hex)		Mavenir Inc.
+0004AB     (base 16)		Mavenir Inc.
+				1700 International Parkway
+				Richardson  TX  75081
+				US
+
+BC-BA-C2   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+BCBAC2     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+78-65-59   (hex)		Sagemcom Broadband SAS
+786559     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -97718,12 +97730,6 @@ B0793C     (base 16)		Revolv Inc
 				KAARINA    FIN-20780
 				FI
 
-E0-67-B3   (hex)		C-Data Technology Co., Ltd
-E067B3     (base 16)		C-Data Technology Co., Ltd
-				Floor 6th, Bldg 4th,South 2 of Honghualing Industrial Zone,Xili Rd,
-				Shenzhen  Guangdong  518055
-				CN
-
 B8-87-A8   (hex)		Step Ahead Innovations Inc.
 B887A8     (base 16)		Step Ahead Innovations Inc.
 				20 Wintersport Ln.
@@ -125979,6 +125985,12 @@ AC7713     (base 16)		Honeywell Safety Products (Shanghai) Co.,Ltd
 44A191     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+E0-67-B3   (hex)		Shenzhen C-Data Technology Co., Ltd
+E067B3     (base 16)		Shenzhen C-Data Technology Co., Ltd
+				#601, Fl6, Bldg F, No.1008  Yangguang Community
+				Shenzhen  Guangdong  518055
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -157435,3 +157447,15 @@ A463A1     (base 16)		Inventus Power Eletronica do Brasil LTDA
 				Av Buriti, 4285 Distrito Industrial
 				Manaus  Amazonas  69075000
 				BR
+
+0C-DD-24   (hex)		Intel Corporate
+0CDD24     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+48-27-59   (hex)		Levven Electronics Ltd.
+482759     (base 16)		Levven Electronics Ltd.
+				9741 54 Ave NW
+				Edmonton  Alberta  T6E 5J4
+				CA
