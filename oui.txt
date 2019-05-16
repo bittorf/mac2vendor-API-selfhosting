@@ -31601,6 +31601,12 @@ BCBAC2     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				Richardson  TX  75081
 				US
 
+10-63-C8   (hex)		Liteon Technology Corporation
+1063C8     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -126028,6 +126034,24 @@ E067B3     (base 16)		Shenzhen C-Data Technology Co., Ltd
 				#601, Fl6, Bldg F, No.1008  Yangguang Community
 				Shenzhen  Guangdong  518055
 				CN
+
+48-01-C5   (hex)		OnePlus Technology (Shenzhen) Co., Ltd
+4801C5     (base 16)		OnePlus Technology (Shenzhen) Co., Ltd
+				18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING,
+				Shenzhen  Guangdong  518000
+				CN
+
+E0-EB-62   (hex)		Shanghai Hulu Devices Co., Ltd
+E0EB62     (base 16)		Shanghai Hulu Devices Co., Ltd
+				509 Caobao Road,  Rm 101-2 Bld 9
+				Shanghai    200233
+				CN
+
+7C-51-89   (hex)		SG Wireless Limited
+7C5189     (base 16)		SG Wireless Limited
+				RM 504 5/F Sun Fung Industrial Building 8-12 Ma Kok Street
+				Tsuen Wan    NA
+				HK
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
