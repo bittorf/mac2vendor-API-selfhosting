@@ -28487,48 +28487,6 @@ A40C66     (base 16)		Shenzhen Colorful Yugong Technology and Development Co., L
 				Shenzhen  Guangdong  518000
 				CN
 
-D8-A0-1D   (hex)		Espressif Inc.
-D8A01D     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-EC-FA-BC   (hex)		Espressif Inc.
-ECFABC     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-B4-E6-2D   (hex)		Espressif Inc.
-B4E62D     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-80-7D-3A   (hex)		Espressif Inc.
-807D3A     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-3C-71-BF   (hex)		Espressif Inc.
-3C71BF     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-54-5A-A6   (hex)		Espressif Inc.
-545AA6     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-24-0A-C4   (hex)		Espressif Inc.
-240AC4     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 98-CC-4D   (hex)		Shenzhen mantunsci co., LTD
 98CC4D     (base 16)		Shenzhen mantunsci co., LTD
 				3 floor, 3 environmental protection industrial park, Nanshan District
@@ -31565,12 +31523,6 @@ ACFE05     (base 16)		ITEL MOBILE LIMITED
 				Hong Kong  KOWLOON  999077
 				HK
 
-50-02-91   (hex)		Espressif Inc.
-500291     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 5C-CA-D3   (hex)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 5CCAD3     (base 16)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 				9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT
@@ -31606,6 +31558,54 @@ BCBAC2     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				4F, 90, Chien 1 Road
 				New Taipei City  Taiwan  23585
 				TW
+
+3C-71-BF   (hex)		Espressif Inc.
+3C71BF     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+80-7D-3A   (hex)		Espressif Inc.
+807D3A     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+B4-E6-2D   (hex)		Espressif Inc.
+B4E62D     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+EC-FA-BC   (hex)		Espressif Inc.
+ECFABC     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+D8-A0-1D   (hex)		Espressif Inc.
+D8A01D     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+24-0A-C4   (hex)		Espressif Inc.
+240AC4     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+54-5A-A6   (hex)		Espressif Inc.
+545AA6     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+50-02-91   (hex)		Espressif Inc.
+500291     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -57791,24 +57791,6 @@ E4388C     (base 16)		Digital Products Limited
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-A0-20-A6   (hex)		Espressif Inc.
-A020A6     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-84-F3-EB   (hex)		Espressif Inc.
-84F3EB     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-84-0D-8E   (hex)		Espressif Inc.
-840D8E     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 54-9B-72   (hex)		Ericsson AB
 549B72     (base 16)		Ericsson AB
 				Torshamnsgatan 36
@@ -58360,12 +58342,6 @@ CCD81F     (base 16)		Maipu Communication Technology Co.,Ltd.
 				350 East Plumeria Drive
 				San Jose  CA  95134
 				US
-
-2C-F4-32   (hex)		Espressif Inc.
-2CF432     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
 
 AC-BB-61   (hex)		YSTen Technology Co.,Ltd
 ACBB61     (base 16)		YSTen Technology Co.,Ltd
@@ -63499,6 +63475,36 @@ D46BA6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 
 08-71-90   (hex)		Intel Corporate
 087190     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+84-0D-8E   (hex)		Espressif Inc.
+840D8E     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+84-F3-EB   (hex)		Espressif Inc.
+84F3EB     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+A0-20-A6   (hex)		Espressif Inc.
+A020A6     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+2C-F4-32   (hex)		Espressif Inc.
+2CF432     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+7C-B2-7D   (hex)		Intel Corporate
+7CB27D     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
@@ -92747,24 +92753,6 @@ ACF85C     (base 16)		Private
 				Kulim  Kedah  09000
 				MY
 
-18-FE-34   (hex)		Espressif Inc.
-18FE34     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-90-97-D5   (hex)		Espressif Inc.
-9097D5     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-60-01-94   (hex)		Espressif Inc.
-600194     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 D8-CE-3A   (hex)		Xiaomi Communications Co Ltd
 D8CE3A     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
@@ -92775,30 +92763,6 @@ B8-C7-4A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 B8C74A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
-				CN
-
-2C-3A-E8   (hex)		Espressif Inc.
-2C3AE8     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-A4-7B-9D   (hex)		Espressif Inc.
-A47B9D     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-DC-4F-22   (hex)		Espressif Inc.
-DC4F22     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-BC-DD-C2   (hex)		Espressif Inc.
-BCDDC2     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
 				CN
 
 FC-18-3C   (hex)		Apple, Inc.
@@ -93582,12 +93546,6 @@ C0-8A-CD   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
 C08ACD     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
 				No.6, 4th Yunpu Road, Yunpu industry District
 				Guangzhou  Guangdong  510530
-				CN
-
-A4-CF-12   (hex)		Espressif Inc.
-A4CF12     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
 				CN
 
 94-BF-C4   (hex)		Ruckus Wireless
@@ -94542,6 +94500,66 @@ A89352     (base 16)		SHANGHAI ZHONGMI COMMUNICATION TECHNOLOGY CO.,LTD
 98523D     (base 16)		Sunitec Enterprise Co.,Ltd
 				3F.,No.98-1,Mincyuan Rd.Sindian City
 				Taipei County 231    231141
+				CN
+
+BC-DD-C2   (hex)		Espressif Inc.
+BCDDC2     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+DC-4F-22   (hex)		Espressif Inc.
+DC4F22     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+A4-7B-9D   (hex)		Espressif Inc.
+A47B9D     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+2C-3A-E8   (hex)		Espressif Inc.
+2C3AE8     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+60-01-94   (hex)		Espressif Inc.
+600194     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+90-97-D5   (hex)		Espressif Inc.
+9097D5     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+18-FE-34   (hex)		Espressif Inc.
+18FE34     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+A4-CF-12   (hex)		Espressif Inc.
+A4CF12     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+B8-F6-53   (hex)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+B8F653     (base 16)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+				3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+04-7F-0E   (hex)		Barrot Technology Limited
+047F0E     (base 16)		Barrot Technology Limited
+				C7-1-1,East Area, No.2,Shangdi Xinxi Road, Haidian District
+				Beijing    100085
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -124550,12 +124568,6 @@ A047D7     (base 16)		Best IT World (India) Pvt Ltd
 				Mumbai  Maharashtra  400093
 				IN
 
-5C-CF-7F   (hex)		Espressif Inc.
-5CCF7F     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 0C-95-41   (hex)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 0C9541     (base 16)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 				9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT
@@ -125510,12 +125522,6 @@ C821DA     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Varese  Italy/VA  21100
 				IT
 
-4C-11-AE   (hex)		Espressif Inc.
-4C11AE     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 E4-1E-0A   (hex)		IEEE Registration Authority
 E41E0A     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -125659,12 +125665,6 @@ CCBE59     (base 16)		Calix Inc.
 				2777 Orchard Parkway
 				San Jose  CA  95134
 				US
-
-24-62-AB   (hex)		Espressif Inc.
-2462AB     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
 
 88-B4-36   (hex)		Private
 88B436     (base 16)		Private
@@ -126052,6 +126052,24 @@ E0EB62     (base 16)		Shanghai Hulu Devices Co., Ltd
 				RM 504 5/F Sun Fung Industrial Building 8-12 Ma Kok Street
 				Tsuen Wan    NA
 				HK
+
+5C-CF-7F   (hex)		Espressif Inc.
+5CCF7F     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+4C-11-AE   (hex)		Espressif Inc.
+4C11AE     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+24-62-AB   (hex)		Espressif Inc.
+2462AB     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -155912,42 +155930,6 @@ B40B78     (base 16)		Brusa Elektronik AG
 				Kirkland  WA  98033
 				US
 
-24-B2-DE   (hex)		Espressif Inc.
-24B2DE     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-68-C6-3A   (hex)		Espressif Inc.
-68C63A     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-CC-50-E3   (hex)		Espressif Inc.
-CC50E3     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-C4-4F-33   (hex)		Espressif Inc.
-C44F33     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-AC-D0-74   (hex)		Espressif Inc.
-ACD074     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-30-AE-A4   (hex)		Espressif Inc.
-30AEA4     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 C0-1B-23   (hex)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 C01B23     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 				NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY,
@@ -156821,12 +156803,6 @@ A4975C     (base 16)		VTech Telecommunications Ltd.
 				shenzhen  guangdong  518057
 				CN
 
-24-6F-28   (hex)		Espressif Inc.
-246F28     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 C4-B3-6A   (hex)		Cisco Systems, Inc
 C4B36A     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -157125,12 +157101,6 @@ F8-23-87   (hex)		Shenzhen Horn Audio Co.,Ltd.
 F82387     (base 16)		Shenzhen Horn Audio Co.,Ltd.
 				NO.6 4th GuiHua road,PingShan,
 				Shenzhen  Guangdong  518118
-				CN
-
-D8-F1-5B   (hex)		Espressif Inc.
-D8F15B     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
 				CN
 
 78-D3-47   (hex)		Ericsson AB
@@ -157542,4 +157512,52 @@ B8-4D-EE   (hex)		Hisense broadband multimedia technology Co.,Ltd
 B84DEE     (base 16)		Hisense broadband multimedia technology Co.,Ltd
 				Song ling Road 399
 				Qingdao    266000
+				CN
+
+C4-4F-33   (hex)		Espressif Inc.
+C44F33     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+CC-50-E3   (hex)		Espressif Inc.
+CC50E3     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+68-C6-3A   (hex)		Espressif Inc.
+68C63A     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+24-B2-DE   (hex)		Espressif Inc.
+24B2DE     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+30-AE-A4   (hex)		Espressif Inc.
+30AEA4     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+AC-D0-74   (hex)		Espressif Inc.
+ACD074     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+24-6F-28   (hex)		Espressif Inc.
+246F28     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
+D8-F1-5B   (hex)		Espressif Inc.
+D8F15B     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
