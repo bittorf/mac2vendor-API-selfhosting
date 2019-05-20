@@ -31427,17 +31427,23 @@ DC54D7     (base 16)		Amazon Technologies Inc.
 				Brentwood  Essex  08854
 				GB
 
-00-07-89   (hex)		Allradio Co., Ltd
-000789     (base 16)		Allradio Co., Ltd
-				861-5, Gwanyang-Dong, Dongan-Gu,
-				Anyang-si, Gyeonggi-do,    430-803
-				KR
-
 8C-BE-24   (hex)		Tashang Semiconductor(Shanghai) Co., Ltd.
 8CBE24     (base 16)		Tashang Semiconductor(Shanghai) Co., Ltd.
 				Room 903, Building 5, Minggu Science Park,No. 7001, Zhong Chun Road, Minhang District ,Shanghai 201101, P.R. China
 				Shanghai    123456
 				CN
+
+80-72-15   (hex)		BSkyB Ltd
+807215     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
+
+00-07-89   (hex)		Allradio Co., Ltd
+000789     (base 16)		Allradio Co., Ltd
+				861-5, Gwanyang-Dong, Dongan-Gu,
+				Anyang-si, Gyeonggi-do,    430-803
+				KR
 
 4C-6B-E8   (hex)		Apple, Inc.
 4C6BE8     (base 16)		Apple, Inc.
@@ -31487,12 +31493,6 @@ FC1D43     (base 16)		Apple, Inc.
 				Guangzhou  Guangdong  511455
 				CN
 
-80-72-15   (hex)		BSkyB Ltd
-807215     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 CC-CC-CC   (hex)		Silicon Laboratories
 CCCCCC     (base 16)		Silicon Laboratories
 				7000 W. William Cannon Dr.
@@ -31511,17 +31511,17 @@ A8D0E3     (base 16)		Systech Electronics Ltd
 				    852
 				HK
 
-AC-FE-05   (hex)		ITEL MOBILE LIMITED
-ACFE05     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
-
 90-BD-E6   (hex)		Quectel Wireless Solutions Co., Ltd.
 90BDE6     (base 16)		Quectel Wireless Solutions Co., Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
 				Shanghai    200233
 				CN
+
+AC-FE-05   (hex)		ITEL MOBILE LIMITED
+ACFE05     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
 
 5C-CA-D3   (hex)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 5CCAD3     (base 16)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
@@ -31541,17 +31541,17 @@ BCBAC2     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-00-04-AB   (hex)		Mavenir Inc.
-0004AB     (base 16)		Mavenir Inc.
-				1700 International Parkway
-				Richardson  TX  75081
-				US
-
 78-2A-79   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 782A79     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
 				MY
+
+00-04-AB   (hex)		Mavenir Inc.
+0004AB     (base 16)		Mavenir Inc.
+				1700 International Parkway
+				Richardson  TX  75081
+				US
 
 10-63-C8   (hex)		Liteon Technology Corporation
 1063C8     (base 16)		Liteon Technology Corporation
@@ -31612,6 +31612,12 @@ B03E51     (base 16)		BSkyB Ltd
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
+
+98-E8-FA   (hex)		Nintendo Co.,Ltd
+98E8FA     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63521,6 +63527,12 @@ A020A6     (base 16)		Espressif Inc.
 				Brentwood  Essex  08854
 				GB
 
+8C-B8-4A   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+8CB84A     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+				93Moo5T. Bangsamak SEMTHAI, WELLGROW INDUSTRIAL ESTATE
+				Bangpakong  Chachoengsao  24180
+				TH
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94436,12 +94448,6 @@ C4AC59     (base 16)		Murata Manufacturing Co., Ltd.
 				Kakuda-City  Miyagi-Pref  981-1595
 				JP
 
-F0-C3-71   (hex)		Apple, Inc.
-F0C371     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 30-57-14   (hex)		Apple, Inc.
 305714     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -94465,6 +94471,12 @@ F06865     (base 16)		Taicang T&W Electronics
 				89# Jiang Nan RD
 				Suzhou  Jiangsu  215412
 				CN
+
+F0-C3-71   (hex)		Apple, Inc.
+F0C371     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 BC-C3-1B   (hex)		Kygo Life A
 BCC31B     (base 16)		Kygo Life A
@@ -94514,22 +94526,10 @@ A89352     (base 16)		SHANGHAI ZHONGMI COMMUNICATION TECHNOLOGY CO.,LTD
 				Taipei County 231    231141
 				CN
 
-6C-9E-7C   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-6C9E7C     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
-				CN
-
-94-D5-05   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-94D505     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
-				CN
-
-B8-F6-53   (hex)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
-B8F653     (base 16)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
-				3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District
-				Shenzhen  Guangdong  518055
+A4-7B-9D   (hex)		Espressif Inc.
+A47B9D     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 2C-3A-E8   (hex)		Espressif Inc.
@@ -94562,6 +94562,18 @@ A4CF12     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
+B8-F6-53   (hex)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+B8F653     (base 16)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+				3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+6C-9E-7C   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+6C9E7C     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
 BC-DD-C2   (hex)		Espressif Inc.
 BCDDC2     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
@@ -94570,12 +94582,6 @@ BCDDC2     (base 16)		Espressif Inc.
 
 DC-4F-22   (hex)		Espressif Inc.
 DC4F22     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
-A4-7B-9D   (hex)		Espressif Inc.
-A47B9D     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
@@ -94591,6 +94597,18 @@ A47B9D     (base 16)		Espressif Inc.
 				No.86 hechang 7th road, zhongkai, Hi-Tech District
 				Hui Zhou  Guang Dong  516006
 				CN
+
+94-D5-05   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+94D505     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+60-AB-14   (hex)		LG Innotek
+60AB14     (base 16)		LG Innotek
+				26, Hanamsandan 5beon-ro
+				Gwangju  Gwangsan-gu  506-731
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -125963,17 +125981,17 @@ D44BB6     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Hong Kong  Hong Kong  999077
 				HK
 
-3C-89-94   (hex)		BSkyB Ltd
-3C8994     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 08-68-8D   (hex)		New H3C Technologies Co., Ltd
 08688D     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
 
 C0-3E-0F   (hex)		BSkyB Ltd
 C03E0F     (base 16)		BSkyB Ltd
@@ -126029,17 +126047,17 @@ F4B5BB     (base 16)		CERAGON NETWORKS
 				TEL-AVIV    96719
 				IL
 
-AC-77-13   (hex)		Honeywell Safety Products (Shanghai) Co.,Ltd
-AC7713     (base 16)		Honeywell Safety Products (Shanghai) Co.,Ltd
-				430 Li Bing Road Zhang Jiang Hi-Tech ParkPudong New Area
-				Shanghai  Shanghai  201203
-				CN
-
 08-84-9D   (hex)		Amazon Technologies Inc.
 08849D     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
+
+AC-77-13   (hex)		Honeywell Safety Products (Shanghai) Co.,Ltd
+AC7713     (base 16)		Honeywell Safety Products (Shanghai) Co.,Ltd
+				430 Li Bing Road Zhang Jiang Hi-Tech ParkPudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 24-A5-2C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 24A52C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -126083,10 +126101,10 @@ E0EB62     (base 16)		Shanghai Hulu Devices Co., Ltd
 				Tsuen Wan    NA
 				HK
 
-5C-CF-7F   (hex)		Espressif Inc.
-5CCF7F     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
-				Shanghai  Shanghai  201203
+C0-36-56   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
 				CN
 
 4C-11-AE   (hex)		Espressif Inc.
@@ -126101,10 +126119,10 @@ E0EB62     (base 16)		Shanghai Hulu Devices Co., Ltd
 				Shanghai  Shanghai  201203
 				CN
 
-C0-36-56   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
+5C-CF-7F   (hex)		Espressif Inc.
+5CCF7F     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -157597,3 +157615,15 @@ D8F15B     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
+
+1C-68-7E   (hex)		Shenzhen Qihu Intelligent Technology Company Limited
+1C687E     (base 16)		Shenzhen Qihu Intelligent Technology Company Limited
+				Room 201, Block A, No.1, Qianwan Road 1,Qianhai Shenzhen HongKong Modern Service Industry Cooperation Zone
+				Shenzhen  Guangdong  518057
+				CN
+
+BC-62-D2   (hex)		Genexis International B.V.
+BC62D2     (base 16)		Genexis International B.V.
+				Waldfeuchterbaan 124
+				Maria Hoop  Maria Hoop  6105 BP 
+				NL
