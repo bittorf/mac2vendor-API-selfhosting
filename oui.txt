@@ -63533,6 +63533,12 @@ A020A6     (base 16)		Espressif Inc.
 				Bangpakong  Chachoengsao  24180
 				TH
 
+08-4F-A9   (hex)		Cisco Systems, Inc
+084FA9     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94602,6 +94608,12 @@ DC4F22     (base 16)		Espressif Inc.
 94D505     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
+				CN
+
+C8-2B-96   (hex)		Espressif Inc.
+C82B96     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 60-AB-14   (hex)		LG Innotek
@@ -157627,3 +157639,15 @@ BC62D2     (base 16)		Genexis International B.V.
 				Waldfeuchterbaan 124
 				Maria Hoop  Maria Hoop  6105 BP 
 				NL
+
+98-06-37   (hex)		IEEE Registration Authority
+980637     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+08-4F-F9   (hex)		Cisco Systems, Inc
+084FF9     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
