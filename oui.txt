@@ -63539,6 +63539,12 @@ A020A6     (base 16)		Espressif Inc.
 				San Jose  CA  94568
 				US
 
+B4-EE-25   (hex)		Shenzhen Belon Technology CO.,LTD
+B4EE25     (base 16)		Shenzhen Belon Technology CO.,LTD
+				Tsinghua Information
+				Shenzhen  Guangdong  518052
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -157651,3 +157657,9 @@ BC62D2     (base 16)		Genexis International B.V.
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
+5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
+				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
+				Shenzhen  Guangdong  518000
+				CN
