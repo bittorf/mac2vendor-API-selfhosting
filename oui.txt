@@ -94628,6 +94628,12 @@ C82B96     (base 16)		Espressif Inc.
 				Gwangju  Gwangsan-gu  506-731
 				KR
 
+4C-56-DF   (hex)		Targus US LLC
+4C56DF     (base 16)		Targus US LLC
+				1211 North Miller Street
+				Anaheim  CA  92806
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -126141,6 +126147,12 @@ C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 5CCF7F     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Rd, Pudong New Area
 				Shanghai  Shanghai  201203
+				CN
+
+24-DF-A7   (hex)		Hangzhou BroadLink Technology Co.,Ltd
+24DFA7     (base 16)		Hangzhou BroadLink Technology Co.,Ltd
+				Room 101,1/F,Unit C,Building 1,No.57 Jiang'er Road,Changhe Street,Binjiang District,Hangzhou,Zhejiang,P.R.China
+				Hangzhou  Zhejiang  310052
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
