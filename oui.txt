@@ -31619,6 +31619,18 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
+38-C4-E8   (hex)		NSS Sp. z o.o.
+38C4E8     (base 16)		NSS Sp. z o.o.
+				Modularna 11
+				Warszawa    02-238
+				PL
+
+34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
+34DD7E     (base 16)		Umeox Innovations Co.,Ltd
+				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -63533,17 +63545,23 @@ A020A6     (base 16)		Espressif Inc.
 				Bangpakong  Chachoengsao  24180
 				TH
 
+B4-EE-25   (hex)		Shenzhen Belon Technology CO.,LTD
+B4EE25     (base 16)		Shenzhen Belon Technology CO.,LTD
+				Tsinghua Information
+				Shenzhen  Guangdong  518052
+				CN
+
 08-4F-A9   (hex)		Cisco Systems, Inc
 084FA9     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
 
-B4-EE-25   (hex)		Shenzhen Belon Technology CO.,LTD
-B4EE25     (base 16)		Shenzhen Belon Technology CO.,LTD
-				Tsinghua Information
-				Shenzhen  Guangdong  518052
-				CN
+18-90-88   (hex)		eero inc.
+189088     (base 16)		eero inc.
+				660 3rd Street
+				San Francisco  CA  94107
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -131810,12 +131828,6 @@ A40130     (base 16)		ABIsystems Co., LTD
 				  Seoul  
 				KR
 
-68-F1-25   (hex)		Data Controls Inc.
-68F125     (base 16)		Data Controls Inc.
-				3-17-4 Ueno
-				Taito-ku  Tokyo  1100005
-				JP
-
 70-6F-81   (hex)		Private
 706F81     (base 16)		Private
 
@@ -157664,14 +157676,20 @@ BC62D2     (base 16)		Genexis International B.V.
 				Piscataway  NJ  08554
 				US
 
+5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
+5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
+				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
+				Shenzhen  Guangdong  518000
+				CN
+
 08-4F-F9   (hex)		Cisco Systems, Inc
 084FF9     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
 
-5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
-5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
-				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
-				Shenzhen  Guangdong  518000
-				CN
+68-F1-25   (hex)		Data Controls Inc.
+68F125     (base 16)		Data Controls Inc.
+				Fukashiro Bldg, 8F
+				Taito-ku  Tokyo  111-0052
+				JP
