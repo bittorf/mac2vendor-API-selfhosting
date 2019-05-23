@@ -31619,17 +31619,17 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-38-C4-E8   (hex)		NSS Sp. z o.o.
-38C4E8     (base 16)		NSS Sp. z o.o.
-				Modularna 11
-				Warszawa    02-238
-				PL
-
 34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
 34DD7E     (base 16)		Umeox Innovations Co.,Ltd
 				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
+
+38-C4-E8   (hex)		NSS Sp. z o.o.
+38C4E8     (base 16)		NSS Sp. z o.o.
+				Modularna 11
+				Warszawa    02-238
+				PL
 
 80-B0-7B   (hex)		zte corporation
 80B07B     (base 16)		zte corporation
@@ -126197,6 +126197,12 @@ C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Hangzhou  Zhejiang  310052
 				CN
 
+88-9D-98   (hex)		Allied-telesisK.K.
+889D98     (base 16)		Allied-telesisK.K.
+				7-21-11 Nishi-Gotannda
+				Shinagawa-ku  Tokyo  141-0031
+				JP
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -157700,17 +157706,17 @@ BC62D2     (base 16)		Genexis International B.V.
 				Piscataway  NJ  08554
 				US
 
-5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
-5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
-				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
-				Shenzhen  Guangdong  518000
-				CN
-
 08-4F-F9   (hex)		Cisco Systems, Inc
 084FF9     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
+5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
+				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
+				Shenzhen  Guangdong  518000
+				CN
 
 68-F1-25   (hex)		Data Controls Inc.
 68F125     (base 16)		Data Controls Inc.
@@ -157723,3 +157729,21 @@ DCF8B9     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
+
+B0-65-F1   (hex)		WIO Manufacturing HK Limited
+B065F1     (base 16)		WIO Manufacturing HK Limited
+				15/F OTB Building, 160 Glocester Road
+				Hong Kong    00000
+				HK
+
+90-12-34   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+901234     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+F0-5C-77   (hex)		Google, Inc.
+F05C77     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
