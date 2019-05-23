@@ -31619,17 +31619,29 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
+38-C4-E8   (hex)		NSS Sp. z o.o.
+38C4E8     (base 16)		NSS Sp. z o.o.
+				Modularna 11
+				Warszawa    02-238
+				PL
+
 34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
 34DD7E     (base 16)		Umeox Innovations Co.,Ltd
 				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
 
-38-C4-E8   (hex)		NSS Sp. z o.o.
-38C4E8     (base 16)		NSS Sp. z o.o.
-				Modularna 11
-				Warszawa    02-238
-				PL
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+C8-5A-9F   (hex)		zte corporation
+C85A9F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -94657,6 +94669,12 @@ C82B96     (base 16)		Espressif Inc.
 				1211 North Miller Street
 				Anaheim  CA  92806
 				US
+
+78-69-D4   (hex)		Shenyang Vibrotech Instruments Inc.
+7869D4     (base 16)		Shenyang Vibrotech Instruments Inc.
+				No 23-2 Yunfeng St. Tiexi Dist. 
+				Shenyang   Liaoning  110021
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -157699,3 +157717,9 @@ BC62D2     (base 16)		Genexis International B.V.
 				Fukashiro Bldg, 8F
 				Taito-ku  Tokyo  111-0052
 				JP
+
+DC-F8-B9   (hex)		zte corporation
+DCF8B9     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
