@@ -63581,6 +63581,12 @@ B4EE25     (base 16)		Shenzhen Belon Technology CO.,LTD
 				Santa Barbara  CA  93101
 				US
 
+18-2A-D3   (hex)		Juniper Networks
+182AD3     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -157706,17 +157712,17 @@ BC62D2     (base 16)		Genexis International B.V.
 				Piscataway  NJ  08554
 				US
 
-08-4F-F9   (hex)		Cisco Systems, Inc
-084FF9     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
 5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
 				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
 				Shenzhen  Guangdong  518000
 				CN
+
+08-4F-F9   (hex)		Cisco Systems, Inc
+084FF9     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 68-F1-25   (hex)		Data Controls Inc.
 68F125     (base 16)		Data Controls Inc.
