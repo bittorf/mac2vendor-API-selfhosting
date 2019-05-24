@@ -31619,17 +31619,23 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
+38-C4-E8   (hex)		NSS Sp. z o.o.
+38C4E8     (base 16)		NSS Sp. z o.o.
+				Modularna 11
+				Warszawa    02-238
+				PL
+
 34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
 34DD7E     (base 16)		Umeox Innovations Co.,Ltd
 				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
 
-38-C4-E8   (hex)		NSS Sp. z o.o.
-38C4E8     (base 16)		NSS Sp. z o.o.
-				Modularna 11
-				Warszawa    02-238
-				PL
+C8-5A-9F   (hex)		zte corporation
+C85A9F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
 
 80-B0-7B   (hex)		zte corporation
 80B07B     (base 16)		zte corporation
@@ -31637,10 +31643,16 @@ B03E51     (base 16)		BSkyB Ltd
 				shenzhen  guangdong  518057
 				CN
 
-C8-5A-9F   (hex)		zte corporation
-C85A9F     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
+20-77-59   (hex)		OPTICAL NETWORK VIDEO TECHNOLOGIES (SHENZHEN) CO., LTD.
+207759     (base 16)		OPTICAL NETWORK VIDEO TECHNOLOGIES (SHENZHEN) CO., LTD.
+				The 4-6th Floor, No. 59, HuaNing Road, Xinwei Community, Dalang Street, Longhua District
+				Shenzhen    518000
+				CN
+
+50-98-B8   (hex)		New H3C Technologies Co., Ltd
+5098B8     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -63575,17 +63587,23 @@ B4EE25     (base 16)		Shenzhen Belon Technology CO.,LTD
 				San Francisco  CA  94107
 				US
 
+18-2A-D3   (hex)		Juniper Networks
+182AD3     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 54-2A-1B   (hex)		Sonos, Inc.
 542A1B     (base 16)		Sonos, Inc.
 				614 Chapala St
 				Santa Barbara  CA  93101
 				US
 
-18-2A-D3   (hex)		Juniper Networks
-182AD3     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
-				US
+A8-C0-EA   (hex)		Pepwave Limited
+A8C0EA     (base 16)		Pepwave Limited
+				A5, 5/F, HK Spinners Industrial Building, Phase 6, 481 Castle Peak Road
+				Cheung Sha Wan  Hong Kong  0
+				HK
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -94675,6 +94693,24 @@ C82B96     (base 16)		Espressif Inc.
 				1211 North Miller Street
 				Anaheim  CA  92806
 				US
+
+4C-EB-BD   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+4CEBBD     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
+DC-CC-8D   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+58-85-A2   (hex)		Realme Chongqing MobileTelecommunications Corp Ltd
+5885A2     (base 16)		Realme Chongqing MobileTelecommunications Corp Ltd
+				No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing.
+				Chongqing  China  401120
+				CN
 
 78-69-D4   (hex)		Shenyang Vibrotech Instruments Inc.
 7869D4     (base 16)		Shenyang Vibrotech Instruments Inc.
