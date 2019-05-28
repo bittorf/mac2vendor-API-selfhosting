@@ -31619,26 +31619,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-38-C4-E8   (hex)		NSS Sp. z o.o.
-38C4E8     (base 16)		NSS Sp. z o.o.
-				Modularna 11
-				Warszawa    02-238
-				PL
-
 34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
 34DD7E     (base 16)		Umeox Innovations Co.,Ltd
 				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
 
-C8-5A-9F   (hex)		zte corporation
-C85A9F     (base 16)		zte corporation
+38-C4-E8   (hex)		NSS Sp. z o.o.
+38C4E8     (base 16)		NSS Sp. z o.o.
+				Modularna 11
+				Warszawa    02-238
+				PL
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
+C8-5A-9F   (hex)		zte corporation
+C85A9F     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -63604,6 +63604,12 @@ A8C0EA     (base 16)		Pepwave Limited
 				A5, 5/F, HK Spinners Industrial Building, Phase 6, 481 Castle Peak Road
 				Cheung Sha Wan  Hong Kong  0
 				HK
+
+18-BF-1C   (hex)		Jiangsu Huitong Group Co.,Ltd.
+18BF1C     (base 16)		Jiangsu Huitong Group Co.,Ltd.
+				No. 24, Block 2, Taohuawu New District
+				Zhenjiang  Jiangsu  212003
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -157801,3 +157807,9 @@ F08620     (base 16)		Arcadyan Corporation
 				No.8, Sec.2, Guangfu Rd.
 				Hsinchu City  Hsinchu  30071
 				TW
+
+7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
+7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
+				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
+				Wuhan    430000
+				CN
