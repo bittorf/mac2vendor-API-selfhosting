@@ -31619,26 +31619,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
-34DD7E     (base 16)		Umeox Innovations Co.,Ltd
-				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
-				Shenzhen  Guangdong  518000
-				CN
-
 38-C4-E8   (hex)		NSS Sp. z o.o.
 38C4E8     (base 16)		NSS Sp. z o.o.
 				Modularna 11
 				Warszawa    02-238
 				PL
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
+34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
+34DD7E     (base 16)		Umeox Innovations Co.,Ltd
+				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
 				CN
 
 C8-5A-9F   (hex)		zte corporation
 C85A9F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -35824,12 +35824,6 @@ D052A8     (base 16)		Physical Graph Corporation
 				11654 Plaza America Drive
 				Reston  VA  20190
 				US
-
-34-F6-2D   (hex)		SHARP Corporation
-34F62D     (base 16)		SHARP Corporation
-				22-22,Nagaike-Cho
-				Osaka-City  Osaka-Prefecture  545-8522
-				JP
 
 C4-EB-E3   (hex)		RRCN SAS
 C4EBE3     (base 16)		RRCN SAS
@@ -63611,6 +63605,12 @@ A8C0EA     (base 16)		Pepwave Limited
 				Zhenjiang  Jiangsu  212003
 				CN
 
+34-F6-2D   (hex)		SHARP Corporation
+34F62D     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -85268,12 +85268,6 @@ B462AD     (base 16)		Elysia Germany GmbH
 				Midrand    1685
 				ZA
 
-80-38-96   (hex)		SHARP Corporation
-803896     (base 16)		SHARP Corporation
-				22-22,Nagaike-Cho
-				Osaka-City  Osaka-Prefecture  545-8522
-				JP
-
 80-D1-60   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 80D160     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Phase 3, Bayan Lepas FIZ
@@ -94730,6 +94724,18 @@ DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Amsterdam  Noord-Holland  1097 JB
 				NL
 
+80-38-96   (hex)		SHARP Corporation
+803896     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
+
+FC-58-9A   (hex)		Cisco Systems, Inc
+FC589A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -96499,12 +96505,6 @@ BCD165     (base 16)		Cisco SPVTG
 				2025 Broadway, 2CD
 				New York City  New York  10023
 				US
-
-28-84-FA   (hex)		SHARP Corporation
-2884FA     (base 16)		SHARP Corporation
-				22-22,Nagaike-Cho
-				Osaka-City  Osaka-Prefecture  545-8522
-				JP
 
 E0-FF-F7   (hex)		Softiron Inc.
 E0FFF7     (base 16)		Softiron Inc.
@@ -126255,6 +126255,12 @@ C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 889D98     (base 16)		Allied-telesisK.K.
 				7-21-11 Nishi-Gotannda
 				Shinagawa-ku  Tokyo  141-0031
+				JP
+
+28-84-FA   (hex)		SHARP Corporation
+2884FA     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
 				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -157802,14 +157808,20 @@ DCF8B9     (base 16)		zte corporation
 				shenzhen  guangdong  518057
 				CN
 
+7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
+7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
+				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
+				Wuhan    430000
+				CN
+
 F0-86-20   (hex)		Arcadyan Corporation
 F08620     (base 16)		Arcadyan Corporation
 				No.8, Sec.2, Guangfu Rd.
 				Hsinchu City  Hsinchu  30071
 				TW
 
-7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
-7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
-				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
-				Wuhan    430000
-				CN
+2C-F8-9B   (hex)		Cisco Systems, Inc
+2CF89B     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
