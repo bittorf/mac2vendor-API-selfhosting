@@ -31619,26 +31619,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-38-C4-E8   (hex)		NSS Sp. z o.o.
-38C4E8     (base 16)		NSS Sp. z o.o.
-				Modularna 11
-				Warszawa    02-238
-				PL
-
 34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
 34DD7E     (base 16)		Umeox Innovations Co.,Ltd
 				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
 
-C8-5A-9F   (hex)		zte corporation
-C85A9F     (base 16)		zte corporation
+38-C4-E8   (hex)		NSS Sp. z o.o.
+38C4E8     (base 16)		NSS Sp. z o.o.
+				Modularna 11
+				Warszawa    02-238
+				PL
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
+C8-5A-9F   (hex)		zte corporation
+C85A9F     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -31654,6 +31654,24 @@ C85A9F     (base 16)		zte corporation
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+E0-E8-E6   (hex)		Shenzhen C-Data Technology Co., Ltd.
+E0E8E6     (base 16)		Shenzhen C-Data Technology Co., Ltd.
+				#601, Fl6, Bldg F, No.1008  Yangguang Community, Xili, Nanshan
+				Shenzhen  Guangdong  518055
+				CN
+
+6C-4D-51   (hex)		Shenzhen Ceres Technology Co., Ltd.
+6C4D51     (base 16)		Shenzhen Ceres Technology Co., Ltd.
+				#601, Fl6, Bldg F, No.1008  Yangguang Community, Xili, Nanshan
+				Shenzhen  Guangdong  518055
+				CN
+
+F8-3C-BF   (hex)		BOTATO ELECTRONICS SDN BHD
+F83CBF     (base 16)		BOTATO ELECTRONICS SDN BHD
+				c-1-2, JALAN BK5A/2B 47180,BANDAR KINRARA
+				PUCHONG  SELANGOR  47180
+				MY
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -94718,17 +94736,17 @@ DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Shenyang   Liaoning  110021
 				CN
 
-68-07-0A   (hex)		TPVision Europe B.V
-68070A     (base 16)		TPVision Europe B.V
-				Prins Bernhardplein 200
-				Amsterdam  Noord-Holland  1097 JB
-				NL
-
 80-38-96   (hex)		SHARP Corporation
 803896     (base 16)		SHARP Corporation
 				1 Takumi-cho, Sakai-ku
 				Sakai City  Osaka  590-8522
 				JP
+
+68-07-0A   (hex)		TPVision Europe B.V
+68070A     (base 16)		TPVision Europe B.V
+				Prins Bernhardplein 200
+				Amsterdam  Noord-Holland  1097 JB
+				NL
 
 FC-58-9A   (hex)		Cisco Systems, Inc
 FC589A     (base 16)		Cisco Systems, Inc
@@ -126262,6 +126280,12 @@ C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				1 Takumi-cho, Sakai-ku
 				Sakai City  Osaka  590-8522
 				JP
+
+70-87-9E   (hex)		Beken Corporation
+70879E     (base 16)		Beken Corporation
+				Building 41, Capital of Tech Leaders, 1387 Zhangdong Road, Zhangjiang High-Tech Park, Pudong New District
+				Shanghai    201203
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
