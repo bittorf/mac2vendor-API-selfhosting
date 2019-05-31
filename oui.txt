@@ -12809,12 +12809,6 @@ A8CE90     (base 16)		CVC
 				Santa Clara  CA  95051
 				US
 
-00-0F-53   (hex)		Solarflare Communications Inc
-000F53     (base 16)		Solarflare Communications Inc
-				9501 Jeronimo Road
-				Irvine  CA  92618
-				US
-
 00-0F-47   (hex)		ROBOX SPA
 000F47     (base 16)		ROBOX SPA
 				via Sempione 82
@@ -31619,26 +31613,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-38-C4-E8   (hex)		NSS Sp. z o.o.
-38C4E8     (base 16)		NSS Sp. z o.o.
-				Modularna 11
-				Warszawa    02-238
-				PL
-
 34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
 34DD7E     (base 16)		Umeox Innovations Co.,Ltd
 				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
 
-C8-5A-9F   (hex)		zte corporation
-C85A9F     (base 16)		zte corporation
+38-C4-E8   (hex)		NSS Sp. z o.o.
+38C4E8     (base 16)		NSS Sp. z o.o.
+				Modularna 11
+				Warszawa    02-238
+				PL
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
+C8-5A-9F   (hex)		zte corporation
+C85A9F     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -31677,6 +31671,12 @@ F83CBF     (base 16)		BOTATO ELECTRONICS SDN BHD
 241510     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+00-0F-53   (hex)		Solarflare Communications Inc.
+000F53     (base 16)		Solarflare Communications Inc.
+				Suite 100, 7505 Irvine Center Drive
+				Irvine  CA  92618
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -63635,6 +63635,12 @@ A8C0EA     (base 16)		Pepwave Limited
 				Sakai City  Osaka  590-8522
 				JP
 
+44-AE-AB   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+44AEAB     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -86180,12 +86186,6 @@ D8D43C     (base 16)		Sony Corporation
 				Dongguan    523808
 				CN
 
-00-0A-68   (hex)		Solarflare Communications Inc
-000A68     (base 16)		Solarflare Communications Inc
-				9501 Jeronimo
-				Irvine  CA  92618
-				US
-
 0C-D5-02   (hex)		Westell Technologies Inc.
 0CD502     (base 16)		Westell Technologies Inc.
 				750 N Commons Dr
@@ -94730,16 +94730,16 @@ DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Bayan Lepas  Penang  11900
 				MY
 
-78-69-D4   (hex)		Shenyang Vibrotech Instruments Inc.
-7869D4     (base 16)		Shenyang Vibrotech Instruments Inc.
-				No 23-2 Yunfeng St. Tiexi Dist. 
-				Shenyang   Liaoning  110021
-				CN
-
 58-85-A2   (hex)		Realme Chongqing MobileTelecommunications Corp Ltd
 5885A2     (base 16)		Realme Chongqing MobileTelecommunications Corp Ltd
 				No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing.
 				Chongqing  China  401120
+				CN
+
+78-69-D4   (hex)		Shenyang Vibrotech Instruments Inc.
+7869D4     (base 16)		Shenyang Vibrotech Instruments Inc.
+				No 23-2 Yunfeng St. Tiexi Dist. 
+				Shenyang   Liaoning  110021
 				CN
 
 80-38-96   (hex)		SHARP Corporation
@@ -94758,6 +94758,12 @@ FC-58-9A   (hex)		Cisco Systems, Inc
 FC589A     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+00-0A-68   (hex)		Solarflare Communications Inc.
+000A68     (base 16)		Solarflare Communications Inc.
+				Suite 100, 7505 Irvine Center Drive
+				Irvine  CA  92618
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -126293,6 +126299,12 @@ C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Sakai City  Osaka  590-8522
 				JP
 
+A4-F0-5E   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+A4F05E     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -157796,17 +157808,17 @@ BC62D2     (base 16)		Genexis International B.V.
 				Piscataway  NJ  08554
 				US
 
-08-4F-F9   (hex)		Cisco Systems, Inc
-084FF9     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
 5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
 				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
 				Shenzhen  Guangdong  518000
 				CN
+
+08-4F-F9   (hex)		Cisco Systems, Inc
+084FF9     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 68-F1-25   (hex)		Data Controls Inc.
 68F125     (base 16)		Data Controls Inc.
@@ -157838,17 +157850,17 @@ DCF8B9     (base 16)		zte corporation
 				shenzhen  guangdong  518057
 				CN
 
-F0-86-20   (hex)		Arcadyan Corporation
-F08620     (base 16)		Arcadyan Corporation
-				No.8, Sec.2, Guangfu Rd.
-				Hsinchu City  Hsinchu  30071
-				TW
-
 7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
 7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
 				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
 				Wuhan    430000
 				CN
+
+F0-86-20   (hex)		Arcadyan Corporation
+F08620     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
 
 2C-F8-9B   (hex)		Cisco Systems, Inc
 2CF89B     (base 16)		Cisco Systems, Inc
