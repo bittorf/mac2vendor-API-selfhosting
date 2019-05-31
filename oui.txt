@@ -31619,26 +31619,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
-34DD7E     (base 16)		Umeox Innovations Co.,Ltd
-				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
-				Shenzhen  Guangdong  518000
-				CN
-
 38-C4-E8   (hex)		NSS Sp. z o.o.
 38C4E8     (base 16)		NSS Sp. z o.o.
 				Modularna 11
 				Warszawa    02-238
 				PL
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
+34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
+34DD7E     (base 16)		Umeox Innovations Co.,Ltd
+				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
 				CN
 
 C8-5A-9F   (hex)		zte corporation
 C85A9F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -31672,6 +31672,12 @@ F83CBF     (base 16)		BOTATO ELECTRONICS SDN BHD
 				c-1-2, JALAN BK5A/2B 47180,BANDAR KINRARA
 				PUCHONG  SELANGOR  47180
 				MY
+
+24-15-10   (hex)		IEEE Registration Authority
+241510     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -94724,16 +94730,16 @@ DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Bayan Lepas  Penang  11900
 				MY
 
-58-85-A2   (hex)		Realme Chongqing MobileTelecommunications Corp Ltd
-5885A2     (base 16)		Realme Chongqing MobileTelecommunications Corp Ltd
-				No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing.
-				Chongqing  China  401120
-				CN
-
 78-69-D4   (hex)		Shenyang Vibrotech Instruments Inc.
 7869D4     (base 16)		Shenyang Vibrotech Instruments Inc.
 				No 23-2 Yunfeng St. Tiexi Dist. 
 				Shenyang   Liaoning  110021
+				CN
+
+58-85-A2   (hex)		Realme Chongqing MobileTelecommunications Corp Ltd
+5885A2     (base 16)		Realme Chongqing MobileTelecommunications Corp Ltd
+				No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing.
+				Chongqing  China  401120
 				CN
 
 80-38-96   (hex)		SHARP Corporation
@@ -126275,17 +126281,17 @@ C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Shinagawa-ku  Tokyo  141-0031
 				JP
 
-28-84-FA   (hex)		SHARP Corporation
-2884FA     (base 16)		SHARP Corporation
-				1 Takumi-cho, Sakai-ku
-				Sakai City  Osaka  590-8522
-				JP
-
 70-87-9E   (hex)		Beken Corporation
 70879E     (base 16)		Beken Corporation
 				Building 41, Capital of Tech Leaders, 1387 Zhangdong Road, Zhangjiang High-Tech Park, Pudong New District
 				Shanghai    201203
 				CN
+
+28-84-FA   (hex)		SHARP Corporation
+2884FA     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -157790,17 +157796,17 @@ BC62D2     (base 16)		Genexis International B.V.
 				Piscataway  NJ  08554
 				US
 
-5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
-5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
-				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
-				Shenzhen  Guangdong  518000
-				CN
-
 08-4F-F9   (hex)		Cisco Systems, Inc
 084FF9     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
+5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
+				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
+				Shenzhen  Guangdong  518000
+				CN
 
 68-F1-25   (hex)		Data Controls Inc.
 68F125     (base 16)		Data Controls Inc.
@@ -157832,17 +157838,17 @@ DCF8B9     (base 16)		zte corporation
 				shenzhen  guangdong  518057
 				CN
 
-7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
-7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
-				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
-				Wuhan    430000
-				CN
-
 F0-86-20   (hex)		Arcadyan Corporation
 F08620     (base 16)		Arcadyan Corporation
 				No.8, Sec.2, Guangfu Rd.
 				Hsinchu City  Hsinchu  30071
 				TW
+
+7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
+7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
+				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
+				Wuhan    430000
+				CN
 
 2C-F8-9B   (hex)		Cisco Systems, Inc
 2CF89B     (base 16)		Cisco Systems, Inc
