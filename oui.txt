@@ -31676,14 +31676,14 @@ F83CBF     (base 16)		BOTATO ELECTRONICS SDN BHD
 				Piscataway  NJ  08554
 				US
 
-11-11-11   (hex)		Private
-111111     (base 16)		Private
-
 B4-50-62   (hex)		EmBestor Technology Inc.
 B45062     (base 16)		EmBestor Technology Inc.
 				7F, No.1, Chin-Shan 8th St
 				Hsin-Chu, Taiwan    300
 				TW
+
+11-11-11   (hex)		Private
+111111     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63646,6 +63646,12 @@ A8C0EA     (base 16)		Pepwave Limited
 
 AC-DE-48   (hex)		Private
 ACDE48     (base 16)		Private
+
+F4-B6-88   (hex)		PLANTRONICS, INC.
+F4B688     (base 16)		PLANTRONICS, INC.
+				345 ENCINAL STREET
+				SANTA CRUZ  CA  95060
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
