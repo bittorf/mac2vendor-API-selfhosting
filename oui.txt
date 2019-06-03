@@ -29507,9 +29507,6 @@ F89910     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Bayan Lepas  Penang  11900
 				MY
 
-11-11-11   (hex)		Private
-111111     (base 16)		Private
-
 28-9E-FC   (hex)		Sagemcom Broadband SAS
 289EFC     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
@@ -31667,17 +31664,26 @@ F83CBF     (base 16)		BOTATO ELECTRONICS SDN BHD
 				PUCHONG  SELANGOR  47180
 				MY
 
+00-0F-53   (hex)		Solarflare Communications Inc.
+000F53     (base 16)		Solarflare Communications Inc.
+				Suite 100, 7505 Irvine Center Drive
+				Irvine  CA  92618
+				US
+
 24-15-10   (hex)		IEEE Registration Authority
 241510     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
 
-00-0F-53   (hex)		Solarflare Communications Inc.
-000F53     (base 16)		Solarflare Communications Inc.
-				Suite 100, 7505 Irvine Center Drive
-				Irvine  CA  92618
-				US
+11-11-11   (hex)		Private
+111111     (base 16)		Private
+
+B4-50-62   (hex)		EmBestor Technology Inc.
+B45062     (base 16)		EmBestor Technology Inc.
+				7F, No.1, Chin-Shan 8th St
+				Hsin-Chu, Taiwan    300
+				TW
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62195,9 +62201,6 @@ D05162     (base 16)		Sony Mobile Communications Inc
 				Shanghai    200438
 				CN
 
-AC-DE-48   (hex)		Private
-ACDE48     (base 16)		Private
-
 0C-8C-24   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 0C8C24     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
@@ -63640,6 +63643,9 @@ A8C0EA     (base 16)		Pepwave Limited
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+AC-DE-48   (hex)		Private
+ACDE48     (base 16)		Private
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -90833,9 +90839,6 @@ B46BFC     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-00-50-C7   (hex)		Private
-0050C7     (base 16)		Private
-
 00-14-77   (hex)		Trilliant
 001477     (base 16)		Trilliant
 				950 Cowie st.
@@ -94730,16 +94733,16 @@ DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Bayan Lepas  Penang  11900
 				MY
 
-58-85-A2   (hex)		Realme Chongqing MobileTelecommunications Corp Ltd
-5885A2     (base 16)		Realme Chongqing MobileTelecommunications Corp Ltd
-				No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing.
-				Chongqing  China  401120
-				CN
-
 78-69-D4   (hex)		Shenyang Vibrotech Instruments Inc.
 7869D4     (base 16)		Shenyang Vibrotech Instruments Inc.
 				No 23-2 Yunfeng St. Tiexi Dist. 
 				Shenyang   Liaoning  110021
+				CN
+
+58-85-A2   (hex)		Realme Chongqing MobileTelecommunications Corp Ltd
+5885A2     (base 16)		Realme Chongqing MobileTelecommunications Corp Ltd
+				No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing.
+				Chongqing  China  401120
 				CN
 
 80-38-96   (hex)		SHARP Corporation
@@ -94754,17 +94757,20 @@ DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Amsterdam  Noord-Holland  1097 JB
 				NL
 
+00-0A-68   (hex)		Solarflare Communications Inc.
+000A68     (base 16)		Solarflare Communications Inc.
+				Suite 100, 7505 Irvine Center Drive
+				Irvine  CA  92618
+				US
+
 FC-58-9A   (hex)		Cisco Systems, Inc
 FC589A     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
 
-00-0A-68   (hex)		Solarflare Communications Inc.
-000A68     (base 16)		Solarflare Communications Inc.
-				Suite 100, 7505 Irvine Center Drive
-				Irvine  CA  92618
-				US
+00-50-C7   (hex)		Private
+0050C7     (base 16)		Private
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -121913,9 +121919,6 @@ FC6BF0     (base 16)		TOPWELL INTERNATIONAL HOLDINDS LIMITED
 				SHENZHEN  GUANGDONG  518000
 				CN
 
-11-00-AA   (hex)		Private
-1100AA     (base 16)		Private
-
 80-02-9C   (hex)		Gemtek Technology Co., Ltd.
 80029C     (base 16)		Gemtek Technology Co., Ltd.
 				No.15-1 Zhonghua Road
@@ -123823,9 +123826,6 @@ AC9232     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-00-20-67   (hex)		Private
-002067     (base 16)		Private
 
 70-0B-01   (hex)		Sagemcom Broadband SAS
 700B01     (base 16)		Sagemcom Broadband SAS
@@ -126304,6 +126304,12 @@ A4F05E     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+11-00-AA   (hex)		Private
+1100AA     (base 16)		Private
+
+00-20-67   (hex)		Private
+002067     (base 16)		Private
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -157808,17 +157814,17 @@ BC62D2     (base 16)		Genexis International B.V.
 				Piscataway  NJ  08554
 				US
 
-5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
-5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
-				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
-				Shenzhen  Guangdong  518000
-				CN
-
 08-4F-F9   (hex)		Cisco Systems, Inc
 084FF9     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
+5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
+				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
+				Shenzhen  Guangdong  518000
+				CN
 
 68-F1-25   (hex)		Data Controls Inc.
 68F125     (base 16)		Data Controls Inc.
@@ -157850,20 +157856,26 @@ DCF8B9     (base 16)		zte corporation
 				shenzhen  guangdong  518057
 				CN
 
-7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
-7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
-				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
-				Wuhan    430000
-				CN
-
 F0-86-20   (hex)		Arcadyan Corporation
 F08620     (base 16)		Arcadyan Corporation
 				No.8, Sec.2, Guangfu Rd.
 				Hsinchu City  Hsinchu  30071
 				TW
 
+7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
+7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
+				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
+				Wuhan    430000
+				CN
+
 2C-F8-9B   (hex)		Cisco Systems, Inc
 2CF89B     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+54-E7-D5   (hex)		Sun Cupid Technology (HK) LTD
+54E7D5     (base 16)		Sun Cupid Technology (HK) LTD
+				Room 1201-3, 12/F., Tower 6
+				Tsim Sha Tsui    
+				HK
