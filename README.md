@@ -45,6 +45,9 @@ cronjob on server:
 TODO
 ----
 
+* add historical data from
+  https://web.archive.org/web/19980515000000*/http://standards.ieee.org/regauth/oui/oui.txt
+  https://web.archive.org/web/*/http://standards-oui.ieee.org/oui.txt
 * add example client-implementations for popular languages
 * autogenerate 'mac2vendor.c' with compression, so everything should fit into a 250k binary
   * show uniq printable chars for organizations:
