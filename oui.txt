@@ -63644,14 +63644,14 @@ A8C0EA     (base 16)		Pepwave Limited
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-AC-DE-48   (hex)		Private
-ACDE48     (base 16)		Private
-
 F4-B6-88   (hex)		PLANTRONICS, INC.
 F4B688     (base 16)		PLANTRONICS, INC.
 				345 ENCINAL STREET
 				SANTA CRUZ  CA  95060
 				US
+
+AC-DE-48   (hex)		Private
+ACDE48     (base 16)		Private
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -157885,3 +157885,15 @@ F08620     (base 16)		Arcadyan Corporation
 				Room 1201-3, 12/F., Tower 6
 				Tsim Sha Tsui    
 				HK
+
+2C-64-1F   (hex)		Vizio, Inc
+2C641F     (base 16)		Vizio, Inc
+				39 Tesla
+				Irvine  CA  92618
+				US
+
+F8-08-4F   (hex)		Sagemcom Broadband SAS
+F8084F     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
