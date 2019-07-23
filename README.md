@@ -43,12 +43,10 @@ mac2vendor()
 	set -- $( echo "${mac:-aa,bb,cc}" | tr 'A-F' 'a-f' | tr -c '0-9a-f' ' ' )
 	cachefile="/dev/shm/mac2vendor-$1-$2-$3"
 
-	if [ -s "$cachefile" ]; then
-		cat "$cachefile"
-	else
+	cat "$cachefile" 2>/dev/null || {
 		vendor="$( wget -qO - "http://intercity-vpn.de/oui/$1/$2/$3" | head -n1 )"
-		[ -n "$vendor" ] && echo "$vendor" >"$cachefile" && echo "$vendor"
-	fi
+		[ "$vendor" ] && echo "$vendor" && echo "$vendor" >"$cachefile"
+	}
 }
 
 ```
