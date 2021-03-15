@@ -21,7 +21,7 @@ with a low amount of storage. You can try it on this demo-server:
     # curl http://intercity-vpn.de/oui/3c/d9/2b
     # curl http://intercity-vpn.de/oui/3c/d9/2b.json
 
-For the lazy people there is also an up-to-date tar.xz:
+For the lazy people there is also an up-to-date 1.6mb-tar.xz:
 
     # mkdir /var/www/oui && cd /var/www/oui
     # wget http://intercity-vpn.de/oui/oui.tar.xz

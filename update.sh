@@ -132,11 +132,12 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 		[ -d '.git' ] && {
 			git add 'oui.txt'
 			git commit -m "oui.txt: adding $NEW entries, overall now: $ALL vendors"
+			git gc
 		}
 
 		tar -C "$WWWDIR" -cf 'oui.tar' --exclude='oui.tar.xz' .
-		xz -e 'oui.tar'
-		mv 'oui.tar.xz' "$WWWDIR"	# ~ 1500 kilobytes
+		xz -e 'oui.tar' && rm -f 'oui.tar'
+		mv 'oui.tar.xz' "$WWWDIR"	# ~ 1600 kilobytes
 	else
 		logger -s "no new entries - overall: $ALL"
 	fi
