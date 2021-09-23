@@ -60,7 +60,7 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 	# only parse, when content has changed:
 	test -f "$FILE_FLAT.hash"       && read -r HASH_OLD <"$FILE_FLAT.hash"
 	HASH_NEW="$( md5sum <"$FILE" )" && e    "$HASH_NEW" >"$FILE_FLAT.hash"
-	test "$HASH_OLD" = "$HASH_NEW"  && continue
+	test "$HASH_OLD" = "$HASH_NEW"  && log "[OK] no changes in '$FILE'" && exit 0
 
 	log "[OK] parsing '$FILE' with $( wc -l <"$FILE" ) lines, this needs some time..."
 	while read -r LINE; do
@@ -93,11 +93,12 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. oui/ab/34/ef
 				shift 3 || log "[ERR] shift: ALL: $ALL LINE: '$LINE'"
 
+				# TODO: speedup
+				ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
+
 				case "$OPTION" in
 					'build_shellscript')
 						# TODO: try to group e.g. all 450 entries with 'Samsung Electronics'
-						ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
-
 						# here we output a good parsable/sortable file for later building shell/json structures:
 						e >>"$FILE_FLAT" "$DIR1 $DIR2 $DIR3 |$ORGANIZATION"
 						e >>"$SHELLFILE" "${DIR1}${DIR2}${DIR3})e '$( shellsafe "$ORGANIZATION" )';;"
@@ -110,7 +111,6 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 					NEW=$(( NEW + 1 ))
 					mkdir -p "$WWWDIR/$DIR1/$DIR2"
 
-					ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
 					e >"$OUTFILE" "$ORGANIZATION"
 
 					VENDOR_NAME="$(    sed '1q;d' "$OUTFILE" )"
@@ -135,12 +135,10 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				fi
 			;;
 			*[a-zA-Z0-9]*)
-				ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
-
 				# likely the countrycode:
 				case "$ORGANIZATION" in
 					'') ;;
-					*) e "$*" | sed "s/${CARRIAGE_RETURN}\$//" >>"$OUTFILE" ;;
+					 *) e "$*" | sed "s/${CARRIAGE_RETURN}\$//" >>"$OUTFILE" ;;
 				esac
 			;;
 			*)
