@@ -70,12 +70,28 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 			[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' (base 16)')
 				ALL=$(( ALL + 1 ))
 
-				MAC="$(  e '%s\n' "$1"   | sed 'y/ABCDEF/abcdef/' )"	# to-lowercase
-				DIR1="$( e '%s\n' "$MAC" | cut -b 1,2 )"
-				DIR2="$( e '%s\n' "$MAC" | cut -b 3,4 )"
-				DIR3="$( e '%s\n' "$MAC" | cut -b 5,6 )"
+				# speedcode without forks and with builtins only:
+				char_tolowercase() { case "$1" in A) C=a ;; B) C=b ;; C) C=c ;; D) C=d ;; E) C=e ;; F) C=f ;; esac; }
+				MAC=$1
+				MACLOWER=
+
+				for _ in 1 2 3 4 5 6; do {
+					C="${MAC%${MAC#?}}"		# get first char
+					MAC="${MAC#?}"			# remove first char
+					char_tolowercase "$C"
+					MACLOWER="${MACLOWER}${C}"	# append
+				} done
+
+				# MAC is e.g. "ab12ef (base 16)"
+				MAC="$MACLOWER"
+				DIR1="${MAC%${MAC#??}}"		# ab12ef... -> ab
+				MAC="${MAC#??}"			# remove first 2 chars
+				DIR2="${MAC%${MAC#??}}"		# 12ef...   -> 12
+				MAC="${MAC#??}"			# remove first 2 chars
+				DIR3="${MAC%${MAC#??}}"		# ef...     -> ef
 
 				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. 3CD92B -> oui/3c/d9/2b
+
 				shift 3 || log "[ERR] shift: ALL: $ALL LINE: '$LINE'"
 				ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
 
@@ -120,7 +136,10 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 			;;
 			*[a-zA-Z0-9]*)
 				# likely the countrycode:
-				test "$ORGANIZATION" && e "$*" | sed "s/${CARRIAGE_RETURN}\$//" >>"$OUTFILE"
+				case "$ORGANIZATION" in
+					'') ;;
+					*) e "$*" | sed "s/${CARRIAGE_RETURN}\$//" >>"$OUTFILE" ;;
+				esac
 			;;
 			*)
 				ORGANIZATION=		# abort parsing, wait for next entry
@@ -128,7 +147,9 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 		esac
 	done <"$FILE"
 
-	[ "$OPTION" = 'build_shellscript' ] && e >>"$SHELLFILE" 'esac'
+	case "$OPTION" in
+		'build_shellscript') e >>"$SHELLFILE" 'esac' ;;
+	esac
 
 	sort "$FILE_FLAT" >"$FILE_FLAT.sorted"
 	mv "$FILE_FLAT.sorted" "$FILE_FLAT"
