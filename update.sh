@@ -23,6 +23,7 @@ CARRIAGE_RETURN="$( printf '\r' )"
 alias explode='set -f;set +f --'
 log() { >&2 printf '%s | %s\n' "$(date)" "$1"; }
 e() { printf '%s\n' "$1"; }
+char_tolowercase() { case "$1" in A) C=a ;; B) C=b ;; C) C=c ;; D) C=d ;; E) C=e ;; F) C=f ;; esac; }
 
 if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 	# a typical block looks like:
@@ -71,7 +72,6 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				ALL=$(( ALL + 1 ))
 
 				# speedcode without forks and with builtins only:
-				char_tolowercase() { case "$1" in A) C=a ;; B) C=b ;; C) C=c ;; D) C=d ;; E) C=e ;; F) C=f ;; esac; }
 				MAC=$1
 				MACLOWER=
 
@@ -82,25 +82,24 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 					MACLOWER="${MACLOWER}${C}"	# append
 				} done
 
-				# MAC is e.g. "ab12ef (base 16)"
+				# MAC is e.g. "ab34ef (base 16)"
 				MAC="$MACLOWER"
-				DIR1="${MAC%${MAC#??}}"		# ab12ef... -> ab
+				DIR1="${MAC%${MAC#??}}"		# ab34ef... -> ab
 				MAC="${MAC#??}"			# remove first 2 chars
-				DIR2="${MAC%${MAC#??}}"		# 12ef...   -> 12
+				DIR2="${MAC%${MAC#??}}"		# 34ef...   -> 34
 				MAC="${MAC#??}"			# remove first 2 chars
 				DIR3="${MAC%${MAC#??}}"		# ef...     -> ef
 
-				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. 3CD92B -> oui/3c/d9/2b
-
+				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. oui/ab/34/ef
 				shift 3 || log "[ERR] shift: ALL: $ALL LINE: '$LINE'"
-				ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
-
-				# here we output a good parsable/sortable file for later building shell/json structures:
-				e >>"$FILE_FLAT" "$DIR1 $DIR2 $DIR3 |$ORGANIZATION"
 
 				case "$OPTION" in
 					'build_shellscript')
 						# TODO: try to group e.g. all 450 entries with 'Samsung Electronics'
+						ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
+
+						# here we output a good parsable/sortable file for later building shell/json structures:
+						e >>"$FILE_FLAT" "$DIR1 $DIR2 $DIR3 |$ORGANIZATION"
 						e >>"$SHELLFILE" "${DIR1}${DIR2}${DIR3})e '$( shellsafe "$ORGANIZATION" )';;"
 					;;
 				esac
@@ -111,6 +110,7 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 					NEW=$(( NEW + 1 ))
 					mkdir -p "$WWWDIR/$DIR1/$DIR2"
 
+					ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
 					e >"$OUTFILE" "$ORGANIZATION"
 
 					VENDOR_NAME="$(    sed '1q;d' "$OUTFILE" )"
@@ -135,6 +135,8 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				fi
 			;;
 			*[a-zA-Z0-9]*)
+				ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
+
 				# likely the countrycode:
 				case "$ORGANIZATION" in
 					'') ;;
