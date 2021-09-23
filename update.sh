@@ -15,13 +15,14 @@ OPTION="$3"			# e.g. <empty> or 'build_shellscript' (experimental -> ~810k)
 OPTION_ARG="${4:-oui.sh}"	# in shellscript-mode: scriptname
 
 URL='http://standards.ieee.org/develop/regauth/oui/oui.txt'
-FILE_FLAT="$FILE.flatdb.txt"
 NEW=0
 ALL=0
+FILE_FLAT="$FILE.flatdb.txt"
 CARRIAGE_RETURN="$( printf '\r' )"
 
 alias explode='set -f;set +f --'
 log() { >&2 printf '%s | %s\n' "$(date)" "$1"; }
+e() { printf '%s\n' "$1"; }
 
 if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 	# a typical block looks like:
@@ -39,21 +40,26 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 			SHELLFILE="$OPTION_ARG"
 			log "[OK] new script '$SHELLFILE'"
 			{
-				echo '#!/bin/sh'
-				echo 'e(){ echo $*;}'
-				echo
-				echo "case \"\$1\" in"
+				e '#!/bin/sh'
+				e 'e(){ printf "%s\n" "$*";}'
+				e
+				e "case \"\$1\" in"
 			} >"$SHELLFILE" && chmod +x "$SHELLFILE"
 
 			shellsafe()
 			{
-				echo "$1" | sed -e "s/'/'\\\''/g" -e 's/[^a-zA-Z0-9\._~}{(), =+?@\\/:-\[\]]//g'
+				e "$1" | sed -e "s/'/'\\\''/g" -e 's/[^a-zA-Z0-9\._~}{(), =+?@\\/:-\[\]]//g'
 			}
 		;;
 	esac
 
 	# start a new write:
 	true >"$FILE_FLAT"
+
+	# only parse, when content has changed:
+	test -f "$FILE_FLAT.hash"       && read -r HASH_OLD <"$FILE_FLAT.hash"
+	HASH_NEW="$( md5sum <"$FILE" )" && e    "$HASH_NEW" >"$FILE_FLAT.hash"
+	test "$HASH_OLD" = "$HASH_NEW"  && continue
 
 	log "[OK] parsing '$FILE' with $( wc -l <"$FILE" ) lines, this needs some time..."
 	while read -r LINE; do
@@ -63,32 +69,33 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 		case "$1 $2 $3" in
 			[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F]' (base 16)')
 				ALL=$(( ALL + 1 ))
-				MAC="$( echo "$1" | sed 'y/ABCDEF/abcdef/' )"	# lowercase
 
-				DIR1="$( echo "$MAC" | cut -b 1,2 )"
-				DIR2="$( echo "$MAC" | cut -b 3,4 )"
-				DIR3="$( echo "$MAC" | cut -b 5,6 )"
+				MAC="$(  e '%s\n' "$1"   | sed 'y/ABCDEF/abcdef/' )"	# to-lowercase
+				DIR1="$( e '%s\n' "$MAC" | cut -b 1,2 )"
+				DIR2="$( e '%s\n' "$MAC" | cut -b 3,4 )"
+				DIR3="$( e '%s\n' "$MAC" | cut -b 5,6 )"
+
 				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. 3CD92B -> oui/3c/d9/2b
 				shift 3 || log "[ERR] shift: ALL: $ALL LINE: '$LINE'"
-				ORGANIZATION="$( echo "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
+				ORGANIZATION="$( e "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
 
 				# here we output a good parsable/sortable file for later building shell/json structures:
-				echo >>"$FILE_FLAT" "$DIR1 $DIR2 $DIR3 |$ORGANIZATION"
+				e >>"$FILE_FLAT" "$DIR1 $DIR2 $DIR3 |$ORGANIZATION"
 
 				case "$OPTION" in
 					'build_shellscript')
 						# TODO: try to group e.g. all 450 entries with 'Samsung Electronics'
-						echo >>"$SHELLFILE" "${DIR1}${DIR2}${DIR3})e '$( shellsafe "$ORGANIZATION" )';;"
+						e >>"$SHELLFILE" "${DIR1}${DIR2}${DIR3})e '$( shellsafe "$ORGANIZATION" )';;"
 					;;
 				esac
 
-				if [ -e "$OUTFILE" ]; then
+				if [ -f "$OUTFILE" ]; then
 					ORGANIZATION=			# no need for writing again
 				else
 					NEW=$(( NEW + 1 ))
 					mkdir -p "$WWWDIR/$DIR1/$DIR2"
 
-					echo >"$OUTFILE" "$ORGANIZATION"
+					e >"$OUTFILE" "$ORGANIZATION"
 
 					VENDOR_NAME="$(    sed '1q;d' "$OUTFILE" )"
 					VENDOR_STREET="$(  sed '2q;d' "$OUTFILE" )"
@@ -96,23 +103,24 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 					VENDOR_COUNTRY="$( sed '4q;d' "$OUTFILE" )"
 
 					{
+						# TODO: like https://macaddress.io/database-download
 						# https://stackoverflow.com/questions/5543490/json-naming-convention
-						echo '{'
-						echo "  \"vendorOUI\": \"$DIR1-$DIR2-$DIR3\","
-						echo "  \"vendorOUIbyte1\": \"$DIR1\","
-						echo "  \"vendorOUIbyte2\": \"$DIR2\","
-						echo "  \"vendorOUIbyte3\": \"$DIR3\","
-						echo "  \"vendorName\": \"$VENDOR_NAME\","
-						echo "  \"vendorStreet\": \"$VENDOR_STREET\","
-						echo "  \"vendorCity\": \"$VENDOR_CITY\","
-						echo "  \"vendorCountry\": \"$VENDOR_COUNTRY\""
-						echo '}'
+						e '{'
+						e "  \"vendorOUI\": \"$DIR1-$DIR2-$DIR3\","
+						e "  \"vendorOUIbyte1\": \"$DIR1\","
+						e "  \"vendorOUIbyte2\": \"$DIR2\","
+						e "  \"vendorOUIbyte3\": \"$DIR3\","
+						e "  \"vendorName\": \"$VENDOR_NAME\","
+						e "  \"vendorStreet\": \"$VENDOR_STREET\","
+						e "  \"vendorCity\": \"$VENDOR_CITY\","
+						e "  \"vendorCountry\": \"$VENDOR_COUNTRY\""
+						e '}'
 					} >"$OUTFILE.json"
 				fi
 			;;
 			*[a-zA-Z0-9]*)
 				# likely the countrycode:
-				test "$ORGANIZATION" && echo "$*" | sed "s/${CARRIAGE_RETURN}\$//" >>"$OUTFILE"
+				test "$ORGANIZATION" && e "$*" | sed "s/${CARRIAGE_RETURN}\$//" >>"$OUTFILE"
 			;;
 			*)
 				ORGANIZATION=		# abort parsing, wait for next entry
@@ -120,7 +128,7 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 		esac
 	done <"$FILE"
 
-	[ "$OPTION" = 'build_shellscript' ] && echo >>"$SHELLFILE" 'esac'
+	[ "$OPTION" = 'build_shellscript' ] && e >>"$SHELLFILE" 'esac'
 
 	sort "$FILE_FLAT" >"$FILE_FLAT.sorted"
 	mv "$FILE_FLAT.sorted" "$FILE_FLAT"
@@ -142,6 +150,6 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 
 	log "see: '$FILE_FLAT' and '$WWWDIR/oui.tar.xz'"
 else
-	rm "$FILE"
+	rm -f "$FILE"
 	false
 fi
