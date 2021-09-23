@@ -1,31 +1,29 @@
 #!/bin/sh
 
 # cron-mode:
-# while :; do rm oui.txt; ./update.sh; git push; date; sleep 86400; done
-
-WWWDIR="${1:-/var/www/oui}"	# for testing use e.g. /dev/shm/oui
-FILE="${2:-oui.txt}"		# if file already exists, it is not downloaded
-FILE_FLAT="$FILE.flatdb.txt"
-
-OPTION="$3"			# e.g. <empty> or 'build_shellscript' (experimental -> ~810k)
-OPTION_ARG="${4:-oui.sh}"	# in shellscript-mode: scriptname
-
-URL='http://standards.ieee.org/develop/regauth/oui/oui.txt'
-NEW=0
-ALL=0
-CARRIAGE_RETURN="$( printf '\r' )"
-
-alias explode='set -f;set +f --'
-
-# - this downloads 'oui.txt' from URL
+# while :; do rm -f ui.txt && ./update.sh /dev/shm/oui; git push; date; sleep 9999; done
+#
+# - this script downloads 'oui.txt' from URL
 # - parse and write out for each OUI-entry a textfile to:
 #   - WWWDIR/byte1/byte2/byte3 so that
 #   - e.g. http://server/oui/3c/d9/2b       is a textfile with vendor name + address
 #   - e.g. http://server/oui/3c/d9/2b.json  is a textfile with the same in json-notation
 
+WWWDIR="${1:-/var/www/oui}"	# for testing use e.g. /dev/shm/oui
+FILE="${2:-oui.txt}"		# if file already exists, it is not downloaded
+OPTION="$3"			# e.g. <empty> or 'build_shellscript' (experimental -> ~810k)
+OPTION_ARG="${4:-oui.sh}"	# in shellscript-mode: scriptname
+
+URL='http://standards.ieee.org/develop/regauth/oui/oui.txt'
+FILE_FLAT="$FILE.flatdb.txt"
+NEW=0
+ALL=0
+CARRIAGE_RETURN="$( printf '\r' )"
+
+alias explode='set -f;set +f --'
+log() { >&2 printf '%s | %s\n' "$(date)" "$1"; }
 
 if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
-
 	# a typical block looks like:
 	#
 	# 3C-D9-2B   (hex)                Hewlett Packard
@@ -39,7 +37,7 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 	case "$OPTION" in
 		'build_shellscript')
 			SHELLFILE="$OPTION_ARG"
-			logger -s "[OK] new script '$SHELLFILE'"
+			log "[OK] new script '$SHELLFILE'"
 			{
 				echo '#!/bin/sh'
 				echo 'e(){ echo $*;}'
@@ -55,9 +53,9 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 	esac
 
 	# start a new write:
-	>"$FILE_FLAT"
+	true >"$FILE_FLAT"
 
-	logger -s "[OK] parsing '$FILE' with $( wc -l <"$FILE" ) lines, this needs some time..."
+	log "[OK] parsing '$FILE' with $( wc -l <"$FILE" ) lines, this needs some time..."
 	while read -r LINE; do
 		# shellcheck disable=SC2086
 		explode $LINE
@@ -71,7 +69,7 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 				DIR2="$( echo "$MAC" | cut -b 3,4 )"
 				DIR3="$( echo "$MAC" | cut -b 5,6 )"
 				OUTFILE="$WWWDIR/$DIR1/$DIR2/$DIR3"		# e.g. 3CD92B -> oui/3c/d9/2b
-				shift 3 || logger -s "[ERR] shift: ALL: $ALL LINE: '$LINE'"
+				shift 3 || log "[ERR] shift: ALL: $ALL LINE: '$LINE'"
 				ORGANIZATION="$( echo "$*" | sed "s/${CARRIAGE_RETURN}\$//" )"
 
 				# here we output a good parsable/sortable file for later building shell/json structures:
@@ -128,10 +126,10 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 	mv "$FILE_FLAT.sorted" "$FILE_FLAT"
 
 	if [ $NEW -gt 0 ]; then
-		logger -s "new entries: $NEW overall: $ALL"
+		log "new entries: $NEW overall: $ALL"
 		[ -d '.git' ] && {
 			git add 'oui.txt'
-			git commit -m "oui.txt: adding $NEW entries, overall now: $ALL vendors"
+			git commit --author="bot <bot@intercity-vpn.de>" -m "oui.txt: adding $NEW entries, overall now: $ALL vendors"
 			git gc
 		}
 
@@ -139,10 +137,10 @@ if test -f "$FILE" || wget --no-check-certificate -O "$FILE" "$URL"; then
 		xz -e 'oui.tar' && rm -f 'oui.tar'
 		mv 'oui.tar.xz' "$WWWDIR"	# ~ 1600 kilobytes
 	else
-		logger -s "no new entries - overall: $ALL"
+		log "no new entries - overall: $ALL"
 	fi
 
-	logger -s "see: '$FILE_FLAT' and '$WWWDIR/oui.tar.xz'"
+	log "see: '$FILE_FLAT' and '$WWWDIR/oui.tar.xz'"
 else
 	rm "$FILE"
 	false
