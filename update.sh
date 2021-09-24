@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # cron-mode:
-# while :; do rm -f ui.txt && ./update.sh /dev/shm/oui; git push; date; sleep 9999; done
+# while :; do rm -f oui.txt && ./update.sh /dev/shm/oui; git push; date; sleep 9999; done
 #
 # - this script downloads 'oui.txt' from URL
 # - parse and write out for each OUI-entry a textfile to:
