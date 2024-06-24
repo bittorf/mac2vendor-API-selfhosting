@@ -14,7 +14,7 @@ FILE="${2:-oui.txt}"		# if file already exists, it is not downloaded
 OPTION="$3"			# e.g. <empty> or 'build_shellscript' (experimental -> ~810k)
 OPTION_ARG="${4:-oui.sh}"	# in shellscript-mode: scriptname
 
-URL='http://standards.ieee.org/develop/regauth/oui/oui.txt'
+URL='https://standards-oui.ieee.org/oui/oui.txt'
 NEW=0
 ALL=0
 FILE_FLAT="$FILE.flatdb.txt"
