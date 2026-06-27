@@ -30,26 +30,61 @@ For the lazy people there is also an up-to-date 1.6mb-tar.xz:
 Ready.
 
 
-example mac2vendor (posix shell function)
------------------------------------------
+example mac2vendor for online search (posix shell function)
+-----------------------------------------------------------
 
 ```
 #!/bin/sh
 
 mac2vendor()
 {
-	local vendor cachefile mac=$1
+  local vendor cachefile mac=$1
+  local cachedir="/dev/shm"
 
-	set -- $( echo "${mac:-aa,bb,cc}" | tr 'A-F' 'a-f' | tr -c '0-9a-f' ' ' )
-	cachefile="/dev/shm/mac2vendor-$1-$2-$3"
+  set -- $( echo "${mac:-aa,bb,cc}" | tr 'A-F' 'a-f' | tr -c '0-9a-f' ' ' )
+  cachefile="$cachedir/mac2vendor-$1-$2-$3"
 
-	cat "$cachefile" 2>/dev/null || {
-		vendor="$( wget -qO - "http://intercity-vpn.de/oui/$1/$2/$3" | head -n1 )"
-		[ "$vendor" ] && echo "$vendor" && echo "$vendor" >"$cachefile"
-	}
+  case "${1}${2}${3}" in    # is 802.11p OCB or 2nd bit of 1st byte set?
+    ffffff|?'2'*|?'3'*|?'6'*|?'7'*|?'a'*|?'b'*|?'e'*|?'f'*|?'A'*|?'B'*|?'E'*|?'F'*) echo locally_administered && return
+  esac
+
+  cat "$cachefile" 2>/dev/null || {
+    vendor="$( wget -qO - "http://intercity-vpn.de/oui/$1/$2/$3" | head -n1 )"
+    [ "$vendor" ] && echo "$vendor" && echo "$vendor" >"$cachefile"
+  }
 }
 
+$ mac2vendor 1CED6F
+AVM GERMANY
+$ mac2vendor 02:ca:ff:ee:ba:be
+locally_administered
 ```
+
+
+example mac2vendor for offline search (posix shell function)
+------------------------------------------------------------
+
+```
+#!/bin/sh
+
+mac2vendor()	# see normalize_vendors.sh for 'mac-vendor.txt.gz' a ~250k file
+{
+  local mac=$1
+  set -- $( echo "${mac:-AA,BB,CC}" | tr 'a-f' 'A-F' | tr -c '0-9A-F' ' ' )
+
+  case "${1}${2}${3}" in    # is 802.11p OCB or 2nd bit of 1st byte set?
+    ffffff|?'2'*|?'3'*|?'6'*|?'7'*|?'a'*|?'b'*|?'e'*|?'f'*|?'A'*|?'B'*|?'E'*|?'F'*) echo locally_administered && return
+  esac
+
+  zgrep -w "${1}${2}${3}" mac-vendor.txt.gz | cut -f2
+}
+
+$ mac2vendor 1CED6F
+AVM GERMANY
+$ mac2vendor 02:ca:ff:ee:ba:be
+locally_administered
+```
+
 
 cronjob on server:
 ------------------
@@ -66,15 +101,5 @@ TODO
 * add historical data from
   https://web.archive.org/web/19980515000000*/http://standards.ieee.org/regauth/oui/oui.txt
   https://web.archive.org/web/*/http://standards-oui.ieee.org/oui.txt
-* add example client-implementations for popular languages
-* autogenerate 'mac2vendor.c' with compression, so everything should fit into a 250k binary
-  * show uniq printable chars for organizations:
-```
-# grep '(base 16)' oui.txt |
-   while read L; do set -- $L; shift 3; echo $*; done |
-    sort -u |
-     tr -cd '\11\12\15\40-\176' |
-      sed 's/\(.\)/\1\n/g' |
-       sort -u
-79
+* upload online and offline data to CDN
 ```
