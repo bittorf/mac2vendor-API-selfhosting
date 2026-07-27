@@ -48128,6 +48128,18 @@ CCC253     (base 16)		zte corporation
 				Hong Kong    999077
 				HK
 
+64-42-C2   (hex)		Mellanox Technologies, Inc.
+6442C2     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+84-00-EC   (hex)		Shelly Europe LTD
+8400EC     (base 16)		Shelly Europe LTD
+				51 Cherni Vrah Blvd
+				Sofia    1407
+				BG
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95375,6 +95387,24 @@ ECA854     (base 16)		EFOCE Technology Co., Ltd.
 				San Francisco  CA  94107
 				US
 
+B8-BB-11   (hex)		Espressif Systems (Singapore) Pte. Ltd
+B8BB11     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+98-06-A3   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+9806A3     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
+
+CC-7E-1F   (hex)		Espressif Inc.
+CC7E1F     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 38-C9-B1   (hex)		zte corporation
 38C9B1     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -95393,6 +95423,18 @@ ECA854     (base 16)		EFOCE Technology Co., Ltd.
 				Shenzhen   Guangdong  518040
 				CN
 
+CC-98-EF   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+CC98EF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+60-F9-1C   (hex)		CHINA DRAGON TECHNOLOGY LIMITED
+60F91C     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
+				B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City
+				ShenZhen    518100
+				CN
+
 84-7D-7E   (hex)		Cisco Systems, Inc
 847D7E     (base 16)		Cisco Systems, Inc
 				500 Terry A. Francois Blvd
@@ -95404,24 +95446,6 @@ ECA854     (base 16)		EFOCE Technology Co., Ltd.
 				500 Terry A. Francois Blvd
 				San Francisco    94158
 				US
-
-B8-BB-11   (hex)		Espressif Systems (Singapore) Pte. Ltd
-B8BB11     (base 16)		Espressif Systems (Singapore) Pte. Ltd
-				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
-				Singapore    138577
-				SG
-
-98-06-A3   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-9806A3     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
-				HO CHI MINH CITY  HO CHI MINH  820000
-				VN
-
-CC-7E-1F   (hex)		Espressif Inc.
-CC7E1F     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -142856,17 +142880,11 @@ CC219D     (base 16)		Shenzhen Wangliantong Intelligent Technology Co.,Lte
 				Nanshan District  Shenzhen  51867
 				CN
 
-28-C0-39   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-28C039     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-20-2C-05   (hex)		ZHEJIANG DAHUA ZHILIAN CO.,LTD
-202C05     (base 16)		ZHEJIANG DAHUA ZHILIAN CO.,LTD
-				No.28, Dongqiao Road, Dongzhou Street, Fuyang District, Hangzhou, P.R. China
-				HANGZHOU    311400
-				CN
+AC-F8-96   (hex)		eero inc.
+ACF896     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
 
 94-5D-BF   (hex)		Nokia Solutions and Networks India Private Limited
 945DBF     (base 16)		Nokia Solutions and Networks India Private Limited
@@ -142874,10 +142892,22 @@ CC219D     (base 16)		Shenzhen Wangliantong Intelligent Technology Co.,Lte
 				Chennai  Tamilnadu  600044
 				IN
 
-AC-F8-96   (hex)		eero inc.
-ACF896     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
+20-2C-05   (hex)		ZHEJIANG DAHUA ZHILIAN CO.,LTD
+202C05     (base 16)		ZHEJIANG DAHUA ZHILIAN CO.,LTD
+				No.28, Dongqiao Road, Dongzhou Street, Fuyang District, Hangzhou, P.R. China
+				HANGZHOU    311400
+				CN
+
+28-C0-39   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28C039     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D4-E1-3C   (hex)		Mellanox Technologies, Inc.
+D4E13C     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -190985,6 +191015,18 @@ D00674     (base 16)		Siemens Industrial Automation Products Ltd., Chengdu
 				Hui Zhou  Guang Dong  516006
 				CN
 
+80-7D-F9   (hex)		Mellanox Technologies, Inc.
+807DF9     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+B0-BE-45   (hex)		Mellanox Technologies, Inc.
+B0BE45     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -238609,3 +238651,9 @@ C8E8AF     (base 16)		eero inc.
 				660 3rd Street 
 				San Francisco  CA  94107
 				US
+
+3C-75-DE   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+3C75DE     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
