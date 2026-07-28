@@ -48068,12 +48068,6 @@ D8EDA8     (base 16)		Xiaomi Communications Co Ltd
 				Beijing  Haidian District  100085
 				CN
 
-6C-D5-52   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-6CD552     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
-				Shenzhen City  Guangdong Province  518000
-				CN
-
 CC-64-1A   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 CC641A     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
@@ -48086,17 +48080,23 @@ CC641A     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Shenzhen City  Guangdong Province  518000
 				CN
 
+6C-D5-52   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+6CD552     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
+				Shenzhen City  Guangdong Province  518000
+				CN
+
 10-A4-BE   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 10A4BE     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
 				Shenzhen City  Guangdong Province  518000
 				CN
 
-CC-C2-53   (hex)		zte corporation
-CCC253     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
+F0-FA-BA   (hex)		NVIDIA Corporation
+F0FABA     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara  CA  95050
+				US
 
 60-1F-56   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 601F56     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -48110,17 +48110,17 @@ CCC253     (base 16)		zte corporation
 				Dongguan    523808
 				CN
 
+CC-C2-53   (hex)		zte corporation
+CCC253     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
 64-42-C2   (hex)		Mellanox Technologies, Inc.
 6442C2     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
 				US
-
-84-00-EC   (hex)		Shelly Europe LTD
-8400EC     (base 16)		Shelly Europe LTD
-				51 Cherni Vrah Blvd
-				Sofia    1407
-				BG
 
 9C-DC-99   (hex)		Extreme Networks, Inc.
 9CDC99     (base 16)		Extreme Networks, Inc.
@@ -48128,17 +48128,17 @@ CCC253     (base 16)		zte corporation
 				Morrisville  NC  27560
 				US
 
-F0-FA-BA   (hex)		NVIDIA Corporation
-F0FABA     (base 16)		NVIDIA Corporation
-				2701 San Tomas Expressway
-				Santa Clara  CA  95050
-				US
-
 88-C3-B2   (hex)		ROTEK LLC
 88C3B2     (base 16)		ROTEK LLC
 				Room B 16/F Eubank Plaza 9 Chiu Lung Street, Central Hong Kong
 				Hong Kong    999077
 				HK
+
+84-00-EC   (hex)		Shelly Europe LTD
+8400EC     (base 16)		Shelly Europe LTD
+				51 Cherni Vrah Blvd
+				Sofia    1407
+				BG
 
 60-F6-20   (hex)		Sonos Inc.
 60F620     (base 16)		Sonos Inc.
@@ -95369,10 +95369,10 @@ DCD9A8     (base 16)		Guang zhou Xradio Technology Co., Ltd
 				Guangzhou  Guangdong  510700
 				CN
 
-F0-EA-E1   (hex)		Nanjing RISC-V Institute Co., Ltd.
-F0EAE1     (base 16)		Nanjing RISC-V Institute Co., Ltd.
-				Room 303, Building C, 18 Ningshuang Road
-				Nanjing  Jiangsu  210000
+EC-A8-54   (hex)		EFOCE Technology Co., Ltd.
+ECA854     (base 16)		EFOCE Technology Co., Ltd.
+				Room 1116, Building 2, R&D Building, Yanxiang Zhigu, No. 1801 Jufeng Road, Guangming District
+				Shenzhen  Guangdong  518107
 				CN
 
 90-F5-10   (hex)		Technologie Optic.ca Inc.
@@ -95380,12 +95380,6 @@ F0EAE1     (base 16)		Nanjing RISC-V Institute Co., Ltd.
 				1-2871 Star
 				Saint-Hubert  Quebec  J3Y3W5
 				CA
-
-EC-A8-54   (hex)		EFOCE Technology Co., Ltd.
-ECA854     (base 16)		EFOCE Technology Co., Ltd.
-				Room 1116, Building 2, R&D Building, Yanxiang Zhigu, No. 1801 Jufeng Road, Guangming District
-				Shenzhen  Guangdong  518107
-				CN
 
 44-D7-B7   (hex)		eero inc.
 44D7B7     (base 16)		eero inc.
@@ -95405,18 +95399,6 @@ B8BB11     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				HO CHI MINH CITY  HO CHI MINH  820000
 				VN
 
-CC-7E-1F   (hex)		Espressif Inc.
-CC7E1F     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-38-C9-B1   (hex)		zte corporation
-38C9B1     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
-				CN
-
 44-DB-BE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 44DBBE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -95429,16 +95411,16 @@ CC7E1F     (base 16)		Espressif Inc.
 				Shenzhen   Guangdong  518040
 				CN
 
-CC-98-EF   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-CC98EF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
+F0-EA-E1   (hex)		Nanjing RISC-V Institute Co., Ltd.
+F0EAE1     (base 16)		Nanjing RISC-V Institute Co., Ltd.
+				Room 303, Building C, 18 Ningshuang Road
+				Nanjing  Jiangsu  210000
 				CN
 
-60-F9-1C   (hex)		CHINA DRAGON TECHNOLOGY LIMITED
-60F91C     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
-				B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City
-				ShenZhen    518100
+38-C9-B1   (hex)		zte corporation
+38C9B1     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
 				CN
 
 84-7D-7E   (hex)		Cisco Systems, Inc
@@ -95452,6 +95434,24 @@ CC98EF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				500 Terry A. Francois Blvd
 				San Francisco    94158
 				US
+
+CC-7E-1F   (hex)		Espressif Inc.
+CC7E1F     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+60-F9-1C   (hex)		CHINA DRAGON TECHNOLOGY LIMITED
+60F91C     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
+				B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City
+				ShenZhen    518100
+				CN
+
+CC-98-EF   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+CC98EF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -142772,18 +142772,6 @@ A4D9C6     (base 16)		Airpro Technology Ltd
 				Mountain View  CA  94043
 				US
 
-84-FC-14   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-84FC14     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
-				Shenzhen City  Guangdong Province  518000
-				CN
-
-14-0A-02   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-140A02     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
-				Shenzhen City  Guangdong Province  518000
-				CN
-
 FC-37-6D   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 FC376D     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
@@ -142814,12 +142802,6 @@ ACA213     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				 Irvine  CA  92618
 				US
 
-14-6B-9C   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-146B9C     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
-				Shenzhen City  Guangdong Province  518000
-				CN
-
 74-EE-2A   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 74EE2A     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
@@ -142844,6 +142826,12 @@ F0C814     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Shenzhen City  Guangdong Province  518000
 				CN
 
+C4-3C-B0   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+C43CB0     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
+				Shenzhen City  Guangdong Province  518000
+				CN
+
 C4-3A-A5   (hex)		AzureWave Technology Inc.
 C43AA5     (base 16)		AzureWave Technology Inc.
 				8F., No. 94, Baozhong Rd.
@@ -142856,8 +142844,20 @@ C43AA5     (base 16)		AzureWave Technology Inc.
 				Nanzi Dist.  Kaohsiung  811643
 				TW
 
-C4-3C-B0   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-C43CB0     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+84-FC-14   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+84FC14     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
+				Shenzhen City  Guangdong Province  518000
+				CN
+
+14-0A-02   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+140A02     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
+				Shenzhen City  Guangdong Province  518000
+				CN
+
+14-6B-9C   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+146B9C     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
 				Shenzhen City  Guangdong Province  518000
 				CN
@@ -142868,29 +142868,17 @@ C43CB0     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Beijing  Beijing  100083
 				CN
 
-F0-DB-30   (hex)		Verge.io
-F0DB30     (base 16)		Verge.io
-				1750 S. Telegraph Road
-				Bloomfield Twp.  MI  48302
-				US
-
-CC-21-9D   (hex)		Shenzhen Wangliantong Intelligent Technology Co.,Lte
-CC219D     (base 16)		Shenzhen Wangliantong Intelligent Technology Co.,Lte
-				Building B4, Haosan No.1 Industrial Zone, Nanpu Road, Xinqiao Subdistrict, Bao'an District, Shenzhen City
-				ShenZhen  GuangDong  518000
-				CN
-
 50-7C-90   (hex)		Huami (Shenzhen) Information Technology Co., Ltd
 507C90     (base 16)		Huami (Shenzhen) Information Technology Co., Ltd
 				401, Building B, Phase II, Science and Technology Building, No. 1057 Nanhai Avenue, Shekou, Yanshan Community, Zhaoshang Street,
 				Nanshan District  Shenzhen  51867
 				CN
 
-AC-F8-96   (hex)		eero inc.
-ACF896     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
+CC-21-9D   (hex)		Shenzhen Wangliantong Intelligent Technology Co.,Lte
+CC219D     (base 16)		Shenzhen Wangliantong Intelligent Technology Co.,Lte
+				Building B4, Haosan No.1 Industrial Zone, Nanpu Road, Xinqiao Subdistrict, Bao'an District, Shenzhen City
+				ShenZhen  GuangDong  518000
+				CN
 
 94-5D-BF   (hex)		Nokia Solutions and Networks India Private Limited
 945DBF     (base 16)		Nokia Solutions and Networks India Private Limited
@@ -142910,11 +142898,29 @@ ACF896     (base 16)		eero inc.
 				Dongguan    523808
 				CN
 
+F0-DB-30   (hex)		Verge.io
+F0DB30     (base 16)		Verge.io
+				1750 S. Telegraph Road
+				Bloomfield Twp.  MI  48302
+				US
+
+AC-F8-96   (hex)		eero inc.
+ACF896     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 D4-E1-3C   (hex)		Mellanox Technologies, Inc.
 D4E13C     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
 				US
+
+04-CE-D8   (hex)		NXP Semiconductors Germany GmbH
+04CED8     (base 16)		NXP Semiconductors Germany GmbH
+				Beiersdorfstraße 12
+				Hamburg  Hamburg  22529
+				DE
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -190907,12 +190913,6 @@ E443CF     (base 16)		TP-Link Systems Inc.
 				 Irvine  CA  92618
 				US
 
-F4-B4-9E   (hex)		eero inc.
-F4B49E     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
-
 2C-C3-E6   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 2CC3E6     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
@@ -190930,6 +190930,12 @@ C8FE0F     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
 				Shenzhen City  Guangdong Province  518000
 				CN
+
+F4-B4-9E   (hex)		eero inc.
+F4B49E     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
 
 44-01-BB   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 4401BB     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
@@ -190961,12 +190967,6 @@ C4CB33     (base 16)		Garmin International
 				Hong Kong    999077
 				HK
 
-14-76-49   (hex)		Hewlett Packard Enterprise
-147649     (base 16)		Hewlett Packard Enterprise
-				6280 America Center Dr
-				San Jose  CA  95002
-				US
-
 34-A8-A0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 34A8A0     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -190991,6 +190991,18 @@ B80C68     (base 16)		Honor Device Co., Ltd.
 				Shenzhen   Guangdong  518040
 				CN
 
+14-76-49   (hex)		Hewlett Packard Enterprise
+147649     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
+D0-06-74   (hex)		Siemens Industrial Automation Products Ltd., Chengdu
+D00674     (base 16)		Siemens Industrial Automation Products Ltd., Chengdu
+				Tianyuan Road No.99, High Tech Zone West
+				Chengdu  Sichuan Province  611731 
+				CN
+
 94-82-B2   (hex)		GL Intelligence
 9482B2     (base 16)		GL Intelligence
 				10400 Eaton PL, Ste 215 
@@ -191002,12 +191014,6 @@ B80C68     (base 16)		Honor Device Co., Ltd.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
-
-D0-06-74   (hex)		Siemens Industrial Automation Products Ltd., Chengdu
-D00674     (base 16)		Siemens Industrial Automation Products Ltd., Chengdu
-				Tianyuan Road No.99, High Tech Zone West
-				Chengdu  Sichuan Province  611731 
-				CN
 
 84-A3-4B   (hex)		Barrot Technology Co.,Ltd.
 84A34B     (base 16)		Barrot Technology Co.,Ltd.
@@ -238496,6 +238502,18 @@ CC68C7     (base 16)		Espressif Inc.
 				HO CHI MINH CITY  HO CHI MINH  820000
 				VN
 
+54-EF-33   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+54EF33     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
+				Shenzhen City  Guangdong Province  518000
+				CN
+
+30-7B-C9   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+307BC9     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
+				Shenzhen City  Guangdong Province  518000
+				CN
+
 B4-6D-C2   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 B46DC2     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
@@ -238528,18 +238546,6 @@ FC23CD     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 
 EC-3D-FD   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 EC3DFD     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
-				Shenzhen City  Guangdong Province  518000
-				CN
-
-54-EF-33   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-54EF33     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
-				Shenzhen City  Guangdong Province  518000
-				CN
-
-30-7B-C9   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
-307BC9     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
 				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District,
 				Shenzhen City  Guangdong Province  518000
 				CN
