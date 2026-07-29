@@ -48152,6 +48152,30 @@ B01BFC     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+18-B8-3D   (hex)		Samsung Electronics Co.,Ltd
+18B83D     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D4-2C-A6   (hex)		Samsung Electronics Co.,Ltd
+D42CA6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+80-89-43   (hex)		Samsung Electronics Co.,Ltd
+808943     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+64-56-B5   (hex)		Samsung Electronics Co.,Ltd
+6456B5     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95464,6 +95488,12 @@ CC98EF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+44-55-2B   (hex)		Samsung Electronics Co.,Ltd
+44552B     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -142945,6 +142975,12 @@ F8C362     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
 				US
+
+48-3F-72   (hex)		Samsung Electronics Co.,Ltd
+483F72     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -191087,6 +191123,18 @@ B061EB     (base 16)		Silicon Laboratories
 				Austin  TX  78701
 				US
 
+48-9A-58   (hex)		Samsung Electronics Co.,Ltd
+489A58     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+FC-E5-F0   (hex)		Samsung Electronics Co.,Ltd
+FCE5F0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -238717,3 +238765,15 @@ C8E8AF     (base 16)		eero inc.
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+78-49-D7   (hex)		Samsung Electronics Co.,Ltd
+7849D7     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+90-F8-0C   (hex)		Samsung Electronics Co.,Ltd
+90F80C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
