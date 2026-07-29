@@ -142952,16 +142952,16 @@ F0DB30     (base 16)		Verge.io
 				Bloomfield Twp.  MI  48302
 				US
 
-AC-F8-96   (hex)		eero inc.
-ACF896     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
-				US
-
 D4-E1-3C   (hex)		Mellanox Technologies, Inc.
 D4E13C     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
+				US
+
+AC-F8-96   (hex)		eero inc.
+ACF896     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
 				US
 
 04-CE-D8   (hex)		NXP Semiconductors Germany GmbH
@@ -142970,11 +142970,11 @@ D4E13C     (base 16)		Mellanox Technologies, Inc.
 				Hamburg  Hamburg  22529
 				DE
 
-60-D1-78   (hex)		Cisco Systems, Inc
-60D178     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
+48-3F-72   (hex)		Samsung Electronics Co.,Ltd
+483F72     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 F8-C3-62   (hex)		Silicon Laboratories
 F8C362     (base 16)		Silicon Laboratories
@@ -142982,11 +142982,17 @@ F8C362     (base 16)		Silicon Laboratories
 				Austin  TX  78701
 				US
 
-48-3F-72   (hex)		Samsung Electronics Co.,Ltd
-483F72     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+60-D1-78   (hex)		Cisco Systems, Inc
+60D178     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+64-C7-F1   (hex)		Premier-D LLC
+64C7F1     (base 16)		Premier-D LLC
+				SHABOLOVKA STREET, 19, ROOM. 1/1
+				Moscow    119049
+				RU
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -238712,35 +238718,17 @@ A437E6     (base 16)		Murata Manufacturing Co., Ltd.
 				Dongguan    523808
 				CN
 
-10-3B-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-103B54     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+78-49-D7   (hex)		Samsung Electronics Co.,Ltd
+7849D7     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
-34-EF-D7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-34EFD7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-1C-84-A6   (hex)		Cisco Systems, Inc
-1C84A6     (base 16)		Cisco Systems, Inc
-				500 Terry A. Francois Blvd
-				San Francisco    94158
-				US
-
-1C-22-26   (hex)		Cisco Systems, Inc
-1C2226     (base 16)		Cisco Systems, Inc
-				500 Terry A. Francois Blvd
-				San Francisco    94158
-				US
-
-B4-CF-49   (hex)		WNC Corporation
-B4CF49     (base 16)		WNC Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
+90-F8-0C   (hex)		Samsung Electronics Co.,Ltd
+90F80C     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 80-53-E0   (hex)		Espressif Inc.
 8053E0     (base 16)		Espressif Inc.
@@ -238772,14 +238760,32 @@ C8E8AF     (base 16)		eero inc.
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-78-49-D7   (hex)		Samsung Electronics Co.,Ltd
-7849D7     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+10-3B-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+103B54     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
-90-F8-0C   (hex)		Samsung Electronics Co.,Ltd
-90F80C     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+34-EF-D7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34EFD7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+1C-84-A6   (hex)		Cisco Systems, Inc
+1C84A6     (base 16)		Cisco Systems, Inc
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+1C-22-26   (hex)		Cisco Systems, Inc
+1C2226     (base 16)		Cisco Systems, Inc
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+B4-CF-49   (hex)		WNC Corporation
+B4CF49     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
