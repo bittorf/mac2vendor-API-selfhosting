@@ -48182,6 +48182,30 @@ D40C9D     (base 16)		SiFly Aviation, Inc
 				Santa Clara  CA  95054
 				US
 
+FC-26-40   (hex)		Huawei Device Co., Ltd.
+FC2640     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+14-D1-D4   (hex)		Huawei Device Co., Ltd.
+14D1D4     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+B8-00-5B   (hex)		Huawei Device Co., Ltd.
+B8005B     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+8C-21-14   (hex)		Huawei Device Co., Ltd.
+8C2114     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95518,6 +95542,12 @@ B4DF43     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+C0-61-94   (hex)		Huawei Device Co., Ltd.
+C06194     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143040,6 +143070,12 @@ F4-03-93   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
 F40393     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 				No.18, Ningshuang Road
 				 Nanjing  Jiangsu  210012
+				CN
+
+CC-91-5B   (hex)		Huawei Device Co., Ltd.
+CC915B     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -191207,6 +191243,24 @@ FCE5F0     (base 16)		Samsung Electronics Co.,Ltd
 				Beijing  Beijing  100085
 				CN
 
+80-4D-CB   (hex)		Huawei Device Co., Ltd.
+804DCB     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+8C-A2-F5   (hex)		Huawei Device Co., Ltd.
+8CA2F5     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+84-81-EA   (hex)		Shanghai Baud Data Communication Co.,Ltd.
+8481EA     (base 16)		Shanghai Baud Data Communication Co.,Ltd.
+				NO.123 JULI RD
+				PUDONG ZHANGJIANG HIGH-TECH PARK  SHANGHAI  201203
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -238860,4 +238914,16 @@ AC873F     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 087683     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
 				Beijing  Beijing  100083
+				CN
+
+48-82-DF   (hex)		Huawei Device Co., Ltd.
+4882DF     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+4C-3C-E2   (hex)		Huawei Device Co., Ltd.
+4C3CE2     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
