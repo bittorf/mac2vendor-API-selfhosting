@@ -95489,24 +95489,6 @@ CC98EF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				San Francisco    94158
 				US
 
-4C-7A-88   (hex)		Cisco Systems, Inc
-4C7A88     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
-44-55-2B   (hex)		Samsung Electronics Co.,Ltd
-44552B     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-B4-DF-43   (hex)		IEEE Registration Authority
-B4DF43     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 80-AE-AD   (hex)		Beijing Langren Technology co., Ltd.
 80AEAD     (base 16)		Beijing Langren Technology co., Ltd.
 				Building 15, Floor 1 to 2, Fangguyuan Community, Fengtai District, Beijing, China
@@ -95518,6 +95500,24 @@ F46639     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
 				Midea Global Innovation Center,Beijiao Town,Shunde
 				Foshan  Guangdong  528311
 				CN
+
+44-55-2B   (hex)		Samsung Electronics Co.,Ltd
+44552B     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+4C-7A-88   (hex)		Cisco Systems, Inc
+4C7A88     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+B4-DF-43   (hex)		IEEE Registration Authority
+B4DF43     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143023,6 +143023,12 @@ F8C362     (base 16)		Silicon Laboratories
 				SHABOLOVKA STREET, 19, ROOM. 1/1
 				Moscow    119049
 				RU
+
+10-C5-FA   (hex)		Zyxel Communications Corporation
+10C5FA     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
