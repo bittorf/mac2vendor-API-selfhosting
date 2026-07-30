@@ -143030,6 +143030,18 @@ F8C362     (base 16)		Silicon Laboratories
 				Hsichu  Taiwan  300
 				TW
 
+40-2A-6C   (hex)		Zhejiang Hyxi Technology Co.,Ltd.
+402A6C     (base 16)		Zhejiang Hyxi Technology Co.,Ltd.
+				Room 216,Area A,Building 1,No.57,Jianger Road,Changhe street,Binjiang District,Hangzhou City
+				HANGZHOU  ZHEJIANG  310052
+				CN
+
+F4-03-93   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+F40393     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
