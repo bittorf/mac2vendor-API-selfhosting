@@ -48176,6 +48176,12 @@ D42CA6     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+D4-0C-9D   (hex)		SiFly Aviation, Inc
+D40C9D     (base 16)		SiFly Aviation, Inc
+				3350 Scott BlvdBuilding 39-01
+				Santa Clara  CA  95054
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
