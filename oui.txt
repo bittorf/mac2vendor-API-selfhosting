@@ -48212,6 +48212,12 @@ B8005B     (base 16)		Huawei Device Co., Ltd.
 				Hangzhou  Zhejiang  310052
 				CN
 
+44-EA-54   (hex)		UDISENSE DBA NANIT
+44EA54     (base 16)		UDISENSE DBA NANIT
+				244 5th Ave #2702
+				NEW YORK  NY  10001
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95554,6 +95560,12 @@ C06194     (base 16)		Huawei Device Co., Ltd.
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+B0-FF-0D   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+B0FF0D     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road 
+				Hangzhou  Zhejiang  310052
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143094,6 +143106,12 @@ A8-D6-D9   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 A8D6D9     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
 				Nanning  Guangxi  530007
+				CN
+
+7C-4D-4A   (hex)		Zhiyue Xingchen(shanghai) Intelligent Terminal Co.,Ltd.
+7C4D4A     (base 16)		Zhiyue Xingchen(shanghai) Intelligent Terminal Co.,Ltd.
+				Room 101 and 102, Building 25, No. 1388 Zhangdong Road, China (Shanghai) Pilot Free Trade Zone
+				shanghai  shanghai  201210
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -238963,3 +238981,9 @@ AC873F     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 				12194 SW 128th St
 				Miami  FL  33186
 				US
+
+F8-31-25   (hex)		Xiamen uink Technology Co., Ltd
+F83125     (base 16)		Xiamen uink Technology Co., Ltd
+				Unit 401-10, Floor 4, Building C12, Software Park Phase III, Xiamen 361024, Fujian, China
+				Xiamen  Fujian  Porvince  361024
+				CN
