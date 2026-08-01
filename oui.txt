@@ -48140,48 +48140,6 @@ CCC253     (base 16)		zte corporation
 				Sofia    1407
 				BG
 
-60-F6-20   (hex)		Sonos Inc.
-60F620     (base 16)		Sonos Inc.
-				301 Coromar Drive
-				Goleta  CA  93117
-				US
-
-B0-1B-FC   (hex)		Cisco Systems, Inc
-B01BFC     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
-18-B8-3D   (hex)		Samsung Electronics Co.,Ltd
-18B83D     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D4-2C-A6   (hex)		Samsung Electronics Co.,Ltd
-D42CA6     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-80-89-43   (hex)		Samsung Electronics Co.,Ltd
-808943     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-64-56-B5   (hex)		Samsung Electronics Co.,Ltd
-6456B5     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D4-0C-9D   (hex)		SiFly Aviation, Inc
-D40C9D     (base 16)		SiFly Aviation, Inc
-				3350 Scott BlvdBuilding 39-01
-				Santa Clara  CA  95054
-				US
-
 FC-26-40   (hex)		Huawei Device Co., Ltd.
 FC2640     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -48206,16 +48164,58 @@ B8005B     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
+D4-2C-A6   (hex)		Samsung Electronics Co.,Ltd
+D42CA6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+80-89-43   (hex)		Samsung Electronics Co.,Ltd
+808943     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+64-56-B5   (hex)		Samsung Electronics Co.,Ltd
+6456B5     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 98-C5-B3   (hex)		New H3C Technologies Co., Ltd
 98C5B3     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
 
+18-B8-3D   (hex)		Samsung Electronics Co.,Ltd
+18B83D     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D4-0C-9D   (hex)		SiFly Aviation, Inc
+D40C9D     (base 16)		SiFly Aviation, Inc
+				3350 Scott BlvdBuilding 39-01
+				Santa Clara  CA  95054
+				US
+
+B0-1B-FC   (hex)		Cisco Systems, Inc
+B01BFC     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 44-EA-54   (hex)		UDISENSE DBA NANIT
 44EA54     (base 16)		UDISENSE DBA NANIT
 				244 5th Ave #2702
 				NEW YORK  NY  10001
+				US
+
+60-F6-20   (hex)		Sonos Inc.
+60F620     (base 16)		Sonos Inc.
+				301 Coromar Drive
+				Goleta  CA  93117
 				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
@@ -143114,6 +143114,12 @@ A8D6D9     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				shanghai  shanghai  201210
 				CN
 
+E4-63-FE   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+E463FE     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+				19-22# Building, Star-net Science Plaza, Juyuanzhou,
+				FUZHOU  FUJIAN  350002
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -191255,17 +191261,17 @@ B061EB     (base 16)		Silicon Laboratories
 				San Jose  CA  94568
 				US
 
-48-9A-58   (hex)		Samsung Electronics Co.,Ltd
-489A58     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+8C-A2-F5   (hex)		Huawei Device Co., Ltd.
+8CA2F5     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
 
-FC-E5-F0   (hex)		Samsung Electronics Co.,Ltd
-FCE5F0     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+84-81-EA   (hex)		Shanghai Baud Data Communication Co.,Ltd.
+8481EA     (base 16)		Shanghai Baud Data Communication Co.,Ltd.
+				NO.123 JULI RD
+				PUDONG ZHANGJIANG HIGH-TECH PARK  SHANGHAI  201203
+				CN
 
 44-E2-13   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
 44E213     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
@@ -191285,29 +191291,29 @@ FCE5F0     (base 16)		Samsung Electronics Co.,Ltd
 				Dongguan  Guangdong  523808
 				CN
 
-8C-A2-F5   (hex)		Huawei Device Co., Ltd.
-8CA2F5     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
+FC-E5-F0   (hex)		Samsung Electronics Co.,Ltd
+FCE5F0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
-84-81-EA   (hex)		Shanghai Baud Data Communication Co.,Ltd.
-8481EA     (base 16)		Shanghai Baud Data Communication Co.,Ltd.
-				NO.123 JULI RD
-				PUDONG ZHANGJIANG HIGH-TECH PARK  SHANGHAI  201203
-				CN
-
-38-39-DD   (hex)		Nokia
-3839DD     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
+48-9A-58   (hex)		Samsung Electronics Co.,Ltd
+489A58     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 D0-DA-24   (hex)		IEEE Registration Authority
 D0DA24     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+38-39-DD   (hex)		Nokia
+3839DD     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
