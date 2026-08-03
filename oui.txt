@@ -48146,42 +48146,6 @@ F0FABA     (base 16)		NVIDIA Corporation
 				Goleta  CA  93117
 				US
 
-B0-1B-FC   (hex)		Cisco Systems, Inc
-B01BFC     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
-18-B8-3D   (hex)		Samsung Electronics Co.,Ltd
-18B83D     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D4-2C-A6   (hex)		Samsung Electronics Co.,Ltd
-D42CA6     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-80-89-43   (hex)		Samsung Electronics Co.,Ltd
-808943     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-64-56-B5   (hex)		Samsung Electronics Co.,Ltd
-6456B5     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D4-0C-9D   (hex)		SiFly Aviation, Inc
-D40C9D     (base 16)		SiFly Aviation, Inc
-				3350 Scott BlvdBuilding 39-01
-				Santa Clara  CA  95054
-				US
-
 FC-26-40   (hex)		Huawei Device Co., Ltd.
 FC2640     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -48206,17 +48170,59 @@ B8005B     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
+18-B8-3D   (hex)		Samsung Electronics Co.,Ltd
+18B83D     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D4-2C-A6   (hex)		Samsung Electronics Co.,Ltd
+D42CA6     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+80-89-43   (hex)		Samsung Electronics Co.,Ltd
+808943     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 98-C5-B3   (hex)		New H3C Technologies Co., Ltd
 98C5B3     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
 
+64-56-B5   (hex)		Samsung Electronics Co.,Ltd
+6456B5     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D4-0C-9D   (hex)		SiFly Aviation, Inc
+D40C9D     (base 16)		SiFly Aviation, Inc
+				3350 Scott BlvdBuilding 39-01
+				Santa Clara  CA  95054
+				US
+
+B0-1B-FC   (hex)		Cisco Systems, Inc
+B01BFC     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 44-EA-54   (hex)		UDISENSE DBA NANIT
 44EA54     (base 16)		UDISENSE DBA NANIT
 				244 5th Ave #2702
 				NEW YORK  NY  10001
 				US
+
+B0-82-AB   (hex)		Guangdong Welland Technology Co.,Ltd
+B082AB     (base 16)		Guangdong Welland Technology Co.,Ltd
+				No. 7 Minke East Road, Minying Science & Technology Park, Shiqi
+				Zhongshan  Guangdong  528400
+				CN
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -143132,6 +143138,30 @@ B46F78     (base 16)		ACCTON TECHNOLOGY CORPORATION
 				Hsinchu    30077
 				TW
 
+74-5E-B4   (hex)		YOKOWO CO., LTD.
+745EB4     (base 16)		YOKOWO CO., LTD.
+				5-11, Takinogawa 7-Chome
+				Kita-ku  Tokyo  114-8515
+				JP
+
+F4-08-55   (hex)		Qingdao Haier Technology Co.Ltd
+F40855     (base 16)		Qingdao Haier Technology Co.Ltd
+				Building C01,Haier Information Park,No.1 Haier Road
+				Qingdao    266101
+				CN
+
+64-D6-08   (hex)		Shenzhen Ailyworld Technology Co.,Ltd.
+64D608     (base 16)		Shenzhen Ailyworld Technology Co.,Ltd.
+				Room 2112, 21/F, South Tower, Tongye Mansion, No.7008 North Ring Boulevard, Meijing Community, Meilin Sub-district, Futian District, Shenzhen, Guangdong, China
+				Shenzhen  Guangdong  518101
+				CN
+
+D0-EB-1A   (hex)		Siemens AG
+D0EB1A     (base 16)		Siemens AG
+				Frauenauracher Str.80
+				Erlangen    91056
+				DE
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -191326,6 +191356,12 @@ D0DA24     (base 16)		IEEE Registration Authority
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+B8-82-68   (hex)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
+B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
+				Room 210-211, Block A, Huafeng Internet Creative Park, No.107 Gonghe Industrial Road, Xixiang Subdistrict
+				Shenzhen  Guangdong  518102
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
