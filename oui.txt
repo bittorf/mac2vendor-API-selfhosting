@@ -143084,60 +143084,6 @@ F8C362     (base 16)		Silicon Laboratories
 				Moscow    119049
 				RU
 
-10-C5-FA   (hex)		Zyxel Communications Corporation
-10C5FA     (base 16)		Zyxel Communications Corporation
-				No. 6 Innovation Road II, Science Park
-				Hsichu  Taiwan  300
-				TW
-
-40-2A-6C   (hex)		Zhejiang Hyxi Technology Co.,Ltd.
-402A6C     (base 16)		Zhejiang Hyxi Technology Co.,Ltd.
-				Room 216,Area A,Building 1,No.57,Jianger Road,Changhe street,Binjiang District,Hangzhou City
-				HANGZHOU  ZHEJIANG  310052
-				CN
-
-F4-03-93   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
-F40393     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
-				No.18, Ningshuang Road
-				 Nanjing  Jiangsu  210012
-				CN
-
-CC-91-5B   (hex)		Huawei Device Co., Ltd.
-CC915B     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
-
-E8-15-FE   (hex)		New H3C Technologies Co., Ltd
-E815FE     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
-				CN
-
-A8-D6-D9   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
-A8D6D9     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
-				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
-				Nanning  Guangxi  530007
-				CN
-
-7C-4D-4A   (hex)		Zhiyue Xingchen(shanghai) Intelligent Terminal Co.,Ltd.
-7C4D4A     (base 16)		Zhiyue Xingchen(shanghai) Intelligent Terminal Co.,Ltd.
-				Room 101 and 102, Building 25, No. 1388 Zhangdong Road, China (Shanghai) Pilot Free Trade Zone
-				shanghai  shanghai  201210
-				CN
-
-E4-63-FE   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
-E463FE     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
-				19-22# Building, Star-net Science Plaza, Juyuanzhou,
-				FUZHOU  FUJIAN  350002
-				CN
-
-B4-6F-78   (hex)		ACCTON TECHNOLOGY CORPORATION
-B46F78     (base 16)		ACCTON TECHNOLOGY CORPORATION
-				No.1, Creation Road 3, Hsinchu Science Park,
-				Hsinchu    30077
-				TW
-
 74-5E-B4   (hex)		YOKOWO CO., LTD.
 745EB4     (base 16)		YOKOWO CO., LTD.
 				5-11, Takinogawa 7-Chome
@@ -143161,6 +143107,60 @@ D0EB1A     (base 16)		Siemens AG
 				Frauenauracher Str.80
 				Erlangen    91056
 				DE
+
+40-2A-6C   (hex)		Zhejiang Hyxi Technology Co.,Ltd.
+402A6C     (base 16)		Zhejiang Hyxi Technology Co.,Ltd.
+				Room 216,Area A,Building 1,No.57,Jianger Road,Changhe street,Binjiang District,Hangzhou City
+				HANGZHOU  ZHEJIANG  310052
+				CN
+
+F4-03-93   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+F40393     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
+7C-4D-4A   (hex)		Zhiyue Xingchen(shanghai) Intelligent Terminal Co.,Ltd.
+7C4D4A     (base 16)		Zhiyue Xingchen(shanghai) Intelligent Terminal Co.,Ltd.
+				Room 101 and 102, Building 25, No. 1388 Zhangdong Road, China (Shanghai) Pilot Free Trade Zone
+				shanghai  shanghai  201210
+				CN
+
+A8-D6-D9   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+A8D6D9     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
+E4-63-FE   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+E463FE     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+				19-22# Building, Star-net Science Plaza, Juyuanzhou,
+				FUZHOU  FUJIAN  350002
+				CN
+
+E8-15-FE   (hex)		New H3C Technologies Co., Ltd
+E815FE     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+10-C5-FA   (hex)		Zyxel Communications Corporation
+10C5FA     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
+CC-91-5B   (hex)		Huawei Device Co., Ltd.
+CC915B     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+B4-6F-78   (hex)		ACCTON TECHNOLOGY CORPORATION
+B46F78     (base 16)		ACCTON TECHNOLOGY CORPORATION
+				No.1, Creation Road 3, Hsinchu Science Park,
+				Hsinchu    30077
+				TW
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -239006,18 +239006,6 @@ B4CF49     (base 16)		WNC Corporation
 				Hsin-Chu  R.O.C.  308
 				TW
 
-AC-87-3F   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
-AC873F     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
-				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
-				Nanjing  Jiangsu  211800
-				CN
-
-08-76-83   (hex)		AltoBeam Inc.
-087683     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
-				CN
-
 48-82-DF   (hex)		Huawei Device Co., Ltd.
 4882DF     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -239030,11 +239018,17 @@ AC873F     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
-00-9C-57   (hex)		Hextronics
-009C57     (base 16)		Hextronics
-				12194 SW 128th St
-				Miami  FL  33186
-				US
+08-76-83   (hex)		AltoBeam Inc.
+087683     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+AC-87-3F   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+AC873F     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
 
 F8-31-25   (hex)		Xiamen uink Technology Co., Ltd
 F83125     (base 16)		Xiamen uink Technology Co., Ltd
@@ -239047,3 +239041,15 @@ F83125     (base 16)		Xiamen uink Technology Co., Ltd
 				No.1, Creation Road 3, Hsinchu Science Park,
 				Hsinchu    30077
 				TW
+
+90-91-6E   (hex)		nFore Technology Co., Ltd.
+90916E     (base 16)		nFore Technology Co., Ltd.
+				5F, No.31, Ln. 258, Ruiguang Rd., Neihu Dist., 
+				Taipei city    114
+				TW
+
+00-9C-57   (hex)		Hextronics
+009C57     (base 16)		Hextronics
+				12194 SW 128th St
+				Miami  FL  33186
+				US
