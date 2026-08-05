@@ -48230,6 +48230,12 @@ AC40B5     (base 16)		Lumiva Inc.
 				Cupertino  CA  95014
 				US
 
+DC-EB-5D   (hex)		Shandong Sinochip Semiconductors Co.,Ltd.
+DCEB5D     (base 16)		Shandong Sinochip Semiconductors Co.,Ltd.
+				210A, Building A2-3, HanYu Finance Valley, No.7000, Jingshi East Road, High Tech District, Jinan, Shandong Province, P.R.C
+				Jinan  Shandong  250101
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
