@@ -95591,6 +95591,12 @@ CCAA00     (base 16)		Microsoft Corporation
 				REDMOND  WA  98052
 				US
 
+D0-79-2F   (hex)		New H3C Intelligence Terminal Co., Ltd.
+D0792F     (base 16)		New H3C Intelligence Terminal Co., Ltd.
+				Room 406-100, 1 Yichuang Street, China-Singapore Guangzhou Knowledge City, Huangpu District, Guangzhou.
+				Guangzhou   Guangdong  510030
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -239083,3 +239089,9 @@ F83125     (base 16)		Xiamen uink Technology Co., Ltd
 				496 Ada Dr SE Ste 201
 				Ada    49301
 				US
+
+AC-04-E6   (hex)		NTX Electronics YangZhou co.,LTD
+AC04E6     (base 16)		NTX Electronics YangZhou co.,LTD
+				No.8,Wuzhou West Road,Economic and technological Development Zone,Yangzhou,Jiangsu Province,PRC,225009
+				Yangzhou  Jiangsu  225009
+				CN
