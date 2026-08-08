@@ -191423,6 +191423,18 @@ E84EBA     (base 16)		Google, Inc.
 				Sunnyvale  CA  94089
 				US
 
+6C-3D-7D   (hex)		Vantiva USA LLC
+6C3D7D     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
+24-A0-2D   (hex)		shenzhen worldelite electronics co., LTD
+24A02D     (base 16)		shenzhen worldelite electronics co., LTD
+				Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist
+				Shenzhen  guangdong  518000
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -239136,4 +239148,10 @@ AC04E6     (base 16)		NTX Electronics YangZhou co.,LTD
 7C6E47     (base 16)		Huizhou Guangshijia Communication Technology Co., Ltd.
 				3rd Floor, Xingyuan Factory, Longchundu, East Side, Niutouzhou Section, Yongshi Avenue, Shiwan Town, Boluo County,
 				Huizhou City    516100
+				CN
+
+14-E6-02   (hex)		Shenzhen EMTEK Storage Technology Co.,Ltd
+14E602     (base 16)		Shenzhen EMTEK Storage Technology Co.,Ltd
+				#601, Block A, Building 11, No.1819 ShaHe West Road, Shenzhen Bay Eco-technology Park, Nanshan District
+				Shenzhen  Guangdong  518000
 				CN
