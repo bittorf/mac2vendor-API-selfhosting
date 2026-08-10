@@ -48248,6 +48248,12 @@ D87602     (base 16)		NXJ INC.
 				Spring  TX  77389
 				US
 
+30-BB-28   (hex)		IEEE Registration Authority
+30BB28     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
