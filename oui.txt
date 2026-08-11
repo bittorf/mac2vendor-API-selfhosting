@@ -48254,6 +48254,18 @@ D87602     (base 16)		NXJ INC.
 				Piscataway  NJ  08554
 				US
 
+28-69-DA   (hex)		Moultrie Mobile
+2869DA     (base 16)		Moultrie Mobile
+				5724 Highway 280 East
+				Birmingham  AL  35242
+				US
+
+44-14-04   (hex)		eero inc.
+441404     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95051,18 +95063,6 @@ DC0077     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Berlin  Berlin  10559
 				DE
 
-30-EB-5A   (hex)		Landis+Gyr S.A.
-30EB5A     (base 16)		Landis+Gyr S.A.
-				78th km Old National Road Athens-Corinth 
-				Corinth     20100
-				GR
-
-98-B1-77   (hex)		Landis+Gyr S.A.
-98B177     (base 16)		Landis+Gyr S.A.
-				78th km Old National Road Athens-Corinth 
-				Corinth     20100
-				GR
-
 E8-FE-BE   (hex)		Apple, Inc.
 E8FEBE     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -95585,17 +95585,11 @@ F46639     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
 				San Jose  CA  94568
 				US
 
-C0-61-94   (hex)		Huawei Device Co., Ltd.
-C06194     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
+D0-79-2F   (hex)		New H3C Intelligence Terminal Co., Ltd.
+D0792F     (base 16)		New H3C Intelligence Terminal Co., Ltd.
+				Room 406-100, 1 Yichuang Street, China-Singapore Guangzhou Knowledge City, Huangpu District, Guangzhou.
+				Guangzhou   Guangdong  510030
 				CN
-
-00-61-68   (hex)		Nokia
-006168     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
 
 B0-FF-0D   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 B0FF0D     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -95603,17 +95597,41 @@ B0FF0D     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				Hangzhou  Zhejiang  310052
 				CN
 
+C0-61-94   (hex)		Huawei Device Co., Ltd.
+C06194     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+40-53-8C   (hex)		LG Electronics
+40538C     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
+
 CC-AA-00   (hex)		Microsoft Corporation
 CCAA00     (base 16)		Microsoft Corporation
 				One Microsoft Way
 				REDMOND  WA  98052
 				US
 
-D0-79-2F   (hex)		New H3C Intelligence Terminal Co., Ltd.
-D0792F     (base 16)		New H3C Intelligence Terminal Co., Ltd.
-				Room 406-100, 1 Yichuang Street, China-Singapore Guangzhou Knowledge City, Huangpu District, Guangzhou.
-				Guangzhou   Guangdong  510030
-				CN
+00-61-68   (hex)		Nokia
+006168     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+98-B1-77   (hex)		EYKON Solutions S.A.
+98B177     (base 16)		EYKON Solutions S.A.
+				78th km Old National Road Athens-Corinth 
+				Corinth     20100
+				GR
+
+30-EB-5A   (hex)		EYKON Solutions S.A.
+30EB5A     (base 16)		EYKON Solutions S.A.
+				78th km Old National Road Athens-Corinth 
+				Corinth     20100
+				GR
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143208,6 +143226,12 @@ EC-33-CC   (hex)		Hewlett Packard Enterprise
 EC33CC     (base 16)		Hewlett Packard Enterprise
 				6280 America Center Dr
 				San Jose  CA  95002
+				US
+
+20-74-DD   (hex)		eero inc.
+2074DD     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -191459,6 +191483,12 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				DELHI  DELHI  110005
 				IN
 
+34-7F-63   (hex)		Concept Pro Surveillance
+347F63     (base 16)		Concept Pro Surveillance
+				54 Thomas Street, Lees, 
+				Oldham  Greater Manchester  OL4 5BT
+				GB
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -238598,12 +238628,6 @@ D032E7     (base 16)		Tuya Smart Inc.
 				Round Rock   TX  78682
 				US
 
-6C-70-28   (hex)		Landis+Gyr S.A.
-6C7028     (base 16)		Landis+Gyr S.A.
-				78th km Old National Road Athens-Corinth
-				Corinth    20100
-				GR
-
 88-82-25   (hex)		Telink Micro LLC
 888225     (base 16)		Telink Micro LLC
 				2975 Scott Blvd #120
@@ -239156,11 +239180,11 @@ F83125     (base 16)		Xiamen uink Technology Co., Ltd
 				Ada    49301
 				US
 
-AC-04-E6   (hex)		NTX Electronics YangZhou co.,LTD
-AC04E6     (base 16)		NTX Electronics YangZhou co.,LTD
-				No.8,Wuzhou West Road,Economic and technological Development Zone,Yangzhou,Jiangsu Province,PRC,225009
-				Yangzhou  Jiangsu  225009
-				CN
+FC-CA-40   (hex)		Sony Interactive Entertainment Inc.
+FCCA40     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
 
 94-1D-D4   (hex)		Google, Inc.
 941DD4     (base 16)		Google, Inc.
@@ -239168,14 +239192,26 @@ AC04E6     (base 16)		NTX Electronics YangZhou co.,LTD
 				Mountain View  CA  94043
 				US
 
+14-E6-02   (hex)		Shenzhen EMTEK Storage Technology Co.,Ltd
+14E602     (base 16)		Shenzhen EMTEK Storage Technology Co.,Ltd
+				#601, Block A, Building 11, No.1819 ShaHe West Road, Shenzhen Bay Eco-technology Park, Nanshan District
+				Shenzhen  Guangdong  518000
+				CN
+
 7C-6E-47   (hex)		Huizhou Guangshijia Communication Technology Co., Ltd.
 7C6E47     (base 16)		Huizhou Guangshijia Communication Technology Co., Ltd.
 				3rd Floor, Xingyuan Factory, Longchundu, East Side, Niutouzhou Section, Yongshi Avenue, Shiwan Town, Boluo County,
 				Huizhou City    516100
 				CN
 
-14-E6-02   (hex)		Shenzhen EMTEK Storage Technology Co.,Ltd
-14E602     (base 16)		Shenzhen EMTEK Storage Technology Co.,Ltd
-				#601, Block A, Building 11, No.1819 ShaHe West Road, Shenzhen Bay Eco-technology Park, Nanshan District
-				Shenzhen  Guangdong  518000
+AC-04-E6   (hex)		NTX Electronics YangZhou co.,LTD
+AC04E6     (base 16)		NTX Electronics YangZhou co.,LTD
+				No.8,Wuzhou West Road,Economic and technological Development Zone,Yangzhou,Jiangsu Province,PRC,225009
+				Yangzhou  Jiangsu  225009
 				CN
+
+6C-70-28   (hex)		EYKON Solutions S.A.
+6C7028     (base 16)		EYKON Solutions S.A.
+				78th km Old National Road Athens-Corinth
+				Corinth    20100
+				GR
