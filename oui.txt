@@ -48272,6 +48272,12 @@ D87602     (base 16)		NXJ INC.
 				Shanghai    200233
 				CN
 
+04-D6-34   (hex)		Nanjing RISC-V Institute Co., Ltd.
+04D634     (base 16)		Nanjing RISC-V Institute Co., Ltd.
+				Room 303, Building C, 18 Ningshuang Road
+				Nanjing  Jiangsu  210000
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -143222,6 +143228,12 @@ D0EB1A     (base 16)		Siemens AG
 				Erlangen    91056
 				DE
 
+20-74-DD   (hex)		eero inc.
+2074DD     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 F0-F9-5D   (hex)		Aditya Infotech Ltd.
 F0F95D     (base 16)		Aditya Infotech Ltd.
 				Khemka Square, A-12, Sector-4,
@@ -143232,12 +143244,6 @@ EC-33-CC   (hex)		Hewlett Packard Enterprise
 EC33CC     (base 16)		Hewlett Packard Enterprise
 				6280 America Center Dr
 				San Jose  CA  95002
-				US
-
-20-74-DD   (hex)		eero inc.
-2074DD     (base 16)		eero inc.
-				660 3rd Street 
-				San Francisco  CA  94107
 				US
 
 44-22-BE   (hex)		rescuetrack GmbH
@@ -191483,17 +191489,11 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				Shenzhen  guangdong  518000
 				CN
 
-94-B5-AD   (hex)		ERM Electronic Systems LTD
-94B5AD     (base 16)		ERM Electronic Systems LTD
-				16 Hasar Moshe Shapira
-				Rishon Le-Zion    7570419
-				IL
-
-88-64-A8   (hex)		TeraNXT Global India Pvt Ltd.
-8864A8     (base 16)		TeraNXT Global India Pvt Ltd.
-				7A/61 W.E.A KAROL BAGH
-				DELHI  DELHI  110005
-				IN
+44-8C-EC   (hex)		Anhui Sunchip semiconductor technology Co;Ltd
+448CEC     (base 16)		Anhui Sunchip semiconductor technology Co;Ltd
+				No. 77 Jinguang Avenue, Economic and Technological Development Zone,
+				Chizhou City  Anhui Province  247100
+				CN
 
 34-7F-63   (hex)		Concept Pro Surveillance
 347F63     (base 16)		Concept Pro Surveillance
@@ -191501,11 +191501,17 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				Oldham  Greater Manchester  OL4 5BT
 				GB
 
-44-8C-EC   (hex)		Anhui Sunchip semiconductor technology Co;Ltd
-448CEC     (base 16)		Anhui Sunchip semiconductor technology Co;Ltd
-				No. 77 Jinguang Avenue, Economic and Technological Development Zone,
-				Chizhou City  Anhui Province  247100
-				CN
+88-64-A8   (hex)		TeraNXT Global India Pvt Ltd.
+8864A8     (base 16)		TeraNXT Global India Pvt Ltd.
+				7A/61 W.E.A KAROL BAGH
+				DELHI  DELHI  110005
+				IN
+
+94-B5-AD   (hex)		ERM Electronic Systems LTD
+94B5AD     (base 16)		ERM Electronic Systems LTD
+				16 Hasar Moshe Shapira
+				Rishon Le-Zion    7570419
+				IL
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
