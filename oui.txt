@@ -95657,6 +95657,12 @@ CCAA00     (base 16)		Microsoft Corporation
 				Corinth     20100
 				GR
 
+00-72-30   (hex)		Nordic Semiconductor ASA
+007230     (base 16)		Nordic Semiconductor ASA
+				Otto Nielsens veg 12
+				Trondheim    NO-7052
+				NO
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
