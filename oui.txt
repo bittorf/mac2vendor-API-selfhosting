@@ -95663,6 +95663,12 @@ CCAA00     (base 16)		Microsoft Corporation
 				Trondheim    NO-7052
 				NO
 
+90-1D-FF   (hex)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
+901DFF     (base 16)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
+				Runye Precision Manufacturing Industrial Park, among the north of Xiangjing Road, the west of Xinpi Road and the south of Yangzi Road, located in the High-tech Zone, Heyuan City, Guangdong Province
+				 Heyuan City  Guangdong Province  518100
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -143287,6 +143293,18 @@ A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
 				US
+
+74-11-A0   (hex)		Nokia
+7411A0     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+40-E4-C6   (hex)		Nokia
+40E4C6     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -239293,3 +239311,9 @@ F44E35     (base 16)		Meta Platforms, Inc.
 				1601 Willow Rd
 				Menlo Park  CA  94052
 				US
+
+2C-1B-8E   (hex)		BYD Semiconductor Co，Ltd
+2C1B8E     (base 16)		BYD Semiconductor Co，Ltd
+				Byd Industrial Park, Yan 'an Road, Kuichong Town, Longgang District, Shenzhen City
+				深圳    518000
+				CN
