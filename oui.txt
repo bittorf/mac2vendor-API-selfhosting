@@ -48290,6 +48290,18 @@ C44B31     (base 16)		Cisco Systems, Inc
 				Chicago  IL  60654
 				US
 
+C4-58-78   (hex)		AltoBeam Inc.
+C45878     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+EC-83-06   (hex)		GooWi Wireless Technology Co., Limited
+EC8306     (base 16)		GooWi Wireless Technology Co., Limited
+				RM1601 East CreativeTech Plaza II, Tianan Digital Tech, Futian District 
+				Shenzhen  Guangdong  518000
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -143305,6 +143317,18 @@ A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+18-F0-55   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+18F055     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
+38-F2-5D   (hex)		Hangzhou Ezviz Software Co.,Ltd.
+38F25D     (base 16)		Hangzhou Ezviz Software Co.,Ltd.
+				17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District
+				Hangzhou  Zhejiang  310051
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -239288,16 +239312,16 @@ AC04E6     (base 16)		NTX Electronics YangZhou co.,LTD
 				Yangzhou  Jiangsu  225009
 				CN
 
-6C-70-28   (hex)		EYKON Solutions S.A.
-6C7028     (base 16)		EYKON Solutions S.A.
-				78th km Old National Road Athens-Corinth
-				Corinth    20100
-				GR
-
 74-51-8F   (hex)		Jiangsu Hetai Intelligent Control Technology Co., Ltd
 74518F     (base 16)		Jiangsu Hetai Intelligent Control Technology Co., Ltd
 				BUILDING 11, CHENG SHENG SCIENCE AND TECHNOLOGYPARK, NO.2 BOSIDENG AVENUE, GAOYOU CITY
 				Gaoyou  Jiangsu  225600
+				CN
+
+2C-1B-8E   (hex)		BYD Semiconductor Co，Ltd
+2C1B8E     (base 16)		BYD Semiconductor Co，Ltd
+				Byd Industrial Park, Yan 'an Road, Kuichong Town, Longgang District, Shenzhen City
+				深圳    518000
 				CN
 
 F4-89-74   (hex)		Cisco Systems, Inc
@@ -239312,8 +239336,14 @@ F44E35     (base 16)		Meta Platforms, Inc.
 				Menlo Park  CA  94052
 				US
 
-2C-1B-8E   (hex)		BYD Semiconductor Co，Ltd
-2C1B8E     (base 16)		BYD Semiconductor Co，Ltd
-				Byd Industrial Park, Yan 'an Road, Kuichong Town, Longgang District, Shenzhen City
-				深圳    518000
+6C-70-28   (hex)		EYKON Solutions S.A.
+6C7028     (base 16)		EYKON Solutions S.A.
+				78th km Old National Road Athens-Corinth
+				Corinth    20100
+				GR
+
+FC-E3-3D   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
 				CN
