@@ -95681,6 +95681,12 @@ CCAA00     (base 16)		Microsoft Corporation
 				 Heyuan City  Guangdong Province  518100
 				CN
 
+44-BE-23   (hex)		PEGATRON CORPORATION
+44BE23     (base 16)		PEGATRON CORPORATION
+				No. 76, Ligong St., Beitou, Taipei ,Taiwan 
+				Taipei    112
+				TW
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -143335,6 +143341,12 @@ A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				8 The Green, Ste A
 				Dover  DE  19901
 				US
+
+08-98-EF   (hex)		Shenzhen Taichi Technology Limited
+0898EF     (base 16)		Shenzhen Taichi Technology Limited
+				A1710, Nanshan Cloud Technology Building, Vanke Cloud City, Liuxin Third Street, Xili Community, Xili Street, Nanshan District, 
+				Shenzhen  Guangdong Province  518000
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -239353,3 +239365,15 @@ FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
 				Nanning  Guangxi  530007
 				CN
+
+3C-FF-E4   (hex)		Siemens AG
+3CFFE4     (base 16)		Siemens AG
+				Werner-von-Siemens-Str. 50
+				Amberg    92224
+				DE
+
+3C-87-CF   (hex)		Quanta Computer Inc.
+3C87CF     (base 16)		Quanta Computer Inc.
+				No. 211, Wenhua 2nd Rd., Guishan Dist.
+				Taoyuan City  Taiwan  33377
+				TW
