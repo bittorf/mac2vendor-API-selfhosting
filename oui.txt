@@ -95657,6 +95657,18 @@ CCAA00     (base 16)		Microsoft Corporation
 				Kanata  Ontario  K2K 2E6
 				CA
 
+60-D1-5F   (hex)		Futurepath Technology(Shenzhen)Co.,Ltd.
+60D15F     (base 16)		Futurepath Technology(Shenzhen)Co.,Ltd.
+				Building E, Zhongke Valley, Zhonghuan AvenueShanxia Community, Pinghu Street, Longgang District
+				Shenzhen  Guangdong  518111
+				CN
+
+90-1D-FF   (hex)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
+901DFF     (base 16)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
+				Runye Precision Manufacturing Industrial Park, among the north of Xiangjing Road, the west of Xinpi Road and the south of Yangzi Road, located in the High-tech Zone, Heyuan City, Guangdong Province
+				 Heyuan City  Guangdong Province  518100
+				CN
+
 98-B1-77   (hex)		EYKON Solutions S.A.
 98B177     (base 16)		EYKON Solutions S.A.
 				78th km Old National Road Athens-Corinth 
@@ -95669,17 +95681,11 @@ CCAA00     (base 16)		Microsoft Corporation
 				Corinth     20100
 				GR
 
-00-72-30   (hex)		Nordic Semiconductor ASA
-007230     (base 16)		Nordic Semiconductor ASA
-				Otto Nielsens veg 12
-				Trondheim    NO-7052
-				NO
-
-90-1D-FF   (hex)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
-901DFF     (base 16)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
-				Runye Precision Manufacturing Industrial Park, among the north of Xiangjing Road, the west of Xinpi Road and the south of Yangzi Road, located in the High-tech Zone, Heyuan City, Guangdong Province
-				 Heyuan City  Guangdong Province  518100
-				CN
+CC-A8-23   (hex)		Silicon Laboratories
+CCA823     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
 
 44-BE-23   (hex)		PEGATRON CORPORATION
 44BE23     (base 16)		PEGATRON CORPORATION
@@ -95687,16 +95693,16 @@ CCAA00     (base 16)		Microsoft Corporation
 				Taipei    112
 				TW
 
-CC-A8-23   (hex)		Silicon Laboratories
-CCA823     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
+00-72-30   (hex)		Nordic Semiconductor ASA
+007230     (base 16)		Nordic Semiconductor ASA
+				Otto Nielsens veg 12
+				Trondheim    NO-7052
+				NO
 
-60-D1-5F   (hex)		Futurepath Technology(Shenzhen)Co.,Ltd.
-60D15F     (base 16)		Futurepath Technology(Shenzhen)Co.,Ltd.
-				Building E, Zhongke Valley, Zhonghuan AvenueShanxia Community, Pinghu Street, Longgang District
-				Shenzhen  Guangdong  518111
+BC-6C-96   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+BC6C96     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
+				Shenzhen    518052
 				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -239395,3 +239401,9 @@ FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				No. 211, Wenhua 2nd Rd., Guishan Dist.
 				Taoyuan City  Taiwan  33377
 				TW
+
+98-F3-64   (hex)		Yantai Dongfang Wisdom Elrctic Co.,Ltd.
+98F364     (base 16)		Yantai Dongfang Wisdom Elrctic Co.,Ltd.
+				6 Jindu Road Yantai, Shandong
+				Yantai  Shandong  264000
+				CN
