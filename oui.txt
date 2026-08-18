@@ -95687,6 +95687,12 @@ CCAA00     (base 16)		Microsoft Corporation
 				Taipei    112
 				TW
 
+CC-A8-23   (hex)		Silicon Laboratories
+CCA823     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -143347,6 +143353,12 @@ A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				A1710, Nanshan Cloud Technology Building, Vanke Cloud City, Liuxin Third Street, Xili Community, Xili Street, Nanshan District, 
 				Shenzhen  Guangdong Province  518000
 				CN
+
+9C-64-A1   (hex)		Silicon Laboratories
+9C64A1     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
