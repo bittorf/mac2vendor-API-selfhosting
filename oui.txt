@@ -191633,6 +191633,12 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				FORT COLLINS  CO  80524
 				US
 
+04-EC-A9   (hex)		IEEE Registration Authority
+04ECA9     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
