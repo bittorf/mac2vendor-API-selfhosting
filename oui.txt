@@ -48230,12 +48230,6 @@ AC40B5     (base 16)		Lumiva Inc.
 				Cupertino  CA  95014
 				US
 
-28-69-DA   (hex)		Moultrie Mobile
-2869DA     (base 16)		Moultrie Mobile
-				5724 Highway 280 East
-				Birmingham  AL  35242
-				US
-
 44-14-04   (hex)		eero inc.
 441404     (base 16)		eero inc.
 				660 3rd Street 
@@ -48307,6 +48301,12 @@ EC8306     (base 16)		GooWi Wireless Technology Co., Limited
 				68 CIRCULAR ROAD, #02-01
 				SINGAPORE  Singapore  049422
 				SG
+
+F8-34-E5   (hex)		vivo Mobile Communication Co., Ltd.
+F834E5     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -191650,6 +191650,18 @@ B88268     (base 16)		SHENZHEN HOPESTAR TECHNOLOGY CO.,LTD.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+28-D5-55   (hex)		vivo Mobile Communication Co., Ltd.
+28D555     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+98-A3-3C   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
+98A33C     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
+				F6,M6,Maqueling, High-tech park, Nanshan district
+				Shenzhen  Guangdong  518057
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
