@@ -143432,6 +143432,18 @@ D81BF4     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+A0-E9-22   (hex)		Optiemus Electronics Limited
+A0E922     (base 16)		Optiemus Electronics Limited
+				A-7, Sector-65
+				Noida  Gautam Buddha Nagar  201309
+				IN
+
+B0-D5-87   (hex)		silex technology, Inc.
+B0D587     (base 16)		silex technology, Inc.
+				2-3-1 Hikaridai, Seika-cho, Souraku-gun
+				Kyoto    619-0237
+				JP
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
