@@ -48308,6 +48308,12 @@ F834E5     (base 16)		vivo Mobile Communication Co., Ltd.
 				Dongguan  Guangdong  523860
 				CN
 
+5C-A2-A2   (hex)		Texas Instruments
+5CA2A2     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95710,6 +95716,18 @@ CCA823     (base 16)		Silicon Laboratories
 				Otto Nielsens veg 12
 				Trondheim    NO-7052
 				NO
+
+94-2A-D6   (hex)		Texas Instruments
+942AD6     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+E0-95-B3   (hex)		Texas Instruments
+E095B3     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143388,6 +143406,30 @@ B0-A5-B3   (hex)		Hewlett Packard Enterprise
 B0A5B3     (base 16)		Hewlett Packard Enterprise
 				6280 America Center Dr
 				San Jose  CA  95002
+				US
+
+50-EE-B5   (hex)		Texas Instruments
+50EEB5     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+D8-F0-2F   (hex)		Texas Instruments
+D8F02F     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+D8-1B-F4   (hex)		Texas Instruments
+D81BF4     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+18-14-F4   (hex)		Texas Instruments
+1814F4     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -239449,3 +239491,9 @@ FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				 101, Building 8, No.1288, Liangmu Road, Cangqian Street,Yuhang District
 				Hangzhou   Zhejiang  311100
 				CN
+
+AC-9A-3F   (hex)		Texas Instruments
+AC9A3F     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
