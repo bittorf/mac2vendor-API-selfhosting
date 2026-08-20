@@ -143384,6 +143384,12 @@ A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				Austin  TX  78701
 				US
 
+B0-A5-B3   (hex)		Hewlett Packard Enterprise
+B0A5B3     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
