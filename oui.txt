@@ -143444,6 +143444,12 @@ B0D587     (base 16)		silex technology, Inc.
 				Kyoto    619-0237
 				JP
 
+48-21-B8   (hex)		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
+4821B8     (base 16)		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
+				13/F, Building 1, No.13 Bohua 4th Road,  Huangpu District
+				Guangzhou  Guangdong  510663
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
