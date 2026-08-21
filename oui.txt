@@ -143486,6 +143486,18 @@ B0D587     (base 16)		silex technology, Inc.
 				SEDALIA  MO  65301
 				US
 
+54-23-E3   (hex)		Ruijie Networks Co.,LTD
+5423E3     (base 16)		Ruijie Networks Co.,LTD
+				Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District
+				Fuzhou    35000
+				CN
+
+B0-B0-A1   (hex)		Hon Hai Precision Industry Co.,LTD
+B0B0A1     (base 16)		Hon Hai Precision Industry Co.,LTD
+				66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA 
+				TAIPEI  66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI   33859
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -239587,3 +239599,9 @@ AC9A3F     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+48-F7-3C   (hex)		ELECOM CO.,LTD
+48F73C     (base 16)		ELECOM CO.,LTD
+				2-6 Kinkocho, Kanagawa-ku, Yokohama Plaza Building 4F
+				Yokohama  Kanagawa  221-0056
+				JP
