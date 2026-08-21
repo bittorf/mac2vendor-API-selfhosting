@@ -48314,6 +48314,18 @@ F834E5     (base 16)		vivo Mobile Communication Co., Ltd.
 				Dallas  TX  75243
 				US
 
+DC-30-52   (hex)		zte corporation
+DC3052     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+DC-9F-1F   (hex)		Aseko, spol. s r.o.
+DC9F1F     (base 16)		Aseko, spol. s r.o.
+				Videnska 340
+				Vestec u Prahy    25250
+				CZ
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95734,6 +95746,12 @@ E095B3     (base 16)		Texas Instruments
 				975 Ygnacio Valley Rd
 				Walnut Creek  CA  94596
 				US
+
+AC-04-16   (hex)		zte corporation
+AC0416     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143455,6 +143473,18 @@ B0D587     (base 16)		silex technology, Inc.
 				13/F, Building 1, No.13 Bohua 4th Road,  Huangpu District
 				Guangzhou  Guangdong  510663
 				CN
+
+44-7B-30   (hex)		Espressif Inc.
+447B30     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+74-75-63   (hex)		Duke Manufacturing
+747563     (base 16)		Duke Manufacturing
+				601 DUKE DR, Sedalia, MO, 65301
+				SEDALIA  MO  65301
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -239521,3 +239551,27 @@ AC9A3F     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+DC-55-B1   (hex)		Espressif Inc.
+DC55B1     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+54-9D-EA   (hex)		Espressif Inc.
+549DEA     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+64-89-14   (hex)		Espressif Inc.
+648914     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+C8-B0-B2   (hex)		zte corporation
+C8B0B2     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
