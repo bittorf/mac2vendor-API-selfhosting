@@ -191747,24 +191747,6 @@ E84EBA     (base 16)		Google, Inc.
 				Rishon Le-Zion    7570419
 				IL
 
-44-8C-EC   (hex)		Anhui Sunchip semiconductor technology Co;Ltd
-448CEC     (base 16)		Anhui Sunchip semiconductor technology Co;Ltd
-				No. 77 Jinguang Avenue, Economic and Technological Development Zone,
-				Chizhou City  Anhui Province  247100
-				CN
-
-00-90-5B   (hex)		Parameter LLC
-00905B     (base 16)		Parameter LLC
-				208 COMMERCE DR.,  UNIT #3C
-				FORT COLLINS  CO  80524
-				US
-
-04-EC-A9   (hex)		IEEE Registration Authority
-04ECA9     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 28-D5-55   (hex)		vivo Mobile Communication Co., Ltd.
 28D555     (base 16)		vivo Mobile Communication Co., Ltd.
 				No.1, vivo Road, Chang'an
@@ -191776,6 +191758,30 @@ E84EBA     (base 16)		Google, Inc.
 				F6,M6,Maqueling, High-tech park, Nanshan district
 				Shenzhen  Guangdong  518057
 				CN
+
+44-8C-EC   (hex)		Anhui Sunchip semiconductor technology Co;Ltd
+448CEC     (base 16)		Anhui Sunchip semiconductor technology Co;Ltd
+				No. 77 Jinguang Avenue, Economic and Technological Development Zone,
+				Chizhou City  Anhui Province  247100
+				CN
+
+04-EC-A9   (hex)		IEEE Registration Authority
+04ECA9     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+00-90-5B   (hex)		Parameter LLC
+00905B     (base 16)		Parameter LLC
+				208 COMMERCE DR.,  UNIT #3C
+				FORT COLLINS  CO  80524
+				US
+
+3C-13-67   (hex)		CxTEK Innovations India Pvt Ltd
+3C1367     (base 16)		CxTEK Innovations India Pvt Ltd
+				5th Floor, Tower-C, The Iconic Corenthum, Sector-62
+				Noida  Uttar Pradesh  201301
+				IN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
