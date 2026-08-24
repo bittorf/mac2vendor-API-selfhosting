@@ -143510,6 +143510,24 @@ B0A5B3     (base 16)		Hewlett Packard Enterprise
 				Dallas  TX  75243
 				US
 
+C8-19-D8   (hex)		Blink by Amazon 
+C819D8     (base 16)		Blink by Amazon 
+				100 Riverpark Drive
+				North Reading   MA  01864
+				US
+
+C8-C9-B2   (hex)		Amazon Technologies Inc.
+C8C9B2     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
+C0-01-95   (hex)		Amazon Technologies Inc.
+C00195     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
