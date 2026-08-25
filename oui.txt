@@ -48302,6 +48302,18 @@ C44B31     (base 16)		Cisco Systems, Inc
 				San Jose   CA  94568
 				US
 
+DC-30-52   (hex)		zte corporation
+DC3052     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+DC-9F-1F   (hex)		Aseko, spol. s r.o.
+DC9F1F     (base 16)		Aseko, spol. s r.o.
+				Videnska 340
+				Vestec u Prahy    25250
+				CZ
+
 F8-34-E5   (hex)		vivo Mobile Communication Co., Ltd.
 F834E5     (base 16)		vivo Mobile Communication Co., Ltd.
 				No.1, vivo Road, Chang'an
@@ -48314,17 +48326,23 @@ F834E5     (base 16)		vivo Mobile Communication Co., Ltd.
 				Dallas  TX  75243
 				US
 
-DC-30-52   (hex)		zte corporation
-DC3052     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen   guangdong  518057
+6C-02-8C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+6C028C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
-DC-9F-1F   (hex)		Aseko, spol. s r.o.
-DC9F1F     (base 16)		Aseko, spol. s r.o.
-				Videnska 340
-				Vestec u Prahy    25250
-				CZ
+40-EE-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+40EE6D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+7C-96-A0   (hex)		Ningbo Shunyun Electronics Co.,Ltd.
+7C96A0     (base 16)		Ningbo Shunyun Electronics Co.,Ltd.
+				96 Sihai Avenue, Simen Town Industrial Park, Yuyao City, Zhejiang Province
+				Yuyao  Zhejiang  315470
+				CN
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -95770,6 +95788,12 @@ E095B3     (base 16)		Texas Instruments
 				975 Ygnacio Valley Rd
 				Walnut Creek  CA  94596
 				US
+
+24-EA-9B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24EA9B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143544,6 +143568,24 @@ C00195     (base 16)		Amazon Technologies Inc.
 00D98B     (base 16)		Hangzhou Huacheng Network Technology Co.,Ltd
 				13th Floor, Building 3, No. 582, Liye Road, Changhe Street, Binjiang District
 				Hangzhou  (Zhejiang) Pilot Free Trade Zone  311200
+				CN
+
+0C-B7-EC   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0CB7EC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A4-38-28   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A43828     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+28-A9-AE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+28A9AE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -191837,6 +191879,24 @@ E84EBA     (base 16)		Google, Inc.
 				Singapore    138577
 				SG
 
+54-23-69   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+542369     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+64-87-6C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+64876C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+78-F1-3B   (hex)		AltoBeam Inc.
+78F13B     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -239670,4 +239730,16 @@ BC-51-6C   (hex)		Tiandy Technologies Co.,LTD
 BC516C     (base 16)		Tiandy Technologies Co.,LTD
 				Tiandy Technologies CO.,LTD
 				tianjin  tianjin  300384
+				CN
+
+D8-93-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D89333     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+7C-19-60   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+7C1960     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
