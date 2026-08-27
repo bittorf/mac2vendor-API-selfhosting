@@ -48344,6 +48344,18 @@ F834E5     (base 16)		vivo Mobile Communication Co., Ltd.
 				Yuyao  Zhejiang  315470
 				CN
 
+F8-A9-86   (hex)		Microsoft Corporation
+F8A986     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+64-41-FF   (hex)		Shenzhen Wolf Technology Co., Ltd.
+6441FF     (base 16)		Shenzhen Wolf Technology Co., Ltd.
+				Room 201, Block C1, Zhu'ao Intelligent Manufacturing Park, Guxing Community, Xixiang Subdistrict, Bao'an District
+				Shenzhen City    51800
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95806,6 +95818,12 @@ ECBA34     (base 16)		IEEE Registration Authority
 				No.88,Jiangling Road
 				Hangzhou  Zhejiang,P.R.China  310051
 				CN
+
+E4-FE-D4   (hex)		Microsoft Corporation
+E4FED4     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -239772,4 +239790,10 @@ D89333     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 10C283     (base 16)		Suzhou Pairlink Network Technology
 				Room304, Building 4, No.209, Zhu Yuan Road, Suzhou new district
 				Suzhou  Jiangsu  215011
+				CN
+
+94-36-8B   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+94368B     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
 				CN
