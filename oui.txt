@@ -191939,6 +191939,12 @@ E84EBA     (base 16)		Google, Inc.
 				Beijing  Beijing  100083
 				CN
 
+C4-A3-EF   (hex)		UEI Electronics Private Ltd.
+C4A3EF     (base 16)		UEI Electronics Private Ltd.
+				#49, 1 st floor, East wing, Khanjabhavan, Racecourse Road.
+				Bengaluru  Karnataka  560001
+				IN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
