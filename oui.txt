@@ -48356,6 +48356,12 @@ F8A986     (base 16)		Microsoft Corporation
 				Shenzhen City    51800
 				CN
 
+74-36-75   (hex)		Juniper Networks
+743675     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -143665,6 +143671,18 @@ E09E2D     (base 16)		Nokia
 				The Mountain
 				Framingham  MA  01701-9168
 				US
+
+54-BF-55   (hex)		Juniper Networks
+54BF55     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
+14-27-20   (hex)		Bosch Rexroth (Changzhou) Co. Ltd.
+142720     (base 16)		Bosch Rexroth (Changzhou) Co. Ltd.
+				No 17 Longmen Road, Wujin Hi-tech Industrial Zone
+				Changzhou  Jiangsu  213164
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
