@@ -48362,6 +48362,24 @@ F8A986     (base 16)		Microsoft Corporation
 				Sunnyvale  CA  94089
 				US
 
+78-1A-32   (hex)		Huawei Device Co., Ltd.
+781A32     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+64-A9-63   (hex)		Huawei Device Co., Ltd.
+64A963     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+98-51-FC   (hex)		Huawei Device Co., Ltd.
+9851FC     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95848,6 +95866,12 @@ BC122F     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
 				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
 				Singapore    138577
 				SG
+
+9C-A1-18   (hex)		Huawei Device Co., Ltd.
+9CA118     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143682,6 +143706,24 @@ E09E2D     (base 16)		Nokia
 142720     (base 16)		Bosch Rexroth (Changzhou) Co. Ltd.
 				No 17 Longmen Road, Wujin Hi-tech Industrial Zone
 				Changzhou  Jiangsu  213164
+				CN
+
+94-C9-F3   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+94C9F3     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
+
+00-3E-C4   (hex)		Huawei Device Co., Ltd.
+003EC4     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+C4-21-55   (hex)		Huawei Device Co., Ltd.
+C42155     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -192005,6 +192047,30 @@ C4A3EF     (base 16)		UEI Electronics Private Ltd.
 				Singapore    138577
 				SG
 
+54-9C-6A   (hex)		Shenzhen Bilian Electronic Co.,Ltd
+549C6A     (base 16)		Shenzhen Bilian Electronic Co.,Ltd
+				Room 501, Building 3, No.32 Dafu Road, Zhangge Community, Fucheng Subdistrict, Longhua District
+				 Shenzhen City  Guangdong Province  518000
+				CN
+
+44-C2-77   (hex)		Shenzhen Kingspec Electronics Technology Co., Ltd.
+44C277     (base 16)		Shenzhen Kingspec Electronics Technology Co., Ltd.
+				20th/F, Block C, Digital Innovation Center, No. 328 Mintang Road, Minzhi Street, Longhua District
+				Shenzhen  Guangdong  518000
+				CN
+
+FC-C7-66   (hex)		Huawei Device Co., Ltd.
+FCC766     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+58-AB-FB   (hex)		Huawei Device Co., Ltd.
+58ABFB     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -239828,16 +239894,22 @@ AC9A3F     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-48-F7-3C   (hex)		ELECOM CO.,LTD
-48F73C     (base 16)		ELECOM CO.,LTD
-				2-6 Kinkocho, Kanagawa-ku, Yokohama Plaza Building 4F
-				Yokohama  Kanagawa  221-0056
-				JP
+10-C2-83   (hex)		Suzhou Pairlink Network Technology
+10C283     (base 16)		Suzhou Pairlink Network Technology
+				Room304, Building 4, No.209, Zhu Yuan Road, Suzhou new district
+				Suzhou  Jiangsu  215011
+				CN
 
-BC-51-6C   (hex)		Tiandy Technologies Co.,LTD
-BC516C     (base 16)		Tiandy Technologies Co.,LTD
-				Tiandy Technologies CO.,LTD
-				tianjin  tianjin  300384
+94-36-8B   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+94368B     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+BC-93-88   (hex)		Nokia Solutions (Shanghai) Co.,Ltd.
+BC9388     (base 16)		Nokia Solutions (Shanghai) Co.,Ltd.
+				No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai 201206,P.R.China
+				Shanghai   Pudong New Area  201206
 				CN
 
 D8-93-33   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -239852,14 +239924,26 @@ D89333     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-10-C2-83   (hex)		Suzhou Pairlink Network Technology
-10C283     (base 16)		Suzhou Pairlink Network Technology
-				Room304, Building 4, No.209, Zhu Yuan Road, Suzhou new district
-				Suzhou  Jiangsu  215011
+48-F7-3C   (hex)		ELECOM CO.,LTD
+48F73C     (base 16)		ELECOM CO.,LTD
+				2-6 Kinkocho, Kanagawa-ku, Yokohama Plaza Building 4F
+				Yokohama  Kanagawa  221-0056
+				JP
+
+BC-51-6C   (hex)		Tiandy Technologies Co.,LTD
+BC516C     (base 16)		Tiandy Technologies Co.,LTD
+				Tiandy Technologies CO.,LTD
+				tianjin  tianjin  300384
 				CN
 
-94-36-8B   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
-94368B     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
-				Midea Global Innovation Center,Beijiao Town,Shunde
-				Foshan  Guangdong  528311
+24-77-55   (hex)		Huawei Device Co., Ltd.
+247755     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+4C-CB-EA   (hex)		Huawei Device Co., Ltd.
+4CCBEA     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
