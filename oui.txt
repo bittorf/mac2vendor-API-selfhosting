@@ -95825,36 +95825,6 @@ E095B3     (base 16)		Texas Instruments
 				Walnut Creek  CA  94596
 				US
 
-24-EA-9B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-24EA9B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-EC-BA-34   (hex)		IEEE Registration Authority
-ECBA34     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-14-BA-88   (hex)		Zhejiang Uniview Technologies Co.,Ltd.
-14BA88     (base 16)		Zhejiang Uniview Technologies Co.,Ltd.
-				No.88,Jiangling Road
-				Hangzhou  Zhejiang,P.R.China  310051
-				CN
-
-E4-FE-D4   (hex)		Microsoft Corporation
-E4FED4     (base 16)		Microsoft Corporation
-				One Microsoft Way
-				REDMOND  WA  98052
-				US
-
-28-03-E6   (hex)		Nokia
-2803E6     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 BC-12-2F   (hex)		LCFC(Hefei) Electronics Technology co., ltd
 BC122F     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
 				No. 3188-1 Yungu Road (Comprehensive Bonded Zone), Hefei Economic & Technological Development Area，Anhui
@@ -95867,11 +95837,47 @@ BC122F     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
 				Singapore    138577
 				SG
 
+FC-C1-7D   (hex)		Xiaomi Communications Co Ltd
+FCC17D     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+14-BA-88   (hex)		Zhejiang Uniview Technologies Co.,Ltd.
+14BA88     (base 16)		Zhejiang Uniview Technologies Co.,Ltd.
+				No.88,Jiangling Road
+				Hangzhou  Zhejiang,P.R.China  310051
+				CN
+
 9C-A1-18   (hex)		Huawei Device Co., Ltd.
 9CA118     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
 				CN
+
+24-EA-9B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24EA9B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+E4-FE-D4   (hex)		Microsoft Corporation
+E4FED4     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+EC-BA-34   (hex)		IEEE Registration Authority
+ECBA34     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+28-03-E6   (hex)		Nokia
+2803E6     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143724,6 +143730,12 @@ C4-21-55   (hex)		Huawei Device Co., Ltd.
 C42155     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
+				CN
+
+E4-D3-98   (hex)		Xiaomi Communications Co Ltd
+E4D398     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -192071,6 +192083,12 @@ FCC766     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
+60-86-25   (hex)		FN-LINK TECHNOLOGY Ltd.
+608625     (base 16)		FN-LINK TECHNOLOGY Ltd.
+				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
+				Changsha  Hunan  410329
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -239946,4 +239964,16 @@ BC516C     (base 16)		Tiandy Technologies Co.,LTD
 4CCBEA     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
 				Dongguan  Guangdong  523808
+				CN
+
+64-FB-CE   (hex)		Amplitech Group, Inc.
+64FBCE     (base 16)		Amplitech Group, Inc.
+				155 Plant Avenue
+				Hauppauge  NY  11788
+				US
+
+38-C1-ED   (hex)		Xiaomi Communications Co Ltd
+38C1ED     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
 				CN
