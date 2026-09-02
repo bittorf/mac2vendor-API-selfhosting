@@ -48392,6 +48392,24 @@ F4A9A7     (base 16)		Honor Device Co., Ltd.
 				Shenzhen   Guangdong  518040
 				CN
 
+0C-EA-BF   (hex)		Mellanox Technologies, Inc.
+0CEABF     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+A4-EF-0C   (hex)		Mellanox Technologies, Inc.
+A4EF0C     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+58-0E-E6   (hex)		Mellanox Technologies, Inc.
+580EE6     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -192124,6 +192142,24 @@ C4A3EF     (base 16)		UEI Electronics Private Ltd.
 				Room 303, Building C, 18 Ningshuang Road
 				Nanjing  Jiangsu  210000
 				CN
+
+E0-AB-C3   (hex)		Mellanox Technologies, Inc.
+E0ABC3     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100  
+				Sunnyvale  CA  94085
+				US
+
+DC-BB-FA   (hex)		Cisco Meraki
+DCBBFA     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+48-70-D4   (hex)		Cisco Meraki
+4870D4     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
