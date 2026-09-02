@@ -48380,6 +48380,12 @@ F8A986     (base 16)		Microsoft Corporation
 				Dongguan  Guangdong  523808
 				CN
 
+00-D1-8C   (hex)		Guang zhou Xradio Technology Co., Ltd
+00D18C     (base 16)		Guang zhou Xradio Technology Co., Ltd
+				Room 405 ,BuildingB, No. 18 Science Avenue, Guangzhou Science City, Huangpu District
+				Guangzhou  Guangdong  510700
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
