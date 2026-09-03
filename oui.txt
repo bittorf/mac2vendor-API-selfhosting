@@ -143804,6 +143804,12 @@ E09E2D     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
+E8-B7-F0   (hex)		NocTel
+E8B7F0     (base 16)		NocTel
+				PO Box 35
+				Washougal  WA  98671
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -192191,6 +192197,12 @@ DCBBFA     (base 16)		Cisco Meraki
 				Wuhan  Hubei  430074
 				CN
 
+44-17-7A   (hex)		IZT Cloud, Inc.
+44177A     (base 16)		IZT Cloud, Inc.
+				1111B S Governors AveSTE 7460
+				Dover    19904
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -240085,3 +240097,9 @@ BC516C     (base 16)		Tiandy Technologies Co.,LTD
 				15485 Sand Canyon Ave
 				IRVINE  CA  92618
 				US
+
+94-76-C3   (hex)		FRITZ! Technology GmbH
+9476C3     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
