@@ -48344,6 +48344,24 @@ DC9F1F     (base 16)		Aseko, spol. s r.o.
 				Vestec u Prahy    25250
 				CZ
 
+48-A1-7A   (hex)		EM Microelectronic
+48A17A     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+94-47-EE   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+9447EE     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+C0-E8-EA   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+C0E8EA     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
 F8-A9-86   (hex)		Microsoft Corporation
 F8A986     (base 16)		Microsoft Corporation
 				One Microsoft Way
@@ -48355,12 +48373,6 @@ F8A986     (base 16)		Microsoft Corporation
 				Room 201, Block C1, Zhu'ao Intelligent Manufacturing Park, Guxing Community, Xixiang Subdistrict, Bao'an District
 				Shenzhen City    51800
 				CN
-
-74-36-75   (hex)		Juniper Networks
-743675     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
-				US
 
 78-1A-32   (hex)		Huawei Device Co., Ltd.
 781A32     (base 16)		Huawei Device Co., Ltd.
@@ -48380,18 +48392,6 @@ F8A986     (base 16)		Microsoft Corporation
 				Dongguan  Guangdong  523808
 				CN
 
-00-D1-8C   (hex)		Guang zhou Xradio Technology Co., Ltd
-00D18C     (base 16)		Guang zhou Xradio Technology Co., Ltd
-				Room 405 ,BuildingB, No. 18 Science Avenue, Guangzhou Science City, Huangpu District
-				Guangzhou  Guangdong  510700
-				CN
-
-F4-A9-A7   (hex)		Honor Device Co., Ltd.
-F4A9A7     (base 16)		Honor Device Co., Ltd.
-				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
-				Shenzhen   Guangdong  518040
-				CN
-
 0C-EA-BF   (hex)		Mellanox Technologies, Inc.
 0CEABF     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
@@ -48408,6 +48408,24 @@ A4EF0C     (base 16)		Mellanox Technologies, Inc.
 580EE6     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
+				US
+
+F4-A9-A7   (hex)		Honor Device Co., Ltd.
+F4A9A7     (base 16)		Honor Device Co., Ltd.
+				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
+				Shenzhen   Guangdong  518040
+				CN
+
+00-D1-8C   (hex)		Guang zhou Xradio Technology Co., Ltd
+00D18C     (base 16)		Guang zhou Xradio Technology Co., Ltd
+				Room 405 ,BuildingB, No. 18 Science Avenue, Guangzhou Science City, Huangpu District
+				Guangzhou  Guangdong  510700
+				CN
+
+74-36-75   (hex)		Juniper Networks
+743675     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
 				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
@@ -95920,6 +95938,12 @@ FCC17D     (base 16)		Xiaomi Communications Co Ltd
 				Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District 
 				Shenzhen   Guangdong  518040
 				CN
+
+30-40-FA   (hex)		EM Microelectronic
+3040FA     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -192160,6 +192184,12 @@ DCBBFA     (base 16)		Cisco Meraki
 				500 Terry A. Francois Blvd
 				San Francisco    94158
 				US
+
+68-E5-D9   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+68E5D9     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
