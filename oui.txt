@@ -48440,6 +48440,12 @@ F4A9A7     (base 16)		Honor Device Co., Ltd.
 				chicago  IL  60607
 				US
 
+C4-61-9A   (hex)		Texas Instruments
+C4619A     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -143822,6 +143828,36 @@ E8B7F0     (base 16)		NocTel
 				Washougal  WA  98671
 				US
 
+10-DB-A2   (hex)		Texas Instruments
+10DBA2     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+14-BB-CC   (hex)		Texas Instruments
+14BBCC     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+60-46-D4   (hex)		Texas Instruments
+6046D4     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+C0-B5-DD   (hex)		Silicon Laboratories
+C0B5DD     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+E8-D8-1C   (hex)		Quectel Wireless Solutions Co.,Ltd.
+E8D81C     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -192167,12 +192203,6 @@ C4A3EF     (base 16)		UEI Electronics Private Ltd.
 				Singapore    138577
 				SG
 
-60-86-25   (hex)		FN-LINK TECHNOLOGY Ltd.
-608625     (base 16)		FN-LINK TECHNOLOGY Ltd.
-				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
-				Changsha  Hunan  410329
-				CN
-
 4C-EA-27   (hex)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 4CEA27     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 				4F,Block A, Skyworth?Building,
@@ -192183,6 +192213,18 @@ C4A3EF     (base 16)		UEI Electronics Private Ltd.
 34F890     (base 16)		Nanjing RISC-V Institute Co., Ltd.
 				Room 303, Building C, 18 Ningshuang Road
 				Nanjing  Jiangsu  210000
+				CN
+
+60-86-25   (hex)		FN-LINK TECHNOLOGY Ltd.
+608625     (base 16)		FN-LINK TECHNOLOGY Ltd.
+				No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China
+				Changsha  Hunan  410329
+				CN
+
+68-E5-D9   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+68E5D9     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
 				CN
 
 E0-AB-C3   (hex)		Mellanox Technologies, Inc.
@@ -192203,11 +192245,35 @@ DCBBFA     (base 16)		Cisco Meraki
 				San Francisco    94158
 				US
 
-68-E5-D9   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-68E5D9     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
-				CN
+B8-22-27   (hex)		Texas Instruments
+B82227     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+C4-4E-5D   (hex)		Texas Instruments
+C44E5D     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+BC-19-2F   (hex)		Texas Instruments
+BC192F     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+64-9E-F1   (hex)		Texas Instruments
+649EF1     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+24-1F-3A   (hex)		Silicon Laboratories
+241F3A     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
 
 44-17-7A   (hex)		IZT Cloud, Inc.
 44177A     (base 16)		IZT Cloud, Inc.
