@@ -48428,6 +48428,18 @@ F4A9A7     (base 16)		Honor Device Co., Ltd.
 				Sunnyvale  CA  94089
 				US
 
+1C-35-76   (hex)		Samsung Electronics Co.,Ltd
+1C3576     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+00-8E-16   (hex)		Milwaukee Tool
+008E16     (base 16)		Milwaukee Tool
+				433 W Van Buren St, Suite 310S
+				chicago  IL  60607
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -240074,11 +240086,11 @@ BC516C     (base 16)		Tiandy Technologies Co.,LTD
 				tianjin  tianjin  300384
 				CN
 
-4C-CB-EA   (hex)		Huawei Device Co., Ltd.
-4CCBEA     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
+14-A6-B9   (hex)		Samsung Electronics Co.,Ltd
+14A6B9     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
 
 64-FB-CE   (hex)		Amplitech Group, Inc.
 64FBCE     (base 16)		Amplitech Group, Inc.
@@ -240090,6 +240102,12 @@ BC516C     (base 16)		Tiandy Technologies Co.,LTD
 38C1ED     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
 				Beijing  Haidian District  100085
+				CN
+
+4C-CB-EA   (hex)		Huawei Device Co., Ltd.
+4CCBEA     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
 
 50-27-E4   (hex)		Marvell Semiconductors
