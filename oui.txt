@@ -48446,6 +48446,12 @@ C4619A     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+74-1B-13   (hex)		New H3C Technologies Co., Ltd
+741B13     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95962,6 +95968,18 @@ FCC17D     (base 16)		Xiaomi Communications Co Ltd
 				Rue des Sors 3
 				Marin-Epagnier  Neuchatel  2074
 				CH
+
+04-89-6D   (hex)		New H3C Technologies Co., Ltd
+04896D     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+7C-17-95   (hex)		New H3C Technologies Co., Ltd
+7C1795     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143857,6 +143875,12 @@ E8D81C     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
 				Shanghai    200233
 				CN
+
+B0-52-1F   (hex)		Dyson Limited
+B0521F     (base 16)		Dyson Limited
+				Tetbury Hill
+				Malmesbury  Wiltshire  SN16 0RP
+				GB
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -240187,3 +240211,9 @@ BC516C     (base 16)		Tiandy Technologies Co.,LTD
 				Alt-Moabit 95
 				Berlin  Berlin  10559
 				DE
+
+38-90-FE   (hex)		New H3C Technologies Co., Ltd
+3890FE     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
