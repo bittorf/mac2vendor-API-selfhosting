@@ -95939,18 +95939,6 @@ ECBA34     (base 16)		IEEE Registration Authority
 				Kanata  Ontario  K2K 2E6
 				CA
 
-9C-A1-18   (hex)		Huawei Device Co., Ltd.
-9CA118     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
-
-FC-C1-7D   (hex)		Xiaomi Communications Co Ltd
-FCC17D     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
-				CN
-
 90-DF-46   (hex)		Shanghai Tosun Technology Ltd
 90DF46     (base 16)		Shanghai Tosun Technology Ltd
 				Room 207-1, No. 4801 Cao'an Road, Anting Town, Jiading District
@@ -95963,12 +95951,6 @@ FCC17D     (base 16)		Xiaomi Communications Co Ltd
 				Shenzhen   Guangdong  518040
 				CN
 
-30-40-FA   (hex)		EM Microelectronic
-3040FA     (base 16)		EM Microelectronic
-				Rue des Sors 3
-				Marin-Epagnier  Neuchatel  2074
-				CH
-
 04-89-6D   (hex)		New H3C Technologies Co., Ltd
 04896D     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -95980,6 +95962,24 @@ FCC17D     (base 16)		Xiaomi Communications Co Ltd
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+FC-C1-7D   (hex)		Xiaomi Communications Co Ltd
+FCC17D     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+9C-A1-18   (hex)		Huawei Device Co., Ltd.
+9CA118     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+30-40-FA   (hex)		EM Microelectronic
+3040FA     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143881,6 +143881,18 @@ B0521F     (base 16)		Dyson Limited
 				Tetbury Hill
 				Malmesbury  Wiltshire  SN16 0RP
 				GB
+
+14-BA-A2   (hex)		Extreme Networks, Inc.
+14BAA2     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville    27560
+				US
+
+00-B5-C7   (hex)		VusionGroup
+00B5C7     (base 16)		VusionGroup
+				Kalsdorfer Straße 12
+				Fernitz-Mellach  Steiermark  8072
+				AT
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -192305,6 +192317,18 @@ BC192F     (base 16)		Texas Instruments
 				Dover    19904
 				US
 
+40-E7-67   (hex)		Extreme Networks, Inc.
+40E767     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville    27560
+				US
+
+40-98-E1   (hex)		VusionGroup
+4098E1     (base 16)		VusionGroup
+				Kalsdorfer Straße 12
+				Fernitz-Mellach  Steiermark  8072
+				AT
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -240217,3 +240241,9 @@ BC516C     (base 16)		Tiandy Technologies Co.,LTD
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+9C-0A-B3   (hex)		Vantiva USA LLC
+9C0AB3     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
