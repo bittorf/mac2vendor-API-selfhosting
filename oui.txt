@@ -48458,6 +48458,12 @@ C4619A     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+B4-BE-56   (hex)		Camnex Innovations Private Limited
+B4BE56     (base 16)		Camnex Innovations Private Limited
+				8th Floor, Platina Heights, C24, Sector 62
+				Noida  UTTAR PRADESH  201301
+				IN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -95992,6 +95998,12 @@ ECBA34     (base 16)		IEEE Registration Authority
 				Rue des Sors 3
 				Marin-Epagnier  Neuchatel  2074
 				CH
+
+5C-D1-9C   (hex)		Fantasia Trading LLC
+5CD19C     (base 16)		Fantasia Trading LLC
+				5350 Ontario Mills Pkwy, Suite 100
+				Ontario  CA  91764
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
