@@ -48440,11 +48440,11 @@ F4A9A7     (base 16)		Honor Device Co., Ltd.
 				chicago  IL  60607
 				US
 
-C4-61-9A   (hex)		Texas Instruments
-C4619A     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
+B4-BE-56   (hex)		Camnex Innovations Private Limited
+B4BE56     (base 16)		Camnex Innovations Private Limited
+				8th Floor, Platina Heights, C24, Sector 62
+				Noida  UTTAR PRADESH  201301
+				IN
 
 74-1B-13   (hex)		New H3C Technologies Co., Ltd
 741B13     (base 16)		New H3C Technologies Co., Ltd
@@ -48458,16 +48458,22 @@ C4619A     (base 16)		Texas Instruments
 				Gumi  Gyeongbuk  730-350
 				KR
 
-B4-BE-56   (hex)		Camnex Innovations Private Limited
-B4BE56     (base 16)		Camnex Innovations Private Limited
-				8th Floor, Platina Heights, C24, Sector 62
-				Noida  UTTAR PRADESH  201301
-				IN
+98-87-CC   (hex)		AltoBeam Inc.
+9887CC     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
 
 2C-A2-E5   (hex)		Cisco Systems, Inc
 2CA2E5     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose   CA  94568
+				US
+
+C4-61-9A   (hex)		Texas Instruments
+C4619A     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
