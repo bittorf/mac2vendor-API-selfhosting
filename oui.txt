@@ -143966,6 +143966,12 @@ D89D13     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+C4-0E-B7   (hex)		IoTronix Technologies Sdn. Bhd.
+C40EB7     (base 16)		IoTronix Technologies Sdn. Bhd.
+				No. 85A, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.
+				Bayan Lepas  Penang  11900
+				MY
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
