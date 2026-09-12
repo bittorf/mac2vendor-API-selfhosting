@@ -143990,6 +143990,12 @@ B0521F     (base 16)		Dyson Limited
 				Malmesbury  Wiltshire  SN16 0RP
 				GB
 
+54-05-46   (hex)		Spintly Inc
+540546     (base 16)		Spintly Inc
+				691 S Milpitas Blvd Suite 217
+				Milpitas  CA  95035
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
