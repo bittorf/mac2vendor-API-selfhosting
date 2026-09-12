@@ -48476,6 +48476,12 @@ C4619A     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+94-3B-31   (hex)		Arista Networks
+943B31     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96011,24 +96017,6 @@ FCC17D     (base 16)		Xiaomi Communications Co Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-5C-D1-9C   (hex)		Fantasia Trading LLC
-5CD19C     (base 16)		Fantasia Trading LLC
-				5350 Ontario Mills Pkwy, Suite 100
-				Ontario  CA  91764
-				US
-
-CC-82-7B   (hex)		IEEE Registration Authority
-CC827B     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-54-59-A8   (hex)		WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO.,LTD
-5459A8     (base 16)		WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO.,LTD
-				No. 5, Creative Workshop, Creative World, Yezhihu West Road, HongshanDistrict
-				WUHAN  HUBEI  530070
-				CN
-
 A8-FD-07   (hex)		Espressif Inc.
 A8FD07     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -96047,11 +96035,29 @@ F843EE     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+54-59-A8   (hex)		WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO.,LTD
+5459A8     (base 16)		WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO.,LTD
+				No. 5, Creative Workshop, Creative World, Yezhihu West Road, HongshanDistrict
+				WUHAN  HUBEI  530070
+				CN
+
 10-A7-1A   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
 10A71A     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 				No.18, Ningshuang Road
 				 Nanjing  Jiangsu  210012
 				CN
+
+5C-D1-9C   (hex)		Fantasia Trading LLC
+5CD19C     (base 16)		Fantasia Trading LLC
+				5350 Ontario Mills Pkwy, Suite 100
+				Ontario  CA  91764
+				US
+
+CC-82-7B   (hex)		IEEE Registration Authority
+CC827B     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143912,11 +143918,41 @@ E09E2D     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
+14-BA-A2   (hex)		Extreme Networks, Inc.
+14BAA2     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville    27560
+				US
+
+00-B5-C7   (hex)		VusionGroup
+00B5C7     (base 16)		VusionGroup
+				Kalsdorfer Straße 12
+				Fernitz-Mellach  Steiermark  8072
+				AT
+
 E8-B7-F0   (hex)		NocTel
 E8B7F0     (base 16)		NocTel
 				PO Box 35
 				Washougal  WA  98671
 				US
+
+C0-B5-DD   (hex)		Silicon Laboratories
+C0B5DD     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+E8-D8-1C   (hex)		Quectel Wireless Solutions Co.,Ltd.
+E8D81C     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
+D8-9D-13   (hex)		Samsung Electronics Co.,Ltd
+D89D13     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 10-DB-A2   (hex)		Texas Instruments
 10DBA2     (base 16)		Texas Instruments
@@ -143936,47 +143972,23 @@ E8B7F0     (base 16)		NocTel
 				Dallas  TX  75243
 				US
 
-C0-B5-DD   (hex)		Silicon Laboratories
-C0B5DD     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
+C4-0E-B7   (hex)		IoTronix Technologies Sdn. Bhd.
+C40EB7     (base 16)		IoTronix Technologies Sdn. Bhd.
+				No. 85A, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.
+				Bayan Lepas  Penang  11900
+				MY
 
-E8-D8-1C   (hex)		Quectel Wireless Solutions Co.,Ltd.
-E8D81C     (base 16)		Quectel Wireless Solutions Co.,Ltd.
-				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
-				Shanghai    200233
-				CN
+50-45-D7   (hex)		Arista Networks
+5045D7     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
 
 B0-52-1F   (hex)		Dyson Limited
 B0521F     (base 16)		Dyson Limited
 				Tetbury Hill
 				Malmesbury  Wiltshire  SN16 0RP
 				GB
-
-14-BA-A2   (hex)		Extreme Networks, Inc.
-14BAA2     (base 16)		Extreme Networks, Inc.
-				2121 RDU Center Drive 
-				Morrisville    27560
-				US
-
-00-B5-C7   (hex)		VusionGroup
-00B5C7     (base 16)		VusionGroup
-				Kalsdorfer Straße 12
-				Fernitz-Mellach  Steiermark  8072
-				AT
-
-D8-9D-13   (hex)		Samsung Electronics Co.,Ltd
-D89D13     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-C4-0E-B7   (hex)		IoTronix Technologies Sdn. Bhd.
-C40EB7     (base 16)		IoTronix Technologies Sdn. Bhd.
-				No. 85A, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.
-				Bayan Lepas  Penang  11900
-				MY
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -192478,6 +192490,12 @@ FC07CD     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
 				Chongqing   China  401120
 				CN
+
+D4-AB-9F   (hex)		Vizio, Inc
+D4AB9F     (base 16)		Vizio, Inc
+				39 Tesla
+				Irvine  CA  92618
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
