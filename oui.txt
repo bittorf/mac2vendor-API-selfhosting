@@ -48482,6 +48482,12 @@ B4BE56     (base 16)		Camnex Innovations Private Limited
 				Santa Clara  CA  95054
 				US
 
+B8-32-50   (hex)		Suzhou Comay Information Technology Co., LTD
+B83250     (base 16)		Suzhou Comay Information Technology Co., LTD
+				3F,Zhujiawan Street
+				Suzhou  Jiangsu  215008
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
