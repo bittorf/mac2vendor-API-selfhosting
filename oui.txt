@@ -96017,24 +96017,6 @@ ECBA34     (base 16)		IEEE Registration Authority
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-5C-D1-9C   (hex)		Fantasia Trading LLC
-5CD19C     (base 16)		Fantasia Trading LLC
-				5350 Ontario Mills Pkwy, Suite 100
-				Ontario  CA  91764
-				US
-
-CC-82-7B   (hex)		IEEE Registration Authority
-CC827B     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
-54-59-A8   (hex)		WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO.,LTD
-5459A8     (base 16)		WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO.,LTD
-				No. 5, Creative Workshop, Creative World, Yezhihu West Road, HongshanDistrict
-				WUHAN  HUBEI  530070
-				CN
-
 A8-FD-07   (hex)		Espressif Inc.
 A8FD07     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
@@ -96053,6 +96035,12 @@ F843EE     (base 16)		Espressif Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+54-59-A8   (hex)		WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO.,LTD
+5459A8     (base 16)		WUHAN JINGCHEN INTELLIGENT IDENTIFICATION TECHNOLOGY CO.,LTD
+				No. 5, Creative Workshop, Creative World, Yezhihu West Road, HongshanDistrict
+				WUHAN  HUBEI  530070
+				CN
+
 10-A7-1A   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
 10A71A     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 				No.18, Ningshuang Road
@@ -96063,6 +96051,24 @@ F843EE     (base 16)		Espressif Inc.
 68731E     (base 16)		Mega Multimedia AI Inc
 				6565 W Sunset BlvdOfc 402
 				Los Angeles  CA  90028-7206
+				US
+
+5C-D1-9C   (hex)		Fantasia Trading LLC
+5CD19C     (base 16)		Fantasia Trading LLC
+				5350 Ontario Mills Pkwy, Suite 100
+				Ontario  CA  91764
+				US
+
+CC-82-7B   (hex)		IEEE Registration Authority
+CC827B     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+30-6A-4F   (hex)		Roku, Inc
+306A4F     (base 16)		Roku, Inc
+				1173 Coleman Ave
+				San Jose  CA  95110
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -144001,6 +144007,12 @@ B0521F     (base 16)		Dyson Limited
 				691 S Milpitas Blvd Suite 217
 				Milpitas  CA  95035
 				US
+
+EC-15-FE   (hex)		Hangzhou Hikstorage Technology Co.,Ltd.
+EC15FE     (base 16)		Hangzhou Hikstorage Technology Co.,Ltd.
+				No.399 Danfeng Road, Binjiang District,
+				Hangzhou    310051
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
