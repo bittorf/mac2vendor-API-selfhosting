@@ -48464,11 +48464,17 @@ B4BE56     (base 16)		Camnex Innovations Private Limited
 				Noida  UTTAR PRADESH  201301
 				IN
 
-2C-A2-E5   (hex)		Cisco Systems, Inc
-2CA2E5     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose   CA  94568
-				US
+B8-32-50   (hex)		Suzhou Comay Information Technology Co., LTD
+B83250     (base 16)		Suzhou Comay Information Technology Co., LTD
+				3F,Zhujiawan Street
+				Suzhou  Jiangsu  215008
+				CN
+
+A8-40-21   (hex)		zte corporation
+A84021     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 98-87-CC   (hex)		AltoBeam Inc.
 9887CC     (base 16)		AltoBeam Inc.
@@ -48482,11 +48488,11 @@ B4BE56     (base 16)		Camnex Innovations Private Limited
 				Santa Clara  CA  95054
 				US
 
-B8-32-50   (hex)		Suzhou Comay Information Technology Co., LTD
-B83250     (base 16)		Suzhou Comay Information Technology Co., LTD
-				3F,Zhujiawan Street
-				Suzhou  Jiangsu  215008
-				CN
+2C-A2-E5   (hex)		Cisco Systems, Inc
+2CA2E5     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -96076,6 +96082,12 @@ CC827B     (base 16)		IEEE Registration Authority
 				1173 Coleman Ave
 				San Jose  CA  95110
 				US
+
+E8-56-7A   (hex)		zte corporation
+E8567A     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -240499,3 +240511,9 @@ F0E426     (base 16)		Samsung Electronics Co.,Ltd
 				Einsteinstraße 172
 				München  Bayern  81677
 				DE
+
+34-2D-0F   (hex)		zte corporation
+342D0F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
