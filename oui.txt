@@ -48536,6 +48536,12 @@ E0150B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Beijing    100053
 				CN
 
+1C-C2-12   (hex)		Fortinet, Inc.
+1CC212     (base 16)		Fortinet, Inc.
+				899 Kifer Road
+				Sunnyvale    94086
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96142,6 +96148,12 @@ F05D88     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+7C-25-A3   (hex)		Fortinet, Inc.
+7C25A3     (base 16)		Fortinet, Inc.
+				899 Kifer Road
+				Sunnyvale    94086
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -144102,6 +144114,12 @@ EC15FE     (base 16)		Hangzhou Hikstorage Technology Co.,Ltd.
 1492AA     (base 16)		Earda Technologies co Ltd
 				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
 				Guangzhou  Guangdong  511455
+				CN
+
+84-EC-14   (hex)		Qingdao Goertek Horizons  Technology Co.,LTD
+84EC14     (base 16)		Qingdao Goertek Horizons  Technology Co.,LTD
+				Building 1 ,2, Qingdao Virtual Reality Industrial Park,No.159 Zhuzhou Road, Laoshan District, Qingdao,Shandong, P.R. China
+				Qingdao    266100
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
