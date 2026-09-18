@@ -96185,6 +96185,12 @@ ACA26A     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				Sunnyvale    94086
 				US
 
+64-C5-F9   (hex)		SHENZHEN TECNO TECHNOLOGY 
+64C5F9     (base 16)		SHENZHEN TECNO TECHNOLOGY 
+				101,Building 24,Waijing Industrial Park,Fumin Community,Fucheng Street,Longhua District,Shenzhen City,P.R.China
+				Shenzhen  guangdong  518000
+				CN
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
