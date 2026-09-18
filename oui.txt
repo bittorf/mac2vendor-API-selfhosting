@@ -48548,6 +48548,12 @@ C423E2     (base 16)		WNC Corporation
 				Hsin-Chu  R.O.C.  308
 				TW
 
+CC-37-A9   (hex)		ASKEY COMPUTER CORP
+CC37A9     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
