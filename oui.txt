@@ -48536,18 +48536,6 @@ E0150B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Beijing    100053
 				CN
 
-1C-C2-12   (hex)		Fortinet, Inc.
-1CC212     (base 16)		Fortinet, Inc.
-				899 Kifer Road
-				Sunnyvale    94086
-				US
-
-C4-23-E2   (hex)		WNC Corporation
-C423E2     (base 16)		WNC Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
 CC-37-A9   (hex)		ASKEY COMPUTER CORP
 CC37A9     (base 16)		ASKEY COMPUTER CORP
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
@@ -48559,6 +48547,48 @@ FC1CE6     (base 16)		PSG Germany GmbH
 				Hochstraße 150-152 
 				Duisburg  North Rhine-Westphalia  47228
 				DE
+
+C4-23-E2   (hex)		WNC Corporation
+C423E2     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+1C-C2-12   (hex)		Fortinet, Inc.
+1CC212     (base 16)		Fortinet, Inc.
+				899 Kifer Road
+				Sunnyvale    94086
+				US
+
+14-B6-53   (hex)		Apple, Inc.
+14B653     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-07-6A   (hex)		Apple, Inc.
+98076A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-CA-B5   (hex)		Apple, Inc.
+98CAB5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+34-82-96   (hex)		Apple, Inc.
+348296     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+18-32-DE   (hex)		Apple, Inc.
+1832DE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -62071,12 +62101,6 @@ CC0677     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Zweigniederlassung/Branch Walluf
 				In der Rehbach 22  Walluf  65396
 				DE
-
-00-80-C2   (hex)		IEEE 802.1 Chair
-0080C2     (base 16)		IEEE 802.1 Chair
-				 c/o RAC Administrator , IEEE
-				Piscataway  NJ  08554
-				US
 
 EC-F3-42   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 ECF342     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -76021,12 +76045,6 @@ CC0080     (base 16)		BETTINI SRL
 				Hoogstraat 52
 				Putte  Antwerp  B2580
 				BE
-
-00-1E-83   (hex)		LAN/MAN Standards Association (LMSC)
-001E83     (base 16)		LAN/MAN Standards Association (LMSC)
-				IEEE 802.1 Chair, c/o RAC Administrator IEEE
-				Piscataway  NJ  08854 
-				US
 
 00-1E-7C   (hex)		Taiwick Limited
 001E7C     (base 16)		Taiwick Limited
@@ -96191,11 +96209,47 @@ ACA26A     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				Sunnyvale    94086
 				US
 
+00-1E-83   (hex)		 IEEE 802.1 Working Group
+001E83     (base 16)		 IEEE 802.1 Working Group
+				IEEE 802.1 Chair, c/o RAC Administrator, IEEE
+				Piscataway  NJ  08854 
+				US
+
+00-80-C2   (hex)		IEEE 802.1 Working Group
+0080C2     (base 16)		IEEE 802.1 Working Group
+				 IEEE 802.1 Chair, c/o RAC Administrator, IEEE
+				Piscataway  NJ  08554
+				US
+
+70-6A-25   (hex)		Ningbo Sanxing Smart Electric Co.，Ltd
+706A25     (base 16)		Ningbo Sanxing Smart Electric Co.，Ltd
+				No.16 Fengwan Road,Cicheng Town,Jiangbei District,Ningbo City, Zhejiang Province,315034,China
+				Ningbo  Zhejiang Province  315031
+				CN
+
 64-C5-F9   (hex)		SHENZHEN TECNO TECHNOLOGY 
 64C5F9     (base 16)		SHENZHEN TECNO TECHNOLOGY 
 				101,Building 24,Waijing Industrial Park,Fumin Community,Fucheng Street,Longhua District,Shenzhen City,P.R.China
 				Shenzhen  guangdong  518000
 				CN
+
+50-81-14   (hex)		Apple, Inc.
+508114     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+3C-2C-CD   (hex)		Apple, Inc.
+3C2CCD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+5C-89-BC   (hex)		Apple, Inc.
+5C89BC     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 3C-23-19   (hex)		final Inc.
 3C2319     (base 16)		final Inc.
@@ -96203,11 +96257,11 @@ ACA26A     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				Kawasaki  Kanagawa  212-0012
 				JP
 
-70-6A-25   (hex)		Ningbo Sanxing Smart Electric Co.，Ltd
-706A25     (base 16)		Ningbo Sanxing Smart Electric Co.，Ltd
-				No.16 Fengwan Road,Cicheng Town,Jiangbei District,Ningbo City, Zhejiang Province,315034,China
-				Ningbo  Zhejiang Province  315031
-				CN
+60-CA-3A   (hex)		Apple, Inc.
+60CA3A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -144180,6 +144234,30 @@ EC15FE     (base 16)		Hangzhou Hikstorage Technology Co.,Ltd.
 540546     (base 16)		Spintly Inc
 				691 S Milpitas Blvd Suite 217
 				Milpitas  CA  95035
+				US
+
+30-A7-F5   (hex)		Apple, Inc.
+30A7F5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+44-25-F4   (hex)		Apple, Inc.
+4425F4     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-42-F5   (hex)		Apple, Inc.
+9842F5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C4-EB-81   (hex)		Apple, Inc.
+C4EB81     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -192740,8 +192818,38 @@ D4AB9F     (base 16)		Vizio, Inc
 B0-2F-20   (hex)		VIM technology CO., LTD.
 B02F20     (base 16)		VIM technology CO., LTD.
 				8F-3, No. 872, Zhongzheng Rd., Zhonghe Dist.
-				New Taipei City    235601
+				New Taipei City    235015
 				TW
+
+E4-01-3B   (hex)		Apple, Inc.
+E4013B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+58-51-A3   (hex)		Apple, Inc.
+5851A3     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+88-2C-31   (hex)		Apple, Inc.
+882C31     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+20-8C-0A   (hex)		Apple, Inc.
+208C0A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+BC-18-27   (hex)		Apple, Inc.
+BC1827     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -240722,18 +240830,6 @@ F0E426     (base 16)		Samsung Electronics Co.,Ltd
 				München  Bayern  81677
 				DE
 
-34-C2-29   (hex)		Calix Inc.
-34C229     (base 16)		Calix Inc.
-				2777 Orchard Pkwy
-				San Jose  CA  95131
-				US
-
-E4-07-B4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-E407B4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 78-0E-3E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 780E3E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -240746,14 +240842,38 @@ F8293A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+E4-07-B4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E407B4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 3C-1F-52   (hex)		eero inc.
 3C1F52     (base 16)		eero inc.
 				660 3rd Street 
 				San Francisco  CA  94107
 				US
 
+34-C2-29   (hex)		Calix Inc.
+34C229     (base 16)		Calix Inc.
+				2777 Orchard Pkwy
+				San Jose  CA  95131
+				US
+
 F0-4E-35   (hex)		Pica8 Software Inc
 F04E35     (base 16)		Pica8 Software Inc
 				1032 Elwell Ct
 				Palo Alto    94303
+				US
+
+14-04-98   (hex)		Apple, Inc.
+140498     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+14-D5-5C   (hex)		Apple, Inc.
+14D55C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
