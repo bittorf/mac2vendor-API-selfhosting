@@ -96281,6 +96281,12 @@ F47D8F     (base 16)		Google, Inc.
 				Mountain View  CA  94043
 				US
 
+40-2B-D6   (hex)		Espressif Inc.
+402BD6     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -144277,6 +144283,18 @@ C4EB81     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+A0-12-17   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+A01217     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+58-2B-D3   (hex)		Espressif Inc.
+582BD3     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -192875,6 +192893,12 @@ D0E48C     (base 16)		WITS Co., Ltd
 				Suwon-si  Gyeonggi-do  16677
 				KR
 
+C8-ED-8B   (hex)		Espressif Inc.
+C8ED8B     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -240913,3 +240937,15 @@ C8F10A     (base 16)		IEEE Registration Authority
 				#1803, Daerung Techno Town15, 401, Simin-daero, Dongan-gu
 				Anyang-si  Gyunggi-do  14057
 				KR
+
+90-94-12   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+909412     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+74-89-27   (hex)		Espressif Inc.
+748927     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
