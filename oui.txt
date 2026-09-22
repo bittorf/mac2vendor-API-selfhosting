@@ -48596,6 +48596,18 @@ C423E2     (base 16)		WNC Corporation
 				Round Rock   TX  78682
 				US
 
+8C-F6-7D   (hex)		NETGEAR
+8CF67D     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+94-97-22   (hex)		AzureWave Technology Inc.
+949722     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96286,6 +96298,18 @@ F47D8F     (base 16)		Google, Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+E4-AD-CA   (hex)		Murata Manufacturing Co., Ltd.
+E4ADCA     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
+68-86-E0   (hex)		NXP Semiconductors Taiwan Ltd.
+6886E0     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -192904,6 +192928,12 @@ C8ED8B     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+5C-E6-74   (hex)		NXP Semiconductors Taiwan Ltd.
+5CE674     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
