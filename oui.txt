@@ -192869,6 +192869,12 @@ BC1827     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+D0-E4-8C   (hex)		WITS Co., Ltd
+D0E48C     (base 16)		WITS Co., Ltd
+				10F, TechTree Yeongtong industry Center, 55, Sinwon-ro, Yeongtong-gu
+				Suwon-si  Gyeonggi-do  16677
+				KR
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -240901,3 +240907,9 @@ C8F10A     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+00-68-FE   (hex)		UNINET Co.,Ltd.
+0068FE     (base 16)		UNINET Co.,Ltd.
+				#1803, Daerung Techno Town15, 401, Simin-daero, Dongan-gu
+				Anyang-si  Gyunggi-do  14057
+				KR
