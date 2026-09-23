@@ -240992,6 +240992,30 @@ F04E35     (base 16)		Pica8 Software Inc
 				Palo Alto    94303
 				US
 
+90-94-12   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+909412     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+74-89-27   (hex)		Espressif Inc.
+748927     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+5C-23-D6   (hex)		China Electronics Cloud Computing Technology Co., Ltd
+5C23D6     (base 16)		China Electronics Cloud Computing Technology Co., Ltd
+				N3013,3F,N R&D building, A.I. Technology Park, Economic and Technological Development Zone
+				Wuhan  Hubei  430090
+				CN
+
+00-68-FE   (hex)		UNINET Co.,Ltd.
+0068FE     (base 16)		UNINET Co.,Ltd.
+				#1803, Daerung Techno Town15, 401, Simin-daero, Dongan-gu
+				Anyang-si  Gyunggi-do  14057
+				KR
+
 14-04-98   (hex)		Apple, Inc.
 140498     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -241009,21 +241033,3 @@ C8F10A     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
-
-00-68-FE   (hex)		UNINET Co.,Ltd.
-0068FE     (base 16)		UNINET Co.,Ltd.
-				#1803, Daerung Techno Town15, 401, Simin-daero, Dongan-gu
-				Anyang-si  Gyunggi-do  14057
-				KR
-
-90-94-12   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-909412     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
-
-74-89-27   (hex)		Espressif Inc.
-748927     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
