@@ -48638,6 +48638,12 @@ ACD400     (base 16)		Cisco Systems, Inc
 				Round Rock   TX  78682
 				US
 
+94-FC-04   (hex)		Dongguan Amsamotion Automation Technology Co.,Ltd.
+94FC04     (base 16)		Dongguan Amsamotion Automation Technology Co.,Ltd.
+				501F, Building 1, Yonglida Intelligent Manufacturing Park, No.1 Xinwen Third Street, Daojiao Town
+				Dongguan  Guangdong  523000
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -241016,6 +241022,36 @@ F04E35     (base 16)		Pica8 Software Inc
 				Palo Alto    94303
 				US
 
+90-94-12   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+909412     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+74-89-27   (hex)		Espressif Inc.
+748927     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+5C-23-D6   (hex)		China Electronics Cloud Computing Technology Co., Ltd
+5C23D6     (base 16)		China Electronics Cloud Computing Technology Co., Ltd
+				N3013,3F,N R&D building, A.I. Technology Park, Economic and Technological Development Zone
+				Wuhan  Hubei  430090
+				CN
+
+88-4D-DE   (hex)		Nubia Technology Co.,Ltd.
+884DDE     (base 16)		Nubia Technology Co.,Ltd.
+				Room 1801, Building 2, Chongwen Park, Nanshan Zhiyuan,No.3370,Liuxian Rd， Nanshan District, Shenzhen City,
+				Shenzhen  Guandong  518055
+				CN
+
+00-68-FE   (hex)		UNINET Co.,Ltd.
+0068FE     (base 16)		UNINET Co.,Ltd.
+				#1803, Daerung Techno Town15, 401, Simin-daero, Dongan-gu
+				Anyang-si  Gyunggi-do  14057
+				KR
+
 14-04-98   (hex)		Apple, Inc.
 140498     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -241034,26 +241070,14 @@ C8F10A     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-00-68-FE   (hex)		UNINET Co.,Ltd.
-0068FE     (base 16)		UNINET Co.,Ltd.
-				#1803, Daerung Techno Town15, 401, Simin-daero, Dongan-gu
-				Anyang-si  Gyunggi-do  14057
-				KR
-
-90-94-12   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-909412     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
+3C-FF-DD   (hex)		vivo Mobile Communication Co., Ltd.
+3CFFDD     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
 				CN
 
-74-89-27   (hex)		Espressif Inc.
-748927     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
-5C-23-D6   (hex)		China Electronics Cloud Computing Technology Co., Ltd
-5C23D6     (base 16)		China Electronics Cloud Computing Technology Co., Ltd
-				N3013,3F,N R&D building, A.I. Technology Park, Economic and Technological Development Zone
-				Wuhan  Hubei  430090
+BC-23-9F   (hex)		vivo Mobile Communication Co., Ltd.
+BC239F     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
 				CN
