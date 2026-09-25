@@ -95381,12 +95381,6 @@ D826D3     (base 16)		eero inc.
 2C-3F-87   (hex)		Private
 2C3F87     (base 16)		Private
 
-0C-16-6E   (hex)		WirelessMobility Engineering Centre SDN. BHD
-0C166E     (base 16)		WirelessMobility Engineering Centre SDN. BHD
-				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
-				Penang    11900
-				MY
-
 D8-FB-58   (hex)		Mellanox Technologies, Inc.
 D8FB58     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
@@ -96358,6 +96352,18 @@ E8A7B6     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
 				Nanjing  Jiangsu  211800
 				CN
+
+A4-CC-37   (hex)		Silicon Laboratories
+A4CC37     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+0C-16-6E   (hex)		Eagle Wireless Engineering Centre SDN BHD
+0C166E     (base 16)		Eagle Wireless Engineering Centre SDN BHD
+				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
+				Penang    11900
+				MY
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -188972,12 +188978,6 @@ C0AFF2     (base 16)		Dyson Limited
 				Beijing    100053
 				CN
 
-F8-55-4B   (hex)		WirelessMobility Engineering Centre SDN. BHD
-F8554B     (base 16)		WirelessMobility Engineering Centre SDN. BHD
-				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
-				Penang    11900
-				MY
-
 BC-2A-33   (hex)		Quectel Wireless Solutions Co.,Ltd.
 BC2A33     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -193024,6 +193024,12 @@ C8ED8B     (base 16)		Espressif Inc.
 				No. 6 Innovation Road II, Science Park
 				Hsichu  Taiwan  300
 				TW
+
+F8-55-4B   (hex)		Eagle Wireless Engineering Centre SDN BHD
+F8554B     (base 16)		Eagle Wireless Engineering Centre SDN BHD
+				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
+				Penang    11900
+				MY
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -241123,3 +241129,9 @@ AC4E74     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 				Torshamnsgatan 36
 				Stockholm    SE-164 80
 				SE
+
+E0-BF-0B   (hex)		Silicon Laboratories
+E0BF0B     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
