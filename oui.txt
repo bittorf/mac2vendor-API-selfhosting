@@ -204356,12 +204356,6 @@ EC83D5     (base 16)		GIRD Systems Inc
 				Erlangen  Bavaria  91052
 				DE
 
-34-80-0D   (hex)		Cavium Inc
-34800D     (base 16)		Cavium Inc
-				15485 Sand Canyon Ave
-				Irvine  CA  92618
-				US
-
 B4-4B-D6   (hex)		IEEE Registration Authority
 B44BD6     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -241117,3 +241111,15 @@ AC4E74     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
 				HO CHI MINH CITY  HO CHI MINH  820000
 				VN
+
+34-80-0D   (hex)		Marvell Semiconductors
+34800D     (base 16)		Marvell Semiconductors
+				15485 Sand Canyon Ave
+				Irvine  CA  92618
+				US
+
+5C-9A-E1   (hex)		Ericsson AB
+5C9AE1     (base 16)		Ericsson AB
+				Torshamnsgatan 36
+				Stockholm    SE-164 80
+				SE
