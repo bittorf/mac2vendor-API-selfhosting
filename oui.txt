@@ -8585,12 +8585,6 @@ B0F530     (base 16)		Hitron Technologies. Inc
 				Piscataway  NJ  08554
 				US
 
-00-1E-B8   (hex)		Aloys, Inc
-001EB8     (base 16)		Aloys, Inc
-				#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL,
-				JUNGWON-GU, SEONGNAM-SI  GYEONGGI-DO  13438
-				KR
-
 0C-E4-A0   (hex)		Huawei Device Co., Ltd.
 0CE4A0     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -48655,6 +48649,12 @@ ACD400     (base 16)		Cisco Systems, Inc
 				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
 				Singapore    138577
 				SG
+
+00-1E-B8   (hex)		ATLAS LINK INC.
+001EB8     (base 16)		ATLAS LINK INC.
+				#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL,
+				JUNGWON-GU, SEONGNAM-SI  GYEONGGI-DO  13438
+				KR
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -193083,6 +193083,12 @@ B8-C1-B5   (hex)		HANSHOW TECHNOLOGY CO.,LTD.
 B8C1B5     (base 16)		HANSHOW TECHNOLOGY CO.,LTD.
 				The 1st Floor Podium and Floor 4 of Building 1, Floor 7 of Building 5, JiaxingPhotovoltaic Technology Innovation Park, No.1288, Kanghe Road, Xiuzhou District,Jiaxing City, Zhejiang Prov,P.R.China
 				JIAXING    314000
+				CN
+
+38-23-DA   (hex)		Even Realities Ltd.
+3823DA     (base 16)		Even Realities Ltd.
+				Building West 2603, LEPU TOWER, Nanshan District, Shenzhen, China
+				Shenzhen  Guangdong  518055
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
