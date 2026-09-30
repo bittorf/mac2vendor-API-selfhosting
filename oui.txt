@@ -144512,6 +144512,18 @@ B456F3     (base 16)		Westermo Network Technologies AB
 				Vasteras    721 30
 				SE
 
+DC-39-FD   (hex)		Extreme Networks, Inc.
+DC39FD     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
+64-CB-A0   (hex)		Extreme Networks, Inc.
+64CBA0     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
