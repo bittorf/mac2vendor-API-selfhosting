@@ -193187,6 +193187,12 @@ E04123     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
+F8-82-8A   (hex)		Qingdao Haier Technology Co.Ltd
+F8828A     (base 16)		Qingdao Haier Technology Co.Ltd
+				Building C01,Haier Information Park,No.1 Haier Road
+				Qingdao    266101
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
