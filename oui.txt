@@ -144584,6 +144584,12 @@ A09CC2     (base 16)		Nokia Solutions and Networks India Private Limited
 				Viborg    8800
 				DK
 
+BC-A9-D2   (hex)		Quectel Wireless Solutions Co.,Ltd.
+BCA9D2     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -241405,3 +241411,9 @@ D05D01     (base 16)		TP-Link Systems Inc.
 				10 Mauchly
 				 Irvine  CA  92618
 				US
+
+04-AA-B1   (hex)		Growatt Technology Co.,Limited.
+04AAB1     (base 16)		Growatt Technology Co.,Limited.
+				No. 291 Yunchang Road, Smart Green Energy Industrial Park, Sanwei Community, Hangcheng Street, Bao'an District
+				Shenzhen  Guangdong  518108 
+				CN
