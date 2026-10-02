@@ -48710,6 +48710,12 @@ D02791     (base 16)		TP-Link Systems Inc.
 				San Jose   CA  94568
 				US
 
+30-07-EB   (hex)		Xiaomi Communications Co Ltd
+3007EB     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96395,6 +96401,18 @@ F47D8F     (base 16)		Google, Inc.
 				Mountain View  CA  94043
 				US
 
+C8-A1-62   (hex)		DJI BAIWANG TECHNOLOGY CO LTD
+C8A162     (base 16)		DJI BAIWANG TECHNOLOGY CO LTD
+				Room 101, Building 12, Baiwangxin Industrial Park, 1002 Songbai Road, Sunshine Community, Xili Street
+				Shenzhen  Guangdong  518057
+				CN
+
+34-39-32   (hex)		Xiaomi Communications Co Ltd
+343932     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
 E8-A7-B6   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
 E8A7B6     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
@@ -96412,6 +96430,12 @@ A4CC37     (base 16)		Silicon Laboratories
 				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
 				Penang    11900
 				MY
+
+B8-DB-3D   (hex)		SIMCom Wireless Solutions Limited
+B8DB3D     (base 16)		SIMCom Wireless Solutions Limited
+				SIMCom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China
+				Shanghai    200335
+				CN
 
 D0-0A-AB   (hex)		DTS INSIGHT Corporation
 D00AAB     (base 16)		DTS INSIGHT Corporation
@@ -96436,12 +96460,6 @@ D00AAB     (base 16)		DTS INSIGHT Corporation
 				Rue des Sors 3
 				Marin-Epagnier  Neuchatel  2074
 				CH
-
-B8-DB-3D   (hex)		SIMCom Wireless Solutions Limited
-B8DB3D     (base 16)		SIMCom Wireless Solutions Limited
-				SIMCom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China
-				Shanghai    200335
-				CN
 
 0C-72-FB   (hex)		Cisco Systems, Inc
 0C72FB     (base 16)		Cisco Systems, Inc
@@ -144588,6 +144606,18 @@ BC-A9-D2   (hex)		Quectel Wireless Solutions Co.,Ltd.
 BCA9D2     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
 				Shanghai    200233
+				CN
+
+B0-0B-E2   (hex)		Xiaomi Communications Co Ltd
+B00BE2     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
+
+88-67-70   (hex)		Huizhou Desay SV Automotive Co.,ltd
+886770     (base 16)		Huizhou Desay SV Automotive Co.,ltd
+				Hechang 5th Road West, Zhongkai National Hi-tech Industrial Development Zone
+				Huizhou  Guangdong  516006
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
