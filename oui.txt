@@ -48686,11 +48686,11 @@ E0C0B4     (base 16)		Huawei Device Co., Ltd.
 				Dongguan  Guangdong  523808
 				CN
 
-18-DB-88   (hex)		Hewlett Packard Enterprise
-18DB88     (base 16)		Hewlett Packard Enterprise
-				6280 America Center Dr
-				San Jose  CA  95002
-				US
+30-07-EB   (hex)		Xiaomi Communications Co Ltd
+3007EB     (base 16)		Xiaomi Communications Co Ltd
+				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
+				Beijing  Haidian District  100085
+				CN
 
 D0-27-91   (hex)		TP-Link Systems Inc.
 D02791     (base 16)		TP-Link Systems Inc.
@@ -48704,17 +48704,17 @@ D02791     (base 16)		TP-Link Systems Inc.
 				 Irvine  CA  92618
 				US
 
+18-DB-88   (hex)		Hewlett Packard Enterprise
+18DB88     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 68-15-E4   (hex)		Cisco Systems, Inc
 6815E4     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose   CA  94568
 				US
-
-30-07-EB   (hex)		Xiaomi Communications Co Ltd
-3007EB     (base 16)		Xiaomi Communications Co Ltd
-				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
-				Beijing  Haidian District  100085
-				CN
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -96471,6 +96471,18 @@ D00AAB     (base 16)		DTS INSIGHT Corporation
 4C81BE     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+58-DF-A5   (hex)		RUIYI(HK)TELECOMMUNICATION TECHNOLOGIES LIMITED
+58DFA5     (base 16)		RUIYI(HK)TELECOMMUNICATION TECHNOLOGIES LIMITED
+				Room 2008,20F,Landmark North,39 Lung SumAvenue Sheung Shui
+				Hongkong    223900
+				HK
+
+2C-D7-48   (hex)		Itron Inc
+2CD748     (base 16)		Itron Inc
+				2111 N Molter Rd
+				Liberty Lake  WA  99019
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -193318,6 +193330,18 @@ C02897     (base 16)		Cisco Systems, Inc
 				Shinjuku MIDWEST Bldg.4-30-3
 				Yoyogi  Shibuya-ku, Tokyo  151-0053
 				JP
+
+6C-CF-36   (hex)		VISIONOX TECHNOLOGY,INC.
+6CCF36     (base 16)		VISIONOX TECHNOLOGY,INC.
+				ROOM1801,NO.658 XIADONG STREET
+				KUNSHAN  JIANGSU  215300
+				CN
+
+64-1B-B7   (hex)		ITEL MOBILE LIMITED
+641BB7     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
