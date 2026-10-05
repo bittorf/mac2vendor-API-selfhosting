@@ -144656,6 +144656,12 @@ BCD849     (base 16)		TP-Link Systems Inc.
 				Viborg    8800
 				DK
 
+3C-63-14   (hex)		Gespant
+3C6314     (base 16)		Gespant
+				Cumhuriyet Mahallesi, Ince sokak No25/1 Çayırova/ Kocaeli  Winenerji binası
+				Çayırova  Kocaeli  41400
+				TR
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
