@@ -96503,6 +96503,12 @@ C0AB19     (base 16)		Mellanox Technologies, Inc.
 				Jiangning District  NANJING  211100 
 				CN
 
+CC-F7-22   (hex)		IEEE Registration Authority
+CCF722     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
