@@ -48728,6 +48728,12 @@ D8AC2D     (base 16)		Mellanox Technologies, Inc.
 				Taoyuan    33341
 				TW
 
+94-BA-9A   (hex)		FLEXTRONICS TECHNOLOGIES MEXICO
+94BA9A     (base 16)		FLEXTRONICS TECHNOLOGIES MEXICO
+				Carretera Base Aerea 5850 Int 13. Colonia la Mora
+				Zapopan  Jalisco  45136
+				MX
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
