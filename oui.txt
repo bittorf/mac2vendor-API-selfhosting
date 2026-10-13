@@ -193481,6 +193481,12 @@ AC8E63     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
 				KYOTO  KYOTO  601-8501
 				JP
 
+D0-43-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
+D04341     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou, Industrial Park
+				Mianyang  Sichuan  622650
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
