@@ -96551,6 +96551,36 @@ CCF722     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+20-E5-A4   (hex)		Espressif Systems (Singapore) Pte. Ltd
+20E5A4     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+68-52-0E   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+68520E     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
+				CN
+
+E8-ED-BD   (hex)		Espressif Inc.
+E8EDBD     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+1C-64-65   (hex)		Espressif Inc.
+1C6465     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+A4-E9-72   (hex)		Espressif Inc.
+A4E972     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -144704,17 +144734,11 @@ BCD849     (base 16)		TP-Link Systems Inc.
 				Viborg    8800
 				DK
 
-3C-63-14   (hex)		Gespant
-3C6314     (base 16)		Gespant
-				Cumhuriyet Mahallesi, Ince sokak No25/1 Çayırova/ Kocaeli  Winenerji binası
-				Çayırova  Kocaeli  41400
-				TR
-
-88-9E-9A   (hex)		AltoBeam Inc.
-889E9A     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
-				CN
+7C-97-63   (hex)		ZF Friedrichshafen AG
+7C9763     (base 16)		ZF Friedrichshafen AG
+				ZF Aftermarket
+				Obere Weiden 12  Schweinfurt  97424
+				DE
 
 CC-26-8F   (hex)		Oraimo Technology Limited
 CC268F     (base 16)		Oraimo Technology Limited
@@ -144728,23 +144752,35 @@ CC268F     (base 16)		Oraimo Technology Limited
 				Shenzhen    518071
 				CN
 
+38-B9-B2   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+38B9B2     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+				Midea Global Innovation Center,Beijiao Town,Shunde
+				Foshan  Guangdong  528311
+				CN
+
+88-9E-9A   (hex)		AltoBeam Inc.
+889E9A     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
 CC-5E-FF   (hex)		Nokia Solutions and Network India Private Limited
 CC5EFF     (base 16)		Nokia Solutions and Network India Private Limited
 				Plot 45, Fathima Nagar Nemilicherry,ChrompetChennai, Taminadu 600044IN
 				Chennai  Tamilnadu  600044
 				IN
 
-7C-97-63   (hex)		ZF Friedrichshafen AG
-7C9763     (base 16)		ZF Friedrichshafen AG
-				ZF Aftermarket
-				Obere Weiden 12  Schweinfurt  97424
-				DE
+3C-63-14   (hex)		Gespant
+3C6314     (base 16)		Gespant
+				Cumhuriyet Mahallesi, Ince sokak No25/1 Çayırova/ Kocaeli  Winenerji binası
+				Çayırova  Kocaeli  41400
+				TR
 
-38-B9-B2   (hex)		GD Midea Air-Conditioning Equipment Co.,Ltd.
-38B9B2     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
-				Midea Global Innovation Center,Beijiao Town,Shunde
-				Foshan  Guangdong  528311
-				CN
+6C-C4-AF   (hex)		Espressif Systems (Singapore) Pte. Ltd
+6CC4AF     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -241622,17 +241658,17 @@ D05D01     (base 16)		TP-Link Systems Inc.
 				 Nanjing  Jiangsu  210012
 				CN
 
-CC-9E-EB   (hex)		Elentec
-CC9EEB     (base 16)		Elentec
-				64-3, Dongtangiheung-ro
-				Hwaseong-si  Gyeonggi-do  18487
-				KR
+B0-3F-70   (hex)		Sichuan Tianyi Comheart Telecom Co.,LTD
+B03F70     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+				No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County
+				Chengdu  Sichuan  611330
+				CN
 
-00-90-DD   (hex)		FURUKAWA MIHARU SOLUTIONS CORPORATION
-0090DD     (base 16)		FURUKAWA MIHARU SOLUTIONS CORPORATION
-				1285 Iwase,Kamakura-CITY
-				KANAGAWA    247-8538
-				JP
+3C-E2-55   (hex)		Espressif Inc.
+3CE255     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 14-CC-E7   (hex)		Vizio, Inc
 14CCE7     (base 16)		Vizio, Inc
@@ -241646,8 +241682,20 @@ F43E46     (base 16)		Xenox IT & Kommunikations GmbH
 				Lanzenkirchen    2821
 				AT
 
+CC-9E-EB   (hex)		Elentec
+CC9EEB     (base 16)		Elentec
+				64-3, Dongtangiheung-ro
+				Hwaseong-si  Gyeonggi-do  18487
+				KR
+
 10-12-01   (hex)		AMD
 101201     (base 16)		AMD
 				2485 Augustine Dr.
 				Santa Clara  CA  95054
 				US
+
+00-90-DD   (hex)		FURUKAWA MIHARU SOLUTIONS CORPORATION
+0090DD     (base 16)		FURUKAWA MIHARU SOLUTIONS CORPORATION
+				1285 Iwase,Kamakura-CITY
+				KANAGAWA    247-8538
+				JP
