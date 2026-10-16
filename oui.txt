@@ -48740,6 +48740,18 @@ E4C218     (base 16)		Silicon Laboratories
 				Seongnam-si  Gyeonggi-do  13595
 				KR
 
+F4-F0-32   (hex)		Ciena Corporation
+F4F032     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
+14-AB-7E   (hex)		Ciena Corporation
+14AB7E     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
