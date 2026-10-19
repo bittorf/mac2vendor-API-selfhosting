@@ -96635,6 +96635,12 @@ BC1409     (base 16)		Arista Networks
 				Santa Clara  CA  95054
 				US
 
+3C-6F-75   (hex)		Juniper Networks
+3C6F75     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -193606,6 +193612,12 @@ D849BF     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 				7 Airbourne Road
 				Rosedale  Auckland  0632
 				NZ
+
+A8-75-6A   (hex)		Juniper Networks
+A8756A     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
