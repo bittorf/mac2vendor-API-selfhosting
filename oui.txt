@@ -193619,6 +193619,12 @@ A8756A     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
+2C-17-19   (hex)		Motorola Mobility LLC, a Lenovo Company
+2C1719     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -241795,3 +241801,9 @@ CC9EEB     (base 16)		Elentec
 				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
 				Kulim    09090
 				MY
+
+F0-2E-7A   (hex)		Motorola Mobility LLC, a Lenovo Company
+F02E7A     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
