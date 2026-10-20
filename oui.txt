@@ -48770,6 +48770,12 @@ E4C218     (base 16)		Silicon Laboratories
 				Seongnam-si  Gyeonggi-do  13595
 				KR
 
+74-8E-9C   (hex)		Shenzhen Yingchen Technology Co., Ltd.
+748E9C     (base 16)		Shenzhen Yingchen Technology Co., Ltd.
+				Room 201A-H2, Building 1, Yujingwan, N16 District, Haiyu Community, Xin'an Street, Bao'an District, Shenzhen
+				Shenzhen    518000
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -144852,6 +144858,18 @@ CC5EFF     (base 16)		Nokia Solutions and Network India Private Limited
 989891     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen   guangdong  518057
+				CN
+
+40-78-03   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+407803     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
+
+BC-16-56   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+BC1656     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
