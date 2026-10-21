@@ -96653,6 +96653,18 @@ BC1409     (base 16)		Arista Networks
 				Sunnyvale  CA  94089
 				US
 
+B4-FE-B5   (hex)		Espressif Systems (Singapore) Pte. Ltd
+B4FEB5     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+34-C9-34   (hex)		Espressif Inc.
+34C934     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -144848,11 +144860,17 @@ CC5EFF     (base 16)		Nokia Solutions and Network India Private Limited
 				Singapore    138577
 				SG
 
-00-E0-EC   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
-00E0EC     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
-				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
-				Kulim    09090
-				MY
+40-78-03   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+407803     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
+
+BC-16-56   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
+BC1656     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
+				No.6, 4th Yunpu Road, Yunpu industry District
+				Guangzhou  Guangdong  510530
+				CN
 
 7C-86-F3   (hex)		zte corporation
 7C86F3     (base 16)		zte corporation
@@ -144866,17 +144884,29 @@ CC5EFF     (base 16)		Nokia Solutions and Network India Private Limited
 				shenzhen   guangdong  518057
 				CN
 
-40-78-03   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
-407803     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
-				No.6, 4th Yunpu Road, Yunpu industry District
-				Guangzhou  Guangdong  510530
-				CN
+00-E0-EC   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+00E0EC     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
 
-BC-16-56   (hex)		Guangzhou Shiyuan Electronic Technology Company Limited
-BC1656     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
-				No.6, 4th Yunpu Road, Yunpu industry District
-				Guangzhou  Guangdong  510530
-				CN
+AC-2F-E5   (hex)		CANON INC.
+AC2FE5     (base 16)		CANON INC.
+				30-2 Shimomaruko 3-chome,
+				Ohta-ku  Tokyo  146-8501
+				JP
+
+F8-0C-4E   (hex)		Espressif Inc.
+F80C4E     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+6C-2F-A0   (hex)		Espressif Inc.
+6C2FA0     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -193655,6 +193685,12 @@ A8756A     (base 16)		Juniper Networks
 				San Jose  CA  95002
 				US
 
+94-EA-36   (hex)		Telink Micro LLC
+94EA36     (base 16)		Telink Micro LLC
+				2975 Scott Blvd #120
+				Santa Clara  CA  95054
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -241843,3 +241879,15 @@ F02E7A     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+58-B1-45   (hex)		Espressif Systems (Singapore) Pte. Ltd
+58B145     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+CC-E7-32   (hex)		Espressif Inc.
+CCE732     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
