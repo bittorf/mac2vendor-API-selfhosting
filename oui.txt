@@ -48782,6 +48782,42 @@ F4F032     (base 16)		Ciena Corporation
 				Kanata  Ontario  K2K 2E6
 				CA
 
+EC-E6-0E   (hex)		Apple, Inc.
+ECE60E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+40-4E-9E   (hex)		Apple, Inc.
+404E9E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+44-1E-B0   (hex)		Apple, Inc.
+441EB0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+0C-FB-CF   (hex)		Apple, Inc.
+0CFBCF     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+34-E8-CB   (hex)		Apple, Inc.
+34E8CB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+0C-CE-6B   (hex)		Apple, Inc.
+0CCE6B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96670,6 +96706,36 @@ B4FEB5     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				No. 85A, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.
 				Bayan Lepas  Penang  11900
 				MY
+
+4C-09-1B   (hex)		Apple, Inc.
+4C091B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+40-2F-53   (hex)		Apple, Inc.
+402F53     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+5C-A1-2E   (hex)		Apple, Inc.
+5CA12E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D4-C9-D7   (hex)		Apple, Inc.
+D4C9D7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+BC-2A-51   (hex)		Apple, Inc.
+BC2A51     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -144913,6 +144979,18 @@ F80C4E     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+D4-8E-83   (hex)		Apple, Inc.
+D48E83     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+80-C3-27   (hex)		Apple, Inc.
+80C327     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -193697,6 +193775,42 @@ A8756A     (base 16)		Juniper Networks
 				Santa Clara  CA  95054
 				US
 
+8C-F4-F5   (hex)		Apple, Inc.
+8CF4F5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+48-2B-75   (hex)		Apple, Inc.
+482B75     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+88-03-9E   (hex)		Apple, Inc.
+88039E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D4-40-CF   (hex)		Apple, Inc.
+D440CF     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+44-9D-76   (hex)		Apple, Inc.
+449D76     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+D4-0C-FD   (hex)		Apple, Inc.
+D40CFD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -241897,3 +242011,9 @@ CCE732     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+60-C8-07   (hex)		Apple, Inc.
+60C807     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
