@@ -48830,6 +48830,18 @@ A80FCA     (base 16)		Juniper Networks
 				Kanata  Ontario  K2K 2E6
 				CA
 
+58-57-F0   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+5857F0     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
+				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
+				Kulim    09090
+				MY
+
+D0-C2-16   (hex)		Decawave Ltd
+D0C216     (base 16)		Decawave Ltd
+				Adelaide Chambers,Peter Street
+				Dublin  Leinster  D08T6YA
+				IE
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -145010,6 +145022,12 @@ D48E83     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+EC-43-C4   (hex)		MitraStar Technology Corp.
+EC43C4     (base 16)		MitraStar Technology Corp.
+				No. 6, Innovation Road II,
+				Hsinchu    300
+				TW
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -193769,34 +193787,10 @@ D849BF     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 				Piscataway  NJ  08554
 				US
 
-A8-75-6A   (hex)		Juniper Networks
-A8756A     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
-				US
-
 2C-17-19   (hex)		Motorola Mobility LLC, a Lenovo Company
 2C1719     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
 				Chicago  IL  60654
-				US
-
-70-96-20   (hex)		Hewlett Packard Enterprise
-709620     (base 16)		Hewlett Packard Enterprise
-				6280 America Center Dr
-				San Jose  CA  95002
-				US
-
-94-EA-36   (hex)		Telink Micro LLC
-94EA36     (base 16)		Telink Micro LLC
-				2975 Scott Blvd #120
-				Santa Clara  CA  95054
-				US
-
-8C-F4-F5   (hex)		Apple, Inc.
-8CF4F5     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
 				US
 
 48-2B-75   (hex)		Apple, Inc.
@@ -193823,8 +193817,32 @@ D440CF     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+70-96-20   (hex)		Hewlett Packard Enterprise
+709620     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
+94-EA-36   (hex)		Telink Micro LLC
+94EA36     (base 16)		Telink Micro LLC
+				2975 Scott Blvd #120
+				Santa Clara  CA  95054
+				US
+
+A8-75-6A   (hex)		Juniper Networks
+A8756A     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 D4-0C-FD   (hex)		Apple, Inc.
 D40CFD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+8C-F4-F5   (hex)		Apple, Inc.
+8CF4F5     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -242041,3 +242059,9 @@ F02E7A     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+6C-C5-1F   (hex)		WNC Corporation
+6CC51F     (base 16)		WNC Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
