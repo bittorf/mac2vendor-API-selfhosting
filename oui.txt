@@ -145040,6 +145040,12 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Hsinchu    300
 				TW
 
+28-BC-82   (hex)		AMiT Automation
+28BC82     (base 16)		AMiT Automation
+				Vídeňská 186/118
+				Brno    61900
+				CZ
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
