@@ -193871,6 +193871,12 @@ B8F453     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+BC-D8-10   (hex)		Amazon Technologies Inc.
+BCD810     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242094,4 +242100,10 @@ C0-80-09   (hex)		Vantiva USA LLC
 C08009     (base 16)		Vantiva USA LLC
 				4855 Peachtree Industrial Blvd, Suite 200
 				Norcross  GA  30902
+				US
+
+94-85-80   (hex)		Amazon Technologies Inc.
+948580     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
 				US
