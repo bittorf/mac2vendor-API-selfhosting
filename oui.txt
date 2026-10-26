@@ -193865,6 +193865,12 @@ D40CFD     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+B8-F4-53   (hex)		IEEE Registration Authority
+B8F453     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
