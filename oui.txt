@@ -48854,6 +48854,12 @@ D0C216     (base 16)		Decawave Ltd
 				Shanghai    201203
 				CN
 
+24-1F-BE   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+241FBE     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96784,6 +96790,18 @@ BC2A51     (base 16)		Apple, Inc.
 				35-37 Whitton Dene Road
 				Hounslow  London  TW32JN
 				GB
+
+84-9A-10   (hex)		Kingtype Technologies corp.,Ltd.
+849A10     (base 16)		Kingtype Technologies corp.,Ltd.
+				No.9, 3rd Wuke Road, Wuhou District
+				Chengdu  Sichuan  610045
+				CN
+
+10-01-8C   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+10018C     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -242160,4 +242178,10 @@ C08009     (base 16)		Vantiva USA LLC
 145CDA     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
+				CN
+
+24-5D-5B   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+245D5B     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
 				CN
