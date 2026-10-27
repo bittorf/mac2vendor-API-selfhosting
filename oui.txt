@@ -48860,6 +48860,12 @@ D0C216     (base 16)		Decawave Ltd
 				Beijing  Beijing  100085
 				CN
 
+FC-F6-84   (hex)		MatX
+FCF684     (base 16)		MatX
+				490 East Middlefield Road
+				Mountain View  CA  94043
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96749,6 +96755,18 @@ BC1409     (base 16)		Arista Networks
 				Sunnyvale  CA  94089
 				US
 
+84-9A-10   (hex)		Kingtype Technologies corp.,Ltd.
+849A10     (base 16)		Kingtype Technologies corp.,Ltd.
+				No.9, 3rd Wuke Road, Wuhou District
+				Chengdu  Sichuan  610045
+				CN
+
+10-01-8C   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+10018C     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
 4C-09-1B   (hex)		Apple, Inc.
 4C091B     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -96773,12 +96791,6 @@ D4C9D7     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-BC-2A-51   (hex)		Apple, Inc.
-BC2A51     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 58-50-16   (hex)		Juniper Networks
 585016     (base 16)		Juniper Networks
 				1133 Innovation Way
@@ -96791,17 +96803,11 @@ BC2A51     (base 16)		Apple, Inc.
 				Hounslow  London  TW32JN
 				GB
 
-84-9A-10   (hex)		Kingtype Technologies corp.,Ltd.
-849A10     (base 16)		Kingtype Technologies corp.,Ltd.
-				No.9, 3rd Wuke Road, Wuhou District
-				Chengdu  Sichuan  610045
-				CN
-
-10-01-8C   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
-10018C     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
-				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
-				Beijing  Beijing  100085
-				CN
+BC-2A-51   (hex)		Apple, Inc.
+BC2A51     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -145040,11 +145046,29 @@ F80C4E     (base 16)		Espressif Inc.
 				Kulim    09090
 				MY
 
-6C-2F-A0   (hex)		Espressif Inc.
-6C2FA0     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+68-53-70   (hex)		Chipsea Technologies (Shenzhen) Corp.
+685370     (base 16)		Chipsea Technologies (Shenzhen) Corp.
+				3 / F, Block A, Building 2, Shenzhen Bay Innovation Technology Center, No.3156 keyuan South Road, Yuehai Street, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
+
+E8-9D-EA   (hex)		Silicon Laboratories
+E89DEA     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+20-6D-9A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+206D9A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+E4-FD-9D   (hex)		Shenzhen Skyworth Display Technologies Co.,Ltd
+E4FD9D     (base 16)		Shenzhen Skyworth Display Technologies Co.,Ltd
+				1st floor, Experimental Factory, Skyworth Technology Industrial Park, Tangtou Community, Shiyan Street, Bao'an District
+				Shenzhen  Guangdong  518108
+				CN
 
 D4-8E-83   (hex)		Apple, Inc.
 D48E83     (base 16)		Apple, Inc.
@@ -145058,6 +145082,18 @@ D48E83     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+6C-2F-A0   (hex)		Espressif Inc.
+6C2FA0     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+A0-60-25   (hex)		Espressif Systems (Singapore) Pte. Ltd
+A06025     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
 EC-43-C4   (hex)		MitraStar Technology Corp.
 EC43C4     (base 16)		MitraStar Technology Corp.
 				No. 6, Innovation Road II,
@@ -145069,30 +145105,6 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Vídeňská 186/118
 				Brno    61900
 				CZ
-
-68-53-70   (hex)		Chipsea Technologies (Shenzhen) Corp.
-685370     (base 16)		Chipsea Technologies (Shenzhen) Corp.
-				3 / F, Block A, Building 2, Shenzhen Bay Innovation Technology Center, No.3156 keyuan South Road, Yuehai Street, Nanshan District, Shenzhen
-				Shenzhen  Guangdong  518000
-				CN
-
-E8-9D-EA   (hex)		Silicon Laboratories
-E89DEA     (base 16)		Silicon Laboratories
-				 400 West Cesar Chavez
-				Austin  TX  78701
-				US
-
-A0-60-25   (hex)		Espressif Systems (Singapore) Pte. Ltd
-A06025     (base 16)		Espressif Systems (Singapore) Pte. Ltd
-				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
-				Singapore    138577
-				SG
-
-20-6D-9A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-206D9A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -193924,6 +193936,12 @@ B8F453     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+58-30-AC   (hex)		Quectel Wireless Solutions Co.,Ltd.
+5830AC     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
