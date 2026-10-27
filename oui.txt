@@ -145046,6 +145046,18 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Brno    61900
 				CZ
 
+68-53-70   (hex)		Chipsea Technologies (Shenzhen) Corp.
+685370     (base 16)		Chipsea Technologies (Shenzhen) Corp.
+				3 / F, Block A, Building 2, Shenzhen Bay Innovation Technology Center, No.3156 keyuan South Road, Yuehai Street, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
+				CN
+
+E8-9D-EA   (hex)		Silicon Laboratories
+E89DEA     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -242106,4 +242118,10 @@ C08009     (base 16)		Vantiva USA LLC
 948580     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102 
 				Reno  NV  89507
+				US
+
+2C-0C-88   (hex)		Silicon Laboratories
+2C0C88     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
 				US
