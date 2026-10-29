@@ -48830,6 +48830,18 @@ A80FCA     (base 16)		Juniper Networks
 				Kanata  Ontario  K2K 2E6
 				CA
 
+24-1F-BE   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+241FBE     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
+				CN
+
+74-BC-BC   (hex)		PHOTONIC TECHNOLOGIES(SHANGHAI) CO.,LTD.
+74BCBC     (base 16)		PHOTONIC TECHNOLOGIES(SHANGHAI) CO.,LTD.
+				Room 701A-701B, Building B, No.112, Liangxiu Road, China (shanghai) pilot Free Trade Zone
+				Shanghai    201203
+				CN
+
 58-57-F0   (hex)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 5857F0     (base 16)		Celestica Platform and Cloud Solution Malaysia Sdn Bhd
 				Plot 1, No 13, Jalan Hi-Tech 9/1 Zon Industri Fasa 3A, Kulim Hi-Tech Park Kulim
@@ -48847,18 +48859,6 @@ D0C216     (base 16)		Decawave Ltd
 				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
 				HO CHI MINH CITY  HO CHI MINH  820000
 				VN
-
-74-BC-BC   (hex)		PHOTONIC TECHNOLOGIES(SHANGHAI) CO.,LTD.
-74BCBC     (base 16)		PHOTONIC TECHNOLOGIES(SHANGHAI) CO.,LTD.
-				Room 701A-701B, Building B, No.112, Liangxiu Road, China (shanghai) pilot Free Trade Zone
-				Shanghai    201203
-				CN
-
-24-1F-BE   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
-241FBE     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
-				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
-				Beijing  Beijing  100085
-				CN
 
 FC-F6-84   (hex)		MatX
 FCF684     (base 16)		MatX
@@ -145106,6 +145106,12 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Brno    61900
 				CZ
 
+9C-AD-E0   (hex)		Intel Corporate
+9CADE0     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -193942,6 +193948,12 @@ BCD810     (base 16)		Amazon Technologies Inc.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
 				Shanghai    200233
 				CN
+
+88-8A-F5   (hex)		Intel Corporate
+888AF5     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
