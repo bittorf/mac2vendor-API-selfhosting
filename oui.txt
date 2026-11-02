@@ -96821,10 +96821,10 @@ BC2A51     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-80-70-39   (hex)		Huawei Device Co., Ltd.
-807039     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
+84-C3-00   (hex)		Shenzhen SDMC Technology CP,.LTD
+84C300     (base 16)		Shenzhen SDMC Technology CP,.LTD
+				19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China
+				Shenzhen  China  518000
 				CN
 
 90-1C-23   (hex)		Huawei Device Co., Ltd.
@@ -96839,11 +96839,17 @@ BC2A51     (base 16)		Apple, Inc.
 				Dongguan  Guangdong  523808
 				CN
 
-84-C3-00   (hex)		Shenzhen SDMC Technology CP,.LTD
-84C300     (base 16)		Shenzhen SDMC Technology CP,.LTD
-				19/F, Changhong Science &Technology Mansion,No.18, Keji South 12th Road High-tech IndustrialPark Nanshan District,Shenzhen,China
-				Shenzhen  China  518000
+80-70-39   (hex)		Huawei Device Co., Ltd.
+807039     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
 				CN
+
+18-2F-58   (hex)		Veritech LLC
+182F58     (base 16)		Veritech LLC
+				1070 Hardees Drive
+				Aberdeen  MD  21001
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
