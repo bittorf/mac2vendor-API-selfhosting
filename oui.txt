@@ -48878,6 +48878,18 @@ FCF684     (base 16)		MatX
 				Würselen    52146
 				DE
 
+00-CE-39   (hex)		MeLE Technologies(Shenzhen)Co.,Ltd.
+00CE39     (base 16)		MeLE Technologies(Shenzhen)Co.,Ltd.
+				3FW, Mele Building,No.28 Cuijing Road, Pingshan District,
+				Shenzhen  Guangdong  518118
+				CN
+
+10-25-13   (hex)		LG Electronics
+102513     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
