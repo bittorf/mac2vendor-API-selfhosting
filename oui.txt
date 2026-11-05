@@ -96893,6 +96893,12 @@ D82332     (base 16)		Espressif Systems (Singapore) Pte. Ltd
 				17-19 Cheltenham Parade,  Harrogate  HG1 1DD
 				GB
 
+94-B2-EC   (hex)		NVIDIA Corporation
+94B2EC     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara    95050
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -145224,6 +145230,18 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 8854E0     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
 				Beijing  Haidian District  100085
+				CN
+
+88-B8-F7   (hex)		NVIDIA Corporation
+88B8F7     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara    95050
+				US
+
+B0-7E-F4   (hex)		Hangzhou HikAuto Technology Co., Ltd.
+B07EF4     (base 16)		Hangzhou HikAuto Technology Co., Ltd.
+				No. 399 Danfeng Road, Xixing Subdistrict, Binjiang District, Hangzhou, Zhejiang, China
+				 Hangzhou  Zhejiang  310052
 				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -194087,6 +194105,12 @@ C86594     (base 16)		IP Yusupov Nargiz Nakibovich
 				Almetyevsk  Respublika Tatarstan  423461
 				RU
 
+04-7B-43   (hex)		IEEE Registration Authority
+047B43     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -238202,12 +238226,6 @@ C8E31D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-0C-33-1B   (hex)		TydenBrooks
-0C331B     (base 16)		TydenBrooks
-				2727 Paces Ferry Rd, Building 2, Suite 300
-				Atlanta  GA  30339
-				US
-
 24-2B-D6   (hex)		Ring LLC
 242BD6     (base 16)		Ring LLC
 				1523 26th St
@@ -242384,14 +242402,20 @@ D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 				Dongguan  Guangdong  523808
 				CN
 
+E4-22-24   (hex)		Motorola Mobility LLC, a Lenovo Company
+E42224     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
 8C-A0-2C   (hex)		Arcadyan Corporation
 8CA02C     (base 16)		Arcadyan Corporation
 				No.8, Sec.2, Guangfu Rd.
 				Hsinchu City  Hsinchu  30071
 				TW
 
-E4-22-24   (hex)		Motorola Mobility LLC, a Lenovo Company
-E42224     (base 16)		Motorola Mobility LLC, a Lenovo Company
-				222 West Merchandise Mart Plaza
-				Chicago  IL  60654
+0C-33-1B   (hex)		TydenBrooks
+0C331B     (base 16)		TydenBrooks
+				1 Stoffel Drive
+				Tallapoosa  GA  30176
 				US
