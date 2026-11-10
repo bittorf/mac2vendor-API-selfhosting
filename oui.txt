@@ -194123,12 +194123,6 @@ B8F453     (base 16)		IEEE Registration Authority
 				Mountain View    94043
 				US
 
-34-1E-64   (hex)		Huawei Device Co., Ltd.
-341E64     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
-
 2C-D7-FF   (hex)		Rohde & Schwarz Networks and Cybersecurity GmbH
 2CD7FF     (base 16)		Rohde & Schwarz Networks and Cybersecurity GmbH
 				Adenauer Straße 20 /B2
@@ -194141,16 +194135,28 @@ C86594     (base 16)		IP Yusupov Nargiz Nakibovich
 				Almetyevsk  Respublika Tatarstan  423461
 				RU
 
+98-84-C1   (hex)		New H3C Technologies Co., Ltd
+9884C1     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+34-1E-64   (hex)		Huawei Device Co., Ltd.
+341E64     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 04-7B-43   (hex)		IEEE Registration Authority
 047B43     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
 
-98-84-C1   (hex)		New H3C Technologies Co., Ltd
-9884C1     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
+90-C0-46   (hex)		Hon Hai Precision Industry Co., Ltd.
+90C046     (base 16)		Hon Hai Precision Industry Co., Ltd.
+				No.2, 2nd donghuan Road, Longhua St., Longhua Dist.,
+				ShenZhen  GuangDong  518109
 				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
@@ -242479,3 +242485,9 @@ F0276E     (base 16)		AltoBeam Inc.
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+E4-20-0B   (hex)		Polystack Technologies Private Limited
+E4200B     (base 16)		Polystack Technologies Private Limited
+				HOUSE NO. 51 P, BASEMENT, RYANINTERNATIONAL SCHOOL, SECTOR 40,GURUGRAM, HARYANA- 122001
+				Gurugram  HARYANA  122001
+				IN
