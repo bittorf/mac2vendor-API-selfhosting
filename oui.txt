@@ -48908,6 +48908,12 @@ D4D96A     (base 16)		Xiaomi Communications Co Ltd
 				Beijing  Haidian District  100085
 				CN
 
+4C-A6-37   (hex)		Hisense Home Appliances Group Co.,Ltd.Qingdao Branch
+4CA637     (base 16)		Hisense Home Appliances Group Co.,Ltd.Qingdao Branch
+				Hisense R&D center, #399 Songling Road, Qingdao, Shandong, 266000, China
+				Qingdao  Shandong  266000
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96910,6 +96916,12 @@ A4053E     (base 16)		BSH Electrodomésticos España, S.A.
 				Ronda del Canal Imperial de Aragón, 18-20
 				Zaragoza  Zaragoza  50197
 				ES
+
+84-41-3C   (hex)		New H3C Technologies Co., Ltd
+84413C     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -194135,6 +194147,12 @@ C86594     (base 16)		IP Yusupov Nargiz Nakibovich
 				Piscataway  NJ  08554
 				US
 
+98-84-C1   (hex)		New H3C Technologies Co., Ltd
+9884C1     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242448,4 +242466,16 @@ F0-27-6E   (hex)		AltoBeam Inc.
 F0276E     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
 				Beijing  Beijing  100083
+				CN
+
+18-21-62   (hex)		New H3C Technologies Co., Ltd
+182162     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+4C-E2-0C   (hex)		New H3C Technologies Co., Ltd
+4CE20C     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
 				CN
