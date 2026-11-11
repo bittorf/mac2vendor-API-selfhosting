@@ -194165,6 +194165,12 @@ C86594     (base 16)		IP Yusupov Nargiz Nakibovich
 				ShenZhen  GuangDong  518109
 				CN
 
+BC-47-D6   (hex)		Sagemcom Broadband SAS
+BC47D6     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242497,3 +242503,9 @@ E4200B     (base 16)		Polystack Technologies Private Limited
 				HOUSE NO. 51 P, BASEMENT, RYANINTERNATIONAL SCHOOL, SECTOR 40,GURUGRAM, HARYANA- 122001
 				Gurugram  HARYANA  122001
 				IN
+
+B0-0D-A8   (hex)		Sagemcom Broadband SAS
+B00DA8     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
