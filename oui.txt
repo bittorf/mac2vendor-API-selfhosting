@@ -194171,6 +194171,18 @@ BC47D6     (base 16)		Sagemcom Broadband SAS
 				Bois-Colombes  haut de seine  92270 
 				FR
 
+AC-64-60   (hex)		Nokia Solutions and Networks India Private Limited
+AC6460     (base 16)		Nokia Solutions and Networks India Private Limited
+				Plot 45, Fathima NagarNemilicherry,Chrompet
+				Chennai  Taminadu  600044
+				IN
+
+44-40-AB   (hex)		ASUSTek COMPUTER INC.
+4440AB     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
