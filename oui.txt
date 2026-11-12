@@ -96977,6 +96977,12 @@ D81EA8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+B8-31-84   (hex)		Hewlett Packard Enterprise
+B83184     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -132974,12 +132980,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				N DEVON EX38 7HP    
 				GB
 
-00-90-A5   (hex)		SPECTRA LOGIC
-0090A5     (base 16)		SPECTRA LOGIC
-				1700 N. 55TH STREET
-				BOULDER  CO  80301
-				US
-
 00-90-A3   (hex)		Corecess Inc.
 0090A3     (base 16)		Corecess Inc.
 				135-726, Keopyung B-Town 1F, 203, Nonhyu
@@ -145356,6 +145356,12 @@ B8CD2B     (base 16)		eero inc.
 5C6CBB     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+00-90-A5   (hex)		SPECTRA LOGIC
+0090A5     (base 16)		SPECTRA LOGIC
+				6285 Lookout RD 
+				Boulder  CO  80301
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
