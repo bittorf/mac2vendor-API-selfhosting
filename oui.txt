@@ -145316,6 +145316,12 @@ B8CD2B     (base 16)		eero inc.
 				San Francisco  CA  94107
 				US
 
+5C-6C-BB   (hex)		IEEE Registration Authority
+5C6CBB     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
