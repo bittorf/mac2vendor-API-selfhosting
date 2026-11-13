@@ -145364,6 +145364,18 @@ B8CD2B     (base 16)		eero inc.
 				Boulder  CO  80301
 				US
 
+74-8B-7F   (hex)		Skullcandy
+748B7F     (base 16)		Skullcandy
+				1441 Ute blvd.
+				Park City    84098
+				US
+
+58-9D-44   (hex)		Raycon
+589D44     (base 16)		Raycon
+				1115 Broadway, Suite 12
+				New York  NY  10010
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -242641,3 +242653,9 @@ D43F38     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+14-F4-74   (hex)		Network Orbiter Private Limited
+14F474     (base 16)		Network Orbiter Private Limited
+				C-79 4th Floor DDA Shed Okhla PH-1
+				New Delhi  Delhi  110020
+				IN
