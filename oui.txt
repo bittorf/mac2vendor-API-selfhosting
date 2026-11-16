@@ -145424,6 +145424,12 @@ B8E3BF     (base 16)		zte corporation
 				shenzhen   guangdong  518057
 				CN
 
+F8-35-F5   (hex)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+F835F5     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
+				Nanning  Guangxi  530007
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
