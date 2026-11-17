@@ -97013,6 +97013,18 @@ D860E6     (base 16)		zte corporation
 				REDMOND  WA  98052
 				US
 
+DC-EA-D8   (hex)		Cisco Systems, Inc
+DCEAD8     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+DC-AB-39   (hex)		Cisco Systems, Inc
+DCAB39     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -194357,6 +194369,18 @@ E4DC16     (base 16)		EM Microelectronic
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
+74-DF-B9   (hex)		Cisco Systems, Inc
+74DFB9     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+F0-B8-F7   (hex)		Cisco Systems, Inc
+F0B8F7     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242755,3 +242779,9 @@ E0DD4B     (base 16)		Microsoft Corporation
 				One Microsoft Way
 				REDMOND  WA  98052
 				US
+
+70-7F-7D   (hex)		Infinix mobility limited
+707F7D     (base 16)		Infinix mobility limited
+				RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
+				HongKong  HongKong  999077
+				HK
