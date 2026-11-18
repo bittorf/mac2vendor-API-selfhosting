@@ -194387,6 +194387,12 @@ F0B8F7     (base 16)		Cisco Systems, Inc
 				San Jose   CA  94568
 				US
 
+C4-55-10   (hex)		FRITZ! Technology GmbH
+C45510     (base 16)		FRITZ! Technology GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
