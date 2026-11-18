@@ -96959,36 +96959,6 @@ A4053E     (base 16)		BSH Electrodomésticos España, S.A.
 				Santa Clara    95050
 				US
 
-AC-66-B3   (hex)		BUFFALO.INC
-AC66B3     (base 16)		BUFFALO.INC
-				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
-				Nagoya  Aichi Pref.  460-8315
-				JP
-
-18-89-47   (hex)		HISENSE VISUAL TECHNOLOGY CO.,LTD
-188947     (base 16)		HISENSE VISUAL TECHNOLOGY CO.,LTD
-				Qianwangang Road 218
-				Qingdao  Shandong  266510
-				CN
-
-78-9F-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-789F5B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-D8-1E-A8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-D81EA8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-B8-31-84   (hex)		Hewlett Packard Enterprise
-B83184     (base 16)		Hewlett Packard Enterprise
-				6280 America Center Dr
-				San Jose  CA  95002
-				US
-
 44-B2-08   (hex)		Mellanox Technologies, Inc.
 44B208     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
@@ -97013,6 +96983,18 @@ D860E6     (base 16)		zte corporation
 				REDMOND  WA  98052
 				US
 
+78-9F-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+789F5B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D8-1E-A8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D81EA8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 DC-EA-D8   (hex)		Cisco Systems, Inc
 DCEAD8     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -97024,6 +97006,30 @@ DCAB39     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose   CA  94568
 				US
+
+18-89-47   (hex)		HISENSE VISUAL TECHNOLOGY CO.,LTD
+188947     (base 16)		HISENSE VISUAL TECHNOLOGY CO.,LTD
+				Qianwangang Road 218
+				Qingdao  Shandong  266510
+				CN
+
+AC-66-B3   (hex)		BUFFALO.INC
+AC66B3     (base 16)		BUFFALO.INC
+				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
+				Nagoya  Aichi Pref.  460-8315
+				JP
+
+B8-31-84   (hex)		Hewlett Packard Enterprise
+B83184     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
+48-60-CB   (hex)		Nanjing RISC-V Institute Co., Ltd.
+4860CB     (base 16)		Nanjing RISC-V Institute Co., Ltd.
+				Room 303, Building C, 18 Ningshuang Road
+				Nanjing  Jiangsu  210000
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -242785,3 +242791,9 @@ E0DD4B     (base 16)		Microsoft Corporation
 				RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
 				HongKong  HongKong  999077
 				HK
+
+0C-84-73   (hex)		Bouffalo Lab (Nanjing) Co., Ltd.
+0C8473     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
+				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
+				Nanjing  Jiangsu  211800
+				CN
