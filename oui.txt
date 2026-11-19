@@ -97037,6 +97037,18 @@ A4E041     (base 16)		Ruckus Wireless
 				Sunnyvale  CA  94089
 				US
 
+0C-9A-AC   (hex)		Cisco Meraki
+0C9AAC     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
+
+2C-E8-47   (hex)		eero inc.
+2CE847     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -145453,6 +145465,12 @@ F835F5     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China
 				Nanning  Guangxi  530007
 				CN
+
+5C-57-9B   (hex)		Cisco Meraki
+5C579B     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -194398,6 +194416,12 @@ C45510     (base 16)		FRITZ! Technology GmbH
 				Alt-Moabit 95
 				Berlin  Berlin  10559
 				DE
+
+6C-7C-FD   (hex)		eero inc.
+6C7CFD     (base 16)		eero inc.
+				660 3rd Street 
+				San Francisco  CA  94107
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
