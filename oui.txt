@@ -33095,12 +33095,6 @@ A09805     (base 16)		OpenVox Communication Co Ltd
 				Westminster  MA  01441
 				US
 
-00-08-AE   (hex)		PacketFront Network Products AB
-0008AE     (base 16)		PacketFront Network Products AB
-				PO 1217
-				Kistagangen 2, IV  Kista Stockholm SE -16428  
-				SE
-
 00-08-4F   (hex)		Qualstar Corporation
 00084F     (base 16)		Qualstar Corporation
 				3990B Heritage Oak Court
@@ -48943,6 +48937,12 @@ D8E6AB     (base 16)		eero inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
 				US
+
+00-08-AE   (hex)		Waystream AB
+0008AE     (base 16)		Waystream AB
+				Farogatan 33
+				Kista    164 51
+				SE
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -97030,6 +97030,12 @@ B83184     (base 16)		Hewlett Packard Enterprise
 				Room 303, Building C, 18 Ningshuang Road
 				Nanjing  Jiangsu  210000
 				CN
+
+A4-E0-41   (hex)		Ruckus Wireless
+A4E041     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -242803,3 +242809,9 @@ E0DD4B     (base 16)		Microsoft Corporation
 				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
 				Nanjing  Jiangsu  211800
 				CN
+
+14-BF-9A   (hex)		HavocAI, Inc.
+14BF9A     (base 16)		HavocAI, Inc.
+				56 Broad St. Suite 14130
+				Boston  MA  02109
+				US
