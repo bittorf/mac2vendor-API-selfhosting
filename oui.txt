@@ -48944,28 +48944,16 @@ D8E6AB     (base 16)		eero inc.
 				Kista    164 51
 				SE
 
-30-E8-B9   (hex)		Espressif Systems (Singapore) Pte. Ltd
-30E8B9     (base 16)		Espressif Systems (Singapore) Pte. Ltd
-				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
-				Singapore    138577
-				SG
-
-C4-9A-90   (hex)		Espressif Systems (Singapore) Pte. Ltd
-C49A90     (base 16)		Espressif Systems (Singapore) Pte. Ltd
-				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
-				Singapore    138577
-				SG
-
 48-35-B6   (hex)		Silicon Laboratories
 4835B6     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
 				US
 
-AC-8B-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-AC8B32     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
+58-A5-05   (hex)		MeLE Technologies(Shenzhen)Co.,Ltd.
+58A505     (base 16)		MeLE Technologies(Shenzhen)Co.,Ltd.
+				3FW, Mele Building,No.28 Cuijing Road, Pingshan District,
+				Shenzhen  Guangdong  518118
 				CN
 
 3C-EF-11   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -48980,10 +48968,22 @@ AC8B32     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-58-A5-05   (hex)		MeLE Technologies(Shenzhen)Co.,Ltd.
-58A505     (base 16)		MeLE Technologies(Shenzhen)Co.,Ltd.
-				3FW, Mele Building,No.28 Cuijing Road, Pingshan District,
-				Shenzhen  Guangdong  518118
+30-E8-B9   (hex)		Espressif Systems (Singapore) Pte. Ltd
+30E8B9     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+C4-9A-90   (hex)		Espressif Systems (Singapore) Pte. Ltd
+C49A90     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+AC-8B-32   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+AC8B32     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
@@ -97125,6 +97125,12 @@ A07CE4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 100628     (base 16)		SPECTRA LOGIC
 				6285 Lookout RD 
 				Boulder  CO  80301
+				US
+
+A0-C6-8F   (hex)		Extreme Networks, Inc.
+A0C68F     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -145596,6 +145602,24 @@ D4-E0-71   (hex)		Hewlett Packard Enterprise
 D4E071     (base 16)		Hewlett Packard Enterprise
 				6280 America Center Dr
 				San Jose  CA  95002
+				US
+
+E8-F0-43   (hex)		COOSEA GROUP (HK) COMPANY LIMITED
+E8F043     (base 16)		COOSEA GROUP (HK) COMPANY LIMITED
+				Unit 56 16F Multifield Plaza,37A Part Avenue.Tsim Sha Tsui,KL,Hong Kong,SAR CHINA
+				Hong Kong    999077
+				CN
+
+48-68-C6   (hex)		NXP Semiconductors Germany GmbH
+4868C6     (base 16)		NXP Semiconductors Germany GmbH
+				Beiersdorfstraße 12
+				Hamburg  Hamburg  22529
+				DE
+
+C8-04-0C   (hex)		Extreme Networks, Inc.
+C8040C     (base 16)		Extreme Networks, Inc.
+				2121 RDU Center Drive 
+				Morrisville  NC  27560
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -243024,4 +243048,10 @@ BC-90-1C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 BC901C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+70-3C-07   (hex)		Dongguan Huayin Electronic Technology Co., Ltd.
+703C07     (base 16)		Dongguan Huayin Electronic Technology Co., Ltd.
+				Room 101, No.8 Xinglong 3rd Road, Shipai Town
+				Dongguan  Guangdong  523000
 				CN
