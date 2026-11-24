@@ -48980,6 +48980,12 @@ AC8B32     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+58-A5-05   (hex)		MeLE Technologies(Shenzhen)Co.,Ltd.
+58A505     (base 16)		MeLE Technologies(Shenzhen)Co.,Ltd.
+				3FW, Mele Building,No.28 Cuijing Road, Pingshan District,
+				Shenzhen  Guangdong  518118
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -194547,6 +194553,12 @@ E4DC16     (base 16)		EM Microelectronic
 6C7CFD     (base 16)		eero inc.
 				660 3rd Street 
 				San Francisco  CA  94107
+				US
+
+0C-45-C6   (hex)		IEEE Registration Authority
+0C45C6     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
