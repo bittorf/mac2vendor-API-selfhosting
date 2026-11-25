@@ -145622,6 +145622,12 @@ C8040C     (base 16)		Extreme Networks, Inc.
 				Morrisville  NC  27560
 				US
 
+AC-9B-BC   (hex)		Dongguan Edifier Esports Technology Co.,Ltd.
+AC9BBC     (base 16)		Dongguan Edifier Esports Technology Co.,Ltd.
+				Room 2001, D1 Building, Everbright We Valley, No.15 Science and Technology 4th Road, Songshan Lake, Dongguan, Guangdong, China
+				Dongguan  Guangdong  523808
+				CN
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -242996,11 +243002,29 @@ E0DD4B     (base 16)		Microsoft Corporation
 				REDMOND  WA  98052
 				US
 
-14-BF-9A   (hex)		HavocAI, Inc.
-14BF9A     (base 16)		HavocAI, Inc.
-				56 Broad St. Suite 14130
-				Boston  MA  02109
-				US
+C8-2F-A4   (hex)		Lyntera Singapore Pte. Ltd.
+C82FA4     (base 16)		Lyntera Singapore Pte. Ltd.
+				135 Cecil St., #10-01 Philippine Airlines Bldg
+				Singapore    069536
+				SG
+
+E0-BC-C8   (hex)		nFore Technology Co.,Ltd.
+E0BCC8     (base 16)		nFore Technology Co.,Ltd.
+				9F., No. 333, Ruiguang Rd., Neihu Dist., Taipei City 114063, Taiwan (R.O.C.)
+				Taipei    114
+				TW
+
+C4-BE-AF   (hex)		Murata Manufacturing Co., Ltd.
+C4BEAF     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
+70-3C-07   (hex)		Dongguan Huayin Electronic Technology Co., Ltd.
+703C07     (base 16)		Dongguan Huayin Electronic Technology Co., Ltd.
+				Room 101, No.8 Xinglong 3rd Road, Shipai Town
+				Dongguan  Guangdong  523000
+				CN
 
 90-B9-70   (hex)		Shenzhen V-Link Technology CO., LTD.
 90B970     (base 16)		Shenzhen V-Link Technology CO., LTD.
@@ -243014,22 +243038,16 @@ E0DD4B     (base 16)		Microsoft Corporation
 				Austin  TX  78701
 				US
 
-C8-2F-A4   (hex)		Lyntera Singapore Pte. Ltd.
-C82FA4     (base 16)		Lyntera Singapore Pte. Ltd.
-				135 Cecil St., #10-01 Philippine Airlines Bldg
-				Singapore    069536
-				SG
-
-E0-BC-C8   (hex)		nFore Technology Co.,Ltd.
-E0BCC8     (base 16)		nFore Technology Co.,Ltd.
-				9F., No. 333, Ruiguang Rd., Neihu Dist., Taipei City 114063, Taiwan (R.O.C.)
-				Taipei    114
-				TW
-
 7C-81-AA   (hex)		Shenzhen Enrigin Technology Co. ,Ltd.
 7C81AA     (base 16)		Shenzhen Enrigin Technology Co. ,Ltd.
 				 Room 3401, Unit 1, Chengjian Yunqi Building, No. 19 Jinhua Street, Xinwei Community, Guiyuan Street, Luohu District
 				Shenzhen  Guangdong  518010
+				CN
+
+BC-90-1C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC901C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 EC-92-0E   (hex)		Silicon Laboratories
@@ -243038,20 +243056,8 @@ EC920E     (base 16)		Silicon Laboratories
 				Austin  TX  78701
 				US
 
-C4-BE-AF   (hex)		Murata Manufacturing Co., Ltd.
-C4BEAF     (base 16)		Murata Manufacturing Co., Ltd.
-				1-10-1, Higashikotari
-				Nagaokakyo-shi  Kyoto  617-8555
-				JP
-
-BC-90-1C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-BC901C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-70-3C-07   (hex)		Dongguan Huayin Electronic Technology Co., Ltd.
-703C07     (base 16)		Dongguan Huayin Electronic Technology Co., Ltd.
-				Room 101, No.8 Xinglong 3rd Road, Shipai Town
-				Dongguan  Guangdong  523000
-				CN
+14-BF-9A   (hex)		HavocAI, Inc.
+14BF9A     (base 16)		HavocAI, Inc.
+				56 Broad St. Suite 14130
+				Boston  MA  02109
+				US
